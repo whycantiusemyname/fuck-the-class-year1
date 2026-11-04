@@ -1,0 +1,1062 @@
+{
+  "files": 1951,
+  "MiB": 948.04,
+  "retained_cache_files": 678,
+  "preexisting_unresolved_links": [],
+  "excluded_private_dependencies": [
+    {
+      "from": "course content",
+      "target": "电路分析\\40_派生视图\\学生状态快照.md"
+    }
+  ],
+  "export_missing_dependencies": [],
+  "large_files": [
+    {
+      "path": "物理/00_原材料/扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+      "bytes": 268397808,
+      "sha256": "f9c8e7b7df403ac5daae09633fca8f36e6dab651fcf96dc41db66196c9ced2a2"
+    },
+    {
+      "path": "物理/00_原材料/扫描件_普通高等教育十三五规划教材.pdf",
+      "bytes": 335718716,
+      "sha256": "b4e071680342581e6a6a2c5cd20651564c922abb4cddb930af421fb0fe751be5"
+    }
+  ],
+  "repaired_links": [
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/56710dc37b0ff2c214115722cf7954059ef7434a15fac4166fccfcf82d86ed6a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/56710dc37b0ff2c214115722cf7954059ef7434a15fac4166fccfcf82d86ed6a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/8429746b25da038c4de5e8cf5d50972d5b91c6a06469e778364bc51cafb9da2b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/8429746b25da038c4de5e8cf5d50972d5b91c6a06469e778364bc51cafb9da2b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/f09c0ad314372fce8fe4e1c4bcc8c1555d98c69aeb5cbfaa3e81fbdf08183d1f.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f09c0ad314372fce8fe4e1c4bcc8c1555d98c69aeb5cbfaa3e81fbdf08183d1f.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/733927997d1ba7b7dcb5479003008087849253e8d8835b6dc6a1cb9b427ae638.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/733927997d1ba7b7dcb5479003008087849253e8d8835b6dc6a1cb9b427ae638.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/2d75e38d7c4e6bbb321349e4b4ac25a28223bca7d2ca6178207c685a8906cc0e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2d75e38d7c4e6bbb321349e4b4ac25a28223bca7d2ca6178207c685a8906cc0e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/8b5f925314038ce1416a0441b581890c18159d3ea5b8cf3520bd2af3b7b7c389.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/8b5f925314038ce1416a0441b581890c18159d3ea5b8cf3520bd2af3b7b7c389.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/c2144120389e042f14cf54ba6f3ef9d83573df635f147e962d81b64c6c8d752d.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/c2144120389e042f14cf54ba6f3ef9d83573df635f147e962d81b64c6c8d752d.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/e541e07de73303f6eb17901e8862df75249532d1e9bf277ecc63f0b74663c104.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/e541e07de73303f6eb17901e8862df75249532d1e9bf277ecc63f0b74663c104.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/a76ba2300cd1b777355e648b10cc97f54c0055db8b11eb676217687a136cc24d.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/a76ba2300cd1b777355e648b10cc97f54c0055db8b11eb676217687a136cc24d.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/cb18360529a994bdfacf6d20b22321b82e015d30665050d41e8dab050f4c271a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/cb18360529a994bdfacf6d20b22321b82e015d30665050d41e8dab050f4c271a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/cd910e0b3abbb2c1380af2b50b5eeacb9f6521cc95aaac58ef5067b054ced38e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/cd910e0b3abbb2c1380af2b50b5eeacb9f6521cc95aaac58ef5067b054ced38e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/21651b6494db061b5fb419251671150328b05a8ecf86cb9801d7efb65f50721a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/21651b6494db061b5fb419251671150328b05a8ecf86cb9801d7efb65f50721a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/965c8d6c73c1023086a365aa334e72a7d47ef1e8cd4e389aa275a783f780b116.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/965c8d6c73c1023086a365aa334e72a7d47ef1e8cd4e389aa275a783f780b116.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/289a21d2cd19e4404321f73c77bd8c89fec09a86a31e4373114ae5ed8065f97b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/289a21d2cd19e4404321f73c77bd8c89fec09a86a31e4373114ae5ed8065f97b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/357ae32c3554409e79ad755321903673a7ecd36124f688ddd3d87ae5dac5fb1b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/357ae32c3554409e79ad755321903673a7ecd36124f688ddd3d87ae5dac5fb1b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/81d3c9a442e00df39c13e2d4315cc1156ee604954113027db092fd73d2ca36f2.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/81d3c9a442e00df39c13e2d4315cc1156ee604954113027db092fd73d2ca36f2.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/f11354077970a8eb93f27e2260fec9f5bdf0745d4970c09e29979e1861909cf6.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f11354077970a8eb93f27e2260fec9f5bdf0745d4970c09e29979e1861909cf6.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/d2fb8de51b5b8a062bbc8cdddd489aae5baa9bcb43c6d2b181be29274672ddf1.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d2fb8de51b5b8a062bbc8cdddd489aae5baa9bcb43c6d2b181be29274672ddf1.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/980fe81280184bef31c19b2422b62d7a9b96324864ec546d40d48cd19b38a2f6.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/980fe81280184bef31c19b2422b62d7a9b96324864ec546d40d48cd19b38a2f6.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
+      "old": "images/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/29bf4f5c12f270a4d48b04a93346a70051fb9917844cdf38ea14d6274dc90e55.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/29bf4f5c12f270a4d48b04a93346a70051fb9917844cdf38ea14d6274dc90e55.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/a5040d6c0973043c2c2e40d965febf5f7be59a74852d0d7c8400bdaba1ae7994.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/a5040d6c0973043c2c2e40d965febf5f7be59a74852d0d7c8400bdaba1ae7994.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/49f15f6bab03293c95c31ecf7e9bf68f220f68d96b605b27f6656635efe08be7.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/49f15f6bab03293c95c31ecf7e9bf68f220f68d96b605b27f6656635efe08be7.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/b794051d67e64cc80c2da1c4b97e417d67107c239a94bcd205aaa1cdf32b0820.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/b794051d67e64cc80c2da1c4b97e417d67107c239a94bcd205aaa1cdf32b0820.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/f73a2775fdac99dd10da3578d606acaa91d7bdd4cbc90d50438e4ca9cf8a3ca5.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f73a2775fdac99dd10da3578d606acaa91d7bdd4cbc90d50438e4ca9cf8a3ca5.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/298d75c338a5bb3c837e87d4c6e2b32f5c0cdaebc86e8c55d8d6fe870640905b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/298d75c338a5bb3c837e87d4c6e2b32f5c0cdaebc86e8c55d8d6fe870640905b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/0f4032424386dc3a97eeb3fba82d2c4363dfd1fb0041afc7329570756b2f3167.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/0f4032424386dc3a97eeb3fba82d2c4363dfd1fb0041afc7329570756b2f3167.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/19c8864032e57d883c7cffd4b17a4ee0e0e5290e2a87e1d17770060d3012d2ca.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/19c8864032e57d883c7cffd4b17a4ee0e0e5290e2a87e1d17770060d3012d2ca.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/de7ef44fd6baedc0ed769b40bd167b944ee7ce7be60c8641cf4b063b36eb6bf4.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/de7ef44fd6baedc0ed769b40bd167b944ee7ce7be60c8641cf4b063b36eb6bf4.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/cc987054c146a48ec6adf0c937a16c00b23bab6552b64e840739c1f107d6c546.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/cc987054c146a48ec6adf0c937a16c00b23bab6552b64e840739c1f107d6c546.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/f68bc045adfa88737ab87cec38578b1dac46a1135b4b7e9078e29e06842bf1d3.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f68bc045adfa88737ab87cec38578b1dac46a1135b4b7e9078e29e06842bf1d3.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/f7282b4d58c82b654d17d022a794552081a044ec9c6f38b81681309fa12d994e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f7282b4d58c82b654d17d022a794552081a044ec9c6f38b81681309fa12d994e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/de5ba0a812896e275130f1fc852bd54e065e53900adcfa14f3f99b256bd68679.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/de5ba0a812896e275130f1fc852bd54e065e53900adcfa14f3f99b256bd68679.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/abb48843952d51eb6b5ee2c7807a5a339d2b1ac574877ade477f96cd5316384d.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/abb48843952d51eb6b5ee2c7807a5a339d2b1ac574877ade477f96cd5316384d.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/c88914bcdb004d3f27968da45b03b268d8ba1ed6d13fe54318f3cbf70da1f4aa.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/c88914bcdb004d3f27968da45b03b268d8ba1ed6d13fe54318f3cbf70da1f4aa.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
+      "old": "images/d3cceb5d0c4cb9da347218fc2c1ffd5388bbc1a76c88f881d668b5ba070524cb.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d3cceb5d0c4cb9da347218fc2c1ffd5388bbc1a76c88f881d668b5ba070524cb.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/ccc41403a76bb6e1e585007ac302cf30b05378a46c954f621ad98cdd031a67b1.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/ccc41403a76bb6e1e585007ac302cf30b05378a46c954f621ad98cdd031a67b1.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/b5b575c79b5366f51b15b7fc8b297a6fe9e9f6d60cf4e3756d14d2c85933ab1c.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/b5b575c79b5366f51b15b7fc8b297a6fe9e9f6d60cf4e3756d14d2c85933ab1c.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/0ee27d26ec89beca5518f6375093612bbfd938cf939cfb7508ed653b6adaddf5.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/0ee27d26ec89beca5518f6375093612bbfd938cf939cfb7508ed653b6adaddf5.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/61fae53c9548881185ddf3eff82c640f78601301d1b2a35df552ef4af80736b5.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/61fae53c9548881185ddf3eff82c640f78601301d1b2a35df552ef4af80736b5.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/28b2b60669e8dcc2436b9e377cd846a1eafaebaa06932c726a8c14ae9b384365.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/28b2b60669e8dcc2436b9e377cd846a1eafaebaa06932c726a8c14ae9b384365.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/d25dc0ca3e70f96d02e7369878a1362999685383aa59da8f9cf608637e51bb24.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d25dc0ca3e70f96d02e7369878a1362999685383aa59da8f9cf608637e51bb24.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/7533bfd4cc6aa43554045a68b8db03ace342859ed04f3f379facae799f3b765a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/7533bfd4cc6aa43554045a68b8db03ace342859ed04f3f379facae799f3b765a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/b05367dbd99c7c32425ec6c36e578719f2e1aef5c417bafcbddbd285932d6acd.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/b05367dbd99c7c32425ec6c36e578719f2e1aef5c417bafcbddbd285932d6acd.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/48f512ac1f17260e023cbd742d72b8a69ed13ef4175b4b6263dfc999e338018e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/48f512ac1f17260e023cbd742d72b8a69ed13ef4175b4b6263dfc999e338018e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/181eeda720b1207a26821545acb928f7681b9f9ee02bd3a6f800dbd0d3aa6dd9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/181eeda720b1207a26821545acb928f7681b9f9ee02bd3a6f800dbd0d3aa6dd9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/86dad9abdcb297c5a318560dfb662a950ca3abdb0aa016f3b93a61397517dc0f.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/86dad9abdcb297c5a318560dfb662a950ca3abdb0aa016f3b93a61397517dc0f.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/2fdf56d9388faf8fb035e1c249252411b35a3c50d96d8e104029cc4adf7efbaa.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2fdf56d9388faf8fb035e1c249252411b35a3c50d96d8e104029cc4adf7efbaa.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/eec43191a1ace19ee2ca8771f5cb817b90b90995b8b2a485c51a752d9d91aec9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/eec43191a1ace19ee2ca8771f5cb817b90b90995b8b2a485c51a752d9d91aec9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
+      "old": "images/29f2083432b6b0928bea914d7f530dd9ee10d4b8cb9f1509ed5d0d5a9cd35731.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/29f2083432b6b0928bea914d7f530dd9ee10d4b8cb9f1509ed5d0d5a9cd35731.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/29523c4b6c804c1959eda35a32183df79f1268b0b22b3b914a9337f83902644a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/29523c4b6c804c1959eda35a32183df79f1268b0b22b3b914a9337f83902644a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/bbbfd2898c74798ec58cbf1e7f462889078dee6d634aca4ab879e06521768050.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/bbbfd2898c74798ec58cbf1e7f462889078dee6d634aca4ab879e06521768050.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/101ed2d29f82a5c834f7070754ea75dafafda0991e4eee3cefc7811996387410.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/101ed2d29f82a5c834f7070754ea75dafafda0991e4eee3cefc7811996387410.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/9ecd026064a1be35b36fc3814917981d065f5c042ca1b9df373c2ca88b62f851.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/9ecd026064a1be35b36fc3814917981d065f5c042ca1b9df373c2ca88b62f851.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/2e570a69dbfb53f242160ad94d9ce4b255fbded6c4a5ee29ffc6e72d4fce93b2.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2e570a69dbfb53f242160ad94d9ce4b255fbded6c4a5ee29ffc6e72d4fce93b2.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/86c44eb5642c942860811e9bb1726846edd60faef86eec0bde6206c1bac79e87.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/86c44eb5642c942860811e9bb1726846edd60faef86eec0bde6206c1bac79e87.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/11cd5b81c849317b505abf0d13400f714d5ffa96a5a16c5561bf81e4021ac2ee.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/11cd5b81c849317b505abf0d13400f714d5ffa96a5a16c5561bf81e4021ac2ee.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/f70989531a58c634544b064192298a51570d0bcaf885b545dd10e10e880f40ef.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f70989531a58c634544b064192298a51570d0bcaf885b545dd10e10e880f40ef.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/92f530020749f95953bd7be8d5e23bd0594fac060dcdf9d3602fd05b8bf4f639.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/92f530020749f95953bd7be8d5e23bd0594fac060dcdf9d3602fd05b8bf4f639.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/2f47828b9755f84593ad97f4867415cabeb4b55f3b74e80b5dfc5895d7ce45f9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2f47828b9755f84593ad97f4867415cabeb4b55f3b74e80b5dfc5895d7ce45f9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/97fc17c9ff564287ce471a6cf5d906cefda34cb7517f53a67c328ef4dc7d06be.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/97fc17c9ff564287ce471a6cf5d906cefda34cb7517f53a67c328ef4dc7d06be.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/ce4c1a6da6d594e87df859b65d73639a007048cb3296b9c9f54b9a60ebe65dad.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/ce4c1a6da6d594e87df859b65d73639a007048cb3296b9c9f54b9a60ebe65dad.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/7d3c4566300493a7328e00af25dbc3093970662dafced3658e2a65b3342c7ba9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/7d3c4566300493a7328e00af25dbc3093970662dafced3658e2a65b3342c7ba9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/71afc3752dd8d0e53da412feee742a10a27eaeacbc31076610921aeca4ce5ea2.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/71afc3752dd8d0e53da412feee742a10a27eaeacbc31076610921aeca4ce5ea2.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/d164bbce3a166fc5445034063bbbb3b49cba6df8d07a12d35def05cf4872a6df.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d164bbce3a166fc5445034063bbbb3b49cba6df8d07a12d35def05cf4872a6df.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/dfffc8f2c7d0d18c4d3a3ee0fe739e928c6f764892f2967eb0a16af9e027a519.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/dfffc8f2c7d0d18c4d3a3ee0fe739e928c6f764892f2967eb0a16af9e027a519.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
+      "old": "images/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/56710dc37b0ff2c214115722cf7954059ef7434a15fac4166fccfcf82d86ed6a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/56710dc37b0ff2c214115722cf7954059ef7434a15fac4166fccfcf82d86ed6a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/8429746b25da038c4de5e8cf5d50972d5b91c6a06469e778364bc51cafb9da2b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/8429746b25da038c4de5e8cf5d50972d5b91c6a06469e778364bc51cafb9da2b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/f09c0ad314372fce8fe4e1c4bcc8c1555d98c69aeb5cbfaa3e81fbdf08183d1f.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f09c0ad314372fce8fe4e1c4bcc8c1555d98c69aeb5cbfaa3e81fbdf08183d1f.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/733927997d1ba7b7dcb5479003008087849253e8d8835b6dc6a1cb9b427ae638.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/733927997d1ba7b7dcb5479003008087849253e8d8835b6dc6a1cb9b427ae638.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/2d75e38d7c4e6bbb321349e4b4ac25a28223bca7d2ca6178207c685a8906cc0e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2d75e38d7c4e6bbb321349e4b4ac25a28223bca7d2ca6178207c685a8906cc0e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/8b5f925314038ce1416a0441b581890c18159d3ea5b8cf3520bd2af3b7b7c389.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/8b5f925314038ce1416a0441b581890c18159d3ea5b8cf3520bd2af3b7b7c389.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/c2144120389e042f14cf54ba6f3ef9d83573df635f147e962d81b64c6c8d752d.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/c2144120389e042f14cf54ba6f3ef9d83573df635f147e962d81b64c6c8d752d.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/e541e07de73303f6eb17901e8862df75249532d1e9bf277ecc63f0b74663c104.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/e541e07de73303f6eb17901e8862df75249532d1e9bf277ecc63f0b74663c104.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/a76ba2300cd1b777355e648b10cc97f54c0055db8b11eb676217687a136cc24d.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/a76ba2300cd1b777355e648b10cc97f54c0055db8b11eb676217687a136cc24d.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/cb18360529a994bdfacf6d20b22321b82e015d30665050d41e8dab050f4c271a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/cb18360529a994bdfacf6d20b22321b82e015d30665050d41e8dab050f4c271a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/cd910e0b3abbb2c1380af2b50b5eeacb9f6521cc95aaac58ef5067b054ced38e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/cd910e0b3abbb2c1380af2b50b5eeacb9f6521cc95aaac58ef5067b054ced38e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/21651b6494db061b5fb419251671150328b05a8ecf86cb9801d7efb65f50721a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/21651b6494db061b5fb419251671150328b05a8ecf86cb9801d7efb65f50721a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/965c8d6c73c1023086a365aa334e72a7d47ef1e8cd4e389aa275a783f780b116.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/965c8d6c73c1023086a365aa334e72a7d47ef1e8cd4e389aa275a783f780b116.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/289a21d2cd19e4404321f73c77bd8c89fec09a86a31e4373114ae5ed8065f97b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/289a21d2cd19e4404321f73c77bd8c89fec09a86a31e4373114ae5ed8065f97b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/357ae32c3554409e79ad755321903673a7ecd36124f688ddd3d87ae5dac5fb1b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/357ae32c3554409e79ad755321903673a7ecd36124f688ddd3d87ae5dac5fb1b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/81d3c9a442e00df39c13e2d4315cc1156ee604954113027db092fd73d2ca36f2.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/81d3c9a442e00df39c13e2d4315cc1156ee604954113027db092fd73d2ca36f2.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/f11354077970a8eb93f27e2260fec9f5bdf0745d4970c09e29979e1861909cf6.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f11354077970a8eb93f27e2260fec9f5bdf0745d4970c09e29979e1861909cf6.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/d2fb8de51b5b8a062bbc8cdddd489aae5baa9bcb43c6d2b181be29274672ddf1.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d2fb8de51b5b8a062bbc8cdddd489aae5baa9bcb43c6d2b181be29274672ddf1.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/980fe81280184bef31c19b2422b62d7a9b96324864ec546d40d48cd19b38a2f6.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/980fe81280184bef31c19b2422b62d7a9b96324864ec546d40d48cd19b38a2f6.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
+      "old": "images/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/29bf4f5c12f270a4d48b04a93346a70051fb9917844cdf38ea14d6274dc90e55.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/29bf4f5c12f270a4d48b04a93346a70051fb9917844cdf38ea14d6274dc90e55.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/a5040d6c0973043c2c2e40d965febf5f7be59a74852d0d7c8400bdaba1ae7994.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/a5040d6c0973043c2c2e40d965febf5f7be59a74852d0d7c8400bdaba1ae7994.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/49f15f6bab03293c95c31ecf7e9bf68f220f68d96b605b27f6656635efe08be7.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/49f15f6bab03293c95c31ecf7e9bf68f220f68d96b605b27f6656635efe08be7.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/b794051d67e64cc80c2da1c4b97e417d67107c239a94bcd205aaa1cdf32b0820.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/b794051d67e64cc80c2da1c4b97e417d67107c239a94bcd205aaa1cdf32b0820.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/f73a2775fdac99dd10da3578d606acaa91d7bdd4cbc90d50438e4ca9cf8a3ca5.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f73a2775fdac99dd10da3578d606acaa91d7bdd4cbc90d50438e4ca9cf8a3ca5.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/298d75c338a5bb3c837e87d4c6e2b32f5c0cdaebc86e8c55d8d6fe870640905b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/298d75c338a5bb3c837e87d4c6e2b32f5c0cdaebc86e8c55d8d6fe870640905b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/0f4032424386dc3a97eeb3fba82d2c4363dfd1fb0041afc7329570756b2f3167.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/0f4032424386dc3a97eeb3fba82d2c4363dfd1fb0041afc7329570756b2f3167.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/19c8864032e57d883c7cffd4b17a4ee0e0e5290e2a87e1d17770060d3012d2ca.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/19c8864032e57d883c7cffd4b17a4ee0e0e5290e2a87e1d17770060d3012d2ca.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/de7ef44fd6baedc0ed769b40bd167b944ee7ce7be60c8641cf4b063b36eb6bf4.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/de7ef44fd6baedc0ed769b40bd167b944ee7ce7be60c8641cf4b063b36eb6bf4.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/cc987054c146a48ec6adf0c937a16c00b23bab6552b64e840739c1f107d6c546.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/cc987054c146a48ec6adf0c937a16c00b23bab6552b64e840739c1f107d6c546.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/f68bc045adfa88737ab87cec38578b1dac46a1135b4b7e9078e29e06842bf1d3.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f68bc045adfa88737ab87cec38578b1dac46a1135b4b7e9078e29e06842bf1d3.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/f7282b4d58c82b654d17d022a794552081a044ec9c6f38b81681309fa12d994e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f7282b4d58c82b654d17d022a794552081a044ec9c6f38b81681309fa12d994e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/de5ba0a812896e275130f1fc852bd54e065e53900adcfa14f3f99b256bd68679.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/de5ba0a812896e275130f1fc852bd54e065e53900adcfa14f3f99b256bd68679.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/abb48843952d51eb6b5ee2c7807a5a339d2b1ac574877ade477f96cd5316384d.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/abb48843952d51eb6b5ee2c7807a5a339d2b1ac574877ade477f96cd5316384d.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/c88914bcdb004d3f27968da45b03b268d8ba1ed6d13fe54318f3cbf70da1f4aa.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/c88914bcdb004d3f27968da45b03b268d8ba1ed6d13fe54318f3cbf70da1f4aa.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
+      "old": "images/d3cceb5d0c4cb9da347218fc2c1ffd5388bbc1a76c88f881d668b5ba070524cb.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d3cceb5d0c4cb9da347218fc2c1ffd5388bbc1a76c88f881d668b5ba070524cb.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/ccc41403a76bb6e1e585007ac302cf30b05378a46c954f621ad98cdd031a67b1.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/ccc41403a76bb6e1e585007ac302cf30b05378a46c954f621ad98cdd031a67b1.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/b5b575c79b5366f51b15b7fc8b297a6fe9e9f6d60cf4e3756d14d2c85933ab1c.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/b5b575c79b5366f51b15b7fc8b297a6fe9e9f6d60cf4e3756d14d2c85933ab1c.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/0ee27d26ec89beca5518f6375093612bbfd938cf939cfb7508ed653b6adaddf5.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/0ee27d26ec89beca5518f6375093612bbfd938cf939cfb7508ed653b6adaddf5.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/61fae53c9548881185ddf3eff82c640f78601301d1b2a35df552ef4af80736b5.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/61fae53c9548881185ddf3eff82c640f78601301d1b2a35df552ef4af80736b5.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/28b2b60669e8dcc2436b9e377cd846a1eafaebaa06932c726a8c14ae9b384365.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/28b2b60669e8dcc2436b9e377cd846a1eafaebaa06932c726a8c14ae9b384365.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/d25dc0ca3e70f96d02e7369878a1362999685383aa59da8f9cf608637e51bb24.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d25dc0ca3e70f96d02e7369878a1362999685383aa59da8f9cf608637e51bb24.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/7533bfd4cc6aa43554045a68b8db03ace342859ed04f3f379facae799f3b765a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/7533bfd4cc6aa43554045a68b8db03ace342859ed04f3f379facae799f3b765a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/b05367dbd99c7c32425ec6c36e578719f2e1aef5c417bafcbddbd285932d6acd.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/b05367dbd99c7c32425ec6c36e578719f2e1aef5c417bafcbddbd285932d6acd.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/48f512ac1f17260e023cbd742d72b8a69ed13ef4175b4b6263dfc999e338018e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/48f512ac1f17260e023cbd742d72b8a69ed13ef4175b4b6263dfc999e338018e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/181eeda720b1207a26821545acb928f7681b9f9ee02bd3a6f800dbd0d3aa6dd9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/181eeda720b1207a26821545acb928f7681b9f9ee02bd3a6f800dbd0d3aa6dd9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/86dad9abdcb297c5a318560dfb662a950ca3abdb0aa016f3b93a61397517dc0f.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/86dad9abdcb297c5a318560dfb662a950ca3abdb0aa016f3b93a61397517dc0f.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/2fdf56d9388faf8fb035e1c249252411b35a3c50d96d8e104029cc4adf7efbaa.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2fdf56d9388faf8fb035e1c249252411b35a3c50d96d8e104029cc4adf7efbaa.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/eec43191a1ace19ee2ca8771f5cb817b90b90995b8b2a485c51a752d9d91aec9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/eec43191a1ace19ee2ca8771f5cb817b90b90995b8b2a485c51a752d9d91aec9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
+      "old": "images/29f2083432b6b0928bea914d7f530dd9ee10d4b8cb9f1509ed5d0d5a9cd35731.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/29f2083432b6b0928bea914d7f530dd9ee10d4b8cb9f1509ed5d0d5a9cd35731.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/29523c4b6c804c1959eda35a32183df79f1268b0b22b3b914a9337f83902644a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/29523c4b6c804c1959eda35a32183df79f1268b0b22b3b914a9337f83902644a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/bbbfd2898c74798ec58cbf1e7f462889078dee6d634aca4ab879e06521768050.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/bbbfd2898c74798ec58cbf1e7f462889078dee6d634aca4ab879e06521768050.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/101ed2d29f82a5c834f7070754ea75dafafda0991e4eee3cefc7811996387410.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/101ed2d29f82a5c834f7070754ea75dafafda0991e4eee3cefc7811996387410.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/9ecd026064a1be35b36fc3814917981d065f5c042ca1b9df373c2ca88b62f851.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/9ecd026064a1be35b36fc3814917981d065f5c042ca1b9df373c2ca88b62f851.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/2e570a69dbfb53f242160ad94d9ce4b255fbded6c4a5ee29ffc6e72d4fce93b2.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2e570a69dbfb53f242160ad94d9ce4b255fbded6c4a5ee29ffc6e72d4fce93b2.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/86c44eb5642c942860811e9bb1726846edd60faef86eec0bde6206c1bac79e87.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/86c44eb5642c942860811e9bb1726846edd60faef86eec0bde6206c1bac79e87.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/11cd5b81c849317b505abf0d13400f714d5ffa96a5a16c5561bf81e4021ac2ee.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/11cd5b81c849317b505abf0d13400f714d5ffa96a5a16c5561bf81e4021ac2ee.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/f70989531a58c634544b064192298a51570d0bcaf885b545dd10e10e880f40ef.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f70989531a58c634544b064192298a51570d0bcaf885b545dd10e10e880f40ef.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/92f530020749f95953bd7be8d5e23bd0594fac060dcdf9d3602fd05b8bf4f639.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/92f530020749f95953bd7be8d5e23bd0594fac060dcdf9d3602fd05b8bf4f639.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/2f47828b9755f84593ad97f4867415cabeb4b55f3b74e80b5dfc5895d7ce45f9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2f47828b9755f84593ad97f4867415cabeb4b55f3b74e80b5dfc5895d7ce45f9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/97fc17c9ff564287ce471a6cf5d906cefda34cb7517f53a67c328ef4dc7d06be.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/97fc17c9ff564287ce471a6cf5d906cefda34cb7517f53a67c328ef4dc7d06be.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/ce4c1a6da6d594e87df859b65d73639a007048cb3296b9c9f54b9a60ebe65dad.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/ce4c1a6da6d594e87df859b65d73639a007048cb3296b9c9f54b9a60ebe65dad.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/7d3c4566300493a7328e00af25dbc3093970662dafced3658e2a65b3342c7ba9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/7d3c4566300493a7328e00af25dbc3093970662dafced3658e2a65b3342c7ba9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/71afc3752dd8d0e53da412feee742a10a27eaeacbc31076610921aeca4ce5ea2.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/71afc3752dd8d0e53da412feee742a10a27eaeacbc31076610921aeca4ce5ea2.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/d164bbce3a166fc5445034063bbbb3b49cba6df8d07a12d35def05cf4872a6df.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d164bbce3a166fc5445034063bbbb3b49cba6df8d07a12d35def05cf4872a6df.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/dfffc8f2c7d0d18c4d3a3ee0fe739e928c6f764892f2967eb0a16af9e027a519.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/dfffc8f2c7d0d18c4d3a3ee0fe739e928c6f764892f2967eb0a16af9e027a519.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
+      "old": "images/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/56710dc37b0ff2c214115722cf7954059ef7434a15fac4166fccfcf82d86ed6a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/56710dc37b0ff2c214115722cf7954059ef7434a15fac4166fccfcf82d86ed6a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/8429746b25da038c4de5e8cf5d50972d5b91c6a06469e778364bc51cafb9da2b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/8429746b25da038c4de5e8cf5d50972d5b91c6a06469e778364bc51cafb9da2b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/f09c0ad314372fce8fe4e1c4bcc8c1555d98c69aeb5cbfaa3e81fbdf08183d1f.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f09c0ad314372fce8fe4e1c4bcc8c1555d98c69aeb5cbfaa3e81fbdf08183d1f.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/733927997d1ba7b7dcb5479003008087849253e8d8835b6dc6a1cb9b427ae638.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/733927997d1ba7b7dcb5479003008087849253e8d8835b6dc6a1cb9b427ae638.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/2d75e38d7c4e6bbb321349e4b4ac25a28223bca7d2ca6178207c685a8906cc0e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2d75e38d7c4e6bbb321349e4b4ac25a28223bca7d2ca6178207c685a8906cc0e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/8b5f925314038ce1416a0441b581890c18159d3ea5b8cf3520bd2af3b7b7c389.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/8b5f925314038ce1416a0441b581890c18159d3ea5b8cf3520bd2af3b7b7c389.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/c2144120389e042f14cf54ba6f3ef9d83573df635f147e962d81b64c6c8d752d.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/c2144120389e042f14cf54ba6f3ef9d83573df635f147e962d81b64c6c8d752d.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/e541e07de73303f6eb17901e8862df75249532d1e9bf277ecc63f0b74663c104.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/e541e07de73303f6eb17901e8862df75249532d1e9bf277ecc63f0b74663c104.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/a76ba2300cd1b777355e648b10cc97f54c0055db8b11eb676217687a136cc24d.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/a76ba2300cd1b777355e648b10cc97f54c0055db8b11eb676217687a136cc24d.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/cb18360529a994bdfacf6d20b22321b82e015d30665050d41e8dab050f4c271a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/cb18360529a994bdfacf6d20b22321b82e015d30665050d41e8dab050f4c271a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/cd910e0b3abbb2c1380af2b50b5eeacb9f6521cc95aaac58ef5067b054ced38e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/cd910e0b3abbb2c1380af2b50b5eeacb9f6521cc95aaac58ef5067b054ced38e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/21651b6494db061b5fb419251671150328b05a8ecf86cb9801d7efb65f50721a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/21651b6494db061b5fb419251671150328b05a8ecf86cb9801d7efb65f50721a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/965c8d6c73c1023086a365aa334e72a7d47ef1e8cd4e389aa275a783f780b116.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/965c8d6c73c1023086a365aa334e72a7d47ef1e8cd4e389aa275a783f780b116.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/289a21d2cd19e4404321f73c77bd8c89fec09a86a31e4373114ae5ed8065f97b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/289a21d2cd19e4404321f73c77bd8c89fec09a86a31e4373114ae5ed8065f97b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/357ae32c3554409e79ad755321903673a7ecd36124f688ddd3d87ae5dac5fb1b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/357ae32c3554409e79ad755321903673a7ecd36124f688ddd3d87ae5dac5fb1b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/81d3c9a442e00df39c13e2d4315cc1156ee604954113027db092fd73d2ca36f2.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/81d3c9a442e00df39c13e2d4315cc1156ee604954113027db092fd73d2ca36f2.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/f11354077970a8eb93f27e2260fec9f5bdf0745d4970c09e29979e1861909cf6.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f11354077970a8eb93f27e2260fec9f5bdf0745d4970c09e29979e1861909cf6.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/d2fb8de51b5b8a062bbc8cdddd489aae5baa9bcb43c6d2b181be29274672ddf1.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d2fb8de51b5b8a062bbc8cdddd489aae5baa9bcb43c6d2b181be29274672ddf1.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/980fe81280184bef31c19b2422b62d7a9b96324864ec546d40d48cd19b38a2f6.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/980fe81280184bef31c19b2422b62d7a9b96324864ec546d40d48cd19b38a2f6.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
+      "old": "images/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/29bf4f5c12f270a4d48b04a93346a70051fb9917844cdf38ea14d6274dc90e55.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/29bf4f5c12f270a4d48b04a93346a70051fb9917844cdf38ea14d6274dc90e55.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/a5040d6c0973043c2c2e40d965febf5f7be59a74852d0d7c8400bdaba1ae7994.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/a5040d6c0973043c2c2e40d965febf5f7be59a74852d0d7c8400bdaba1ae7994.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/49f15f6bab03293c95c31ecf7e9bf68f220f68d96b605b27f6656635efe08be7.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/49f15f6bab03293c95c31ecf7e9bf68f220f68d96b605b27f6656635efe08be7.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/b794051d67e64cc80c2da1c4b97e417d67107c239a94bcd205aaa1cdf32b0820.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/b794051d67e64cc80c2da1c4b97e417d67107c239a94bcd205aaa1cdf32b0820.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/f73a2775fdac99dd10da3578d606acaa91d7bdd4cbc90d50438e4ca9cf8a3ca5.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f73a2775fdac99dd10da3578d606acaa91d7bdd4cbc90d50438e4ca9cf8a3ca5.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/298d75c338a5bb3c837e87d4c6e2b32f5c0cdaebc86e8c55d8d6fe870640905b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/298d75c338a5bb3c837e87d4c6e2b32f5c0cdaebc86e8c55d8d6fe870640905b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/0f4032424386dc3a97eeb3fba82d2c4363dfd1fb0041afc7329570756b2f3167.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/0f4032424386dc3a97eeb3fba82d2c4363dfd1fb0041afc7329570756b2f3167.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/19c8864032e57d883c7cffd4b17a4ee0e0e5290e2a87e1d17770060d3012d2ca.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/19c8864032e57d883c7cffd4b17a4ee0e0e5290e2a87e1d17770060d3012d2ca.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/de7ef44fd6baedc0ed769b40bd167b944ee7ce7be60c8641cf4b063b36eb6bf4.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/de7ef44fd6baedc0ed769b40bd167b944ee7ce7be60c8641cf4b063b36eb6bf4.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/cc987054c146a48ec6adf0c937a16c00b23bab6552b64e840739c1f107d6c546.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/cc987054c146a48ec6adf0c937a16c00b23bab6552b64e840739c1f107d6c546.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/f68bc045adfa88737ab87cec38578b1dac46a1135b4b7e9078e29e06842bf1d3.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f68bc045adfa88737ab87cec38578b1dac46a1135b4b7e9078e29e06842bf1d3.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/f7282b4d58c82b654d17d022a794552081a044ec9c6f38b81681309fa12d994e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f7282b4d58c82b654d17d022a794552081a044ec9c6f38b81681309fa12d994e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/de5ba0a812896e275130f1fc852bd54e065e53900adcfa14f3f99b256bd68679.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/de5ba0a812896e275130f1fc852bd54e065e53900adcfa14f3f99b256bd68679.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/abb48843952d51eb6b5ee2c7807a5a339d2b1ac574877ade477f96cd5316384d.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/abb48843952d51eb6b5ee2c7807a5a339d2b1ac574877ade477f96cd5316384d.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/c88914bcdb004d3f27968da45b03b268d8ba1ed6d13fe54318f3cbf70da1f4aa.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/c88914bcdb004d3f27968da45b03b268d8ba1ed6d13fe54318f3cbf70da1f4aa.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
+      "old": "images/d3cceb5d0c4cb9da347218fc2c1ffd5388bbc1a76c88f881d668b5ba070524cb.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d3cceb5d0c4cb9da347218fc2c1ffd5388bbc1a76c88f881d668b5ba070524cb.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/ccc41403a76bb6e1e585007ac302cf30b05378a46c954f621ad98cdd031a67b1.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/ccc41403a76bb6e1e585007ac302cf30b05378a46c954f621ad98cdd031a67b1.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/b5b575c79b5366f51b15b7fc8b297a6fe9e9f6d60cf4e3756d14d2c85933ab1c.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/b5b575c79b5366f51b15b7fc8b297a6fe9e9f6d60cf4e3756d14d2c85933ab1c.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/0ee27d26ec89beca5518f6375093612bbfd938cf939cfb7508ed653b6adaddf5.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/0ee27d26ec89beca5518f6375093612bbfd938cf939cfb7508ed653b6adaddf5.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/61fae53c9548881185ddf3eff82c640f78601301d1b2a35df552ef4af80736b5.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/61fae53c9548881185ddf3eff82c640f78601301d1b2a35df552ef4af80736b5.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/28b2b60669e8dcc2436b9e377cd846a1eafaebaa06932c726a8c14ae9b384365.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/28b2b60669e8dcc2436b9e377cd846a1eafaebaa06932c726a8c14ae9b384365.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/d25dc0ca3e70f96d02e7369878a1362999685383aa59da8f9cf608637e51bb24.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d25dc0ca3e70f96d02e7369878a1362999685383aa59da8f9cf608637e51bb24.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/7533bfd4cc6aa43554045a68b8db03ace342859ed04f3f379facae799f3b765a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/7533bfd4cc6aa43554045a68b8db03ace342859ed04f3f379facae799f3b765a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/b05367dbd99c7c32425ec6c36e578719f2e1aef5c417bafcbddbd285932d6acd.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/b05367dbd99c7c32425ec6c36e578719f2e1aef5c417bafcbddbd285932d6acd.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/48f512ac1f17260e023cbd742d72b8a69ed13ef4175b4b6263dfc999e338018e.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/48f512ac1f17260e023cbd742d72b8a69ed13ef4175b4b6263dfc999e338018e.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/181eeda720b1207a26821545acb928f7681b9f9ee02bd3a6f800dbd0d3aa6dd9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/181eeda720b1207a26821545acb928f7681b9f9ee02bd3a6f800dbd0d3aa6dd9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/86dad9abdcb297c5a318560dfb662a950ca3abdb0aa016f3b93a61397517dc0f.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/86dad9abdcb297c5a318560dfb662a950ca3abdb0aa016f3b93a61397517dc0f.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/2fdf56d9388faf8fb035e1c249252411b35a3c50d96d8e104029cc4adf7efbaa.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2fdf56d9388faf8fb035e1c249252411b35a3c50d96d8e104029cc4adf7efbaa.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/eec43191a1ace19ee2ca8771f5cb817b90b90995b8b2a485c51a752d9d91aec9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/eec43191a1ace19ee2ca8771f5cb817b90b90995b8b2a485c51a752d9d91aec9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
+      "old": "images/29f2083432b6b0928bea914d7f530dd9ee10d4b8cb9f1509ed5d0d5a9cd35731.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/29f2083432b6b0928bea914d7f530dd9ee10d4b8cb9f1509ed5d0d5a9cd35731.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/29523c4b6c804c1959eda35a32183df79f1268b0b22b3b914a9337f83902644a.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/29523c4b6c804c1959eda35a32183df79f1268b0b22b3b914a9337f83902644a.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/bbbfd2898c74798ec58cbf1e7f462889078dee6d634aca4ab879e06521768050.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/bbbfd2898c74798ec58cbf1e7f462889078dee6d634aca4ab879e06521768050.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/101ed2d29f82a5c834f7070754ea75dafafda0991e4eee3cefc7811996387410.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/101ed2d29f82a5c834f7070754ea75dafafda0991e4eee3cefc7811996387410.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/9ecd026064a1be35b36fc3814917981d065f5c042ca1b9df373c2ca88b62f851.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/9ecd026064a1be35b36fc3814917981d065f5c042ca1b9df373c2ca88b62f851.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/2e570a69dbfb53f242160ad94d9ce4b255fbded6c4a5ee29ffc6e72d4fce93b2.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2e570a69dbfb53f242160ad94d9ce4b255fbded6c4a5ee29ffc6e72d4fce93b2.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/86c44eb5642c942860811e9bb1726846edd60faef86eec0bde6206c1bac79e87.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/86c44eb5642c942860811e9bb1726846edd60faef86eec0bde6206c1bac79e87.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/11cd5b81c849317b505abf0d13400f714d5ffa96a5a16c5561bf81e4021ac2ee.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/11cd5b81c849317b505abf0d13400f714d5ffa96a5a16c5561bf81e4021ac2ee.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/f70989531a58c634544b064192298a51570d0bcaf885b545dd10e10e880f40ef.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f70989531a58c634544b064192298a51570d0bcaf885b545dd10e10e880f40ef.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/92f530020749f95953bd7be8d5e23bd0594fac060dcdf9d3602fd05b8bf4f639.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/92f530020749f95953bd7be8d5e23bd0594fac060dcdf9d3602fd05b8bf4f639.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/2f47828b9755f84593ad97f4867415cabeb4b55f3b74e80b5dfc5895d7ce45f9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/2f47828b9755f84593ad97f4867415cabeb4b55f3b74e80b5dfc5895d7ce45f9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/97fc17c9ff564287ce471a6cf5d906cefda34cb7517f53a67c328ef4dc7d06be.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/97fc17c9ff564287ce471a6cf5d906cefda34cb7517f53a67c328ef4dc7d06be.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/ce4c1a6da6d594e87df859b65d73639a007048cb3296b9c9f54b9a60ebe65dad.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/ce4c1a6da6d594e87df859b65d73639a007048cb3296b9c9f54b9a60ebe65dad.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/7d3c4566300493a7328e00af25dbc3093970662dafced3658e2a65b3342c7ba9.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/7d3c4566300493a7328e00af25dbc3093970662dafced3658e2a65b3342c7ba9.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/71afc3752dd8d0e53da412feee742a10a27eaeacbc31076610921aeca4ce5ea2.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/71afc3752dd8d0e53da412feee742a10a27eaeacbc31076610921aeca4ce5ea2.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/d164bbce3a166fc5445034063bbbb3b49cba6df8d07a12d35def05cf4872a6df.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/d164bbce3a166fc5445034063bbbb3b49cba6df8d07a12d35def05cf4872a6df.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/dfffc8f2c7d0d18c4d3a3ee0fe739e928c6f764892f2967eb0a16af9e027a519.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/dfffc8f2c7d0d18c4d3a3ee0fe739e928c6f764892f2967eb0a16af9e027a519.jpg"
+    },
+    {
+      "document": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
+      "old": "images/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg",
+      "new": "../../../../../../10_题库/_assets/习题册/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg"
+    }
+  ]
+}

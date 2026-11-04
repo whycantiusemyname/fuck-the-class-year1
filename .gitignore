@@ -1,0 +1,10 @@
+.obsidian/workspace*.json
+.DS_Store
+Thumbs.db
+__pycache__/
+node_modules/
+**/30_我的数据/
+**/学生状态快照.md
+*.log
+.env
+.env.*

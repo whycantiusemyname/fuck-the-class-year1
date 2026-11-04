@@ -1,0 +1,30 @@
+[
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\08_01_RC桥式正弦波源.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\8b_信号产生_RC振荡电路--2026\\images\\b075b121007755eb6a3bb256cd35e61da96e3194a841b37be22afc718307d482.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\8b_信号产生_RC振荡电路--2026\\completion.json",
+    "sha256": "99cac5e7455fb059e55a6a692dda9a9eb0e0c47806d79bcfb6a7e85e12dcf293",
+    "note": "已查看源图；局部负反馈同相比例级与RC串并联正反馈同时存在"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\08_02_RC矩形波发生器.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\8b_信号产生_RC振荡电路--2026\\images\\8445868286c8eaf404095914701050a13fca9d8b80f8f29d6b5afd7ee42bd129.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\8b_信号产生_RC振荡电路--2026\\completion.json",
+    "sha256": "e262fafbf3dd83eff01f7587dd3088455f38a9e953d26ac954bd7972d22e012b",
+    "note": "已查看源图；R1到地、R2接输出，R3为电容充放电通路，R4为限流非时间常数电阻"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\08_03_三角波方波互反馈.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\8b_信号产生_RC振荡电路--2026\\images\\31c532b26663a901a0228f6377fecd384764d97a546e6e1a3e8562b96c8f1d56.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\8b_信号产生_RC振荡电路--2026\\completion.json",
+    "sha256": "673391c1e586ffce1e48ce6cca242db2538c78db76594d8caa1300874755a715",
+    "note": "已查看源图；比较器A1接积分器A2，三角波经R1、方波经R2汇入A1同相端"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\08_04_方波转三角波.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\8b_信号产生_RC振荡电路--2026\\images\\9f187bebc67a79ef87279d4610b0a5eef7c5bf00a74950cd9c6f76e2a6de4fc2.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\8b_信号产生_RC振荡电路--2026\\completion.json",
+    "sha256": "ae721c3f56c8fd43a9865594f7326ffe87e7e58d21fe1a4c24489345374533b7",
+    "note": "已查看8.4尾部纯图；反相积分器及配套波形用于转换而非另行自激"
+  }
+]

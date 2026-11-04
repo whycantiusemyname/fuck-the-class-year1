@@ -1,0 +1,30 @@
+[
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\09_01_桥式整流.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\9_直流电源--2026\\images\\4e9da79333d378cd51a27e4adc450fe8f2294f3006660516afa71e5fc0f2f696.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\9_直流电源--2026\\completion.json",
+    "sha256": "e9420434c0a0e8f608ecc312a7a44df4268850361eae9178436f4ab5569031b8",
+    "note": "本轮已查看源图，核对不同半周的导通配对与负载电流方向"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\09_02_串联比较稳压.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\9_直流电源--2026\\images\\ca4e378eae286be95f6213bdae51aff78acd78ac64b4a336eb7b691c8bd2f39c.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\9_直流电源--2026\\completion.json",
+    "sha256": "5d1465bec7979b2dc5b989b20506abbe033ce5c53564ce94ae5e92f55fd68dce",
+    "note": "本轮已查看源图，核对比较端极性及R2滑片下侧R2prime的取样比例"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\09_03_降压开关电路.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\9_直流电源--2026\\images\\eab84dc938f48ff8d3293e1de37dfdaf10d27df10ce3a9761a13a96a69cfde7b.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\9_直流电源--2026\\completion.json",
+    "sha256": "3b29a1ff20f026eee9d578e3f59d415334b96c694e8d0e3363cddea4b6d61153",
+    "note": "本轮已查看源图，开关节点经电感到负载，二极管接地续流，不能仅用开关状态断言电容充放电"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\09_04_升压开关电路.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\9_直流电源--2026\\images\\93556d9067c5bfdc5ee7a27f74be5ec368af66670bde18f752cac991aae3627d.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\9_直流电源--2026\\completion.json",
+    "sha256": "28c944f4a1d0a0a37170080d875fed706c45f67eb12f69a27dd4196480fc2d09",
+    "note": "本轮已查看源图，输入串电感后经二极管到输出，开关把中点接地"
+  }
+]

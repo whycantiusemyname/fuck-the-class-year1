@@ -1,0 +1,37 @@
+[
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\06_01_共射固定偏置.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\6-2 双极性晶体管基本放大电路\\images\\3c3440180e9a35aa9710b3059fce2c408d4b5777d3da09ad3f1e973e748daeed.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\6-2 双极性晶体管基本放大电路\\completion.json",
+    "sha256": "e270b8825b2e17299b5e1b9c8912f34f2c97ea28f35c7fa64d77a5af9439f9f3",
+    "note": "原课件固定偏置、阻容耦合共射电路；本轮已查看图像"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\06_02_级联端口.png",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\6-4  多级放大电路\\images\\solo-source-p13.png",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\6-4  多级放大电路\\completion.json",
+    "sha256": "893c708247813c983c4fe812b1a603a765825c6b390338e0c1d93980754c8691",
+    "note": "原PDF第13页；本轮已查看图像"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\06_03_差模对称半电路.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\6-4  多级放大电路\\images\\e73143610258f47fe8958c08e35a429f36e0b1bf357279a4b94305f996bfd80c.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\6-4  多级放大电路\\completion.json",
+    "sha256": "63711d42d5c72d125c951a6fcf259e1b66ce7246f0ace1131043d8afcd68a809",
+    "note": "原课件纯差模交流对称图；本轮已查看图像"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\06_04_OCL与OTL.png",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\6-5 功率放大电路\\images\\solo-source-p21.png",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\6-5 功率放大电路\\completion.json",
+    "sha256": "32f96f72cd5f38aa61583e422017a16ee88d794749f578804f84c4904f0265dc",
+    "note": "原PDF第21页对照图；本轮已查看图像"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\06_05_同相负反馈.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\6-6 放大电路中的负反馈-1\\images\\35bd1151fe09f4c80baab20d8675e07ba9dddaab297288ceae2ce1c9953cc3f6.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\6-6 放大电路中的负反馈-1\\completion.json",
+    "sha256": "191fb747bae2a48fa49a5da0360acbbd9a6fc900072f53083772e0bd9e6b549a",
+    "note": "原课件同相电压串联反馈图；本轮已查看图像"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\07_01_运放五部分.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\7-模拟集成电路及其应用\\images\\bb395436849fa9b69e1db278e7cc94a984e9cfb9e857b8d7f40b6436e52bdff9.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\7-模拟集成电路及其应用\\completion.json",
+    "sha256": "672bf0e8f903f821d23d490cf2381f3c24cbcf9830c5c3d4d40fdfd429883bd0",
+    "note": "本轮主代理已查看原图，输入/中间/输出/偏置/保护框图，与原PDF第6页文本层一致"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\07_02_T形反馈.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\7-模拟集成电路及其应用\\images\\0f54551671f5a233258587a322232a55448446ad1dc48801d76784e3068a5cea.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\7-模拟集成电路及其应用\\completion.json",
+    "sha256": "29d04020f8b7cc473edfee62763e61cd7835259bc213ca72fdd25ee2fae69821",
+    "note": "本轮已查看原图，核对R1输入、R2与R4反馈串联、R3中点分流的KCL"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\07_03_仪表放大器.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\7-模拟集成电路及其应用\\images\\1194b7a5914a9734cc125a42902dc63b4f4ca0ad5a94d4449e1270117eda27e0.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\7-模拟集成电路及其应用\\completion.json",
+    "sha256": "dd12e7d9fa35345c6140a28ea5d007458cd9af2dbeda0b4b1ec12a9526738933",
+    "note": "本轮已查看原图，核对两侧R1、中间R2及末级差分输出极性"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\07_04_函数变换微分.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\7-模拟集成电路及其应用\\images\\54a2f899896050f15ab5547aeef3985d88ee0cf61867c8ebf3cf86c80ce7a191.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\7-模拟集成电路及其应用\\completion.json",
+    "sha256": "e3ee5ab4d9b1537310717c7a9cf78d75d9518be2f28b6bbe1c36306ed6408b62",
+    "note": "本轮已查看原图，A2反相积分反馈到A1同相端，不能只看返回端口判断反馈极性"
+  },
+  {
+    "output": "D:\\FuckTheClass\\电路分析\\20_知识\\图示\\07_05_带参考滞回比较器.jpg",
+    "source_asset": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\7_比较器\\images\\367b3febdf9b7c6f1d7e12396ef127aba59444edf85665688d31ca0e11e1a221.jpg",
+    "completion": "D:\\FuckTheClass\\电路分析\\90_缓存\\pdf-to-markdown\\s8-audit-20260909-courseware\\7_比较器\\completion.json",
+    "sha256": "91af7eb29796f5af5855d4f4c85dca225b232cf39addf6afbd4af986fdfc2e92",
+    "note": "本轮已查看原图，核对R1接参考、R2接实际限幅输出，反相端接输入"
+  }
+]
