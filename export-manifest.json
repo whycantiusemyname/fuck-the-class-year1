@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 103561,
-    "sha256": "68684efb87f4aff6f6941d95aec5ee8f6cf99ebc14080656332c74d29a57debe"
+    "bytes": 102119,
+    "sha256": "19ec5f2ff0d0b80b7dc709424535813d8917ec0a4ff15c74acca6fc59ae11f20"
   },
   {
     "path": "tools/verify_share.py",
