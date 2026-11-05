@@ -1,6 +1,6 @@
 {
-  "files": 1951,
-  "MiB": 948.04,
+  "files": 1971,
+  "MiB": 949.73,
   "retained_cache_files": 678,
   "preexisting_unresolved_links": [],
   "excluded_private_dependencies": [
@@ -1058,5 +1058,38 @@
       "old": "images/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg",
       "new": "../../../../../../10_题库/_assets/习题册/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg"
     }
-  ]
+  ],
+  "s1_simulation_20261106": {
+    "assignments": [
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "missing_assignment": 3,
+    "source_docx_unchanged": true,
+    "copied_paths": [
+      "电路分析/10_题库/仿真作业1_题面整理.md",
+      "电路分析/10_题库/仿真作业2_题面整理.md",
+      "电路分析/10_题库/仿真作业4_题面整理.md",
+      "电路分析/10_题库/仿真作业5_题面整理.md",
+      "电路分析/10_题库/仿真作业6_题面整理.md",
+      "电路分析/10_题库/_标签库.md",
+      "电路分析/10_题库/仿真作业入库说明.md",
+      "电路分析/10_题库/成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理.md",
+      "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md",
+      "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
+      "电路分析/10_题库/assets/simulation/intake-ledger.json",
+      "电路分析/10_题库/assets/simulation/sim-1-cbe0f96f836b.png",
+      "电路分析/10_题库/assets/simulation/sim-2-2351f0eeb823.emf",
+      "电路分析/10_题库/assets/simulation/sim-2-2351f0eeb823.png",
+      "电路分析/10_题库/assets/simulation/sim-4-9d10ae751825.png",
+      "电路分析/10_题库/assets/simulation/sim-5-ccd28cdce3df.png",
+      "电路分析/10_题库/assets/simulation/sim-6-6641f4f03a5f.png"
+    ],
+    "personal_completed_reports_exported": false,
+    "s2_regenerated": false,
+    "source_verification": "电路分析/10_题库/assets/simulation/intake-ledger.json"
+  }
 }

@@ -1,0 +1,131 @@
+{
+  "sources": [
+    {
+      "path": "电路分析/00_原材料/作业原件/仿真作业1.docx",
+      "sha256": "6d7fffd10d1a6f9129646af21700ac2bdbe90c1fc2521aa59c394de75438af75",
+      "size": 32132
+    },
+    {
+      "path": "电路分析/00_原材料/作业原件/仿真作业2.docx",
+      "sha256": "03bf87ba8b237fb9aaa49c3f42a02f6b2652ad64d3541d9bf59a67640f0f8aa2",
+      "size": 386314
+    },
+    {
+      "path": "电路分析/00_原材料/作业原件/仿真作业4-5-6.docx",
+      "sha256": "68e192d188a7f888e6a5613f778f82c5089cadc55753b42965fb9fd9ae595439",
+      "size": 182911
+    }
+  ],
+  "assignments": [
+    {
+      "number": 1,
+      "source": "00_原材料/作业原件/仿真作业1.docx",
+      "source_sha256": "6d7fffd10d1a6f9129646af21700ac2bdbe90c1fc2521aa59c394de75438af75",
+      "output": "10_题库/仿真作业1_题面整理.md",
+      "output_sha256": "07b9af22f5e39331cda0a5391ec5ed568ea1ccce740e596131a6c7f1aab97002",
+      "image": "10_题库/assets/simulation/sim-1-cbe0f96f836b.png",
+      "image_sha256": "cbe0f96f836b3f2c290c80eef6230c6a644b827b958ca495e4fdbb36448add12",
+      "anchor": "仿真作业-1",
+      "ocr_status": "待复核"
+    },
+    {
+      "number": 2,
+      "source": "00_原材料/作业原件/仿真作业2.docx",
+      "source_sha256": "03bf87ba8b237fb9aaa49c3f42a02f6b2652ad64d3541d9bf59a67640f0f8aa2",
+      "output": "10_题库/仿真作业2_题面整理.md",
+      "output_sha256": "e24f038d9136b9e142ad2314f45a91e0867936fb4c35abcdff70423f7e0b8892",
+      "image": "10_题库/assets/simulation/sim-2-2351f0eeb823.png",
+      "image_sha256": "2351f0eeb823b14c42b179c791e67ef3eaade8eb2fb82386419e461f96acc64d",
+      "anchor": "仿真作业-2",
+      "ocr_status": "已做结构修复"
+    },
+    {
+      "number": 4,
+      "source": "00_原材料/作业原件/仿真作业4-5-6.docx",
+      "source_sha256": "68e192d188a7f888e6a5613f778f82c5089cadc55753b42965fb9fd9ae595439",
+      "output": "10_题库/仿真作业4_题面整理.md",
+      "output_sha256": "f0e44f27685f7f05000e93785755cb0ec9e09b501c7a0708a479084a2bdecaaf",
+      "image": "10_题库/assets/simulation/sim-4-9d10ae751825.png",
+      "image_sha256": "9d10ae751825cf7fbb50e4d58d92ffdc52633b506b9b5bc27bfedeb416e38923",
+      "anchor": "仿真作业-4",
+      "ocr_status": "已做结构修复"
+    },
+    {
+      "number": 5,
+      "source": "00_原材料/作业原件/仿真作业4-5-6.docx",
+      "source_sha256": "68e192d188a7f888e6a5613f778f82c5089cadc55753b42965fb9fd9ae595439",
+      "output": "10_题库/仿真作业5_题面整理.md",
+      "output_sha256": "3d02d60972c8d33ec3472f8a7fec8a3b7da3d65e9e0c10ff0649bf5ff26abaff",
+      "image": "10_题库/assets/simulation/sim-5-ccd28cdce3df.png",
+      "image_sha256": "ccd28cdce3df7a4c6f6214d16817121266714156da4355cd9e6a0c4740d38708",
+      "anchor": "仿真作业-5",
+      "ocr_status": "已做结构修复"
+    },
+    {
+      "number": 6,
+      "source": "00_原材料/作业原件/仿真作业4-5-6.docx",
+      "source_sha256": "68e192d188a7f888e6a5613f778f82c5089cadc55753b42965fb9fd9ae595439",
+      "output": "10_题库/仿真作业6_题面整理.md",
+      "output_sha256": "30243f9c98f0426efcae8c0ca56bd8c3b7f7523bd999e68824bad42daecc8264",
+      "image": "10_题库/assets/simulation/sim-6-6641f4f03a5f.png",
+      "image_sha256": "6641f4f03a5f73503e18cf49a5a5faf076f15dd937bb6036fd4250f44aff8e94",
+      "anchor": "仿真作业-6",
+      "ocr_status": "已做结构修复"
+    }
+  ],
+  "legacy_metadata_repairs": [
+    "10_题库/成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理.md",
+    "10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md",
+    "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md"
+  ],
+  "missing": [
+    3
+  ],
+  "verification": {
+    "source_unchanged": true,
+    "questions": [
+      {
+        "number": 1,
+        "paragraphs_verified": 7,
+        "tables_verified": 1,
+        "image_relationship": "media/image1.png",
+        "verified": true
+      },
+      {
+        "number": 2,
+        "paragraphs_verified": 5,
+        "tables_verified": 0,
+        "image_relationship": "media/image1.emf",
+        "verified": true
+      },
+      {
+        "number": 4,
+        "paragraphs_verified": 5,
+        "tables_verified": 0,
+        "image_relationship": "media/image1.png",
+        "verified": true
+      },
+      {
+        "number": 5,
+        "paragraphs_verified": 8,
+        "tables_verified": 0,
+        "image_relationship": "media/image2.png",
+        "verified": true
+      },
+      {
+        "number": 6,
+        "paragraphs_verified": 5,
+        "tables_verified": 1,
+        "image_relationship": "media/image3.png",
+        "verified": true
+      }
+    ],
+    "s1_exit_code": 0,
+    "question_form_complete": "5/5",
+    "capability_theme_complete": "5/5",
+    "ocr_status_counts": {
+      "待复核": 1,
+      "已做结构修复": 4
+    }
+  }
+}

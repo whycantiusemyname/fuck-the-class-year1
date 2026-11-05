@@ -1,5 +1,30 @@
 [
   {
+    "path": ".gitattributes",
+    "bytes": 243,
+    "sha256": "b28ecbd38f7799fe3c309b33a48a827822ce887f98ebddb30b5b67b25c8b2347"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 136,
+    "sha256": "07fe16799a76faf72685e47052ab7a67f181cbc4630699c374cb10bd691dea12"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2976,
+    "sha256": "d9266de9cf84fb21343ded8e8fb675ecb2abddebf355a12bc6f5ccf4d2ba5420"
+  },
+  {
+    "path": "export-audit.json",
+    "bytes": 80684,
+    "sha256": "2f5f2dc0fd7c2d4949cd595a9a2412ab4948a1cf0c3c32ee6e0b26b021e7608e"
+  },
+  {
+    "path": "tools/verify_share.py",
+    "bytes": 2263,
+    "sha256": "2d580f79ae21b810bdfbcd7002f2a25c9f61cc50de1f9eb042c1ab9dbc4e796a"
+  },
+  {
     "path": "微积分/00_原材料/Apr10th.pdf",
     "bytes": 685133,
     "sha256": "9baf129fa9a094f20cb32c008e3d63c5b10100166aa9822e9413e754dc67c732"
@@ -3575,106 +3600,6 @@
     "sha256": "fc9462b23fa7fb2271e3128de3c4217e5b44c815db00a41d4fdb7320aa9b3dee"
   },
   {
-    "path": "物理/20_知识/grounding/第01章_运动学_grounding.md",
-    "bytes": 5346,
-    "sha256": "1ea209de8d6cb4b580c4f26d0af8f88c4729e15529a36b349fbba7f12e7804cb"
-  },
-  {
-    "path": "物理/20_知识/grounding/第02章_质点动力学_grounding.md",
-    "bytes": 5175,
-    "sha256": "c0a353740c0347299948c974ef449b8f5b1922786b854dda3271c91186854a49"
-  },
-  {
-    "path": "物理/20_知识/grounding/第03章_刚体力学_grounding.md",
-    "bytes": 5165,
-    "sha256": "16bdba97bce406ad71ebee29609a436993167bd2fd408472b84e52d85372150b"
-  },
-  {
-    "path": "物理/20_知识/grounding/第04章_振动学基础_grounding.md",
-    "bytes": 5306,
-    "sha256": "05143119da61d88a3e99a9c763d7c1349733d41aa85aa4d7c715b3119a69d770"
-  },
-  {
-    "path": "物理/20_知识/grounding/第05章_波动学基础_grounding.md",
-    "bytes": 5695,
-    "sha256": "84a6096ff8b6ca22675270160e3a0dcad5f9baa412d1f300c2e60d78e5063cce"
-  },
-  {
-    "path": "物理/20_知识/grounding/第06章_狭义相对论_grounding.md",
-    "bytes": 5903,
-    "sha256": "838af1adc3d0f368c9837668e3dbe708e2cdfdb4a251934f780c18d78e84a47d"
-  },
-  {
-    "path": "物理/20_知识/grounding/第07章_统计物理初步_grounding.md",
-    "bytes": 3976,
-    "sha256": "5cadee1115e0657dace72322cd273ece61b2d9bb9e60c73823a9157798ee43a6"
-  },
-  {
-    "path": "物理/20_知识/grounding/第08章_热力学_grounding.md",
-    "bytes": 4021,
-    "sha256": "08b78a6c9a57e8afcca624fd50c8ac483c0aecec2a1cb2d5eaaee0d490685f36"
-  },
-  {
-    "path": "物理/20_知识/grounding/第09章_气体和凝聚态_grounding.md",
-    "bytes": 8554,
-    "sha256": "fb2c1d068ddf58e468bca780ecc10bd2973489b67ceff4f9b698fa43c0d5bba9"
-  },
-  {
-    "path": "物理/20_知识/grounding/第10章_静电学_grounding.md",
-    "bytes": 7620,
-    "sha256": "a05d8d5eb58391196ff4b0b7c2150cfacc6c395248822bfdcc1d374b17b911a6"
-  },
-  {
-    "path": "物理/20_知识/grounding/第11章_静磁学_grounding.md",
-    "bytes": 6929,
-    "sha256": "675712cd48ac71a947fad6e3fde3af81b6912c00600682a298e7e9e670c4c150"
-  },
-  {
-    "path": "物理/20_知识/grounding/第12章_变化的电磁场_grounding.md",
-    "bytes": 5285,
-    "sha256": "84ecb138ba42fe5082bc4474cf0f3ddde63a2eaab7ada010950d7c87f22671dd"
-  },
-  {
-    "path": "物理/20_知识/grounding/第13章_光的干涉_grounding.md",
-    "bytes": 7078,
-    "sha256": "98ce4f414ef50749975d2a2e1b49f8f9b5d148cd5ee0d23b796a1f03ac86afa3"
-  },
-  {
-    "path": "物理/20_知识/grounding/第14章_光的衍射_grounding.md",
-    "bytes": 6075,
-    "sha256": "d16d2fea42f56c7345fc26c131528ab1192e80a0e72775eaf15e3846b8a0c752"
-  },
-  {
-    "path": "物理/20_知识/grounding/第15章_光的偏振_grounding.md",
-    "bytes": 5489,
-    "sha256": "baccba8aeaa5ed3a4a9ec3927ec56bb30ea27d9b3500ece0aa938d76df3514cf"
-  },
-  {
-    "path": "物理/20_知识/grounding/第16章_早期量子理论_grounding.md",
-    "bytes": 8247,
-    "sha256": "bdd935c5aaac069765890040e2cac76e1124adc9d1e1973748d36fa91d1d1ae0"
-  },
-  {
-    "path": "物理/20_知识/grounding/第17章_量子力学基础_grounding.md",
-    "bytes": 7036,
-    "sha256": "977ca081650fef2672c5ffb6c8933acad107ebac4ee1d74e9d945fe0dd15f8bb"
-  },
-  {
-    "path": "物理/20_知识/grounding/第18章_固体的能带结构_grounding.md",
-    "bytes": 7631,
-    "sha256": "5ddb8a97e3f8f5badfd9b1dfa9bfa7a5aa364e53b3778ea13e0b03ae465d252e"
-  },
-  {
-    "path": "物理/20_知识/grounding/第19章_粒子物理学简介_grounding.md",
-    "bytes": 4311,
-    "sha256": "a2b6e104e3f24e56945f56420c9581d26fe7493e1e513283b0ec2351df04ddb5"
-  },
-  {
-    "path": "物理/20_知识/grounding/第20章_软物质_grounding.md",
-    "bytes": 3896,
-    "sha256": "99b827b444928776622890f66af4f5297df6bb45606a4f2ec4994bdf65643ee3"
-  },
-  {
     "path": "物理/20_知识/README.md",
     "bytes": 7214,
     "sha256": "480d678539e61e8bc609d4987205c5827098f64155de275e920a501a1c5e3b15"
@@ -3778,6 +3703,106 @@
     "path": "物理/20_知识/S10启动卡/第20章_软物质_S10启动卡.md",
     "bytes": 2485,
     "sha256": "16c6e450909f7fb5aae60cb064d2e865384d97372d70110fd98e96089e493491"
+  },
+  {
+    "path": "物理/20_知识/grounding/第01章_运动学_grounding.md",
+    "bytes": 5346,
+    "sha256": "1ea209de8d6cb4b580c4f26d0af8f88c4729e15529a36b349fbba7f12e7804cb"
+  },
+  {
+    "path": "物理/20_知识/grounding/第02章_质点动力学_grounding.md",
+    "bytes": 5175,
+    "sha256": "c0a353740c0347299948c974ef449b8f5b1922786b854dda3271c91186854a49"
+  },
+  {
+    "path": "物理/20_知识/grounding/第03章_刚体力学_grounding.md",
+    "bytes": 5165,
+    "sha256": "16bdba97bce406ad71ebee29609a436993167bd2fd408472b84e52d85372150b"
+  },
+  {
+    "path": "物理/20_知识/grounding/第04章_振动学基础_grounding.md",
+    "bytes": 5306,
+    "sha256": "05143119da61d88a3e99a9c763d7c1349733d41aa85aa4d7c715b3119a69d770"
+  },
+  {
+    "path": "物理/20_知识/grounding/第05章_波动学基础_grounding.md",
+    "bytes": 5695,
+    "sha256": "84a6096ff8b6ca22675270160e3a0dcad5f9baa412d1f300c2e60d78e5063cce"
+  },
+  {
+    "path": "物理/20_知识/grounding/第06章_狭义相对论_grounding.md",
+    "bytes": 5903,
+    "sha256": "838af1adc3d0f368c9837668e3dbe708e2cdfdb4a251934f780c18d78e84a47d"
+  },
+  {
+    "path": "物理/20_知识/grounding/第07章_统计物理初步_grounding.md",
+    "bytes": 3976,
+    "sha256": "5cadee1115e0657dace72322cd273ece61b2d9bb9e60c73823a9157798ee43a6"
+  },
+  {
+    "path": "物理/20_知识/grounding/第08章_热力学_grounding.md",
+    "bytes": 4021,
+    "sha256": "08b78a6c9a57e8afcca624fd50c8ac483c0aecec2a1cb2d5eaaee0d490685f36"
+  },
+  {
+    "path": "物理/20_知识/grounding/第09章_气体和凝聚态_grounding.md",
+    "bytes": 8554,
+    "sha256": "fb2c1d068ddf58e468bca780ecc10bd2973489b67ceff4f9b698fa43c0d5bba9"
+  },
+  {
+    "path": "物理/20_知识/grounding/第10章_静电学_grounding.md",
+    "bytes": 7620,
+    "sha256": "a05d8d5eb58391196ff4b0b7c2150cfacc6c395248822bfdcc1d374b17b911a6"
+  },
+  {
+    "path": "物理/20_知识/grounding/第11章_静磁学_grounding.md",
+    "bytes": 6929,
+    "sha256": "675712cd48ac71a947fad6e3fde3af81b6912c00600682a298e7e9e670c4c150"
+  },
+  {
+    "path": "物理/20_知识/grounding/第12章_变化的电磁场_grounding.md",
+    "bytes": 5285,
+    "sha256": "84ecb138ba42fe5082bc4474cf0f3ddde63a2eaab7ada010950d7c87f22671dd"
+  },
+  {
+    "path": "物理/20_知识/grounding/第13章_光的干涉_grounding.md",
+    "bytes": 7078,
+    "sha256": "98ce4f414ef50749975d2a2e1b49f8f9b5d148cd5ee0d23b796a1f03ac86afa3"
+  },
+  {
+    "path": "物理/20_知识/grounding/第14章_光的衍射_grounding.md",
+    "bytes": 6075,
+    "sha256": "d16d2fea42f56c7345fc26c131528ab1192e80a0e72775eaf15e3846b8a0c752"
+  },
+  {
+    "path": "物理/20_知识/grounding/第15章_光的偏振_grounding.md",
+    "bytes": 5489,
+    "sha256": "baccba8aeaa5ed3a4a9ec3927ec56bb30ea27d9b3500ece0aa938d76df3514cf"
+  },
+  {
+    "path": "物理/20_知识/grounding/第16章_早期量子理论_grounding.md",
+    "bytes": 8247,
+    "sha256": "bdd935c5aaac069765890040e2cac76e1124adc9d1e1973748d36fa91d1d1ae0"
+  },
+  {
+    "path": "物理/20_知识/grounding/第17章_量子力学基础_grounding.md",
+    "bytes": 7036,
+    "sha256": "977ca081650fef2672c5ffb6c8933acad107ebac4ee1d74e9d945fe0dd15f8bb"
+  },
+  {
+    "path": "物理/20_知识/grounding/第18章_固体的能带结构_grounding.md",
+    "bytes": 7631,
+    "sha256": "5ddb8a97e3f8f5badfd9b1dfa9bfa7a5aa364e53b3778ea13e0b03ae465d252e"
+  },
+  {
+    "path": "物理/20_知识/grounding/第19章_粒子物理学简介_grounding.md",
+    "bytes": 4311,
+    "sha256": "a2b6e104e3f24e56945f56420c9581d26fe7493e1e513283b0ec2351df04ddb5"
+  },
+  {
+    "path": "物理/20_知识/grounding/第20章_软物质_grounding.md",
+    "bytes": 3896,
+    "sha256": "99b827b444928776622890f66af4f5297df6bb45606a4f2ec4994bdf65643ee3"
   },
   {
     "path": "物理/20_知识/主干讲解/第01章_运动学_主干讲解.md",
@@ -7315,6 +7340,11 @@
     "sha256": "a8f5ab5abdfcd9b9516cfb386724af4b4c76eb31d3c78f54b959ee5b54fb0981"
   },
   {
+    "path": "物理/README.md",
+    "bytes": 2738,
+    "sha256": "2dfc00ac9f7ee145ea0529f86a2c05ee754922bb01ed66946b4b53dfd6e826c7"
+  },
+  {
     "path": "物理/大学物理习题册 (上)(2019.3.4) (2) (1).pdf",
     "bytes": 1327475,
     "sha256": "7f0682e1ef1b917f5b060f9d85cdbe7cdbecd97e1d4a442a8ba9146df2788ac6"
@@ -8046,8 +8076,8 @@
   },
   {
     "path": "电路分析/10_题库/_标签库.md",
-    "bytes": 6200,
-    "sha256": "910d513ac8a6a8b79bc8efb89d2c17c38f9de852f178954f00b9c5e998c10a86"
+    "bytes": 6770,
+    "sha256": "6b04e396a1eb60b2443e445a28c2b7d39182f1e10aca6eff2d067a6cddc832c9"
   },
   {
     "path": "电路分析/10_题库/assets/ch6_amp_p212_fig_e6_3.png",
@@ -8355,6 +8385,71 @@
     "sha256": "b7d027072cbb95f1d407dd5437d5332f6a72c5211aa939a5ef9511cf5f31ffdc"
   },
   {
+    "path": "电路分析/10_题库/assets/simulation/intake-ledger.json",
+    "bytes": 5152,
+    "sha256": "6ca29d83d28fcde2f3ef0eca032896ba16835f03355c1acd0b03b8cd571858a3"
+  },
+  {
+    "path": "电路分析/10_题库/assets/simulation/sim-1-cbe0f96f836b.png",
+    "bytes": 15234,
+    "sha256": "cbe0f96f836b3f2c290c80eef6230c6a644b827b958ca495e4fdbb36448add12"
+  },
+  {
+    "path": "电路分析/10_题库/assets/simulation/sim-2-2351f0eeb823.emf",
+    "bytes": 610688,
+    "sha256": "a65ba663d6c8355266df20207edfd5bc21099b2d7f3da4af1165611227897de6"
+  },
+  {
+    "path": "电路分析/10_题库/assets/simulation/sim-2-2351f0eeb823.png",
+    "bytes": 417537,
+    "sha256": "2351f0eeb823b14c42b179c791e67ef3eaade8eb2fb82386419e461f96acc64d"
+  },
+  {
+    "path": "电路分析/10_题库/assets/simulation/sim-4-9d10ae751825.png",
+    "bytes": 37433,
+    "sha256": "9d10ae751825cf7fbb50e4d58d92ffdc52633b506b9b5bc27bfedeb416e38923"
+  },
+  {
+    "path": "电路分析/10_题库/assets/simulation/sim-5-ccd28cdce3df.png",
+    "bytes": 75296,
+    "sha256": "ccd28cdce3df7a4c6f6214d16817121266714156da4355cd9e6a0c4740d38708"
+  },
+  {
+    "path": "电路分析/10_题库/assets/simulation/sim-6-6641f4f03a5f.png",
+    "bytes": 50322,
+    "sha256": "6641f4f03a5f73503e18cf49a5a5faf076f15dd937bb6036fd4250f44aff8e94"
+  },
+  {
+    "path": "电路分析/10_题库/仿真作业1_题面整理.md",
+    "bytes": 1492,
+    "sha256": "07b9af22f5e39331cda0a5391ec5ed568ea1ccce740e596131a6c7f1aab97002"
+  },
+  {
+    "path": "电路分析/10_题库/仿真作业2_题面整理.md",
+    "bytes": 1269,
+    "sha256": "e24f038d9136b9e142ad2314f45a91e0867936fb4c35abcdff70423f7e0b8892"
+  },
+  {
+    "path": "电路分析/10_题库/仿真作业4_题面整理.md",
+    "bytes": 1205,
+    "sha256": "f0e44f27685f7f05000e93785755cb0ec9e09b501c7a0708a479084a2bdecaaf"
+  },
+  {
+    "path": "电路分析/10_题库/仿真作业5_题面整理.md",
+    "bytes": 1626,
+    "sha256": "3d02d60972c8d33ec3472f8a7fec8a3b7da3d65e9e0c10ff0649bf5ff26abaff"
+  },
+  {
+    "path": "电路分析/10_题库/仿真作业6_题面整理.md",
+    "bytes": 1283,
+    "sha256": "30243f9c98f0426efcae8c0ca56bd8c3b7f7523bd999e68824bad42daecc8264"
+  },
+  {
+    "path": "电路分析/10_题库/仿真作业入库说明.md",
+    "bytes": 3918,
+    "sha256": "60281d7250d59288df92b924b33994ec50dd3bffb7e51ca51ccd749c8eafbdde"
+  },
+  {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2015-2016模拟电路期末A_5-9章题面整理.md",
     "bytes": 21067,
     "sha256": "b3faaa941755a5fd0a1e8d60d3d62513c591e5144136508495177265f5b2d0e1"
@@ -8371,18 +8466,18 @@
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理.md",
-    "bytes": 10098,
-    "sha256": "eef5d55d86ca52da2f19da221cc5197178ed681f18670e861330a4bb4493438d"
+    "bytes": 10290,
+    "sha256": "970096d97b3c9380975974457969c90213a44c4277c55a51abadd06b685ab8f5"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md",
-    "bytes": 12950,
-    "sha256": "3b551edf666481c90932380caf7048b1615d776c126f4aba2013a61f121daeda"
+    "bytes": 13124,
+    "sha256": "beb9918b28e42c89c13a1604119398fff8fb088331feb7065e1a5fc24b020e1d"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
-    "bytes": 11305,
-    "sha256": "1f4d8f7d137e434440d97ec020ad5ec82efae83f4a7bdf11d426a6f19c355c24"
+    "bytes": 11499,
+    "sha256": "5909c527b2b90f5bd5cabefbdc1abe495e827c803303fd3e2e810488c6a916d9"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理.md",
