@@ -1,0 +1,659 @@
+[
+  {
+    "document": "10_题库/习题册/大学物理习题册_29_光的衍射（一）_题面整理.md",
+    "question": "习题册-章节29-题5",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/习题册/f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg",
+    "path": "10_题库/_assets/习题册/f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg",
+    "sha256": "a557b40c7bfef3fa4b486132869b62bbc337e7ce68dd5c50e6f2519cda9afc84",
+    "size": [
+      418,
+      276
+    ],
+    "id": 1,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 30,
+    "bbox_1000": [
+      550,
+      208,
+      685,
+      339
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-001.png",
+    "source_crop_size": [
+      598,
+      398
+    ],
+    "page_preview": "page-1-030.png",
+    "method": "native_extraction",
+    "new": "001-extracted.png",
+    "check": "从原PDF原生提取；逐项核对入射θ/衍射φ、A/B或C/D点名、光线传播箭头，透镜L与屏、焦距f；保留原图各子图和1—4编号，不添加精确角度。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_29_光的衍射（一）_题面整理.md",
+        "question": "习题册-章节29-题5",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/习题册/f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg",
+        "path": "10_题库/_assets/习题册/f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg",
+        "sha256": "a557b40c7bfef3fa4b486132869b62bbc337e7ce68dd5c50e6f2519cda9afc84",
+        "size": [
+          418,
+          276
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/14_衍射/001-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_30_光的衍射（二）_题面整理.md",
+    "question": "习题册-章节30-题1",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/习题册/dfffc8f2c7d0d18c4d3a3ee0fe739e928c6f764892f2967eb0a16af9e027a519.jpg",
+    "path": "10_题库/_assets/习题册/dfffc8f2c7d0d18c4d3a3ee0fe739e928c6f764892f2967eb0a16af9e027a519.jpg",
+    "sha256": "45308bccc2002b9709eb2345edb3cf1d407668f94492662a34290781a20d2efa",
+    "size": [
+      398,
+      329
+    ],
+    "id": 2,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 31,
+    "bbox_1000": [
+      341,
+      252,
+      470,
+      408
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\dfffc8f2c7d0d18c4d3a3ee0fe739e928c6f764892f2967eb0a16af9e027a519.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-002.png",
+    "source_crop_size": [
+      571,
+      473
+    ],
+    "page_preview": "page-1-031.png",
+    "method": "redrawn",
+    "new": "002.svg",
+    "check": "λ从左向右，缝宽a位于两挡板间，L凸透镜居中、C屏在右，f从透镜至屏；独立Oxy坐标x右y上。无额外光线或数值焦距。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_30_光的衍射（二）_题面整理.md",
+        "question": "习题册-章节30-题1",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/习题册/dfffc8f2c7d0d18c4d3a3ee0fe739e928c6f764892f2967eb0a16af9e027a519.jpg",
+        "path": "10_题库/_assets/习题册/dfffc8f2c7d0d18c4d3a3ee0fe739e928c6f764892f2967eb0a16af9e027a519.jpg",
+        "sha256": "45308bccc2002b9709eb2345edb3cf1d407668f94492662a34290781a20d2efa",
+        "size": [
+          398,
+          329
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/14_衍射/002.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_30_光的衍射（二）_题面整理.md",
+    "question": "习题册-章节30-题3",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/习题册/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg",
+    "path": "10_题库/_assets/习题册/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg",
+    "sha256": "634a59aed2170633d260c3ebddee120785d54a2297eca23bde638905dd4b02f9",
+    "size": [
+      470,
+      240
+    ],
+    "id": 3,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 31,
+    "bbox_1000": [
+      320,
+      662,
+      473,
+      776
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-003.png",
+    "source_crop_size": [
+      677,
+      346
+    ],
+    "page_preview": "page-1-031.png",
+    "method": "native_extraction",
+    "new": "003-extracted.png",
+    "check": "从原PDF原生提取；逐项核对入射θ/衍射φ、A/B或C/D点名、光线传播箭头，透镜L与屏、焦距f；保留原图各子图和1—4编号，不添加精确角度。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_30_光的衍射（二）_题面整理.md",
+        "question": "习题册-章节30-题3",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/习题册/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg",
+        "path": "10_题库/_assets/习题册/5d91cea7116c1886861618e41372f0822a4116665ef661f9f5baa0fd9077e8b7.jpg",
+        "sha256": "634a59aed2170633d260c3ebddee120785d54a2297eca23bde638905dd4b02f9",
+        "size": [
+          470,
+          240
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/14_衍射/003-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+    "question": "19-20期末-简2",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/90c1929ea62f42a3f89badcc9e5653195b0ab837fb85af134caa9c1ce37e9e8a.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/90c1929ea62f42a3f89badcc9e5653195b0ab837fb85af134caa9c1ce37e9e8a.jpg",
+    "sha256": "2b8be844c50a4d25e809508f272deb2631497c2fbfe9e469899611aff34fe07a",
+    "size": [
+      471,
+      331
+    ],
+    "id": 4,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 37,
+    "bbox_1000": [
+      621,
+      72,
+      905,
+      214
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\90c1929ea62f42a3f89badcc9e5653195b0ab837fb85af134caa9c1ce37e9e8a.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-004.png",
+    "source_crop_size": [
+      684,
+      482
+    ],
+    "page_preview": "page-2-037.png",
+    "method": "native_extraction",
+    "new": "004-extracted.png",
+    "check": "从原PDF原生提取；逐项核对入射θ/衍射φ、A/B或C/D点名、光线传播箭头，透镜L与屏、焦距f；保留原图各子图和1—4编号，不添加精确角度。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+        "question": "19-20期末-简2",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/90c1929ea62f42a3f89badcc9e5653195b0ab837fb85af134caa9c1ce37e9e8a.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/90c1929ea62f42a3f89badcc9e5653195b0ab837fb85af134caa9c1ce37e9e8a.jpg",
+        "sha256": "2b8be844c50a4d25e809508f272deb2631497c2fbfe9e469899611aff34fe07a",
+        "size": [
+          471,
+          331
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/14_衍射/004-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+    "question": "24-25期末-计7",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/2024-2025期末截图/4d73c0d1ae6ad2ed301ccf49e872b1f23d9acf3b2e7515e124e91e1172db9b96.jpg",
+    "path": "10_题库/_assets/2024-2025期末截图/4d73c0d1ae6ad2ed301ccf49e872b1f23d9acf3b2e7515e124e91e1172db9b96.jpg",
+    "sha256": "127f0d871736009cfb71417bc4c359ac2bb362325f4d4e560bb07bd54b4c0cdd",
+    "size": [
+      522,
+      432
+    ],
+    "id": 5,
+    "source_pdf": "90_缓存\\扫描整理\\2024-2025期末\\2024-2025学年大学物理I期末_方向校正合并.pdf",
+    "pdf_page": 20,
+    "bbox_1000": [
+      533,
+      353,
+      682,
+      624
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\51a54e3a-a3bd-4a95-9173-b3b2eb575a41_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\images\\4d73c0d1ae6ad2ed301ccf49e872b1f23d9acf3b2e7515e124e91e1172db9b96.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-005.png",
+    "source_crop_size": [
+      411,
+      341
+    ],
+    "page_preview": "page-3-020.png",
+    "method": "native_extraction",
+    "new": "005-extracted.png",
+    "check": "从原PDF原生提取；逐项核对入射θ/衍射φ、A/B或C/D点名、光线传播箭头，透镜L与屏、焦距f；保留原图各子图和1—4编号，不添加精确角度。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+        "question": "24-25期末-计7",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/2024-2025期末截图/4d73c0d1ae6ad2ed301ccf49e872b1f23d9acf3b2e7515e124e91e1172db9b96.jpg",
+        "path": "10_题库/_assets/2024-2025期末截图/4d73c0d1ae6ad2ed301ccf49e872b1f23d9acf3b2e7515e124e91e1172db9b96.jpg",
+        "sha256": "127f0d871736009cfb71417bc4c359ac2bb362325f4d4e560bb07bd54b4c0cdd",
+        "size": [
+          522,
+          432
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/14_衍射/005-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第14章_光的衍射_题面整理.md",
+    "question": "学习指导-第14章-思考题-14-10",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_495.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_495.jpg",
+    "sha256": "1162bc7b59b9c76bf3dfc05d5af09f7ae6e9911ee9ed1db57bf67af7598dcd0d",
+    "size": [
+      601,
+      323
+    ],
+    "id": 6,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 300,
+    "bbox_1000": [
+      547,
+      501,
+      910,
+      639
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\6f92104d6b05589bbb2439a51b6191340ad298a306940307fb1dbd0481af48d0.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-006.png",
+    "source_crop_size": [
+      899,
+      483
+    ],
+    "page_preview": "page-4-300.png",
+    "method": "native_extraction",
+    "new": "006-extracted.png",
+    "check": "从原PDF原生提取；逐项核对入射θ/衍射φ、A/B或C/D点名、光线传播箭头，透镜L与屏、焦距f；保留原图各子图和1—4编号，不添加精确角度。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第14章_光的衍射_题面整理.md",
+        "question": "学习指导-第14章-思考题-14-10",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_495.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_495.jpg",
+        "sha256": "1162bc7b59b9c76bf3dfc05d5af09f7ae6e9911ee9ed1db57bf67af7598dcd0d",
+        "size": [
+          601,
+          323
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/14_衍射/006-extracted.png"
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-332",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/清华题库/9cc332a0c5076c377cab22192d53e27fde481caa7e03d09220a5558f5c5394a8.jpg",
+    "path": "10_题库/_assets/清华题库/9cc332a0c5076c377cab22192d53e27fde481caa7e03d09220a5558f5c5394a8.jpg",
+    "sha256": "ae169ee83034ae44bd57513ab630fcefe3b9117665b8ff8e5163b92ce5859a07",
+    "size": [
+      434,
+      315
+    ],
+    "id": 7,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 41,
+    "bbox_1000": [
+      359,
+      303,
+      621,
+      437
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\9cc332a0c5076c377cab22192d53e27fde481caa7e03d09220a5558f5c5394a8.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-007.png",
+    "source_crop_size": [
+      625,
+      452
+    ],
+    "page_preview": "page-5-041.png",
+    "method": "retained_clear",
+    "check": "原图的缝、光路、透镜、屏与f清晰，轴标、点名和虚线支持黑白阅读，按要求保留。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-332",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/清华题库/9cc332a0c5076c377cab22192d53e27fde481caa7e03d09220a5558f5c5394a8.jpg",
+        "path": "10_题库/_assets/清华题库/9cc332a0c5076c377cab22192d53e27fde481caa7e03d09220a5558f5c5394a8.jpg",
+        "sha256": "ae169ee83034ae44bd57513ab630fcefe3b9117665b8ff8e5163b92ce5859a07",
+        "size": [
+          434,
+          315
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-333",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/清华题库/a650622339bcd4bcb1a45721de721d80245c8ee3a5e1de6950a23db14563ac86.jpg",
+    "path": "10_题库/_assets/清华题库/a650622339bcd4bcb1a45721de721d80245c8ee3a5e1de6950a23db14563ac86.jpg",
+    "sha256": "782eaf4164ed4bef4dcf32797fb5d6d2a4cbab15f62a3c3d1d86bf7eaf3751ba",
+    "size": [
+      478,
+      334
+    ],
+    "id": 8,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 41,
+    "bbox_1000": [
+      354,
+      576,
+      643,
+      719
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\a650622339bcd4bcb1a45721de721d80245c8ee3a5e1de6950a23db14563ac86.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-008.png",
+    "source_crop_size": [
+      690,
+      483
+    ],
+    "page_preview": "page-5-041.png",
+    "method": "retained_clear",
+    "check": "原图的缝、光路、透镜、屏与f清晰，轴标、点名和虚线支持黑白阅读，按要求保留。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-333",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/清华题库/a650622339bcd4bcb1a45721de721d80245c8ee3a5e1de6950a23db14563ac86.jpg",
+        "path": "10_题库/_assets/清华题库/a650622339bcd4bcb1a45721de721d80245c8ee3a5e1de6950a23db14563ac86.jpg",
+        "sha256": "782eaf4164ed4bef4dcf32797fb5d6d2a4cbab15f62a3c3d1d86bf7eaf3751ba",
+        "size": [
+          478,
+          334
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-340",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/清华题库/9b1df3926ba54145c817119f6b1390dce10118bcd68cc4c45b6c15148855e453.jpg",
+    "path": "10_题库/_assets/清华题库/9b1df3926ba54145c817119f6b1390dce10118bcd68cc4c45b6c15148855e453.jpg",
+    "sha256": "32e75a8f59af8c8cf064f0f62b43f3a39be58e6d04499fbba988a4b9307e905c",
+    "size": [
+      423,
+      320
+    ],
+    "id": 9,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 43,
+    "bbox_1000": [
+      368,
+      131,
+      623,
+      268
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\9b1df3926ba54145c817119f6b1390dce10118bcd68cc4c45b6c15148855e453.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-009.png",
+    "source_crop_size": [
+      608,
+      462
+    ],
+    "page_preview": "page-5-043.png",
+    "method": "retained_clear",
+    "check": "原图的缝、光路、透镜、屏与f清晰，轴标、点名和虚线支持黑白阅读，按要求保留。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-340",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/清华题库/9b1df3926ba54145c817119f6b1390dce10118bcd68cc4c45b6c15148855e453.jpg",
+        "path": "10_题库/_assets/清华题库/9b1df3926ba54145c817119f6b1390dce10118bcd68cc4c45b6c15148855e453.jpg",
+        "sha256": "32e75a8f59af8c8cf064f0f62b43f3a39be58e6d04499fbba988a4b9307e905c",
+        "size": [
+          423,
+          320
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-341",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/清华题库/ac726a0b1fbd29322375a465f482151e20eae3c658d494ad9336065b11fefb69.jpg",
+    "path": "10_题库/_assets/清华题库/ac726a0b1fbd29322375a465f482151e20eae3c658d494ad9336065b11fefb69.jpg",
+    "sha256": "9463562625fb9da3d3306214699f2224e7eea201fb13c24fa4f6988c0afc8130",
+    "size": [
+      420,
+      332
+    ],
+    "id": 10,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 43,
+    "bbox_1000": [
+      369,
+      435,
+      623,
+      576
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\ac726a0b1fbd29322375a465f482151e20eae3c658d494ad9336065b11fefb69.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-010.png",
+    "source_crop_size": [
+      606,
+      476
+    ],
+    "page_preview": "page-5-043.png",
+    "method": "retained_clear",
+    "check": "原图的缝、光路、透镜、屏与f清晰，轴标、点名和虚线支持黑白阅读，按要求保留。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-341",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/清华题库/ac726a0b1fbd29322375a465f482151e20eae3c658d494ad9336065b11fefb69.jpg",
+        "path": "10_题库/_assets/清华题库/ac726a0b1fbd29322375a465f482151e20eae3c658d494ad9336065b11fefb69.jpg",
+        "sha256": "9463562625fb9da3d3306214699f2224e7eea201fb13c24fa4f6988c0afc8130",
+        "size": [
+          420,
+          332
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-342",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/清华题库/5cd49064b48c69e159853852eae06e96b490f1e15d6a40392dac6b223c6fd617.jpg",
+    "path": "10_题库/_assets/清华题库/5cd49064b48c69e159853852eae06e96b490f1e15d6a40392dac6b223c6fd617.jpg",
+    "sha256": "3c91ea5a30a92f0da5670eac61ba99c0352651e9d6ff443be5f8a44eef4419bc",
+    "size": [
+      423,
+      337
+    ],
+    "id": 11,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 43,
+    "bbox_1000": [
+      368,
+      741,
+      623,
+      885
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\5cd49064b48c69e159853852eae06e96b490f1e15d6a40392dac6b223c6fd617.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-011.png",
+    "source_crop_size": [
+      608,
+      486
+    ],
+    "page_preview": "page-5-043.png",
+    "method": "retained_clear",
+    "check": "原图的缝、光路、透镜、屏与f清晰，轴标、点名和虚线支持黑白阅读，按要求保留。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-342",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/清华题库/5cd49064b48c69e159853852eae06e96b490f1e15d6a40392dac6b223c6fd617.jpg",
+        "path": "10_题库/_assets/清华题库/5cd49064b48c69e159853852eae06e96b490f1e15d6a40392dac6b223c6fd617.jpg",
+        "sha256": "3c91ea5a30a92f0da5670eac61ba99c0352651e9d6ff443be5f8a44eef4419bc",
+        "size": [
+          423,
+          337
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-388",
+    "chapter": "14",
+    "target": "物理/10_题库/_assets/清华题库/ed9253f8e56476a0d7fde3f1d1e5954d17797859af1994af8a4b8a550f193d83.jpg",
+    "path": "10_题库/_assets/清华题库/ed9253f8e56476a0d7fde3f1d1e5954d17797859af1994af8a4b8a550f193d83.jpg",
+    "sha256": "d3f22e3d7b1265e7b286500d610c0c7e5cb80130ab0550773d752e8a91b6d9fb",
+    "size": [
+      301,
+      198
+    ],
+    "id": 12,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 50,
+    "bbox_1000": [
+      405,
+      571,
+      586,
+      656
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\ed9253f8e56476a0d7fde3f1d1e5954d17797859af1994af8a4b8a550f193d83.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-012.png",
+    "source_crop_size": [
+      432,
+      288
+    ],
+    "page_preview": "page-5-050.png",
+    "method": "retained_clear",
+    "check": "原图的缝、光路、透镜、屏与f清晰，轴标、点名和虚线支持黑白阅读，按要求保留。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-388",
+        "chapter": "14",
+        "target": "物理/10_题库/_assets/清华题库/ed9253f8e56476a0d7fde3f1d1e5954d17797859af1994af8a4b8a550f193d83.jpg",
+        "path": "10_题库/_assets/清华题库/ed9253f8e56476a0d7fde3f1d1e5954d17797859af1994af8a4b8a550f193d83.jpg",
+        "sha256": "d3f22e3d7b1265e7b286500d610c0c7e5cb80130ab0550773d752e8a91b6d9fb",
+        "size": [
+          301,
+          198
+        ]
+      }
+    ]
+  },
+  {
+    "document": "大学物理习题册（上）/29_习题二十九 光的衍射（一）.md",
+    "question": "5",
+    "chapter": "14",
+    "target": "_assets/29_习题二十九 光的衍射（一）/图5.png|220",
+    "path": "大学物理习题册（上）/_assets/29_习题二十九 光的衍射（一）/图5.png",
+    "sha256": "3f95991194e6290b6f9520c566de983161539c9b4849788e9efb5a7ee4c0f6e9",
+    "size": [
+      528,
+      379
+    ],
+    "id": 13,
+    "method": "reuse_extraction",
+    "new": "001-extracted.png",
+    "check": "同一习题册对应题的光路、角标、坐标及屏位置核对，复用产物。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/29_习题二十九 光的衍射（一）.md",
+        "question": "5",
+        "chapter": "14",
+        "target": "_assets/29_习题二十九 光的衍射（一）/图5.png|220",
+        "path": "大学物理习题册（上）/_assets/29_习题二十九 光的衍射（一）/图5.png",
+        "sha256": "3f95991194e6290b6f9520c566de983161539c9b4849788e9efb5a7ee4c0f6e9",
+        "size": [
+          528,
+          379
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/14_衍射/001-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/30_习题三十 光的衍射（二）.md",
+    "question": "1",
+    "chapter": "14",
+    "target": "_assets/30_习题三十 光的衍射（二）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/30_习题三十 光的衍射（二）/图1.png",
+    "sha256": "552bd5fbd083be4eaff353213c1eba62206aff1bc2b829a944704f0511147c26",
+    "size": [
+      416,
+      339
+    ],
+    "id": 14,
+    "method": "reuse_redraw",
+    "new": "002.svg",
+    "check": "同一习题册对应题的光路、角标、坐标及屏位置核对，复用产物。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/30_习题三十 光的衍射（二）.md",
+        "question": "1",
+        "chapter": "14",
+        "target": "_assets/30_习题三十 光的衍射（二）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/30_习题三十 光的衍射（二）/图1.png",
+        "sha256": "552bd5fbd083be4eaff353213c1eba62206aff1bc2b829a944704f0511147c26",
+        "size": [
+          416,
+          339
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/14_衍射/002.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/30_习题三十 光的衍射（二）.md",
+    "question": "3",
+    "chapter": "14",
+    "target": "_assets/30_习题三十 光的衍射（二）/图3.png|220",
+    "path": "大学物理习题册（上）/_assets/30_习题三十 光的衍射（二）/图3.png",
+    "sha256": "8b1b7126d556a3e09df0ff8538091a4d08b415ad10f10e6394decef5c0bc41b3",
+    "size": [
+      474,
+      281
+    ],
+    "id": 15,
+    "method": "reuse_extraction",
+    "new": "003-extracted.png",
+    "check": "同一习题册对应题的光路、角标、坐标及屏位置核对，复用产物。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/30_习题三十 光的衍射（二）.md",
+        "question": "3",
+        "chapter": "14",
+        "target": "_assets/30_习题三十 光的衍射（二）/图3.png|220",
+        "path": "大学物理习题册（上）/_assets/30_习题三十 光的衍射（二）/图3.png",
+        "sha256": "8b1b7126d556a3e09df0ff8538091a4d08b415ad10f10e6394decef5c0bc41b3",
+        "size": [
+          474,
+          281
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/14_衍射/003-extracted.png"
+  }
+]

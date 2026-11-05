@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 175267,
-    "sha256": "b357d31c96d44e46df21ac3220dcc441b9c8c29419c3fdf1a3c1b00e0e762640"
+    "bytes": 178260,
+    "sha256": "dc158f5532618866b4b43d297f7c48a4ce595aaaaecf07246815eaafdc94a4f0"
   },
   {
     "path": "tools/verify_share.py",
@@ -3005,6 +3005,56 @@
     "sha256": "4c0311cda0951c71da7e0fe386e3fc7f94743fd3611d193004ed07ceba0c5526"
   },
   {
+    "path": "物理/10_题库/_assets/上册逐章/14_衍射/001-extracted.png",
+    "bytes": 35477,
+    "sha256": "d37c147e750e24da56be3b55c1ba755ed4d8495eef88f99fd6921db5e0430405"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/14_衍射/002.png",
+    "bytes": 38170,
+    "sha256": "f28c69f793494ebc647c2dd3da57eff4edecde4c6c1592688faca6ebf99b0047"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/14_衍射/002.svg",
+    "bytes": 13202,
+    "sha256": "eca4c4cebb28e3ae62023c5f10a87688a505c39dc7bb12f0ff322c5f605b2da9"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/14_衍射/003-extracted.png",
+    "bytes": 64763,
+    "sha256": "49e6ad399bdd68902d8e25765f97fff21709b8cdb5b90cd0fe9fee560f4e9d27"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/14_衍射/004-extracted.png",
+    "bytes": 194320,
+    "sha256": "1ffa95ef2c781d0e0831a37a17fee8c977cfeae4b8a1c3442104949137e28bcc"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/14_衍射/005-extracted.png",
+    "bytes": 50478,
+    "sha256": "cbc6fc1049b4cae83197c7d1203bebffc428849c0f3dea0d3e6ed6e983911e22"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/14_衍射/006-extracted.png",
+    "bytes": 87398,
+    "sha256": "10b873e424582d788fc929719d827d699eebdc92893e31a9b0b146494e0414f7"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/14_衍射/extract_from_pdf.py",
+    "bytes": 1378,
+    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/14_衍射/generate.py",
+    "bytes": 1245,
+    "sha256": "fb9895f9374d003249f693cd43611de19585533c6b76d5585a289a4143207f8f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/14_衍射/mapping.json",
+    "bytes": 29595,
+    "sha256": "e42aa8bd3c46a0aaa1ab9134b26cca78f6b42fc65e88ed30f1d91016d036364d"
+  },
+  {
     "path": "物理/10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
     "bytes": 10165,
     "sha256": "3af9b8c8227990fea3d54357ad9c07f1694fbce566a4d816bdd9766cd2037fe6"
@@ -5276,13 +5326,13 @@
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_29_光的衍射（一）_题面整理.md",
-    "bytes": 3343,
-    "sha256": "d062ddfc78a189f0e6e7f8054d82ca8eed794f979d3d488e2f5565ceef6c74bb"
+    "bytes": 3305,
+    "sha256": "612540bf081bf31cdf16c087862ad769a46e8ab3bfdcc29cd284d11040875f70"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_30_光的衍射（二）_题面整理.md",
-    "bytes": 3571,
-    "sha256": "bbe35a7822a017cdaeb3c6d74a70b0365928db1678e318743281f611e6255b82"
+    "bytes": 3485,
+    "sha256": "9f45a208fa90f29f8d28790f4a9f216148ee9fdfd3334ac9362d8ff26f922cd9"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_31_光的衍射（三）_题面整理.md",
@@ -5341,8 +5391,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
-    "bytes": 13173,
-    "sha256": "9c9597c6120f8ddd96ec44b11023d57a600e071bf9ef74876d73ac1e4ba4dbd1"
+    "bytes": 13116,
+    "sha256": "5d63ee81d79f883344456f97e6f5ec22423e40f5de323e997cdeb5c23395a733"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
@@ -5361,8 +5411,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
-    "bytes": 13083,
-    "sha256": "06b4471b67c6689f3dc81f109f50f7925c15b59d320f8cfbb6f59ec93a6e91cf"
+    "bytes": 13033,
+    "sha256": "e6a2ee113a1a2565a713fce876c8034b1add9df914dd67da92fd05c502d6203a"
   },
   {
     "path": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
@@ -5436,8 +5486,8 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第14章_光的衍射_题面整理.md",
-    "bytes": 22728,
-    "sha256": "07daa69ac63979d56a541b6763fb662aafb7542d02683d4978295553580f3220"
+    "bytes": 22737,
+    "sha256": "c62b731591bed1a9a48e42599b9358cb670c124ef82616a84725cdb91a2ce16f"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
@@ -7748,6 +7798,91 @@
     "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/validation.json",
     "bytes": 9370,
     "sha256": "d7281229f7d088f9c256c0d75d964f5cc94955f51df923ea4cbe15b28e916d0d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/README.md",
+    "bytes": 12010,
+    "sha256": "b950f117637f972c06d53ea71f4fe521c77e04558fd482c88145f33e499b24c7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/comparison-01.png",
+    "bytes": 553836,
+    "sha256": "0106f29346ec6a48e4dd345251ff93c1de54239f2f3b03743567410067f1a343"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/comparison-02.png",
+    "bytes": 83752,
+    "sha256": "40f813dd87f5729e82da40b18ff346c51476dd4927ed916ea06e60a59c7c6963"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/reading-320px.png",
+    "bytes": 211038,
+    "sha256": "87b353212731149e9dc045ed38874d7b70320d474aaa2e015e2cb97c843f6c74"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-001.png",
+    "bytes": 35477,
+    "sha256": "d37c147e750e24da56be3b55c1ba755ed4d8495eef88f99fd6921db5e0430405"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-002.png",
+    "bytes": 51768,
+    "sha256": "ac5af97cda972eb52af28f76d4989037a1cc3115c8786178db558f7a62b918ae"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-003.png",
+    "bytes": 64763,
+    "sha256": "49e6ad399bdd68902d8e25765f97fff21709b8cdb5b90cd0fe9fee560f4e9d27"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-004.png",
+    "bytes": 194320,
+    "sha256": "1ffa95ef2c781d0e0831a37a17fee8c977cfeae4b8a1c3442104949137e28bcc"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-005.png",
+    "bytes": 50478,
+    "sha256": "cbc6fc1049b4cae83197c7d1203bebffc428849c0f3dea0d3e6ed6e983911e22"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-006.png",
+    "bytes": 87398,
+    "sha256": "10b873e424582d788fc929719d827d699eebdc92893e31a9b0b146494e0414f7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-007.png",
+    "bytes": 27173,
+    "sha256": "13c7b9ecbbc2ec28af643db774c6dd7bf623532b0e8c58d371ca4082ec356f12"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-008.png",
+    "bytes": 24714,
+    "sha256": "9bcdc1bd5c8573dea78d43071ff7b6f370dffb446c39bf14fda61822a093ffc7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-009.png",
+    "bytes": 17701,
+    "sha256": "57751e28330da96b56c6a59ee301a3a8f773c5528362b5d828e0f48a7639599e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-010.png",
+    "bytes": 17961,
+    "sha256": "02fcdd76a6f28950e7bc28d9df355dd2de94244970bb9d5fda11b77b817529ee"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-011.png",
+    "bytes": 18067,
+    "sha256": "dba64667bb74bb2e7686e6f61c7799f6d9b57359e47219f38a2ffedf9e6322e0"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-012.png",
+    "bytes": 20907,
+    "sha256": "3dc6de6aa232d281511283d9f0f4ecf236e736450d6782b28bccb86e92b68b55"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/validation.json",
+    "bytes": 4135,
+    "sha256": "18b0a36116d7c7469e31d5cd7d58c2d24e5baaffaa72f8a43b9913be0750cec4"
   },
   {
     "path": "物理/40_派生视图/大物上/今年期末复用高可能题单.md",
@@ -11396,13 +11531,13 @@
   },
   {
     "path": "物理/大学物理习题册（上）/29_习题二十九 光的衍射（一）.md",
-    "bytes": 2448,
-    "sha256": "5d8d498660d92ad8ec80afa1fd6d6c009ae4768b01bfff77e162d68e7a83fd7b"
+    "bytes": 2456,
+    "sha256": "7b2de2a1e37fb0636a62225ae0af391cabe8e215270edf6161e0d11589cd9b67"
   },
   {
     "path": "物理/大学物理习题册（上）/30_习题三十 光的衍射（二）.md",
-    "bytes": 2545,
-    "sha256": "b58fc7b1132ecf16b6808cb8ad7cb9c2997300e4e516a36a599c928aa716c0bb"
+    "bytes": 2557,
+    "sha256": "44ab63e22007cae96db95d56bbf012c5d8a9f2a5bc2bde748d435b60b2b607de"
   },
   {
     "path": "物理/大学物理习题册（上）/31_习题三一 光的衍射（三）.md",
