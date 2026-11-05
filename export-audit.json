@@ -1367,5 +1367,48 @@
       "电路分析/10_题库/assets/redraw-batch01/comparison-04.png",
       "电路分析/10_题库/assets/redraw-batch01/comparison-05.png"
     ]
+  },
+  "physics_upper_chapter_01_20261106": {
+    "chapter": "运动学",
+    "reviewed_source_assets": 10,
+    "new_outputs": 7,
+    "changed_files": [
+      "物理/10_题库/习题册/大学物理习题册_02_质点运动描述二_题面整理.md",
+      "物理/10_题库/习题册/大学物理习题册_03_质点运动描述三_题面整理.md",
+      "物理/10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+      "物理/10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+      "物理/10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+      "物理/大学物理习题册（上）/02_习题一 质点运动的描述（二）.md",
+      "物理/大学物理习题册（上）/03_习题三 质点运动的描述（三）.md",
+      "物理/10_题库/_assets/上册逐章/01_运动学/01-circle-position.png",
+      "物理/10_题库/_assets/上册逐章/01_运动学/01-circle-position.svg",
+      "物理/10_题库/_assets/上册逐章/01_运动学/02-circle-P.png",
+      "物理/10_题库/_assets/上册逐章/01_运动学/02-circle-P.svg",
+      "物理/10_题库/_assets/上册逐章/01_运动学/03-boat-relative-velocity.png",
+      "物理/10_题库/_assets/上册逐章/01_运动学/03-boat-relative-velocity.svg",
+      "物理/10_题库/_assets/上册逐章/01_运动学/04-sphere-A-B.png",
+      "物理/10_题库/_assets/上册逐章/01_运动学/04-sphere-A-B.svg",
+      "物理/10_题库/_assets/上册逐章/01_运动学/05-projectile-launch.png",
+      "物理/10_题库/_assets/上册逐章/01_运动学/05-projectile-launch.svg",
+      "物理/10_题库/_assets/上册逐章/01_运动学/06-quarter-circle-track.png",
+      "物理/10_题库/_assets/上册逐章/01_运动学/06-quarter-circle-track.svg",
+      "物理/10_题库/_assets/上册逐章/01_运动学/07-projectile-tangent-30deg.png",
+      "物理/10_题库/_assets/上册逐章/01_运动学/07-projectile-tangent-30deg.svg",
+      "物理/10_题库/_assets/上册逐章/01_运动学/generate.py",
+      "物理/10_题库/_assets/上册逐章/01_运动学/mapping.json",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/comparison-01.png",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/comparison-02.png",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/reading-320px.png",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/README.md",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/source-001.png",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/source-002.png",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/source-003.png",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/source-004.png",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/source-005.png",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/source-006.png",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/source-007.png",
+      "物理/40_派生视图/大物上/上册逐章/01_运动学/validation.json"
+    ],
+    "validation": "物理/40_派生视图/大物上/上册逐章/01_运动学/validation.json"
   }
 }

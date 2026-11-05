@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 97384,
-    "sha256": "d8cfb97a47d91209260b86aa887f58a28b059497e0653532419241317539f91e"
+    "bytes": 100642,
+    "sha256": "19db2351e798f7932fa4a6dd4cfe8bb33a9d3cd4a185e2e4a0f8e73a43f8c996"
   },
   {
     "path": "tools/verify_share.py",
@@ -1218,6 +1218,86 @@
     "path": "物理/10_题库/_assets/2024-2025期末截图/f6d529dd8428adbcf5a7c57f04e60e27a2a44cd98236ae65f15d0d0a94316eb3.jpg",
     "bytes": 21430,
     "sha256": "6b6cfb3fdaadf76367f41757b2821d8a97db5e516cf4cb4e65cadfa517b0bb83"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/01-circle-position.png",
+    "bytes": 45391,
+    "sha256": "785ceb91d8ea48ec5be4d034488b236cc43b13c2dc112b47e706c8faa496a885"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/01-circle-position.svg",
+    "bytes": 12611,
+    "sha256": "e6ccbd5adda274ae5c2873231ca8d36fdc41f237be73c82d19d171522d02f069"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/02-circle-P.png",
+    "bytes": 35573,
+    "sha256": "d6bf8b3f6d048b2e53de7ee6020847cc6f71b36c387d1d4ed85cf19a3f740eeb"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/02-circle-P.svg",
+    "bytes": 5594,
+    "sha256": "2336897cd9f55e37625e8268fb2df231641ee77db003ec9439e5d9adc1a22d94"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/03-boat-relative-velocity.png",
+    "bytes": 29114,
+    "sha256": "ef3239d013c180a411a14b9dd5d71c686c4d5c99599962de7bee92c415d1093a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/03-boat-relative-velocity.svg",
+    "bytes": 5601,
+    "sha256": "eb8cf73a9c03d7ef5971394a0049e9dfef3aeefc9bda4f999bbfcc49933a3cb5"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/04-sphere-A-B.png",
+    "bytes": 29612,
+    "sha256": "97a53abbbc7cf71f5ca7aaa769308e0e627016b0c2801d678278bf50081e5422"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/04-sphere-A-B.svg",
+    "bytes": 10778,
+    "sha256": "d08bf7e1fca5c5638933d956af3f245a362ec46674566363522ea380c23379bd"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/05-projectile-launch.png",
+    "bytes": 29827,
+    "sha256": "dac123fd5479c3eb14208c382ecb343bcce93af591848b88aec3bd7dab99c2d8"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/05-projectile-launch.svg",
+    "bytes": 6107,
+    "sha256": "4f726f06bf9a29977fe6e8234d246beb0836c637a83ba5ae87b738ba049a824e"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/06-quarter-circle-track.png",
+    "bytes": 23455,
+    "sha256": "a14180d03ccb033ecff47fca9242ff0ca6ef81f200ff8ae1af916b7aa7a4ebfb"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/06-quarter-circle-track.svg",
+    "bytes": 6935,
+    "sha256": "a432682758a4f9a943257ed750a6a9f3d1d8849f19e93cd988b329806aad3d5b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/07-projectile-tangent-30deg.png",
+    "bytes": 32897,
+    "sha256": "e65c78a2ccebd47413c0c7e7d8cd2c752ca91707624c707cf8e224fd65a4bda7"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/07-projectile-tangent-30deg.svg",
+    "bytes": 8518,
+    "sha256": "c8fe7c56240f5e5700410d85bcc5ba9f127744c143a1c1ce7cc7d7a8560d588a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/generate.py",
+    "bytes": 5792,
+    "sha256": "4890b55ca2a6dbb563fc4ed83e03b290022a672b390f3674248575c53578ed1c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/01_运动学/mapping.json",
+    "bytes": 19051,
+    "sha256": "ca4a9a3cc70782662f0bab19045ec09a6b79a8b5fdc61591798f72d12d6d13d9"
   },
   {
     "path": "物理/10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
@@ -3356,13 +3436,13 @@
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_02_质点运动描述二_题面整理.md",
-    "bytes": 4044,
-    "sha256": "aef9da02412159cd7d3022130870ba863d24b82d403b556a1df7fccde04af4d6"
+    "bytes": 3977,
+    "sha256": "824becb854560ef960486d3e26e0b297aca81b1facd9a9b7d0dae33774639f27"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_03_质点运动描述三_题面整理.md",
-    "bytes": 3731,
-    "sha256": "4c3bdff2d07b7bcbd982233f16494885006b881eff44b5a9ee2c76089483c0d5"
+    "bytes": 3708,
+    "sha256": "dbeceb716f8646e1c6ff226c95e422a370646d3f333629ea6b8be89daa91fbb1"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
@@ -3511,8 +3591,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
-    "bytes": 13065,
-    "sha256": "88cf4f9a6dc60d113ca2c951bf85745bbc94b6faba949822866b95e2b43e68fb"
+    "bytes": 12964,
+    "sha256": "1f2a3da8863a806773f97806291a0284dc0f208b8a21657cde10625267242f04"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
@@ -3531,13 +3611,13 @@
   },
   {
     "path": "物理/10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
-    "bytes": 15730,
-    "sha256": "c7c1d26483fc4878f662e6fa19bfe96850b81c8dcf27d28265cba1186a4ebe12"
+    "bytes": 15692,
+    "sha256": "6454d3599de5e94cb6ffc93ced719b28838d1af0d4eb8eb505a28d7ef1e57c27"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
-    "bytes": 13475,
-    "sha256": "6f509969e0ab115e51c0b3b0739beff94818218af7b2fd63ab1a45f218dee35c"
+    "bytes": 13441,
+    "sha256": "5bf9c44684f9723d1eed9d294fe3b75e28a54f66ba22f4cacc8d0ec4b863406a"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
@@ -4003,6 +4083,66 @@
     "path": "物理/40_派生视图/大物上/README.md",
     "bytes": 1704,
     "sha256": "272ecec6d3d076aa1d3a78151bbc89dba755933bc736c51d26d9e873a2901930"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/README.md",
+    "bytes": 9458,
+    "sha256": "2c003b58bf04ccb6044588745f3ea4e221e0951cc454a6851560569ec9ac4146"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/comparison-01.png",
+    "bytes": 305863,
+    "sha256": "4d28a8b7133edcaadb93291794b85f3905efacf0c25edbff0a2f600ce1b58ba1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/comparison-02.png",
+    "bytes": 54850,
+    "sha256": "a1cc2a8df157940bbc6bcdb266d4296235c9f824e55d447cdee101e1d8e546fb"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/reading-320px.png",
+    "bytes": 80323,
+    "sha256": "7f26f9514c99c0adbd59855c16bd2705983f227bd3d4086af85ee0f5a2d2d1a6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/source-001.png",
+    "bytes": 39667,
+    "sha256": "fe94df2d914775bae8eacbad2aa4e6f6a66a33838e91088fd90a00d3f358ce72"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/source-002.png",
+    "bytes": 29193,
+    "sha256": "6b9a5e951ea3e4d9662a7afd1acba43e7aa91207428126d9deb2706927767460"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/source-003.png",
+    "bytes": 19524,
+    "sha256": "18945367d24c67f4ff0ef14bcb6720a920d31e31cbe1f7b96cc4aef3bcc16aed"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/source-004.png",
+    "bytes": 62481,
+    "sha256": "949de76ba0545b6ca554c42a255f417099f1ba86163cae55ceb82d800dc6c2af"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/source-005.png",
+    "bytes": 44994,
+    "sha256": "6b7ac84c7b365801792ffff6b427c582bd94ca3fb8af0ac8f0817b49b14826ee"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/source-006.png",
+    "bytes": 29141,
+    "sha256": "a0c2071f30a778410b6ea6c8adfd975ce278224b6af9b239a49c5b2467fbe893"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/source-007.png",
+    "bytes": 53583,
+    "sha256": "395f72e9cb698f484e51a021578e118f7027f603a59590b61ed931a82308b786"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/validation.json",
+    "bytes": 4354,
+    "sha256": "be0b40a5a5ee20b8a3a0e1dd8f758fa33c3025f6381769b041999e5f05a28fcc"
   },
   {
     "path": "物理/40_派生视图/大物上/今年期末复用高可能题单.md",
@@ -7516,13 +7656,13 @@
   },
   {
     "path": "物理/大学物理习题册（上）/02_习题一 质点运动的描述（二）.md",
-    "bytes": 3005,
-    "sha256": "40a2300d8a65b2832333a078f50fc513c1ce4b114167d2f530cc322f2826e2de"
+    "bytes": 3024,
+    "sha256": "0d67921f61925f2c3dd97feef7e408d44855fef7f209dfe27a58b78535da6821"
   },
   {
     "path": "物理/大学物理习题册（上）/03_习题三 质点运动的描述（三）.md",
-    "bytes": 2743,
-    "sha256": "d933b3c4c0616e6c5be62a4c9d37c8966412f5a5f80e592d81cecd9de97be972"
+    "bytes": 2763,
+    "sha256": "8a6b728d312f4df98317cc7660986974c23e862243f3fabbd7cf5c3ea8e5bb95"
   },
   {
     "path": "物理/大学物理习题册（上）/04_习题四 质点运动的描述（四）.md",

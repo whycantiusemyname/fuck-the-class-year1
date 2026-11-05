@@ -1,0 +1,431 @@
+[
+  {
+    "document": "10_题库/习题册/大学物理习题册_02_质点运动描述二_题面整理.md",
+    "question": "习题册-章节02-题5",
+    "chapter": "01",
+    "target": "物理/10_题库/_assets/习题册/56710dc37b0ff2c214115722cf7954059ef7434a15fac4166fccfcf82d86ed6a.jpg",
+    "path": "10_题库/_assets/习题册/56710dc37b0ff2c214115722cf7954059ef7434a15fac4166fccfcf82d86ed6a.jpg",
+    "sha256": "39c69becb889af21af26e10e7ac0b298fcbfb64dd1c4d3c0904c66185736b81b",
+    "size": [
+      390,
+      325
+    ],
+    "id": 1,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 3,
+    "bbox_1000": [
+      543,
+      250,
+      670,
+      404
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\56710dc37b0ff2c214115722cf7954059ef7434a15fac4166fccfcf82d86ed6a.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-001.png",
+    "source_crop_size": [
+      563,
+      468
+    ],
+    "page_preview": "page-1-003.png",
+    "method": "redrawn",
+    "new": "01-circle-position.svg",
+    "check": "原点O、x/y正方向、位置矢量r、(x,y)、单位矢量i/j和逆时针ω；无新增数值角度或刻度。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_02_质点运动描述二_题面整理.md",
+        "question": "习题册-章节02-题5",
+        "chapter": "01",
+        "target": "物理/10_题库/_assets/习题册/56710dc37b0ff2c214115722cf7954059ef7434a15fac4166fccfcf82d86ed6a.jpg",
+        "path": "10_题库/_assets/习题册/56710dc37b0ff2c214115722cf7954059ef7434a15fac4166fccfcf82d86ed6a.jpg",
+        "sha256": "39c69becb889af21af26e10e7ac0b298fcbfb64dd1c4d3c0904c66185736b81b",
+        "size": [
+          390,
+          325
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/01_运动学/01-circle-position.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_02_质点运动描述二_题面整理.md",
+    "question": "习题册-章节02-题6",
+    "chapter": "01",
+    "target": "物理/10_题库/_assets/习题册/8429746b25da038c4de5e8cf5d50972d5b91c6a06469e778364bc51cafb9da2b.jpg",
+    "path": "10_题库/_assets/习题册/8429746b25da038c4de5e8cf5d50972d5b91c6a06469e778364bc51cafb9da2b.jpg",
+    "sha256": "a48a7db62eac8f5bbbad783a3a5b0a9df8c436cdda6d98e9ec33e0216dd32d23",
+    "size": [
+      240,
+      254
+    ],
+    "id": 2,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 3,
+    "bbox_1000": [
+      551,
+      604,
+      628,
+      724
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\8429746b25da038c4de5e8cf5d50972d5b91c6a06469e778364bc51cafb9da2b.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-002.png",
+    "source_crop_size": [
+      342,
+      365
+    ],
+    "page_preview": "page-1-003.png",
+    "method": "redrawn",
+    "new": "02-circle-P.svg",
+    "check": "圆心O、P点、半径R；P点运动箭头顺时针，沿圆周切向。题给R=2m在题面中保留，图不添加刻度。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_02_质点运动描述二_题面整理.md",
+        "question": "习题册-章节02-题6",
+        "chapter": "01",
+        "target": "物理/10_题库/_assets/习题册/8429746b25da038c4de5e8cf5d50972d5b91c6a06469e778364bc51cafb9da2b.jpg",
+        "path": "10_题库/_assets/习题册/8429746b25da038c4de5e8cf5d50972d5b91c6a06469e778364bc51cafb9da2b.jpg",
+        "sha256": "a48a7db62eac8f5bbbad783a3a5b0a9df8c436cdda6d98e9ec33e0216dd32d23",
+        "size": [
+          240,
+          254
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/01_运动学/02-circle-P.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_03_质点运动描述三_题面整理.md",
+    "question": "习题册-章节03-题4",
+    "chapter": "01",
+    "target": "物理/10_题库/_assets/习题册/f09c0ad314372fce8fe4e1c4bcc8c1555d98c69aeb5cbfaa3e81fbdf08183d1f.jpg",
+    "path": "10_题库/_assets/习题册/f09c0ad314372fce8fe4e1c4bcc8c1555d98c69aeb5cbfaa3e81fbdf08183d1f.jpg",
+    "sha256": "e7848f424dc71955946168c0aba879f07406de7dac0f8756a6ef7bbe1964bc8f",
+    "size": [
+      356,
+      251
+    ],
+    "id": 3,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 4,
+    "bbox_1000": [
+      361,
+      747,
+      477,
+      866
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\f09c0ad314372fce8fe4e1c4bcc8c1555d98c69aeb5cbfaa3e81fbdf08183d1f.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-003.png",
+    "source_crop_size": [
+      514,
+      362
+    ],
+    "page_preview": "page-1-004.png",
+    "method": "redrawn",
+    "new": "03-boat-relative-velocity.svg",
+    "check": "水流u水平向右，小船相对水速度v右上；α为u/v夹角；未添加合速度或具体角度。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_03_质点运动描述三_题面整理.md",
+        "question": "习题册-章节03-题4",
+        "chapter": "01",
+        "target": "物理/10_题库/_assets/习题册/f09c0ad314372fce8fe4e1c4bcc8c1555d98c69aeb5cbfaa3e81fbdf08183d1f.jpg",
+        "path": "10_题库/_assets/习题册/f09c0ad314372fce8fe4e1c4bcc8c1555d98c69aeb5cbfaa3e81fbdf08183d1f.jpg",
+        "sha256": "e7848f424dc71955946168c0aba879f07406de7dac0f8756a6ef7bbe1964bc8f",
+        "size": [
+          356,
+          251
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/01_运动学/03-boat-relative-velocity.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+    "question": "15-16期中-选5",
+    "chapter": "01",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/79abfe425ca99b1cae69d899487fb5dd701872edb2fa120cd38b48735d3f4dd7.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/79abfe425ca99b1cae69d899487fb5dd701872edb2fa120cd38b48735d3f4dd7.jpg",
+    "sha256": "eb4385fb55caf5059f94960a3a695ea954fe740b54d3e042bf5ded4ba4389836",
+    "size": [
+      265,
+      151
+    ],
+    "id": 4,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 11,
+    "bbox_1000": [
+      731,
+      501,
+      890,
+      565
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\79abfe425ca99b1cae69d899487fb5dd701872edb2fa120cd38b48735d3f4dd7.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-004.png",
+    "source_crop_size": [
+      382,
+      217
+    ],
+    "page_preview": "page-2-011.png",
+    "method": "redrawn",
+    "new": "04-sphere-A-B.svg",
+    "check": "A在球顶，B在右上球面；θ从竖直半径量起；球面固定。未增添力、速度或角度数值。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+        "question": "15-16期中-选5",
+        "chapter": "01",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/79abfe425ca99b1cae69d899487fb5dd701872edb2fa120cd38b48735d3f4dd7.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/79abfe425ca99b1cae69d899487fb5dd701872edb2fa120cd38b48735d3f4dd7.jpg",
+        "sha256": "eb4385fb55caf5059f94960a3a695ea954fe740b54d3e042bf5ded4ba4389836",
+        "size": [
+          265,
+          151
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/01_运动学/04-sphere-A-B.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+    "question": "15-16期中-填1",
+    "chapter": "01",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/2d124d394329f06e473c2b71997703968c6cde6c6e3ac77080838cd56cc87ec4.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/2d124d394329f06e473c2b71997703968c6cde6c6e3ac77080838cd56cc87ec4.jpg",
+    "sha256": "1670f6bb01f563176fc7cf36ebe856e435c0c134e7f885de413a94d2983b2783",
+    "size": [
+      193,
+      198
+    ],
+    "id": 5,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 11,
+    "bbox_1000": [
+      794,
+      854,
+      910,
+      939
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\2d124d394329f06e473c2b71997703968c6cde6c6e3ac77080838cd56cc87ec4.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-005.png",
+    "source_crop_size": [
+      280,
+      289
+    ],
+    "page_preview": "page-2-011.png",
+    "method": "redrawn",
+    "new": "05-projectile-launch.svg",
+    "check": "v0沿初始轨道切线向右上；θ相对水平线；题面指定角度基准为水平。原扫描角弧模糊，按原页文字确定；轨迹无定量高度、射程或角度。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+        "question": "15-16期中-填1",
+        "chapter": "01",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/2d124d394329f06e473c2b71997703968c6cde6c6e3ac77080838cd56cc87ec4.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/2d124d394329f06e473c2b71997703968c6cde6c6e3ac77080838cd56cc87ec4.jpg",
+        "sha256": "1670f6bb01f563176fc7cf36ebe856e435c0c134e7f885de413a94d2983b2783",
+        "size": [
+          193,
+          198
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/01_运动学/05-projectile-launch.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-填3",
+    "chapter": "01",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/1f6beba0551ca84c6f494f998d7275823e4c918d6611d91927060e9c6416e7b2.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/1f6beba0551ca84c6f494f998d7275823e4c918d6611d91927060e9c6416e7b2.jpg",
+    "sha256": "d2aa1a81f247688111ce1664f7514b32daa1cc38b0c033e3376c76e864f476b4",
+    "size": [
+      209,
+      146
+    ],
+    "id": 6,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      769,
+      557,
+      895,
+      619
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\1f6beba0551ca84c6f494f998d7275823e4c918d6611d91927060e9c6416e7b2.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-006.png",
+    "source_crop_size": [
+      303,
+      211
+    ],
+    "page_preview": "page-3-010.png",
+    "method": "redrawn",
+    "new": "06-quarter-circle-track.svg",
+    "check": "A为圆弧左端、B为下端，R连接A与右上圆心；四分之一圆，A切线竖直、B切线水平。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-填3",
+        "chapter": "01",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/1f6beba0551ca84c6f494f998d7275823e4c918d6611d91927060e9c6416e7b2.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/1f6beba0551ca84c6f494f998d7275823e4c918d6611d91927060e9c6416e7b2.jpg",
+        "sha256": "d2aa1a81f247688111ce1664f7514b32daa1cc38b0c033e3376c76e864f476b4",
+        "size": [
+          209,
+          146
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/01_运动学/06-quarter-circle-track.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+    "question": "23-24期中-填1",
+    "chapter": "01",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/820f7209653c871d4193a87bb46fc65bf6f485460855e38c5ced9dbcf6aa51a1.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/820f7209653c871d4193a87bb46fc65bf6f485460855e38c5ced9dbcf6aa51a1.jpg",
+    "sha256": "bbb112c00e89defaaffce0f84de8d212a95b284be54dcc569a3cb73b487555d7",
+    "size": [
+      437,
+      178
+    ],
+    "id": 7,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 6,
+    "bbox_1000": [
+      638,
+      507,
+      902,
+      583
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\820f7209653c871d4193a87bb46fc65bf6f485460855e38c5ced9dbcf6aa51a1.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-007.png",
+    "source_crop_size": [
+      635,
+      258
+    ],
+    "page_preview": "page-3-006.png",
+    "method": "redrawn",
+    "new": "07-projectile-tangent-30deg.svg",
+    "check": "A在上升支，速度v在A沿切线向右上，与水平30°；脚本约束斜率tan30°，无额外刻度。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+        "question": "23-24期中-填1",
+        "chapter": "01",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/820f7209653c871d4193a87bb46fc65bf6f485460855e38c5ced9dbcf6aa51a1.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/820f7209653c871d4193a87bb46fc65bf6f485460855e38c5ced9dbcf6aa51a1.jpg",
+        "sha256": "bbb112c00e89defaaffce0f84de8d212a95b284be54dcc569a3cb73b487555d7",
+        "size": [
+          437,
+          178
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/01_运动学/07-projectile-tangent-30deg.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/02_习题一 质点运动的描述（二）.md",
+    "question": "5",
+    "chapter": "01",
+    "target": "_assets/02_习题一 质点运动的描述（二）/图5.png|220",
+    "path": "大学物理习题册（上）/_assets/02_习题一 质点运动的描述（二）/图5.png",
+    "sha256": "6619b7b8d975049c4f5369002cffabf8f7eb105f85fa9b420f648eb048fcdbd7",
+    "size": [
+      362,
+      316
+    ],
+    "id": 8,
+    "method": "reuse_redraw",
+    "new": "01-circle-position.svg",
+    "check": "旧整理第02节题5，对照同一原PDF第3页，复用已核验图；保留原220显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/02_习题一 质点运动的描述（二）.md",
+        "question": "5",
+        "chapter": "01",
+        "target": "_assets/02_习题一 质点运动的描述（二）/图5.png|220",
+        "path": "大学物理习题册（上）/_assets/02_习题一 质点运动的描述（二）/图5.png",
+        "sha256": "6619b7b8d975049c4f5369002cffabf8f7eb105f85fa9b420f648eb048fcdbd7",
+        "size": [
+          362,
+          316
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/01_运动学/01-circle-position.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/02_习题一 质点运动的描述（二）.md",
+    "question": "6",
+    "chapter": "01",
+    "target": "_assets/02_习题一 质点运动的描述（二）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/02_习题一 质点运动的描述（二）/图6.png",
+    "sha256": "26b41449135886473aae1d3453ebb4a43075b2b8baa99816106d47975a3fba32",
+    "size": [
+      286,
+      298
+    ],
+    "id": 9,
+    "method": "reuse_redraw",
+    "new": "02-circle-P.svg",
+    "check": "旧整理第02节题6，对照同一原PDF第3页，复用已核验图；保留原220显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/02_习题一 质点运动的描述（二）.md",
+        "question": "6",
+        "chapter": "01",
+        "target": "_assets/02_习题一 质点运动的描述（二）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/02_习题一 质点运动的描述（二）/图6.png",
+        "sha256": "26b41449135886473aae1d3453ebb4a43075b2b8baa99816106d47975a3fba32",
+        "size": [
+          286,
+          298
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/01_运动学/02-circle-P.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/03_习题三 质点运动的描述（三）.md",
+    "question": "4",
+    "chapter": "01",
+    "target": "_assets/03_习题三 质点运动的描述（三）/图4.png|220",
+    "path": "大学物理习题册（上）/_assets/03_习题三 质点运动的描述（三）/图4.png",
+    "sha256": "e27e1eef6c715ae78e1562c79f13ab57a772a18742244f79c879073a964b0d68",
+    "size": [
+      408,
+      298
+    ],
+    "id": 10,
+    "method": "reuse_redraw",
+    "new": "03-boat-relative-velocity.svg",
+    "check": "旧整理第03节题4，对照同一原PDF第4页，复用已核验图；保留原220显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/03_习题三 质点运动的描述（三）.md",
+        "question": "4",
+        "chapter": "01",
+        "target": "_assets/03_习题三 质点运动的描述（三）/图4.png|220",
+        "path": "大学物理习题册（上）/_assets/03_习题三 质点运动的描述（三）/图4.png",
+        "sha256": "e27e1eef6c715ae78e1562c79f13ab57a772a18742244f79c879073a964b0d68",
+        "size": [
+          408,
+          298
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/01_运动学/03-boat-relative-velocity.svg"
+  }
+]
