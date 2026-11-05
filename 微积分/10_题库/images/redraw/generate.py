@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+from matplotlib.collections import PolyCollection
 OUT=Path(__file__).resolve().parent
 plt.rcParams.update({'font.family':'STIXGeneral','mathtext.fontset':'stix','font.size':18,'svg.fonttype':'path','svg.hashsalt':'calculus-20261106'})
 def canvas():
@@ -18,14 +19,33 @@ def axes(a,r):
         q=proj(*p);arrow(a,(0,0),q);label(a,(q[0]+offset[0],q[1]+offset[1]),s)
     label(a,(.13,.10),'$O$')
 def save(f,n):
-    f.savefig(OUT/(n+'.svg'),bbox_inches='tight',metadata={'Date':None});f.savefig(OUT/(n+'.png'),dpi=200,bbox_inches='tight');plt.close(f)
+    f.savefig(OUT/(n+'.svg'),bbox_inches='tight',metadata={'Date':None})
+    p=OUT/(n+'.svg');p.write_text('\n'.join(s.rstrip() for s in p.read_text(encoding='utf-8').splitlines())+'\n',encoding='utf-8',newline='\n')
+    f.savefig(OUT/(n+'.png'),dpi=200,bbox_inches='tight');plt.close(f)
+def shell(a,r,lower=False):
+    # Vector surface patches, sorted back-to-front in the exact oblique projection.
+    # Fine gray edges reproduce the source's surface mesh rather than floating wire circles.
+    v=np.linspace(-np.pi/2,0,29) if lower else np.linspace(0,np.pi/2,29)
+    u=np.linspace(0,2*np.pi,81);patches=[]
+    light=np.array([-.4,-.5,1.]);light/=np.linalg.norm(light)
+    view=np.array([1.,.65,.4475])
+    for i in range(len(v)-1):
+        for j in range(len(u)-1):
+            vv=np.array([v[i],v[i],v[i+1],v[i+1]]);uu=np.array([u[j],u[j+1],u[j+1],u[j]])
+            xyz=r*np.array([np.cos(vv)*np.cos(uu),np.cos(vv)*np.sin(uu),np.sin(vv)]).T
+            center=xyz.mean(axis=0);normal=center/np.linalg.norm(center)
+            gray=.88+.105*abs(normal@light)
+            patches.append((center@view,np.array(proj(*xyz.T)).T,(gray,gray,gray)))
+    patches.sort(key=lambda x:x[0]);a.add_collection(PolyCollection([p[1] for p in patches],facecolors=[p[2] for p in patches],edgecolors='#9b9b9b',linewidths=.22,zorder=0))
+    # True apparent contour: points on the sphere whose normal is perpendicular to the view.
+    view/=np.linalg.norm(view);e=np.cross(view,[0,0,1]);e/=np.linalg.norm(e);g=np.cross(view,e)
+    t=np.linspace(0,2*np.pi,1001);xyz=r*(e[:,None]*np.cos(t)+g[:,None]*np.sin(t))
+    valid=xyz[2]<=0 if lower else xyz[2]>=0;xyz[:,~valid]=np.nan
+    spacecurve(a,*xyz,lw=1.7)
 def hemisphere():
     f,a=canvas();t=np.linspace(0,2*np.pi,501)
     # Unit lower hemisphere, with an inward (upper-side) normal.
-    for z in [-.35,-.7]:
-        r=np.sqrt(1-z*z);spacecurve(a,r*np.cos(t),r*np.sin(t),z,'--',.55)
-    v=np.linspace(0,np.pi/2,160)
-    for phi in np.linspace(0,2*np.pi,6,endpoint=False):spacecurve(a,np.cos(v)*np.cos(phi),np.cos(v)*np.sin(phi),-np.sin(v),'--',.55)
+    shell(a,1,lower=True)
     spacecurve(a,np.cos(t),np.sin(t),0,lw=1.8)
     axes(a,1.4)
     p=np.array([.65,-.45,-np.sqrt(1-.65**2-.45**2)]);q=.55*p
@@ -33,14 +53,17 @@ def hemisphere():
     label(a,(-.15,-.86),'$S$');a.set_xlim(-1.5,1.6);a.set_ylim(-1.35,1.65);save(f,'lower-hemisphere')
 def intersection():
     f,a=canvas();t=np.linspace(0,2*np.pi,801)
+    shell(a,2)
     spacecurve(a,2*np.cos(t),2*np.sin(t),0,lw=1.5)
-    v=np.linspace(0,np.pi/2,180)
-    for phi in np.linspace(0,2*np.pi,9,endpoint=False):spacecurve(a,2*np.cos(v)*np.cos(phi),2*np.cos(v)*np.sin(phi),2*np.sin(v),'--',.55)
-    for z in [.55,1.1]:
-        r=np.sqrt(4-z*z);spacecurve(a,r*np.cos(t),r*np.sin(t),z,'--',.55)
-    for phi in [0,np.pi/2,np.pi,3*np.pi/2]:
-        x=1+np.cos(phi);y=np.sin(phi);spacecurve(a,[x,x],[y,y],[0,np.sqrt(max(0,4-x*x-y*y))],'--',.75)
-    spacecurve(a,1+np.cos(t),np.sin(t),0,'--',.9)
+    # Restore the full cylinder, including its top rim and silhouette generators.
+    # The top rim is an illustrative cutoff z=2, as in the source, not another intersection.
+    for z in np.linspace(0,2,13):a.plot(*proj(1+np.cos(t),np.sin(t),z),color='#888888',lw=.35)
+    for phi in np.linspace(0,2*np.pi,25,endpoint=False):
+        x=1+np.cos(phi);y=np.sin(phi);a.plot(*proj([x,x],[y,y],[0,2]),color='#888888',lw=.35)
+    for phi in [np.arctan2(.65,1)+np.pi/2,np.arctan2(.65,1)-np.pi/2]:
+        x=1+np.cos(phi);y=np.sin(phi);spacecurve(a,[x,x],[y,y],[0,2],lw=1.2)
+    spacecurve(a,1+np.cos(t),np.sin(t),2,lw=1.5)
+    spacecurve(a,1+np.cos(t),np.sin(t),0,lw=1.1)
     x=1+np.cos(t);y=np.sin(t);z=2*np.sin(t/2)
     assert np.allclose(x*x+y*y+z*z,4) and np.allclose((x-1)**2+y*y,1)
     spacecurve(a,x,y,z,lw=2.1)

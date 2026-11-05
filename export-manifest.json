@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 128166,
-    "sha256": "4e6a90ec43344746de75b25bb97fff9e9b203f676aad5378dec9ac1e11cc7493"
+    "bytes": 129078,
+    "sha256": "ceba64d0e172b793c4074e136235280061a2710599a86278eab2ed9c8c5b0cf0"
   },
   {
     "path": "tools/verify_share.py",
@@ -511,18 +511,18 @@
   },
   {
     "path": "微积分/10_题库/images/redraw/generate.py",
-    "bytes": 3662,
-    "sha256": "7d49a8986b8c644bd1e1218ab8febbd86048401b9ac7de2f6d92921fb133285c"
+    "bytes": 5235,
+    "sha256": "8f57b214da3c71066ceaf1d0a997baba9c78e366e16acf0501de29af228dd9e3"
   },
   {
     "path": "微积分/10_题库/images/redraw/lower-hemisphere.png",
-    "bytes": 57277,
-    "sha256": "c63680974dbac4cd6be88ff12085cac734e3298238d6dfd47432aa2abc7e5436"
+    "bytes": 118928,
+    "sha256": "6b0823b88198c5ce0a63cd00ea27414345662b1d751f545e38dafd2276f551f3"
   },
   {
     "path": "微积分/10_题库/images/redraw/lower-hemisphere.svg",
-    "bytes": 20819,
-    "sha256": "2489fbf215e18648f7f9565a7964ef2c0880e350060facf385a197d2166d05a4"
+    "bytes": 464043,
+    "sha256": "646de8a9396725336a7651ed6a84d776752db942cb5fc5b2bf3c053674240cc6"
   },
   {
     "path": "微积分/10_题库/images/redraw/mapping.json",
@@ -531,13 +531,13 @@
   },
   {
     "path": "微积分/10_题库/images/redraw/sphere-cylinder.png",
-    "bytes": 98893,
-    "sha256": "4d1d7890754d23e0a87c6177c790e50bb48388987616b5684b19b4b278fd15fd"
+    "bytes": 219071,
+    "sha256": "3c93e30311f5ad61326e601723571f2e3d0f3bb2fceba29720b444d0c449ff5b"
   },
   {
     "path": "微积分/10_题库/images/redraw/sphere-cylinder.svg",
-    "bytes": 30464,
-    "sha256": "bab5b86cbc66dad57b2d1f192006fcda53f3e45d80398d37ad19cd83e70c45a3"
+    "bytes": 500184,
+    "sha256": "98cb0fa4bcdcee64a2555ebf49f2adecbf3a79dcd2d1da187a26bd19cc1e6f77"
   },
   {
     "path": "微积分/10_题库/images/redraw/verify.py",
@@ -696,13 +696,13 @@
   },
   {
     "path": "微积分/40_派生视图/题图重绘_20261106/README.md",
-    "bytes": 1739,
-    "sha256": "fb2c2ea4ab22a63ad5b74a02a6a46fc8627d5c88345991273ae2fa749a272009"
+    "bytes": 2206,
+    "sha256": "fb30406ddf831d303918174c7b9083cb54ed2cc75061d6914be348716fc788b9"
   },
   {
     "path": "微积分/40_派生视图/题图重绘_20261106/comparison.png",
-    "bytes": 412401,
-    "sha256": "e4944bd60eb1620edaea0cf8b3c3ca7b8f79b4f3208b5ae5b43bdd4246cb3645"
+    "bytes": 517476,
+    "sha256": "a97eea0971afad13f11bc3f8a1984cbb88ac7708bfd58fad5e41191504766da2"
   },
   {
     "path": "微积分/40_派生视图/题图重绘_20261106/directed-path-svg-render.png",
@@ -716,18 +716,18 @@
   },
   {
     "path": "微积分/40_派生视图/题图重绘_20261106/lower-hemisphere-svg-render.png",
-    "bytes": 14408,
-    "sha256": "92ad196ef9b25554570ab559eda2a55affc6454e2803f62fe2e32b8724e9e743"
+    "bytes": 72710,
+    "sha256": "1e7fec441cc406d1505c438026af117d1b1d5e87b1356d7e56add55a1b3fe57f"
   },
   {
     "path": "微积分/40_派生视图/题图重绘_20261106/sphere-cylinder-svg-render.png",
-    "bytes": 24064,
-    "sha256": "03140cf866db5810561da0e07eb78c8d9ddf4e0e4936a804d57b7a2ce8abf909"
+    "bytes": 135056,
+    "sha256": "0ddc17fb8f42a1b14e37d4cee25b70a2a54f04b987a0795a2d621cffab0b126d"
   },
   {
     "path": "微积分/40_派生视图/题图重绘_20261106/validation.json",
-    "bytes": 544,
-    "sha256": "b7d21b1774ef5784ed7bbaf346fa2857a81f167fc408aa9e0fbbca187c073556"
+    "bytes": 743,
+    "sha256": "886ab6e0cb38acf1c6376ffbb45552fe125b9a40fe54ef4e704252223f353369"
   },
   {
     "path": "微积分/90_缓存/s2-frequency-analysis.json",

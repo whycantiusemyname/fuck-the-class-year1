@@ -1761,5 +1761,25 @@
       "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/validation.json"
     ],
     "validation": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/validation.json"
+  },
+  "calculus_surface_revision_20261106": {
+    "figures": 2,
+    "restored": [
+      "sphere silhouettes",
+      "surface shading and mesh",
+      "full cylinder rims and generators"
+    ],
+    "files": [
+      "微积分/10_题库/images/redraw/generate.py",
+      "微积分/10_题库/images/redraw/lower-hemisphere.svg",
+      "微积分/10_题库/images/redraw/lower-hemisphere.png",
+      "微积分/10_题库/images/redraw/sphere-cylinder.svg",
+      "微积分/10_题库/images/redraw/sphere-cylinder.png",
+      "微积分/40_派生视图/题图重绘_20261106/comparison.png",
+      "微积分/40_派生视图/题图重绘_20261106/validation.json",
+      "微积分/40_派生视图/题图重绘_20261106/README.md",
+      "微积分/40_派生视图/题图重绘_20261106/lower-hemisphere-svg-render.png",
+      "微积分/40_派生视图/题图重绘_20261106/sphere-cylinder-svg-render.png"
+    ]
   }
 }

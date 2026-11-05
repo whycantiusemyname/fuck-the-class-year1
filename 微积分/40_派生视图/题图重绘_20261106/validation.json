@@ -8,5 +8,6 @@
   "reference_only_changes": true,
   "geometry": "parametric identities, upper hemisphere and projected orientation passed",
   "visual": "all three source and output PNGs viewed; independently rendered SVGs also provided",
-  "source_pdf_unchanged": true
+  "source_pdf_unchanged": true,
+  "surface_revision": "Restored lower/upper spherical apparent contours, shaded vector surface mesh, full cylinder top rim/base rim and side silhouette; checked source and independent SVG renders."
 }
