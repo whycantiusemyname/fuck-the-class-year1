@@ -1,0 +1,515 @@
+{
+  "batch": "2026-11-06-batch01",
+  "status": "verified",
+  "source_pdf": "10_题库/assets/电子线路期末复习/source.pdf",
+  "source_pdf_sha256": "163e41f39e8da610b91858c4f05e27a7b1bd7bed66c3ed8d890cc7aae55f42b8",
+  "initial_reference_count": 293,
+  "verified_count": 10,
+  "records": [
+    {
+      "id": "B19",
+      "question": "电子复习-B19",
+      "page": 5,
+      "original": "10_题库/assets/电子线路期末复习/B19.png",
+      "original_sha256": "1cf6dd4ddbe0bdd213965700a32b67c5fdd2f0c11d1163fb078005c071c7ec60",
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 373,
+          "heading": "### 电子复习-B19",
+          "raw": "电路分析/10_题库/assets/电子线路期末复习/B19.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\电子线路期末复习\\B19.png"
+        }
+      ],
+      "quality_issue": "手写线条弯曲、标注与题面/答案笔迹混杂，缩小后难辨",
+      "extraction": "先提取PDF内嵌原生扫描像素；已实际查看，扫描本身为手写，增加像素不能恢复为规范电路图",
+      "native_evidence": "B19-source-native.png",
+      "processing": "Schemdraw确定性矢量重绘；字形轮廓化，源文件可编辑",
+      "svg": "B19.svg",
+      "png": "B19.png",
+      "editable_sources": [
+        "render.py",
+        "assemble.py",
+        "geometry.json"
+      ],
+      "verification": "(a) NPN发射极接地；两条18V支路共节点；基极910kΩ；集电极3kΩ与对地3kΩ支路；Rs=600Ω；(b)保留18V、U′CC、R′未知量；不补答案。两子图合为一张题图。",
+      "component_values": "与原题及原生扫描逐项核对；无未裁决值写入重绘图",
+      "junctions": "分支明确标点；连线绕开运放；无需要猜测的交叉接点",
+      "arrows": "BJT/MOS器件内箭头已核对；原图无独立电流箭头，不添加",
+      "visual_review": {
+        "full_size": "已逐张查看",
+        "actual_svg": "PyMuPDF独立渲染后已查看",
+        "small_width_px": 640,
+        "small_review": "已查看；B19上下排列以保持640px阅读",
+        "grayscale_320px": "已查看：无标注重叠；复杂电路320px建议点开放大核对小下标"
+      },
+      "status": "verified",
+      "caveat": null,
+      "svg_sha256": "f9cf989c876600072ddb15cd00454188c9d1bf2e837c0d50ad3bb27158d3aba7",
+      "png_sha256": "c865d49b2e33012747f3f46fce4f213046ebc574eb202355a69ffa93f487e7d2"
+    },
+    {
+      "id": "B20",
+      "question": "电子复习-B20",
+      "page": 6,
+      "original": "10_题库/assets/电子线路期末复习/B20.png",
+      "original_sha256": "aaba5bfc884ef637647e8b2ef247cde2dc2f432a97fba00938cb1119892d2770",
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 389,
+          "heading": "### 电子复习-B20",
+          "raw": "电路分析/10_题库/assets/电子线路期末复习/B20.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\电子线路期末复习\\B20.png"
+        }
+      ],
+      "quality_issue": "手写线条弯曲、标注与题面/答案笔迹混杂，缩小后难辨",
+      "extraction": "先提取PDF内嵌原生扫描像素；已实际查看，扫描本身为手写，增加像素不能恢复为规范电路图",
+      "native_evidence": "B20-source-native.png",
+      "processing": "Schemdraw确定性矢量重绘；字形轮廓化，源文件可编辑",
+      "svg": "B20.svg",
+      "png": "B20.png",
+      "editable_sources": [
+        "render.py",
+        "assemble.py",
+        "geometry.json"
+      ],
+      "verification": "NPN集电极经RC接+VCC，发射极Re与Ce并联至公共端；Rb2在上、Rb1在下；C1输入，C2输出，RL在C2之后；无额外电容极性。",
+      "component_values": "与原题及原生扫描逐项核对；无未裁决值写入重绘图",
+      "junctions": "分支明确标点；连线绕开运放；无需要猜测的交叉接点",
+      "arrows": "BJT/MOS器件内箭头已核对；原图无独立电流箭头，不添加",
+      "visual_review": {
+        "full_size": "已逐张查看",
+        "actual_svg": "PyMuPDF独立渲染后已查看",
+        "small_width_px": 640,
+        "small_review": "已查看；B19上下排列以保持640px阅读",
+        "grayscale_320px": "已查看：无标注重叠；复杂电路320px建议点开放大核对小下标"
+      },
+      "status": "verified",
+      "caveat": null,
+      "svg_sha256": "a94464caff362329127d8e97430bc5a1034d6bc668e5eff7eda8d910513fbc6c",
+      "png_sha256": "b1359d53e20cecc97d4e036a1d90ad1d45e4a3d33c3ca34563a6a14cb27ca47b"
+    },
+    {
+      "id": "B21",
+      "question": "电子复习-B21",
+      "page": 6,
+      "original": "10_题库/assets/电子线路期末复习/B21.png",
+      "original_sha256": "71c8176a6b6d3448981dcc8827348c0725dec2f04533ab122b6bf747df9a230a",
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 405,
+          "heading": "### 电子复习-B21",
+          "raw": "电路分析/10_题库/assets/电子线路期末复习/B21.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\电子线路期末复习\\B21.png"
+        }
+      ],
+      "quality_issue": "手写笔画、连线和标注混杂；B21另有涂改",
+      "extraction": "先提取PDF内嵌原生扫描像素；已实际查看，扫描本身为手写，增加像素不能恢复为规范电路图",
+      "native_evidence": "B21-source-native.png",
+      "processing": "Schemdraw确定性矢量重绘；字形轮廓化，源文件可编辑",
+      "svg": "B21.svg",
+      "png": "B21.png",
+      "editable_sources": [
+        "render.py",
+        "assemble.py",
+        "geometry.json"
+      ],
+      "verification": "第6页涂改处由第10页重复C8交叉核对；增强型N沟道MOS，漏极经Rd接+VDD；源极公共端；栅极经Rg接输入源；VGG长极板朝输入源（正端朝上）；2MΩ、3kΩ、6V、12V均在原题。",
+      "component_values": "与原题及原生扫描逐项核对；无未裁决值写入重绘图",
+      "junctions": "分支明确标点；连线绕开运放；无需要猜测的交叉接点",
+      "arrows": "BJT/MOS器件内箭头已核对；原图无独立电流箭头，不添加",
+      "visual_review": {
+        "full_size": "已逐张查看",
+        "actual_svg": "PyMuPDF独立渲染后已查看",
+        "small_width_px": 640,
+        "small_review": "已查看；B19上下排列以保持640px阅读",
+        "grayscale_320px": "已查看：无标注重叠；复杂电路320px建议点开放大核对小下标"
+      },
+      "status": "verified",
+      "caveat": null,
+      "svg_sha256": "1c7c0ec59b80d7b58d5b035bba31bb2a19ecff31535e058046b67962fa534038",
+      "png_sha256": "d2878d1b98bd9768df1fa6aafc6c828c65607030e960a90470631427d431e4d2"
+    },
+    {
+      "id": "C2",
+      "question": "电子复习-C2",
+      "page": 13,
+      "original": "10_题库/assets/电子线路期末复习/C2.png",
+      "original_sha256": "710f5868fae6d507b4f4547c0a68c0766b83615d2769d985510ed82de136c4e4",
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 469,
+          "heading": "### 电子复习-C2",
+          "raw": "电路分析/10_题库/assets/电子线路期末复习/C2.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\电子线路期末复习\\C2.png"
+        }
+      ],
+      "quality_issue": "手写线条弯曲、标注与题面/答案笔迹混杂，缩小后难辨",
+      "extraction": "先提取PDF内嵌原生扫描像素；已实际查看，扫描本身为手写，增加像素不能恢复为规范电路图",
+      "native_evidence": "C2-source-native.png",
+      "processing": "Schemdraw确定性矢量重绘；字形轮廓化，源文件可编辑",
+      "svg": "C2.svg",
+      "png": "C2.png",
+      "editable_sources": [
+        "render.py",
+        "assemble.py",
+        "geometry.json"
+      ],
+      "verification": "R串联至反相端；C由输出反馈至反相端；正相端经未编号电阻接地；不增设Rb编号或阻值；初始电容条件仍在题干。",
+      "component_values": "与原题及原生扫描逐项核对；无未裁决值写入重绘图",
+      "junctions": "分支明确标点；连线绕开运放；无需要猜测的交叉接点",
+      "arrows": "BJT/MOS器件内箭头已核对；原图无独立电流箭头，不添加",
+      "visual_review": {
+        "full_size": "已逐张查看",
+        "actual_svg": "PyMuPDF独立渲染后已查看",
+        "small_width_px": 640,
+        "small_review": "已查看；B19上下排列以保持640px阅读",
+        "grayscale_320px": "已查看：无标注重叠；复杂电路320px建议点开放大核对小下标"
+      },
+      "status": "verified",
+      "caveat": null,
+      "svg_sha256": "3d183dc194c1eb84193ed149e7ae8b6588843330e74f5dbe7de259694a147de3",
+      "png_sha256": "fd2842de975df9f823f14e01713b960710216e6ce323991e94d82f65ef047251"
+    },
+    {
+      "id": "C5",
+      "question": "电子复习-C5",
+      "page": 10,
+      "original": "10_题库/assets/电子线路期末复习/C5.png",
+      "original_sha256": "d2909f83a0b020e058039f9c15e1f8b277f2a47b8d756fff963819c3438c58b4",
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 505,
+          "heading": "### 电子复习-C5",
+          "raw": "电路分析/10_题库/assets/电子线路期末复习/C5.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\电子线路期末复习\\C5.png"
+        }
+      ],
+      "quality_issue": "手写线条弯曲、标注与题面/答案笔迹混杂，缩小后难辨",
+      "extraction": "先提取PDF内嵌原生扫描像素；已实际查看，扫描本身为手写，增加像素不能恢复为规范电路图",
+      "native_evidence": "C5-source-native.png",
+      "processing": "Schemdraw确定性矢量重绘；字形轮廓化，源文件可编辑",
+      "svg": "C5.svg",
+      "png": "C5.png",
+      "editable_sources": [
+        "render.py",
+        "assemble.py",
+        "geometry.json"
+      ],
+      "verification": "上下运放同相端各经R接U1、U2；三个R串接在两输出之间；两反相端分别回接上、下分压节点；差分输出下端不是地。",
+      "component_values": "与原题及原生扫描逐项核对；无未裁决值写入重绘图",
+      "junctions": "分支明确标点；连线绕开运放；无需要猜测的交叉接点",
+      "arrows": "BJT/MOS器件内箭头已核对；原图无独立电流箭头，不添加",
+      "visual_review": {
+        "full_size": "已逐张查看",
+        "actual_svg": "PyMuPDF独立渲染后已查看",
+        "small_width_px": 640,
+        "small_review": "已查看；B19上下排列以保持640px阅读",
+        "grayscale_320px": "已查看：无标注重叠；复杂电路320px建议点开放大核对小下标"
+      },
+      "status": "verified",
+      "caveat": null,
+      "svg_sha256": "34bac2ec2f518c222e0d706b3cc4cc9c439e9f94d24dcbd7e0f310ccde786268",
+      "png_sha256": "35af67b8e261af0424aa41f8274dd3996df9c3494ddb4cb6415b62a768be0d79"
+    },
+    {
+      "id": "C9",
+      "question": "电子复习-C9",
+      "page": 10,
+      "original": "10_题库/assets/电子线路期末复习/C9.png",
+      "original_sha256": "d7d7bd2522dfeeb575e14f18809a9596318055d4962c8f1288f796c8bd79a472",
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 521,
+          "heading": "### 电子复习-C9",
+          "raw": "电路分析/10_题库/assets/电子线路期末复习/C9.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\电子线路期末复习\\C9.png"
+        }
+      ],
+      "quality_issue": "手写线条弯曲、标注与题面/答案笔迹混杂，缩小后难辨",
+      "extraction": "先提取PDF内嵌原生扫描像素；已实际查看，扫描本身为手写，增加像素不能恢复为规范电路图",
+      "native_evidence": "C9-source-native.png",
+      "processing": "Schemdraw确定性矢量重绘；字形轮廓化，源文件可编辑",
+      "svg": "C9.svg",
+      "png": "C9.png",
+      "editable_sources": [
+        "render.py",
+        "assemble.py",
+        "geometry.json"
+      ],
+      "verification": "R1接UREF、R2接UI，汇于反相端；同相端地；输出串联无编号电阻；Dz1阴极接输出、Dz2阴极接地，两阳极相接；未增正反馈。",
+      "component_values": "与原题及原生扫描逐项核对；无未裁决值写入重绘图",
+      "junctions": "分支明确标点；连线绕开运放；无需要猜测的交叉接点",
+      "arrows": "BJT/MOS器件内箭头已核对；原图无独立电流箭头，不添加",
+      "visual_review": {
+        "full_size": "已逐张查看",
+        "actual_svg": "PyMuPDF独立渲染后已查看",
+        "small_width_px": 640,
+        "small_review": "已查看；B19上下排列以保持640px阅读",
+        "grayscale_320px": "已查看：无标注重叠；复杂电路320px建议点开放大核对小下标"
+      },
+      "status": "verified",
+      "caveat": null,
+      "svg_sha256": "3fea4e17fe7d2e770f670c09bbfacf3b50bd96682343f78ccda3150b3013782a",
+      "png_sha256": "d0c39c6a23002c726269a9a72ebd380feb9c74565645580d9f46bf5a412c2288"
+    },
+    {
+      "id": "C12",
+      "question": "电子复习-C12",
+      "page": 9,
+      "original": "10_题库/assets/电子线路期末复习/C12.png",
+      "original_sha256": "9320c5442a15815d71688b6f82d49c885ec884c6282c2fc4fb4948ac270ab6ff",
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 553,
+          "heading": "### 电子复习-C12",
+          "raw": "电路分析/10_题库/assets/电子线路期末复习/C12.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\电子线路期末复习\\C12.png"
+        }
+      ],
+      "quality_issue": "手写线条弯曲、标注与题面/答案笔迹混杂，缩小后难辨",
+      "extraction": "先提取PDF内嵌原生扫描像素；已实际查看，扫描本身为手写，增加像素不能恢复为规范电路图",
+      "native_evidence": "C12-source-native.png",
+      "processing": "Schemdraw确定性矢量重绘；字形轮廓化，源文件可编辑",
+      "svg": "C12.svg",
+      "png": "C12.png",
+      "editable_sources": [
+        "render.py",
+        "assemble.py",
+        "geometry.json"
+      ],
+      "verification": "R1-C1对地节点接同相端；Rf连接输出与反相端；不添加反相端对地电阻；R1和C1保留符号值。",
+      "component_values": "与原题及原生扫描逐项核对；无未裁决值写入重绘图",
+      "junctions": "分支明确标点；连线绕开运放；无需要猜测的交叉接点",
+      "arrows": "BJT/MOS器件内箭头已核对；原图无独立电流箭头，不添加",
+      "visual_review": {
+        "full_size": "已逐张查看",
+        "actual_svg": "PyMuPDF独立渲染后已查看",
+        "small_width_px": 640,
+        "small_review": "已查看；B19上下排列以保持640px阅读",
+        "grayscale_320px": "已查看：无标注重叠；复杂电路320px建议点开放大核对小下标"
+      },
+      "status": "verified",
+      "caveat": null,
+      "svg_sha256": "dc5138ae8b69a31d83d234a37ced012c47e6d9665a485b7c8d4198ef1c6c872d",
+      "png_sha256": "87526f43d1218f71418379b18dab08c6c4c1be7f1592a664c5312378f48cccdf"
+    },
+    {
+      "id": "C13",
+      "question": "电子复习-C13",
+      "page": 9,
+      "original": "10_题库/assets/电子线路期末复习/C13.png",
+      "original_sha256": "6689e81d599fc9c15dd39218c3e999a8fd5da822c51eaeac37efc3c404bc77d9",
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 569,
+          "heading": "### 电子复习-C13",
+          "raw": "电路分析/10_题库/assets/电子线路期末复习/C13.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\电子线路期末复习\\C13.png"
+        }
+      ],
+      "quality_issue": "手写线条弯曲、标注与题面/答案笔迹混杂，缩小后难辨",
+      "extraction": "先提取PDF内嵌原生扫描像素；已实际查看，扫描本身为手写，增加像素不能恢复为规范电路图",
+      "native_evidence": "C13-source-native.png",
+      "processing": "Schemdraw确定性矢量重绘；字形轮廓化，源文件可编辑",
+      "svg": "C13.svg",
+      "png": "C13.png",
+      "editable_sources": [
+        "render.py",
+        "assemble.py",
+        "geometry.json"
+      ],
+      "verification": "NPN Q1箭头沿发射极向外；集电极VCC；基极接运放输出；发射极接uo、R3、R2；R2回反相端与R1对地节点；ui接同相端。",
+      "component_values": "与原题及原生扫描逐项核对；无未裁决值写入重绘图",
+      "junctions": "分支明确标点；连线绕开运放；无需要猜测的交叉接点",
+      "arrows": "BJT/MOS器件内箭头已核对；原图无独立电流箭头，不添加",
+      "visual_review": {
+        "full_size": "已逐张查看",
+        "actual_svg": "PyMuPDF独立渲染后已查看",
+        "small_width_px": 640,
+        "small_review": "已查看；B19上下排列以保持640px阅读",
+        "grayscale_320px": "已查看：无标注重叠；复杂电路320px建议点开放大核对小下标"
+      },
+      "status": "verified",
+      "caveat": null,
+      "svg_sha256": "1362f932371a26ee7fb4a9dc33184e77da44d638e13f1cea4ea250e2e6e19456",
+      "png_sha256": "e067327cfebfe90414b23fb1e305434c852e10767b20bb0cf60f73e368a0f0b3"
+    },
+    {
+      "id": "C14",
+      "question": "电子复习-C14",
+      "page": 9,
+      "original": "10_题库/assets/电子线路期末复习/C14.png",
+      "original_sha256": "d2378d137e6ca1f25bf8626040a07080235d605e4ba6a75879d7c86b3e52b1ae",
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 587,
+          "heading": "### 电子复习-C14",
+          "raw": "电路分析/10_题库/assets/电子线路期末复习/C14.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\电子线路期末复习\\C14.png"
+        }
+      ],
+      "quality_issue": "手写线条弯曲、标注与题面/答案笔迹混杂，缩小后难辨",
+      "extraction": "先提取PDF内嵌原生扫描像素；已实际查看，扫描本身为手写，增加像素不能恢复为规范电路图",
+      "native_evidence": "C14-source-native.png",
+      "processing": "Schemdraw确定性矢量重绘；字形轮廓化，源文件可编辑",
+      "svg": "C14.svg",
+      "png": "C14.png",
+      "editable_sources": [
+        "render.py",
+        "assemble.py",
+        "geometry.json"
+      ],
+      "verification": "输入R、C串联到反相端；RF从输出回反相端；同相端通过R2接地；原题称R2为负载与图不一致，保留冲突，不改接输出。",
+      "component_values": "与原题及原生扫描逐项核对；无未裁决值写入重绘图",
+      "junctions": "分支明确标点；连线绕开运放；无需要猜测的交叉接点",
+      "arrows": "BJT/MOS器件内箭头已核对；原图无独立电流箭头，不添加",
+      "visual_review": {
+        "full_size": "已逐张查看",
+        "actual_svg": "PyMuPDF独立渲染后已查看",
+        "small_width_px": 640,
+        "small_review": "已查看；B19上下排列以保持640px阅读",
+        "grayscale_320px": "已查看：无标注重叠；复杂电路320px建议点开放大核对小下标"
+      },
+      "status": "verified",
+      "caveat": "题干R2称谓与原图角色冲突，保留说明",
+      "svg_sha256": "527ca3f688de9ea7c6ba5e878d30dc5a25980d82a16243a4064c6203df90e95e",
+      "png_sha256": "62cfbb735780717677756b99b50a4af52d8934294db7167ccf5f6b17888137ee"
+    },
+    {
+      "id": "C15",
+      "question": "电子复习-C15",
+      "page": 9,
+      "original": "10_题库/assets/电子线路期末复习/C15.png",
+      "original_sha256": "cf3aa4c6bd40239b34e68b8a2caee199e4d7d2ae8eb801953bca3b7282875b0f",
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 603,
+          "heading": "### 电子复习-C15",
+          "raw": "电路分析/10_题库/assets/电子线路期末复习/C15.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\电子线路期末复习\\C15.png"
+        }
+      ],
+      "quality_issue": "手写线条弯曲、标注与题面/答案笔迹混杂，缩小后难辨",
+      "extraction": "先提取PDF内嵌原生扫描像素；已实际查看，扫描本身为手写，增加像素不能恢复为规范电路图",
+      "native_evidence": "C15-source-native.png",
+      "processing": "Schemdraw确定性矢量重绘；字形轮廓化，源文件可编辑",
+      "svg": "C15.svg",
+      "png": "C15.png",
+      "editable_sources": [
+        "render.py",
+        "assemble.py",
+        "geometry.json"
+      ],
+      "verification": "输入C串联至同相端，R对地；反相端经R1对地，经Rf接输出；保留无数值符号参数。",
+      "component_values": "与原题及原生扫描逐项核对；无未裁决值写入重绘图",
+      "junctions": "分支明确标点；连线绕开运放；无需要猜测的交叉接点",
+      "arrows": "BJT/MOS器件内箭头已核对；原图无独立电流箭头，不添加",
+      "visual_review": {
+        "full_size": "已逐张查看",
+        "actual_svg": "PyMuPDF独立渲染后已查看",
+        "small_width_px": 640,
+        "small_review": "已查看；B19上下排列以保持640px阅读",
+        "grayscale_320px": "已查看：无标注重叠；复杂电路320px建议点开放大核对小下标"
+      },
+      "status": "verified",
+      "caveat": null,
+      "svg_sha256": "a264b38334d1cd6e2b3797f235e0b92093b195879d04d93cd7ccdfb51425970e",
+      "png_sha256": "c76ab6038146050bbfde9b9da67d14f6e2936ffcd00583b585dcba75a1066708"
+    }
+  ],
+  "deferred": [
+    {
+      "id": "E6-15",
+      "source": "配套辅导书原PDF第221页/书页212；题库ch6_amp_p221_fig_e6_15.png",
+      "refs": [
+        {
+          "document": "10_题库/第6章课后习题_题面整理.md",
+          "line": 338,
+          "heading": "### 章节卷-E6-15",
+          "raw": "电路分析/10_题库/assets/ch6_amp_p221_fig_e6_15.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\ch6_amp_p221_fig_e6_15.png"
+        }
+      ],
+      "quality": "现有印刷图可辨；原页亦可提取，重绘收益不足",
+      "decision": "保留原图，不计入10张"
+    },
+    {
+      "id": "A4",
+      "source": "电子线路期末复习第1页",
+      "quality": "左侧电源值原图缺失",
+      "decision": "待确认；恢复原图嵌入，不补值"
+    },
+    {
+      "id": "A7",
+      "source": "电子线路期末复习第2页",
+      "quality": "输入二极管方向存在歧义；旧稿按用途猜测",
+      "decision": "待确认；恢复原图嵌入，不按用途重建"
+    },
+    {
+      "id": "C3",
+      "source": "电子线路期末复习第13页",
+      "quality": "扫描边缘与回路连接不完整",
+      "decision": "待确认；恢复原图嵌入，不补连接"
+    },
+    {
+      "id": "C1",
+      "source": "电子线路期末复习第13页",
+      "quality": "MOS符号局部手写模糊；不借输出级用途断言子类型",
+      "decision": "本批不采纳，留待更清晰原稿"
+    },
+    {
+      "id": "fig5-5a.png",
+      "source": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\ch5\\fig5-5a.png",
+      "references": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 113,
+          "heading": "### 章节卷-E5-6",
+          "raw": "assets/ch5/fig5-5a.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\ch5\\fig5-5a.png"
+        },
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 135,
+          "heading": "### 章节卷-E5-7",
+          "raw": "assets/ch5/fig5-5a.png",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\assets\\ch5\\fig5-5a.png"
+        }
+      ],
+      "quality": "现有图可读；共用优先级已审查",
+      "decision": "不因多文档共用而重画清晰图"
+    },
+    {
+      "id": "92199d3e4803e1c32edb08cc657c69f2612fc005a1eacece99b1d824be182048.jpg",
+      "source": "D:\\FuckTheClass\\电路分析\\10_题库\\成惠团队期末卷_5-9章\\assets\\92199d3e4803e1c32edb08cc657c69f2612fc005a1eacece99b1d824be182048.jpg",
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2020-2021期末_5-9章题面整理.md",
+          "line": 40,
+          "heading": "### 成惠-20-21期末-算2",
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/92199d3e4803e1c32edb08cc657c69f2612fc005a1eacece99b1d824be182048.jpg",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\成惠团队期末卷_5-9章\\assets\\92199d3e4803e1c32edb08cc657c69f2612fc005a1eacece99b1d824be182048.jpg"
+        },
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2020-2021期末_5-9章题面整理.md",
+          "line": 65,
+          "heading": "### 成惠-20-21期末-算3",
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/92199d3e4803e1c32edb08cc657c69f2612fc005a1eacece99b1d824be182048.jpg",
+          "target": "D:\\FuckTheClass\\电路分析\\10_题库\\成惠团队期末卷_5-9章\\assets\\92199d3e4803e1c32edb08cc657c69f2612fc005a1eacece99b1d824be182048.jpg"
+        }
+      ],
+      "quality": "现有图可读；共用优先级已审查",
+      "decision": "不因多文档共用而重画清晰图"
+    }
+  ]
+}
