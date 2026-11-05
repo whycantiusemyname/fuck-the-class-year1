@@ -1,6 +1,6 @@
 """Portable per-chapter verifier; python verify.py ch05."""
 from pathlib import Path
-import sys,json,hashlib,re,xml.etree.ElementTree as ET
+import sys,json,hashlib,re,os,xml.etree.ElementTree as ET
 from PIL import Image
 A=Path(__file__).resolve().parent;R=A.parents[2];O=A/sys.argv[1]
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
@@ -16,7 +16,7 @@ for row in data['figures']:
    if attr.endswith('href') and v.startswith('#'):assert v[1:] in ids
  Image.open(O/(row['id']+'.png')).verify()
  for ref in row['references']:
-  text=(R/ref['document']).read_text(encoding='utf-8-sig');assert row['new_target'] in text or (O/(row['id']+'.svg')).relative_to((R/ref['document']).parent).as_posix() in text
+  text=(R/ref['document']).read_text(encoding='utf-8-sig');assert row['new_target'] in text or os.path.relpath(O/(row['id']+'.svg'),(R/ref['document']).parent).replace('\\','/') in text
  n+=1
 for doc,expected in data['document_invariants'].items():
  t=(R/doc).read_text(encoding='utf-8-sig')

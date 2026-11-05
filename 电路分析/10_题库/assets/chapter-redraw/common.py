@@ -40,6 +40,7 @@ class Circuit:
         self.d.add(elm.at(a).to(b))
         self.components.append({'kind':kind,'a':list(a),'b':list(b),'label':label,'reverse':reverse})
         if label:
+            if kind in ['V','S','AC'] and abs(a[0]-b[0])<.01 and abs(offset)<.85:offset=.85 if offset>=0 else -.85
             x=(a[0]+b[0])/2;y=(a[1]+b[1])/2
             if abs(a[0]-b[0])<.01:self.text(x+offset,y,label,ha='left' if offset>0 else 'right')
             else:self.text(x,y+offset,label,va='bottom' if offset>0 else 'top')
