@@ -2222,5 +2222,31 @@
       "物理/40_派生视图/大物上/上册逐章/05_波动/validation.json"
     ],
     "validation": "物理/40_派生视图/大物上/上册逐章/05_波动/validation.json"
+  },
+  "physics_upper_chapter_06_20261106": {
+    "chapter": "相对论",
+    "reviewed_source_assets": 4,
+    "new_outputs": 4,
+    "changed_files": [
+      "物理/10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+      "物理/10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
+      "物理/10_题库/_assets/上册逐章/06_相对论/001-extracted.png",
+      "物理/10_题库/_assets/上册逐章/06_相对论/002-extracted.png",
+      "物理/10_题库/_assets/上册逐章/06_相对论/003-extracted.png",
+      "物理/10_题库/_assets/上册逐章/06_相对论/004.png",
+      "物理/10_题库/_assets/上册逐章/06_相对论/004.svg",
+      "物理/10_题库/_assets/上册逐章/06_相对论/extract_from_pdf.py",
+      "物理/10_题库/_assets/上册逐章/06_相对论/generate.py",
+      "物理/10_题库/_assets/上册逐章/06_相对论/mapping.json",
+      "物理/40_派生视图/大物上/上册逐章/06_相对论/comparison-01.png",
+      "物理/40_派生视图/大物上/上册逐章/06_相对论/reading-320px.png",
+      "物理/40_派生视图/大物上/上册逐章/06_相对论/README.md",
+      "物理/40_派生视图/大物上/上册逐章/06_相对论/source-001.png",
+      "物理/40_派生视图/大物上/上册逐章/06_相对论/source-002.png",
+      "物理/40_派生视图/大物上/上册逐章/06_相对论/source-003.png",
+      "物理/40_派生视图/大物上/上册逐章/06_相对论/source-004.png",
+      "物理/40_派生视图/大物上/上册逐章/06_相对论/validation.json"
+    ],
+    "validation": "物理/40_派生视图/大物上/上册逐章/06_相对论/validation.json"
   }
 }

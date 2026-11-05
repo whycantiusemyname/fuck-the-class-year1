@@ -1,0 +1,194 @@
+[
+  {
+    "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "question": "23-24期末-填2",
+    "chapter": "06",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/bac626ccedfd93a38d81d1da44b9052a6f9376bb5c99c577c6830edfe43fc424.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/bac626ccedfd93a38d81d1da44b9052a6f9376bb5c99c577c6830edfe43fc424.jpg",
+    "sha256": "4818ea67ae5d83382052a56337993b4505f835ba4774b4015f38f4eba31d500c",
+    "size": [
+      201,
+      267
+    ],
+    "id": 1,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 21,
+    "bbox_1000": [
+      769,
+      74,
+      890,
+      189
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\bac626ccedfd93a38d81d1da44b9052a6f9376bb5c99c577c6830edfe43fc424.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-001.png",
+    "source_crop_size": [
+      291,
+      391
+    ],
+    "page_preview": "page-1-021.png",
+    "check": "W/E两端、中心高塔与两个L0尺寸保持，不添加高度或发射时间。",
+    "method": "native_extraction",
+    "new": "001-extracted.png",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+        "question": "23-24期末-填2",
+        "chapter": "06",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/bac626ccedfd93a38d81d1da44b9052a6f9376bb5c99c577c6830edfe43fc424.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/bac626ccedfd93a38d81d1da44b9052a6f9376bb5c99c577c6830edfe43fc424.jpg",
+        "sha256": "4818ea67ae5d83382052a56337993b4505f835ba4774b4015f38f4eba31d500c",
+        "size": [
+          201,
+          267
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/06_相对论/001-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "question": "23-24期末-计4",
+    "chapter": "06",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/cc80e457792fb6f0932a3be4a0d7a717b93dd54fc7731e5226983583b1d2a3fd.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/cc80e457792fb6f0932a3be4a0d7a717b93dd54fc7731e5226983583b1d2a3fd.jpg",
+    "sha256": "0b3e5f03350628aeec0ef5e9792469a416f15d723e6b8e63ad79569c6ad1cb3a",
+    "size": [
+      317,
+      187
+    ],
+    "id": 2,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 22,
+    "bbox_1000": [
+      695,
+      423,
+      887,
+      502
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\cc80e457792fb6f0932a3be4a0d7a717b93dd54fc7731e5226983583b1d2a3fd.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-002.png",
+    "source_crop_size": [
+      462,
+      268
+    ],
+    "page_preview": "page-1-022.png",
+    "check": "隧道截面半圆d/2、宽d、高h、长L及v向右上按源图保持；透视图不当作定量比例。",
+    "method": "native_extraction",
+    "new": "002-extracted.png",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+        "question": "23-24期末-计4",
+        "chapter": "06",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/cc80e457792fb6f0932a3be4a0d7a717b93dd54fc7731e5226983583b1d2a3fd.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/cc80e457792fb6f0932a3be4a0d7a717b93dd54fc7731e5226983583b1d2a3fd.jpg",
+        "sha256": "0b3e5f03350628aeec0ef5e9792469a416f15d723e6b8e63ad79569c6ad1cb3a",
+        "size": [
+          317,
+          187
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/06_相对论/002-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
+    "question": "学习指导-第06章-例题-6-1",
+    "chapter": "06",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_046.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_046.jpg",
+    "sha256": "f160e0a5f06c075d44d2ddbf96272f35d9d7e252b1a025cd47bd6082033b0a4c",
+    "size": [
+      559,
+      176
+    ],
+    "id": 3,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 117,
+    "bbox_1000": [
+      117,
+      431,
+      455,
+      506
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\0d96ef4c4bb72555e8cf518087db96bbf0b991b5ef6694703fda2bd477c53214.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-003.png",
+    "source_crop_size": [
+      838,
+      262
+    ],
+    "page_preview": "page-2-117.png",
+    "check": "车头A右、车尾B左、S/S′、O/O′、v向右及x正向右保持。",
+    "method": "native_extraction",
+    "new": "003-extracted.png",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
+        "question": "学习指导-第06章-例题-6-1",
+        "chapter": "06",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_046.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_046.jpg",
+        "sha256": "f160e0a5f06c075d44d2ddbf96272f35d9d7e252b1a025cd47bd6082033b0a4c",
+        "size": [
+          559,
+          176
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/06_相对论/003-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
+    "question": "学习指导-第06章-例题-6-6",
+    "chapter": "06",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_180.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_180.jpg",
+    "sha256": "710cd2e27c15c2b7aece079cd1c8c5d8c01eac5ecdc197f110cd3371164fd616",
+    "size": [
+      398,
+      274
+    ],
+    "id": 4,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 119,
+    "bbox_1000": [
+      104,
+      776,
+      344,
+      892
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\2879a9301c58a11ffa777f7f27d3c070a0a1d5a1a7f16a2fae0cb65e2019b7a0.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-004.png",
+    "source_crop_size": [
+      595,
+      405
+    ],
+    "page_preview": "page-2-119.png",
+    "check": "S与S′竖轴、共线x/x′正向右，u与v′均向右；箭长和参考系间距为定性布局，未增加y轴名称或原点标号。",
+    "method": "redrawn",
+    "new": "004.svg",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
+        "question": "学习指导-第06章-例题-6-6",
+        "chapter": "06",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_180.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_180.jpg",
+        "sha256": "710cd2e27c15c2b7aece079cd1c8c5d8c01eac5ecdc197f110cd3371164fd616",
+        "size": [
+          398,
+          274
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/06_相对论/004.svg"
+  }
+]

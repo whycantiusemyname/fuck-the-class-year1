@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 163702,
-    "sha256": "c5895827d0d4b85836bdb5777cce38aea7033fc30ee50903f8bc72b0589dc680"
+    "bytes": 165405,
+    "sha256": "59f62a181b5551c3d05a7947ba41a03f0ba51aa5a9b8f6a05f9883680e0f0f8b"
   },
   {
     "path": "tools/verify_share.py",
@@ -2735,6 +2735,46 @@
     "sha256": "586bb0e86a4d9c4c4f158809284e12c741270dfef456963c9ca010f1ecb46aeb"
   },
   {
+    "path": "物理/10_题库/_assets/上册逐章/06_相对论/001-extracted.png",
+    "bytes": 56017,
+    "sha256": "caefaf109111fa7c1ec63a22dd458d469fd063351bc33333f1eb850fc53aa99e"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/06_相对论/002-extracted.png",
+    "bytes": 61592,
+    "sha256": "a1e7f54acf592227f398d860821b1920f728c556f775f34cbe5aa6c89a64a20d"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/06_相对论/003-extracted.png",
+    "bytes": 74786,
+    "sha256": "15cd43544954adfa9d22260b2cfdd9fa0a5294285a331a1359e4f5f31847ec3e"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/06_相对论/004.png",
+    "bytes": 14056,
+    "sha256": "86d35a2c4eca92de734281b5f205c519608eee597ebde3cd6a2cedf6196edb56"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/06_相对论/004.svg",
+    "bytes": 7487,
+    "sha256": "62c4bd18972e84a0d4a069168db9e4600a829bce86691f3bf5f94bb986a05dd3"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/06_相对论/extract_from_pdf.py",
+    "bytes": 1378,
+    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/06_相对论/generate.py",
+    "bytes": 712,
+    "sha256": "c9ba023f0709dc01089a412d5d2e2401d83c9d5879e48323dec031befc120951"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/06_相对论/mapping.json",
+    "bytes": 8412,
+    "sha256": "0896f6ac7ca8ad1b83f5ce9fa013eefb4ea95f2edae2fd5656033483d57031af"
+  },
+  {
     "path": "物理/10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
     "bytes": 10165,
     "sha256": "3af9b8c8227990fea3d54357ad9c07f1694fbce566a4d816bdd9766cd2037fe6"
@@ -5086,8 +5126,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
-    "bytes": 16284,
-    "sha256": "8dfe349c8e0c628860675c9b776470bd08e70db1235e47c99e25a07c026673bd"
+    "bytes": 16176,
+    "sha256": "a049a472f859644db3c0deca90cf65414d1581dbedf7f69a768eee50ad612c23"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
@@ -5131,8 +5171,8 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
-    "bytes": 17367,
-    "sha256": "2237680021aad80ad3aa09ed10272abfbb776ba45b7c5ef69f10a24723325e5f"
+    "bytes": 17381,
+    "sha256": "8ce2ee878f3742583a09c7ae2a97e82c38bfda0b0206ce3862c56a7416949bf9"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第07章_统计物理初步_题面整理.md",
@@ -7123,6 +7163,46 @@
     "path": "物理/40_派生视图/大物上/上册逐章/05_波动/validation.json",
     "bytes": 9337,
     "sha256": "eb7a1314e3b27db07fd861ebca0cdae724a6eff79de298aaf374e3938063d279"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/README.md",
+    "bytes": 4212,
+    "sha256": "5afda7706b4736c589251341640616cf5e39c671c19901ea36616cd277b294e8"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/comparison-01.png",
+    "bytes": 281927,
+    "sha256": "6e8d0c82a4c93085bf4808e07487c2e70ffa713b685ede0711b1f38acd48f4ab"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/reading-320px.png",
+    "bytes": 70847,
+    "sha256": "13ead5bcd20c19b6ef63871184203c5ebc4ecbe56883d1d5a595d26c1d140141"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/source-001.png",
+    "bytes": 56017,
+    "sha256": "caefaf109111fa7c1ec63a22dd458d469fd063351bc33333f1eb850fc53aa99e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/source-002.png",
+    "bytes": 61592,
+    "sha256": "a1e7f54acf592227f398d860821b1920f728c556f775f34cbe5aa6c89a64a20d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/source-003.png",
+    "bytes": 74786,
+    "sha256": "15cd43544954adfa9d22260b2cfdd9fa0a5294285a331a1359e4f5f31847ec3e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/source-004.png",
+    "bytes": 38382,
+    "sha256": "8eda02da987db13d6f953cfd1790edc46354297e9b73b1fa27677482c12b2391"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/validation.json",
+    "bytes": 2421,
+    "sha256": "60618ee71167a2a6c1908111a16cf916534810826c05063db5a57b8adba8acd5"
   },
   {
     "path": "物理/40_派生视图/大物上/今年期末复用高可能题单.md",
