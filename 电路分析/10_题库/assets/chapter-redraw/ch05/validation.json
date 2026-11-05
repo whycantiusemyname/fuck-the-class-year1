@@ -1,0 +1,18 @@
+{
+  "status": "verified",
+  "redrawn": 24,
+  "pending_source": 1,
+  "answer_evidence_retained": 2,
+  "question_text_only_image_replacements": true,
+  "s1": "passed: control=0 latex=0 broken_links=0",
+  "intake": "all affected existing intake manifests verified; output hashes refreshed only",
+  "intake_manifests": [
+    "90_缓存/s1-intake/夸克扫描王_电子线路期末复习-163e41f3/intake.json",
+    "90_缓存/s1-intake/扫描件_成惠团队电路分析考试真题(1)(1)-361c98a5/intake.json",
+    "90_缓存/s1-intake/扫描件_电路与模拟电子技术(1)_p168-183-6e39cc9a/intake.json"
+  ],
+  "readonly_source_hashes_checked": 40,
+  "visual_review": "24 independent SVG renders viewed; crossings and polarity inspected; 320px grayscale checked",
+  "source_images": "original PNG/JPG/SVG retained with SHA-256 in ledger",
+  "share": "passed: portable verifier and tools/verify_share.py; final hash check repeated before commit"
+}

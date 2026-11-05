@@ -1,0 +1,950 @@
+{
+  "chapter": 5,
+  "scope": "formal referenced images only; original answers/screenshots read-only",
+  "figures": [
+    {
+      "id": "F002",
+      "original": "10_题库/assets/simulation/sim-2-2351f0eeb823.png",
+      "sha256": "2351f0eeb823b14c42b179c791e67ef3eaade8eb2fb82386419e461f96acc64d",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/仿真作业2_题面整理.md",
+          "line": 23,
+          "question": "仿真作业-2",
+          "heading": "### 仿真作业-2",
+          "chapter": 5,
+          "raw": "assets/simulation/sim-2-2351f0eeb823.png",
+          "target": "10_题库/assets/simulation/sim-2-2351f0eeb823.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "菱形四管：D1/D2从正供电节点指向输入/输出；D3/D4指向负供电；R1=R2=2.2kΩ，R3=1MΩ；正负5V；原EMF可追溯。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F002.svg",
+      "svg_sha256": "5220a228c57fe5adc86eb9e878c2e643fea2b0d6057e9c487001d62401c3bf25",
+      "png_sha256": "b884c712baa95a4b31fb1eecdba3271c46967377ee62ebfbd1cce08bc13cc74c",
+      "replacements": [
+        {
+          "document": "10_题库/仿真作业2_题面整理.md",
+          "old": "![仿真作业2 原件电路图](assets/simulation/sim-2-2351f0eeb823.png)",
+          "new": "![仿真作业2 原件电路图](assets/chapter-redraw/ch05/F002.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F008",
+      "original": "10_题库/assets/电子线路期末复习/A4.png",
+      "sha256": "30e731c3c34d2e9d4cc751749a969e5340f8914a0315e86559c225500729fa93",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 75,
+          "question": "电子复习-A4",
+          "heading": "### 电子复习-A4",
+          "chapter": 5,
+          "raw": "assets/电子线路期末复习/A4.png",
+          "target": "10_题库/assets/电子线路期末复习/A4.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "pending_source",
+      "verification": "A4左侧电源无数值；原图只读保留，不能猜测补全"
+    },
+    {
+      "id": "F010",
+      "original": "10_题库/assets/电子线路期末复习/redrawn/A9.svg",
+      "sha256": "117326dd002e16bded669a14fcbb56cb9930bd4d9c7ae7c55f70cad18ab5f379",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 158,
+          "question": "电子复习-A9",
+          "heading": "### 电子复习-A9",
+          "chapter": 5,
+          "raw": "assets/电子线路期末复习/redrawn/A9.svg",
+          "target": "10_题库/assets/电子线路期末复习/redrawn/A9.svg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": true,
+      "status": "verified",
+      "verification": "A9原题图只有R、D、R0；1V为题干模型条件，不画成原图额外电池。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F010.svg",
+      "svg_sha256": "228000ec3df3599dc956451ad493c3459cb57a6866ea9592133d44f128f9abf3",
+      "png_sha256": "24e01b8c1b8c5ed8ee612e6f88bb2cdcd77c44830a472a59a2276c6bb98ff3dd",
+      "replacements": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "old": "![二极管与输入波形重绘图](assets/电子线路期末复习/redrawn/A9.svg)",
+          "new": "![二极管与输入波形重绘图](assets/chapter-redraw/ch05/F010.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F011",
+      "original": "10_题库/assets/电子线路期末复习/redrawn/A9-wave.svg",
+      "sha256": "8b5609d7e52547e45f5a61d100d545860f5fe54e360779d8580271be79e1f9a2",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "line": 160,
+          "question": "电子复习-A9",
+          "heading": "### 电子复习-A9",
+          "chapter": 5,
+          "raw": "assets/电子线路期末复习/redrawn/A9-wave.svg",
+          "target": "10_题库/assets/电子线路期末复习/redrawn/A9-wave.svg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": true,
+      "status": "verified",
+      "verification": "A9峰值±3V，峰值时刻1s、5s，谷值3s；输出坐标为空，不填答案。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F011.svg",
+      "svg_sha256": "19b4aec8a90fd380ee679d2161d2221637f366e2a6f64907ee7325ab37ab7a0f",
+      "png_sha256": "fcde783a6f11c43a44e6e44aac61e1fe2a11392f723456137b1a06e7d6399f64",
+      "replacements": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "old": "![输入三角波与空白输出坐标重绘图](assets/电子线路期末复习/redrawn/A9-wave.svg)",
+          "new": "![输入三角波与空白输出坐标重绘图](assets/chapter-redraw/ch05/F011.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F024",
+      "original": "10_题库/assets/ch5/E5-1.png",
+      "sha256": "1ac38b9fff0e3f3d7856ad56fa42744ada23625eda926b4e8e0702209d7118a6",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 25,
+          "question": "章节卷-E5-1",
+          "heading": "### 章节卷-E5-1",
+          "chapter": 5,
+          "raw": "assets/ch5/E5-1.png",
+          "target": "10_题库/assets/ch5/E5-1.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "两幅D1/D2方向互反；(a)12V正端朝上；(b)12V正端朝下；6V两幅均正端朝上。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F024.svg",
+      "svg_sha256": "8eea1f0615b36a9bf796e6722b9a808dc73d6c3f7f0863874a605e4511318771",
+      "png_sha256": "72874d22d2656099ae610135bcfa54c1afd12bc14573e992f1f89d212cc5db9d",
+      "replacements": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "old": "![原书题图E5-1](assets/ch5/E5-1.png)",
+          "new": "![原书题图E5-1](assets/chapter-redraw/ch05/F024.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F025",
+      "original": "10_题库/assets/ch5/E5-2.png",
+      "sha256": "2d7d37757e2bb41bd8df2e3325ae207bc0f94a6ed7f71dfaff0ea7720209195c",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 39,
+          "question": "章节卷-E5-2",
+          "heading": "### 章节卷-E5-2",
+          "chapter": 5,
+          "raw": "assets/ch5/E5-2.png",
+          "target": "10_题库/assets/ch5/E5-2.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "(a)R串联输入、D向下接U正端；(b)D串联输入、R接U正端；无臆造数值。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F025.svg",
+      "svg_sha256": "78750943c1bd9a4913f329357fa373afb905cabd87cc206b9264ff64fe859563",
+      "png_sha256": "b876b3d68430112c1fcb5cac0231948c92b3feb2a2ab51036253ceaf9a383f4e",
+      "replacements": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "old": "![原书题图E5-2](assets/ch5/E5-2.png)",
+          "new": "![原书题图E5-2](assets/chapter-redraw/ch05/F025.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F026",
+      "original": "10_题库/assets/ch5/E5-3.png",
+      "sha256": "5dbb1e403aa2df456304042ce40b7d277516e8334f5f686c3639d3677d825b7d",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 53,
+          "question": "章节卷-E5-3",
+          "heading": "### 章节卷-E5-3",
+          "chapter": 5,
+          "raw": "assets/ch5/E5-3.png",
+          "target": "10_题库/assets/ch5/E5-3.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "D从输出节点指向输入分压节点，与并联R共节点；方波±12V，未给周期，不添加时间刻度。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F026.svg",
+      "svg_sha256": "7308928749d1f98af98ce4dca2d7bd16432d293cff89f152161668e0bcb18f7c",
+      "png_sha256": "3499de769dcdedbf9be52ced1d32de200a0895e18d907d15af5e52824bb3aae3",
+      "replacements": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "old": "![原书题图E5-3](assets/ch5/E5-3.png)",
+          "new": "![原书题图E5-3](assets/chapter-redraw/ch05/F026.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F027",
+      "original": "10_题库/assets/ch5/E5-4.png",
+      "sha256": "5f9164195297245cc5a555bf3c8008e1202747f62a8b682325b2f07ac5335a87",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 73,
+          "question": "章节卷-E5-4",
+          "heading": "### 章节卷-E5-4",
+          "chapter": 5,
+          "raw": "assets/ch5/E5-4.png",
+          "target": "10_题库/assets/ch5/E5-4.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "DA/DB阴极朝A/B；R=3.9kΩ接+12V；F为公共阳极节点。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F027.svg",
+      "svg_sha256": "58b901ad29cfe54811d0e97a07ab63af02676a9ef95582a69ecd7675549883da",
+      "png_sha256": "a5b24b5bfcf1f3d32eac8fc428459ac22aa61f1160189d0766fd4db364104032",
+      "replacements": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "old": "![原书题图E5-4](assets/ch5/E5-4.png)",
+          "new": "![原书题图E5-4](assets/chapter-redraw/ch05/F027.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F028",
+      "original": "10_题库/assets/ch5/E5-5.png",
+      "sha256": "61c9d7d4d979799162ee8dc569751a588d12e4afea6e9f388b79d1b44bb7c0e4",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 93,
+          "question": "章节卷-E5-5",
+          "heading": "### 章节卷-E5-5",
+          "chapter": 5,
+          "raw": "assets/ch5/E5-5.png",
+          "target": "10_题库/assets/ch5/E5-5.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "DA/DB阳极分别经1kΩ接A/B；公共阴极F经9kΩ对地。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F028.svg",
+      "svg_sha256": "0c41b4472c0e974a5a301c910b08088bc83b4c0b46c5710feee3ef2bd05efa19",
+      "png_sha256": "3fd7f0a367a47d87952d82f4329a4e0c3eedfdbb1d813cd668f71ce182dd7358",
+      "replacements": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "old": "![原书题图E5-5](assets/ch5/E5-5.png)",
+          "new": "![原书题图E5-5](assets/chapter-redraw/ch05/F028.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F029",
+      "original": "10_题库/assets/ch5/fig5-5a.png",
+      "sha256": "9fae6f670e95406025b97d47abc0b6d521defae66e92b949ba135d323ca61ba8",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 113,
+          "question": "章节卷-E5-6",
+          "heading": "### 章节卷-E5-6",
+          "chapter": 5,
+          "raw": "assets/ch5/fig5-5a.png",
+          "target": "10_题库/assets/ch5/fig5-5a.png",
+          "evidence": false
+        },
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 135,
+          "question": "章节卷-E5-7",
+          "heading": "### 章节卷-E5-7",
+          "chapter": 5,
+          "raw": "assets/ch5/fig5-5a.png",
+          "target": "10_题库/assets/ch5/fig5-5a.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "变压器交流a/b；D1/D2公共阴极接负载正端、D3/D4公共阳极接负端；保留io箭头；回线与交流线交叉处用跨线桥表示不连接；E5-6/7共用。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F029.svg",
+      "svg_sha256": "12ae9a78788f49c3094cc9b2e57587d7ec3e14f51f9c0d23337d666a131bcaea",
+      "png_sha256": "ba38739f66540fa00d7f32b38c866777a9522ca31a2cdcd06911c2c287121b85",
+      "replacements": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "old": "![原书图5-5(a)](assets/ch5/fig5-5a.png)",
+          "new": "![原书图5-5(a)](assets/chapter-redraw/ch05/F029.svg)"
+        },
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "old": "![原书图5-5(a)](assets/ch5/fig5-5a.png)",
+          "new": "![原书图5-5(a)](assets/chapter-redraw/ch05/F029.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F030",
+      "original": "10_题库/assets/ch5/E5-8.png",
+      "sha256": "a069022b7b9da979f2c6713081a1a7bf718e1839be50044294899bcaa593011a",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 157,
+          "question": "章节卷-E5-8",
+          "heading": "### 章节卷-E5-8",
+          "chapter": 5,
+          "raw": "assets/ch5/E5-8.png",
+          "target": "10_题库/assets/ch5/E5-8.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "A串接于D阴极后；V1跨接副边；V跨RL；D阳极朝副边上端。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F030.svg",
+      "svg_sha256": "0692f7a9b6ae509089921baae73bb9e7c23d4ae9d445b1dfa3cbe0120bf39a02",
+      "png_sha256": "41dfbc21fa8c2c20709a3bc4675400b6927ba5e1df3383c3f52c3f51b6bde5b3",
+      "replacements": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "old": "![原书题图E5-8](assets/ch5/E5-8.png)",
+          "new": "![原书题图E5-8](assets/chapter-redraw/ch05/F030.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F031",
+      "original": "10_题库/assets/ch5/E5-9.png",
+      "sha256": "cf891def8e191b75fdc1f68ec8596c243d1393f97d9a4bcf14772035ad0b874b",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 177,
+          "question": "章节卷-E5-9",
+          "heading": "### 章节卷-E5-9",
+          "chapter": 5,
+          "raw": "assets/ch5/E5-9.png",
+          "target": "10_题库/assets/ch5/E5-9.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "双绕组中心抽头为负载负端；D1/D2公共阴极为正端；中心抽头与阴极母线跨线不相接；两个u2极性正上负下。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F031.svg",
+      "svg_sha256": "dc5b9e10e1185ee8aa88c8149e671c7cb40d88a1433dcd592c3fead9310431e0",
+      "png_sha256": "85977147055a98b1cc8379c9caa8a2986c52bffb8ceb933bc4dc42dd2f5dbb3f",
+      "replacements": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "old": "![原书题图E5-9](assets/ch5/E5-9.png)",
+          "new": "![原书题图E5-9](assets/chapter-redraw/ch05/F031.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F032",
+      "original": "10_题库/assets/ch5/E5-10.png",
+      "sha256": "9e2b37f15e99d599b07e3d891baec4190ac5d59d339a24b57b38f75d02cbee29",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "line": 195,
+          "question": "章节卷-E5-10",
+          "heading": "### 章节卷-E5-10",
+          "chapter": 5,
+          "raw": "assets/ch5/E5-10.png",
+          "target": "10_题库/assets/ch5/E5-10.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "副边90V/10V/10V，抽头地；D1阴极朝绕组，D2/D3阳极朝绕组；保留同名端点；RL1=10kΩ，RL2=10Ω。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F032.svg",
+      "svg_sha256": "f2890bac80f8c955e1b69e1d8cc0a883ac9a2609c6afaaa411314aca978c8ea1",
+      "png_sha256": "574168add10543e15ce85ecf145953d28c366b67ff8a5571bcbb83acdb99c0f2",
+      "replacements": [
+        {
+          "document": "10_题库/第5章课后习题_题面整理.md",
+          "old": "![原书题图E5-10](assets/ch5/E5-10.png)",
+          "new": "![原书题图E5-10](assets/chapter-redraw/ch05/F032.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F131",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/2989e5d7a3527ec8496a16696540e88807bc882b24442c9545066f9160f05403.jpg",
+      "sha256": "6ffbca619b62b6b5561c4e78d16b94eb2e2ab500b6212d15ebed96e3274162db",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
+          "line": 36,
+          "question": "成惠-18-19电模期末A-选4",
+          "heading": "### 成惠-18-19电模期末A-选4",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/2989e5d7a3527ec8496a16696540e88807bc882b24442c9545066f9160f05403.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/2989e5d7a3527ec8496a16696540e88807bc882b24442c9545066f9160f05403.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "左支路D向下、2V电池正上；右支路2V电池正下；输出极性正上负下。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F131.svg",
+      "svg_sha256": "0747cd2e58a2ffe16ec39593f381570d5ef2b0686b1f5d734d908e9d27283541",
+      "png_sha256": "91a02cd50265dc7d2a3c8f488d1caf35ccdfe694888707dbd455610d0c1499eb",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/2989e5d7a3527ec8496a16696540e88807bc882b24442c9545066f9160f05403.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F131.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F133",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/e48fa6cfd5c3d76b6753ca06b5f2ab511dbbe830f11680060265d68e3be42a39.jpg",
+      "sha256": "30d312300225d55c00419059441828c4c00ba00626b7ec9f8ca012b5328874fa",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
+          "line": 72,
+          "question": "成惠-18-19电模期末A-析1",
+          "heading": "### 成惠-18-19电模期末A-析1",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/e48fa6cfd5c3d76b6753ca06b5f2ab511dbbe830f11680060265d68e3be42a39.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/e48fa6cfd5c3d76b6753ca06b5f2ab511dbbe830f11680060265d68e3be42a39.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "VD阳极左阴极右；5V、10V两电源均正下；保留a/b/c节点。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F133.svg",
+      "svg_sha256": "027a2a4e5bf76125c737ea0e9e753678ebc28829fe5de64696c7f80f23cf5e13",
+      "png_sha256": "42bc71bcad207f6c192777e35894989c446b8c6ae10b6e49d726e6c919cbdaa4",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/e48fa6cfd5c3d76b6753ca06b5f2ab511dbbe830f11680060265d68e3be42a39.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F133.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F134",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/9f1a95fcda75aedb009661e0193d0ae6c6c56f11e64390be38acdda9de55f315.jpg",
+      "sha256": "c608abd27c523853e015ef6b9ab78db533df77f76d6d870f604907ab4b133664",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
+          "line": 74,
+          "question": "成惠-18-19电模期末A-析1",
+          "heading": "### 成惠-18-19电模期末A-析1",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/9f1a95fcda75aedb009661e0193d0ae6c6c56f11e64390be38acdda9de55f315.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/9f1a95fcda75aedb009661e0193d0ae6c6c56f11e64390be38acdda9de55f315.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "VD阳极左阴极右；5V正上、10V正下；保留a/b/c节点。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F134.svg",
+      "svg_sha256": "b8f36d2b31e469198b21ff2cf6a2dd3d0aff8e3afb9842f72b76df978c37c069",
+      "png_sha256": "1e83c435edcba0b2d1b43cc76b8c188b3020966ac7a678c70d920c48d960181a",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/9f1a95fcda75aedb009661e0193d0ae6c6c56f11e64390be38acdda9de55f315.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F134.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F135",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/s9_answer_crops/成惠-18-19电模期末A-析1_p67_01.jpg",
+      "sha256": "52de902c7dd47e739025bf17c69e3e4145af18262010d40fb203d78fed8c5220",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
+          "line": 80,
+          "question": "成惠-18-19电模期末A-析1",
+          "heading": "### 成惠-18-19电模期末A-析1",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/s9_answer_crops/成惠-18-19电模期末A-析1_p67_01.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/s9_answer_crops/成惠-18-19电模期末A-析1_p67_01.jpg",
+          "evidence": true
+        }
+      ],
+      "evidence": true,
+      "already_vector": false,
+      "status": "source_evidence_retained",
+      "verification": "原答案截图只读保留，不用重绘稿替换来源证据"
+    },
+    {
+      "id": "F140",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/b57f24a528a66454a343424551e171b9304a01fc950cdeb3409d37dc943fe29b.jpg",
+      "sha256": "e47e2f15bc0109075e1430db15315d78c5951df778b32807d065b4efa0de347a",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理.md",
+          "line": 21,
+          "question": "成惠-18-19期末-简2",
+          "heading": "### 成惠-18-19期末-简2",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/b57f24a528a66454a343424551e171b9304a01fc950cdeb3409d37dc943fe29b.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/b57f24a528a66454a343424551e171b9304a01fc950cdeb3409d37dc943fe29b.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "R、D、0.1μF串联；ui正上负下；D阳极朝R。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F140.svg",
+      "svg_sha256": "e84a73ad131182bff4493d5941f8c34214fff256af4cc79821a36012d0efd51a",
+      "png_sha256": "a25d82a4a705077b3bfd3e3c7bf40092cbede2805cd3298872bcb9ac31eb6f81",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/b57f24a528a66454a343424551e171b9304a01fc950cdeb3409d37dc943fe29b.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F140.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F141",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/ad5e96ecd9a7f3a995fb111790d2ff39fc3154aa1663c68ddcc465d154e6e732.jpg",
+      "sha256": "baae53b3558202bc11a26bf3670959082e8cdd1ca23cf021d03ae7869ce56d81",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理.md",
+          "line": 22,
+          "question": "成惠-18-19期末-简2",
+          "heading": "### 成惠-18-19期末-简2",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/ad5e96ecd9a7f3a995fb111790d2ff39fc3154aa1663c68ddcc465d154e6e732.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/ad5e96ecd9a7f3a995fb111790d2ff39fc3154aa1663c68ddcc465d154e6e732.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "3V正脉冲，10ms回到0；坐标轴正向已实际渲染检查。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F141.svg",
+      "svg_sha256": "4907de852514788e2d81c9a8c99d6dca049036f4d8cd13d2948582f2d9e8efd8",
+      "png_sha256": "f837a0c65587836f3f4016c06ffea172c2a1e10af26b10e13b607dc47541dc77",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/ad5e96ecd9a7f3a995fb111790d2ff39fc3154aa1663c68ddcc465d154e6e732.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F141.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F144",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/57741aeccaceba47cab61df87c631287df6e52f82235176446fc73f9e6ae7050.jpg",
+      "sha256": "f7faee44acf50a20292f0ff7bf7bc4853ac4a63ec1bc90428a5061abd312032c",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理.md",
+          "line": 81,
+          "question": "成惠-18-19期末-算3",
+          "heading": "### 成惠-18-19期末-算3",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/57741aeccaceba47cab61df87c631287df6e52f82235176446fc73f9e6ae7050.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/57741aeccaceba47cab61df87c631287df6e52f82235176446fc73f9e6ae7050.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "1kΩ串联方框器件A；电流箭头向下、端电压正上负下；A不作为电阻值。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F144.svg",
+      "svg_sha256": "bc475e3b45bf863084fed7b22c94fdd52947285cb389cf4abd8a7d77680f0ae5",
+      "png_sha256": "4765d7c4f3b87fe6e09ad299dfb7182cae7dff35d774eef1ec49c2e29dc85d3a",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/57741aeccaceba47cab61df87c631287df6e52f82235176446fc73f9e6ae7050.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F144.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F155",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/89cfebf5e31a7cc44834745251324bfe1fa1bff0f0a31dbfee4bbf48719ccfe7.jpg",
+      "sha256": "537fd08f450cac5dd4f14774a9bd01d584953c5740775b0f94b4336d54ad6e4e",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理.md",
+          "line": 21,
+          "question": "成惠-19-20期末-简3",
+          "heading": "### 成惠-19-20期末-简3",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/89cfebf5e31a7cc44834745251324bfe1fa1bff0f0a31dbfee4bbf48719ccfe7.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/89cfebf5e31a7cc44834745251324bfe1fa1bff0f0a31dbfee4bbf48719ccfe7.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "R1串联、R2并联、稳压二极管阴极朝上；定性三角波±4V，不增周期值。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F155.svg",
+      "svg_sha256": "00d26b72d84f0ebb51cf523b148d2bd0671c003e5133377ebc46644c5ad8b86d",
+      "png_sha256": "ce931e8b63780700ed6f205954d0e3c34d66edc99f704c2641035a25c3513645",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/89cfebf5e31a7cc44834745251324bfe1fa1bff0f0a31dbfee4bbf48719ccfe7.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F155.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F158",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/55289255bf32a756b0db228193dcf1cde3822ee049adf00465dfc9801ed3165d.jpg",
+      "sha256": "77a47b32e3a56b3ca11b02c95e2919282170d5dc6b741fe3eed29088cd5e266b",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理.md",
+          "line": 71,
+          "question": "成惠-19-20期末-算3",
+          "heading": "### 成惠-19-20期末-算3",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/55289255bf32a756b0db228193dcf1cde3822ee049adf00465dfc9801ed3165d.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/55289255bf32a756b0db228193dcf1cde3822ee049adf00465dfc9801ed3165d.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "输入隔直C后分为偏置R/2.6V支路和D支路；D阴极地；1kΩ及电源正上。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F158.svg",
+      "svg_sha256": "94cbca5035e3b296fb2818291a2dfee27443114fbb33eaf7d55953d1b83e0fdf",
+      "png_sha256": "774c80202de75d321d261e6b68e2ece04a6c97a70860c91709bd40f93b4d9e71",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/55289255bf32a756b0db228193dcf1cde3822ee049adf00465dfc9801ed3165d.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F158.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F159",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/s9_answer_crops/成惠-19-20期末-算3_p51_01.jpg",
+      "sha256": "382fe056d8d4e9041601b311ef5c41d9857e7e9899339279b20922dfc29eeb59",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理.md",
+          "line": 78,
+          "question": "成惠-19-20期末-算3",
+          "heading": "### 成惠-19-20期末-算3",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/s9_answer_crops/成惠-19-20期末-算3_p51_01.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/s9_answer_crops/成惠-19-20期末-算3_p51_01.jpg",
+          "evidence": true
+        }
+      ],
+      "evidence": true,
+      "already_vector": false,
+      "status": "source_evidence_retained",
+      "verification": "原答案截图只读保留，不用重绘稿替换来源证据"
+    },
+    {
+      "id": "F164",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/34567690f07c08006a0fb860db0314d7e4a26f50920edfed6bdf2e42bda58d8b.jpg",
+      "sha256": "86c496d0ae794bae3cde9f8c96143fb16c9c594d9ac95a66d74181a0b20f74f6",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2020-2021期末_5-9章题面整理.md",
+          "line": 21,
+          "question": "成惠-20-21期末-简1",
+          "heading": "### 成惠-20-21期末-简1",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/34567690f07c08006a0fb860db0314d7e4a26f50920edfed6bdf2e42bda58d8b.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/34567690f07c08006a0fb860db0314d7e4a26f50920edfed6bdf2e42bda58d8b.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "左6V/右5V；四个10kΩ分压器；D阳极朝右、阴极朝左，I箭头向左，v正右负左。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F164.svg",
+      "svg_sha256": "835daeca0e1313e2a5a4e1a0e18e2aee74da567e3118684f9891ea7805e6f558",
+      "png_sha256": "4d049cc55c9377a268d31962b92f2efc3a84651cbac974334a85370d2ecda868",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2020-2021期末_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/34567690f07c08006a0fb860db0314d7e4a26f50920edfed6bdf2e42bda58d8b.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F164.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F170",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/169d882a83894935a330272d7e3e9580e74d235e717c423a5daa52de6f1f9135.jpg",
+      "sha256": "fbcc0d5960565b59edef3e72ab0a5362c84e939af16d174a61217d98f7647539",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2021-2022期末A_5-9章题面整理.md",
+          "line": 82,
+          "question": "成惠-21-22期末A-算5",
+          "heading": "### 成惠-21-22期末A-算5",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/169d882a83894935a330272d7e3e9580e74d235e717c423a5daa52de6f1f9135.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/169d882a83894935a330272d7e3e9580e74d235e717c423a5daa52de6f1f9135.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "R1/R3串联，R2/R4分支；D从R3后节点向地；iD向下；uD正上负下；不填答案数值。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F170.svg",
+      "svg_sha256": "b21556a8c7728eebe06d02785cf68fbb5168860ef190de51392a2b3a3bb1eb92",
+      "png_sha256": "7ba68d5558e5320b6292a150071073f89a79a62d5a60bf6bccb7f523f88079ee",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2021-2022期末A_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/169d882a83894935a330272d7e3e9580e74d235e717c423a5daa52de6f1f9135.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F170.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F173",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/551542d31039470cb3850b59ec710814f66b0b8bcf19d2549d4325c17cafb417.jpg",
+      "sha256": "37c00f2e26570e4c0b7da6246b5ec77d514648feead51e610b115ce85a6c3cd9",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2022-2023期末评测_5-9章题面整理.md",
+          "line": 51,
+          "question": "成惠-22-23期末评测-算4",
+          "heading": "### 成惠-22-23期末评测-算4",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/551542d31039470cb3850b59ec710814f66b0b8bcf19d2549d4325c17cafb417.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/551542d31039470cb3850b59ec710814f66b0b8bcf19d2549d4325c17cafb417.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "开关由1(6V)切至2(8V)，图示初始在1；D后2Ω串联、2Ω与0.1F并联；输出正上负下。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F173.svg",
+      "svg_sha256": "f3d96431d07d932e10aad65d129fdfa3680de8f3de5684ad0fcc681bd0ed9ebf",
+      "png_sha256": "cff2698db305d88df2820df265787eccc3f799b25c3b2638ae8204b61676edd1",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2022-2023期末评测_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/551542d31039470cb3850b59ec710814f66b0b8bcf19d2549d4325c17cafb417.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F173.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F176",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/fa4d545e788b4c6ebfc4229b8cec2bd9bbd5a81d405aed7514f4c43148357fad.jpg",
+      "sha256": "13a8be957ef155beab3feab81e50e123a7474abeee9149c8185d35a689ac4014",
+      "chapters": [
+        5
+      ],
+      "assigned_chapter": 5,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2022-2023期末评测_5-9章题面整理.md",
+          "line": 124,
+          "question": "成惠-22-23期末评测-算7",
+          "heading": "### 成惠-22-23期末评测-算7",
+          "chapter": 5,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/fa4d545e788b4c6ebfc4229b8cec2bd9bbd5a81d405aed7514f4c43148357fad.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/fa4d545e788b4c6ebfc4229b8cec2bd9bbd5a81d405aed7514f4c43148357fad.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "C、10Ω串联；960Ω串3V正上电源支路；D阴极地；iD向下。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch05/F176.svg",
+      "svg_sha256": "41a2c73c292af30687e1b03cf48b26bdd375ebe3c1def3121f522f54c04d18a1",
+      "png_sha256": "4a5bf9b5e510a60ebb48dfc685fc743fb43e0f49c094afb3eb51f8dd0891c3e7",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2022-2023期末评测_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/fa4d545e788b4c6ebfc4229b8cec2bd9bbd5a81d405aed7514f4c43148357fad.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch05/F176.svg]]"
+        }
+      ]
+    }
+  ],
+  "document_invariants": {
+    "10_题库/仿真作业2_题面整理.md": "60a8ee93a21a94c27c3e78c74ce59e9c69164f77b8cb7c386bee6f7d6fecce47",
+    "10_题库/电子线路期末复习_题面整理.md": "de2526e91b736e81b275e25b9b3ce1c77869f02ca0fcfdba67501da9c9dd87db",
+    "10_题库/第5章课后习题_题面整理.md": "6486746061b52c04b1b4f2fc72af2f190e43893f434939c5534ec48ac5500aaa",
+    "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md": "e301a20ed3c06a26e3ef1a778426717cd679d98d0fc1eeb187df35e4a4afea44",
+    "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理.md": "5df8fc291e6fb33a898596e852fbc4b8fda85aea82b1a0fa6f821c0d7648d316",
+    "10_题库/成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理.md": "297d47d0ea6fb929021bfd9461ab1ca560901f5b048655a1869df211784b11cc",
+    "10_题库/成惠团队期末卷_5-9章/2020-2021期末_5-9章题面整理.md": "d51cd6c15f9114249fef2b6e0c15c7d43b5caa8f359f7a50672796932d1c2237",
+    "10_题库/成惠团队期末卷_5-9章/2021-2022期末A_5-9章题面整理.md": "4c248eecaae5b50886da3fc6cb0437028109591d4af2087ba09209d29a0ae672",
+    "10_题库/成惠团队期末卷_5-9章/2022-2023期末评测_5-9章题面整理.md": "8aebedb4c12c6deabe9228b366a5b5e914445ea065a2e104b54a4d2e25f07085"
+  },
+  "verified": 24,
+  "pending": 1,
+  "evidence_retained": 2
+}
