@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 193122,
-    "sha256": "528c11f47bb4feba20e2ebe248bfe8168d98931ee2b234188c7954c511cc6299"
+    "bytes": 194466,
+    "sha256": "ae0f2cb9b2d24411c72acd8b4bae052dd7eeee4880abd73057fd7c2c351e79a8"
   },
   {
     "path": "tools/verify_share.py",
@@ -12670,6 +12670,51 @@
     "sha256": "b7d027072cbb95f1d407dd5437d5332f6a72c5211aa939a5ef9511cf5f31ffdc"
   },
   {
+    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/F001.png",
+    "bytes": 50264,
+    "sha256": "bae9ed69f5cdde5fd18a1246cd13ad13d0ab249dda7a98690d7080607afe5d12"
+  },
+  {
+    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/F001.svg",
+    "bytes": 24681,
+    "sha256": "ab92beb689589d96d6354684e1a4927498b244d76fddae6d8649bbd32327434b"
+  },
+  {
+    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/comparison-01.png",
+    "bytes": 59647,
+    "sha256": "c0f065e49198dcc806a80b6fd734fcc96ed58b85aab6e3b5795430700973c8f5"
+  },
+  {
+    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/generate.py",
+    "bytes": 1231,
+    "sha256": "7841110d326e22ce8df225e534874a0c701dbbfd621b3aebe3fc9765107aa883"
+  },
+  {
+    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/geometry.json",
+    "bytes": 1123,
+    "sha256": "bec23da87680bc8ef90a22e9b57e56dc5eb4e6cf32f490ec1e60c6057e3c320f"
+  },
+  {
+    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/ledger.json",
+    "bytes": 1875,
+    "sha256": "3b18fb024bf494fe679f6446e83f33fd13b1c90fdb19240802786b694ade9918"
+  },
+  {
+    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/qa.json",
+    "bytes": 289,
+    "sha256": "c5343d51b6afc2312e63c28dc385354f6d58478540408b04074308864855a712"
+  },
+  {
+    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/reading-320px.png",
+    "bytes": 12688,
+    "sha256": "9fa638c5cfec1ac6212070f9b48ba9123041a65eef82f565c0299be0ca1c1500"
+  },
+  {
+    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/validation.json",
+    "bytes": 1049,
+    "sha256": "d2fb97e8d67c4f63c6a21c2241dc5cc3ba3060c23d23b4464e1d46229c493b42"
+  },
+  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F002.png",
     "bytes": 36223,
     "sha256": "b884c712baa95a4b31fb1eecdba3271c46967377ee62ebfbd1cce08bc13cc74c"
@@ -14126,8 +14171,8 @@
   },
   {
     "path": "电路分析/10_题库/仿真作业1_题面整理.md",
-    "bytes": 1492,
-    "sha256": "07b9af22f5e39331cda0a5391ec5ed568ea1ccce740e596131a6c7f1aab97002"
+    "bytes": 1446,
+    "sha256": "38bd6c405ec49feea3889bbf4f2fd16a446461962b94dbf9fd865b64d28c1305"
   },
   {
     "path": "电路分析/10_题库/仿真作业2_题面整理.md",
@@ -15558,6 +15603,11 @@
     "path": "电路分析/40_派生视图/考频矩阵.md",
     "bytes": 30649,
     "sha256": "bd0bb2a531aef283724c2e5cb2d40badd87e05c9238cd9695024f01e22aab5ed"
+  },
+  {
+    "path": "电路分析/40_派生视图/逐章图像重绘/第03章_核验报告.md",
+    "bytes": 1461,
+    "sha256": "594ec930e6e56b17670b8b0119a8860f675a42ce7fd8dc514f5656202728e86f"
   },
   {
     "path": "电路分析/40_派生视图/逐章图像重绘/第05章_核验报告.md",

@@ -1,0 +1,7 @@
+{
+  "verified": {
+    "F001": "50Ω电阻R1与1.023μF电容C1串联；交流源V1为2Vrms、1000Hz、0°，正上负下；保留节点1/2/0、接地与PR1电压/电流探针标记。黑白重绘不以颜色区分信息。"
+  },
+  "pending": {},
+  "render_command": "python generate.py"
+}

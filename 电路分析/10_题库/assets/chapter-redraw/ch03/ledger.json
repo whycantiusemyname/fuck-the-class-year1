@@ -1,0 +1,48 @@
+{
+  "chapter": 3,
+  "scope": "formal referenced images only; original answers/screenshots read-only",
+  "figures": [
+    {
+      "id": "F001",
+      "original": "10_题库/assets/simulation/sim-1-cbe0f96f836b.png",
+      "sha256": "cbe0f96f836b3f2c290c80eef6230c6a644b827b958ca495e4fdbb36448add12",
+      "chapters": [
+        3
+      ],
+      "assigned_chapter": 3,
+      "references": [
+        {
+          "document": "10_题库/仿真作业1_题面整理.md",
+          "line": 33,
+          "question": "仿真作业-1",
+          "heading": "### 仿真作业-1",
+          "chapter": 3,
+          "raw": "assets/simulation/sim-1-cbe0f96f836b.png",
+          "target": "10_题库/assets/simulation/sim-1-cbe0f96f836b.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "50Ω电阻R1与1.023μF电容C1串联；交流源V1为2Vrms、1000Hz、0°，正上负下；保留节点1/2/0、接地与PR1电压/电流探针标记。黑白重绘不以颜色区分信息。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch03/F001.svg",
+      "svg_sha256": "ab92beb689589d96d6354684e1a4927498b244d76fddae6d8649bbd32327434b",
+      "png_sha256": "bae9ed69f5cdde5fd18a1246cd13ad13d0ab249dda7a98690d7080607afe5d12",
+      "replacements": [
+        {
+          "document": "10_题库/仿真作业1_题面整理.md",
+          "old": "![仿真作业1 原件电路图](assets/simulation/sim-1-cbe0f96f836b.png)",
+          "new": "![仿真作业1 原件电路图](assets/chapter-redraw/ch03/F001.svg)"
+        }
+      ]
+    }
+  ],
+  "document_invariants": {
+    "10_题库/仿真作业1_题面整理.md": "f7ff412e12b0bdcce8f162793638e45b9de628683c5011e5adde608b8a9a2f97"
+  },
+  "verified": 1,
+  "pending": 0,
+  "evidence_retained": 0,
+  "reused_vectors": 0
+}

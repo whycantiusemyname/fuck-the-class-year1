@@ -1,6 +1,6 @@
 {
-  "files": 3144,
-  "MiB": 1056.85,
+  "files": 3154,
+  "MiB": 1057.02,
   "retained_cache_files": 699,
   "preexisting_unresolved_links": [],
   "excluded_private_dependencies": [
@@ -2629,5 +2629,29 @@
     "report": "电路分析/40_派生视图/逐章图像重绘/第06章_核验报告.md",
     "style": "STIX/black/IEC; original and answer evidence retained",
     "prior_commits_preserved": "8a2ed52d7c7607967bda7a48377d055cf6c86003"
+  },
+  "circuit_redraw_ch03_20261106": {
+    "verified": 1,
+    "pending": 0,
+    "evidence_retained": 0,
+    "files": [
+      "电路分析/10_题库/仿真作业1_题面整理.md",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/F001.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/F001.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/generate.py",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/geometry.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/ledger.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/validation.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/reading-320px.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/qa.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/comparison-01.png",
+      "电路分析/10_题库/assets/chapter-redraw/common.py",
+      "电路分析/10_题库/assets/chapter-redraw/panels.py",
+      "电路分析/10_题库/assets/chapter-redraw/verify.py",
+      "电路分析/40_派生视图/逐章图像重绘/第03章_核验报告.md"
+    ],
+    "report": "电路分析/40_派生视图/逐章图像重绘/第03章_核验报告.md",
+    "style": "STIX/black/IEC; original and answer evidence retained",
+    "prior_commits_preserved": "a5b4d6f033d1ba9a639f159b6ba00d5c59421146"
   }
 }
