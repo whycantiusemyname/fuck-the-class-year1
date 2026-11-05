@@ -1,6 +1,6 @@
 {
-  "files": 2065,
-  "MiB": 978.51,
+  "files": 2097,
+  "MiB": 979.77,
   "retained_cache_files": 699,
   "preexisting_unresolved_links": [],
   "excluded_private_dependencies": [
@@ -1236,5 +1236,60 @@
       "电路分析/10_题库/assets/电子线路期末复习/redrawn/OP-transfer.svg",
       "电路分析/10_题库/assets/电子线路期末复习/redrawn/redraw-ledger.json"
     ]
+  },
+  "physics_upper_figure_batch01_20261106": {
+    "figures": 8,
+    "redrawn": 8,
+    "clear_extraction_adopted": 0,
+    "documents": 3,
+    "reference_replacements": 8,
+    "files": [
+      "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+      "物理/10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+      "物理/10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+      "物理/10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.png",
+      "物理/10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.svg",
+      "物理/10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.png",
+      "物理/10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.svg",
+      "物理/10_题库/_assets/重绘_上册_批01/03-pulley-4-7.png",
+      "物理/10_题库/_assets/重绘_上册_批01/03-pulley-4-7.svg",
+      "物理/10_题库/_assets/重绘_上册_批01/04-vibration-4-7.png",
+      "物理/10_题库/_assets/重绘_上册_批01/04-vibration-4-7.svg",
+      "物理/10_题库/_assets/重绘_上册_批01/05-wave-5-10-a.png",
+      "物理/10_题库/_assets/重绘_上册_批01/05-wave-5-10-a.svg",
+      "物理/10_题库/_assets/重绘_上册_批01/06-wave-5-10-b.png",
+      "物理/10_题库/_assets/重绘_上册_批01/06-wave-5-10-b.svg",
+      "物理/10_题库/_assets/重绘_上册_批01/07-wave-5-13.png",
+      "物理/10_题库/_assets/重绘_上册_批01/07-wave-5-13.svg",
+      "物理/10_题库/_assets/重绘_上册_批01/08-wave-5-6.png",
+      "物理/10_题库/_assets/重绘_上册_批01/08-wave-5-6.svg",
+      "物理/10_题库/_assets/重绘_上册_批01/generate.py",
+      "物理/10_题库/_assets/重绘_上册_批01/mapping.json",
+      "物理/10_题库/_assets/重绘_上册_批01/verify_batch.py",
+      "物理/40_派生视图/大物上/图像重绘批01/comparison-1.png",
+      "物理/40_派生视图/大物上/图像重绘批01/comparison-2.png",
+      "物理/40_派生视图/大物上/图像重绘批01/reading-320px.png",
+      "物理/40_派生视图/大物上/图像重绘批01/README.md",
+      "物理/40_派生视图/大物上/图像重绘批01/source-090.png",
+      "物理/40_派生视图/大物上/图像重绘批01/source-093.png",
+      "物理/40_派生视图/大物上/图像重绘批01/source-1009.png",
+      "物理/40_派生视图/大物上/图像重绘批01/source-1077.png",
+      "物理/40_派生视图/大物上/图像重绘批01/source-1150.png",
+      "物理/40_派生视图/大物上/图像重绘批01/source-147.png",
+      "物理/40_派生视图/大物上/图像重绘批01/source-686.png",
+      "物理/40_派生视图/大物上/图像重绘批01/source-975.png",
+      "物理/40_派生视图/大物上/图像重绘批01/validation.json"
+    ],
+    "originals_retained": true,
+    "readonly_pdf_hash_verified": true,
+    "text_anchor_answer_state_preserved": true,
+    "s1": "passed",
+    "portable_figure_verification": "passed",
+    "legacy_readthrough_acceptance": "preexisting absent; disclosed in report; conversion not changed",
+    "report": "物理/40_派生视图/大物上/图像重绘批01/README.md",
+    "share_link_check": {
+      "links_checked": 6043,
+      "errors": 0
+    }
   }
 }

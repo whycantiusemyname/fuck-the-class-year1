@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 90207,
-    "sha256": "02f5d3036108e51a6d9bd30fa5f008da8736150e194b991702660ace83329ef6"
+    "bytes": 93468,
+    "sha256": "9c38505c5903d39f69e6d36ff435223e1bff1d851e51543a76f643496ef82753"
   },
   {
     "path": "tools/verify_share.py",
@@ -3250,6 +3250,101 @@
     "sha256": "541072d18d68ec9a3bff7dec1b83e2594d4f6ac65088755039a6764b33f03643"
   },
   {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.png",
+    "bytes": 36554,
+    "sha256": "9d32656f334ac1b07934bda73ad25e2f45e5f841d7dcad6550a3324d1b1b85ee"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.svg",
+    "bytes": 11421,
+    "sha256": "804ca8145f1d025c708e1437c71bf4ef9d4c3091143af5a0ea4f9f4c69b50886"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.png",
+    "bytes": 33050,
+    "sha256": "c8fedf18ec2d2b71cedebf11a7611f8996e98892bfc94c17e1b55021e263a938"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.svg",
+    "bytes": 9544,
+    "sha256": "b1ce9694479d49b430c2acb08df4b33904acbecc97f5fa27ba4dcce30bd4f4a1"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/03-pulley-4-7.png",
+    "bytes": 33842,
+    "sha256": "038e0f64cd82b78eeeee616602048fc07f2b2150584f42c3fe0c540f812ef2e2"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/03-pulley-4-7.svg",
+    "bytes": 6428,
+    "sha256": "ac2dcd9879cfed66d5c00b2fbefb1edfeac86f55e695f6c2df530dc51517f014"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/04-vibration-4-7.png",
+    "bytes": 39580,
+    "sha256": "9ee9e7446ed534744c4435378e66d64843315c29f9669d82e4a2eb0e97aa946f"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/04-vibration-4-7.svg",
+    "bytes": 10379,
+    "sha256": "be5d03cac1c069936041aa47643d2059587ce0541a76454bf391fc277c7a6bf6"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/05-wave-5-10-a.png",
+    "bytes": 39916,
+    "sha256": "35b8008d1ce87ce3224c6de6c1eccb2510f6877aa52dd934d755d2d5d418f134"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/05-wave-5-10-a.svg",
+    "bytes": 11734,
+    "sha256": "6ee7259da74fbb8eef654c373771919ae52aa2e7784acc788bb890a0cfc38e18"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/06-wave-5-10-b.png",
+    "bytes": 33163,
+    "sha256": "b7331ef01d4d956ccb61624129af990656c0db8981b8bf96a58e5aad1f010373"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/06-wave-5-10-b.svg",
+    "bytes": 6304,
+    "sha256": "b13b1d2f0ec35c432d6226d5f1758038a00afe76ac6132225396902aa8ad94b1"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/07-wave-5-13.png",
+    "bytes": 46191,
+    "sha256": "8e2dfed37b58541e11fcc2ffbe37b6d3bdcf9e682c5f5d07a0475253eda4d069"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/07-wave-5-13.svg",
+    "bytes": 13276,
+    "sha256": "86bc877ed2cc809d149e5e9682237cad846e7d38c16560225f051cdb98b5ee6b"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/08-wave-5-6.png",
+    "bytes": 44632,
+    "sha256": "e208cbb220c99ede9601958f84074958b6d635371202048abd79c15ef1451bd0"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/08-wave-5-6.svg",
+    "bytes": 13579,
+    "sha256": "84fd6613e325b583326e7c74ebae485f2b4916d87b860a83a7c2c0f843af7ed8"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/generate.py",
+    "bytes": 7141,
+    "sha256": "5349d596f0db7b93ad0316685520195cbfaf7eb873990c0aee4b026798a73e74"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/mapping.json",
+    "bytes": 12789,
+    "sha256": "f8e872a075b342a27a6129c97f9ef47ac4f128418cde180c6c2019fcca3dc65c"
+  },
+  {
+    "path": "物理/10_题库/_assets/重绘_上册_批01/verify_batch.py",
+    "bytes": 1501,
+    "sha256": "e286472c5bb5506680daf30a26e49c83d2fb5122ad557e233339f4e8c7fe193d"
+  },
+  {
     "path": "物理/10_题库/_标签库.md",
     "bytes": 14844,
     "sha256": "5beaf5caa72adf232bbd988dde112222068318b7fd7555eaf4c150e4dd0b63e7"
@@ -3501,8 +3596,8 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
-    "bytes": 22355,
-    "sha256": "a705d625e4592a0777171f43866fb52e55bd59a25ec06b64ed18245a8653e664"
+    "bytes": 22367,
+    "sha256": "bc58a424392252f8e17e7dd46b8ee3ed87097b163ed55f3cefc94ec646f1d22d"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
@@ -3511,13 +3606,13 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
-    "bytes": 29513,
-    "sha256": "44bad14be71fe8eaaac3b4cc3d9e57607cc4f1a33d6e38ee78d49972914aa1ba"
+    "bytes": 29527,
+    "sha256": "ac4f0432d684785c2a707f54fc9a9b85022cfded10a562b99aeb957e23dc396f"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
-    "bytes": 33181,
-    "sha256": "d5bec7feebf40afa6272f2ccf4e46f33b9e44ac3c97fcb9217faa2ab8ec99f93"
+    "bytes": 33202,
+    "sha256": "dd6a6b3069632c76d0c628e0fa4fc25e9e4e3823f17086fdd3a0d58b942beb08"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
@@ -3933,6 +4028,71 @@
     "path": "物理/40_派生视图/大物上/历史期末考频矩阵.md",
     "bytes": 40887,
     "sha256": "20b65f7a2c6373830734e7bfb7eff4505d1f78d5bc3d3884a3d8fb928186318a"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/README.md",
+    "bytes": 9904,
+    "sha256": "8fa125be2d284fc4191055bcc9f6200e414d4cc7a1578b4f1cfbdab3d923944f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/comparison-1.png",
+    "bytes": 187240,
+    "sha256": "1eb1ca1c03787075b1525a0a101d16621698b625f5464874600757056ec1d533"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/comparison-2.png",
+    "bytes": 239751,
+    "sha256": "60f170d20480cf03bbeddccef7e55e554ff8fd26fc7d53a0f9091374de5f8d1b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/reading-320px.png",
+    "bytes": 59462,
+    "sha256": "621663713aef90abdd4a3d62ab5716d3e715f3aa8340f2a93a8453303123d5f8"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/source-090.png",
+    "bytes": 24664,
+    "sha256": "edfce7f6dad320fc7dd24345f371ff95cd2f1083af15e21016154bfb4723ec2b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/source-093.png",
+    "bytes": 76094,
+    "sha256": "95f09ced8291ee8312b71c22374989634607d13eedc3d2130ad3997df2f28850"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/source-1009.png",
+    "bytes": 39377,
+    "sha256": "260f31f7bce87a6a92ccae10b99451c4bb60346ab17a1783b3a4cb79a8b97e40"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/source-1077.png",
+    "bytes": 63869,
+    "sha256": "5b48422f40740beb5b83ace50f7b24557c006cb9d40621a6ff0b42504dbd85de"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/source-1150.png",
+    "bytes": 47811,
+    "sha256": "209294feadbe73a51687db9ac70509d4a3d8141397a59704e8ffaa4ec57f5cda"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/source-147.png",
+    "bytes": 37346,
+    "sha256": "6bb4f2143738cfd11f167015be7596357d3445a020ec57fe7d18d36f25e54830"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/source-686.png",
+    "bytes": 36301,
+    "sha256": "eeeb384aa1ea96e551adfcabe9fe702e8ad025ebae005368d72cf53d50b20e67"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/source-975.png",
+    "bytes": 48810,
+    "sha256": "885f21686729ccd32e75c5ff1213fe29f98ebfbedfd54f7e1551060219088cb7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/validation.json",
+    "bytes": 5934,
+    "sha256": "3425087e9c47bda2caebd8667756e046792cfdf3c89ea77f61579ed7c5da478d"
   },
   {
     "path": "物理/40_派生视图/大物上/期末刷题跳转清单覆盖报告.md",
