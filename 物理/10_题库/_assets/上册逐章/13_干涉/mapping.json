@@ -1,0 +1,2815 @@
+[
+  {
+    "document": "10_题库/习题册/大学物理习题册_25_光的干涉（一）_题面整理.md",
+    "question": "习题册-章节25-题1",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/bbbfd2898c74798ec58cbf1e7f462889078dee6d634aca4ab879e06521768050.jpg",
+    "path": "10_题库/_assets/习题册/bbbfd2898c74798ec58cbf1e7f462889078dee6d634aca4ab879e06521768050.jpg",
+    "sha256": "2432f2a37848e87c6e21ff2b08fc2dfe0dd5f3361468be11c6b682d5a0e2d783",
+    "size": [
+      278,
+      159
+    ],
+    "id": 1,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 26,
+    "bbox_1000": [
+      93,
+      408,
+      183,
+      484
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\bbbfd2898c74798ec58cbf1e7f462889078dee6d634aca4ab879e06521768050.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-001.png",
+    "source_crop_size": [
+      399,
+      231
+    ],
+    "page_preview": "page-1-026.png",
+    "method": "native_extraction",
+    "new": "001-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_25_光的干涉（一）_题面整理.md",
+        "question": "习题册-章节25-题1",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/bbbfd2898c74798ec58cbf1e7f462889078dee6d634aca4ab879e06521768050.jpg",
+        "path": "10_题库/_assets/习题册/bbbfd2898c74798ec58cbf1e7f462889078dee6d634aca4ab879e06521768050.jpg",
+        "sha256": "2432f2a37848e87c6e21ff2b08fc2dfe0dd5f3361468be11c6b682d5a0e2d783",
+        "size": [
+          278,
+          159
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/001-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_25_光的干涉（一）_题面整理.md",
+    "question": "习题册-章节25-题3",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/101ed2d29f82a5c834f7070754ea75dafafda0991e4eee3cefc7811996387410.jpg",
+    "path": "10_题库/_assets/习题册/101ed2d29f82a5c834f7070754ea75dafafda0991e4eee3cefc7811996387410.jpg",
+    "sha256": "2aeaf4e94e4f7ed6503f62c54f71d583236e1874d274c67af5828530ffdc3fd0",
+    "size": [
+      442,
+      234
+    ],
+    "id": 2,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 26,
+    "bbox_1000": [
+      96,
+      687,
+      240,
+      798
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\101ed2d29f82a5c834f7070754ea75dafafda0991e4eee3cefc7811996387410.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-002.png",
+    "source_crop_size": [
+      638,
+      337
+    ],
+    "page_preview": "page-1-026.png",
+    "method": "redrawn",
+    "new": "002.svg",
+    "check": "平行薄膜上中下介质、e的厚度端点与向下入射核对；002数值n1=1.00/n2=1.30/n3=1.50；037保留SiO2/Si和n1=1，不添加λ。其余图保留原有λ。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_25_光的干涉（一）_题面整理.md",
+        "question": "习题册-章节25-题3",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/101ed2d29f82a5c834f7070754ea75dafafda0991e4eee3cefc7811996387410.jpg",
+        "path": "10_题库/_assets/习题册/101ed2d29f82a5c834f7070754ea75dafafda0991e4eee3cefc7811996387410.jpg",
+        "sha256": "2aeaf4e94e4f7ed6503f62c54f71d583236e1874d274c67af5828530ffdc3fd0",
+        "size": [
+          442,
+          234
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/002.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_25_光的干涉（一）_题面整理.md",
+    "question": "习题册-章节25-题5",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/9ecd026064a1be35b36fc3814917981d065f5c042ca1b9df373c2ca88b62f851.jpg",
+    "path": "10_题库/_assets/习题册/9ecd026064a1be35b36fc3814917981d065f5c042ca1b9df373c2ca88b62f851.jpg",
+    "sha256": "31ec146ab81d3f9a16259606409309430dc34cf97d5372bd11d9829b949c3489",
+    "size": [
+      357,
+      273
+    ],
+    "id": 3,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 26,
+    "bbox_1000": [
+      555,
+      269,
+      671,
+      399
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\9ecd026064a1be35b36fc3814917981d065f5c042ca1b9df373c2ca88b62f851.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-003.png",
+    "source_crop_size": [
+      514,
+      395
+    ],
+    "page_preview": "page-1-026.png",
+    "method": "native_extraction",
+    "new": "003-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_25_光的干涉（一）_题面整理.md",
+        "question": "习题册-章节25-题5",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/9ecd026064a1be35b36fc3814917981d065f5c042ca1b9df373c2ca88b62f851.jpg",
+        "path": "10_题库/_assets/习题册/9ecd026064a1be35b36fc3814917981d065f5c042ca1b9df373c2ca88b62f851.jpg",
+        "sha256": "31ec146ab81d3f9a16259606409309430dc34cf97d5372bd11d9829b949c3489",
+        "size": [
+          357,
+          273
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/003-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_26_光的干涉（二）_题面整理.md",
+    "question": "习题册-章节26-题2",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/2e570a69dbfb53f242160ad94d9ce4b255fbded6c4a5ee29ffc6e72d4fce93b2.jpg",
+    "path": "10_题库/_assets/习题册/2e570a69dbfb53f242160ad94d9ce4b255fbded6c4a5ee29ffc6e72d4fce93b2.jpg",
+    "sha256": "0e0861cca555b8ea58715cdc811877f059e73700e7c6b3de17d7f998a00e639e",
+    "size": [
+      295,
+      242
+    ],
+    "id": 4,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 27,
+    "bbox_1000": [
+      360,
+      355,
+      456,
+      470
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\2e570a69dbfb53f242160ad94d9ce4b255fbded6c4a5ee29ffc6e72d4fce93b2.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-004.png",
+    "source_crop_size": [
+      425,
+      350
+    ],
+    "page_preview": "page-1-027.png",
+    "method": "native_extraction",
+    "new": "004-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_26_光的干涉（二）_题面整理.md",
+        "question": "习题册-章节26-题2",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/2e570a69dbfb53f242160ad94d9ce4b255fbded6c4a5ee29ffc6e72d4fce93b2.jpg",
+        "path": "10_题库/_assets/习题册/2e570a69dbfb53f242160ad94d9ce4b255fbded6c4a5ee29ffc6e72d4fce93b2.jpg",
+        "sha256": "0e0861cca555b8ea58715cdc811877f059e73700e7c6b3de17d7f998a00e639e",
+        "size": [
+          295,
+          242
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/004-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_26_光的干涉（二）_题面整理.md",
+    "question": "习题册-章节26-题3",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/86c44eb5642c942860811e9bb1726846edd60faef86eec0bde6206c1bac79e87.jpg",
+    "path": "10_题库/_assets/习题册/86c44eb5642c942860811e9bb1726846edd60faef86eec0bde6206c1bac79e87.jpg",
+    "sha256": "830e9f67582df5770eb04235f93d65618089b7b3d5a852e66fcf4cf8dd1c20d5",
+    "size": [
+      232,
+      196
+    ],
+    "id": 5,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 27,
+    "bbox_1000": [
+      176,
+      626,
+      251,
+      719
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\86c44eb5642c942860811e9bb1726846edd60faef86eec0bde6206c1bac79e87.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-005.png",
+    "source_crop_size": [
+      333,
+      283
+    ],
+    "page_preview": "page-1-027.png",
+    "method": "native_extraction",
+    "new": "005-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_26_光的干涉（二）_题面整理.md",
+        "question": "习题册-章节26-题3",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/86c44eb5642c942860811e9bb1726846edd60faef86eec0bde6206c1bac79e87.jpg",
+        "path": "10_题库/_assets/习题册/86c44eb5642c942860811e9bb1726846edd60faef86eec0bde6206c1bac79e87.jpg",
+        "sha256": "830e9f67582df5770eb04235f93d65618089b7b3d5a852e66fcf4cf8dd1c20d5",
+        "size": [
+          232,
+          196
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/005-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_26_光的干涉（二）_题面整理.md",
+    "question": "习题册-章节26-题4",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/11cd5b81c849317b505abf0d13400f714d5ffa96a5a16c5561bf81e4021ac2ee.jpg",
+    "path": "10_题库/_assets/习题册/11cd5b81c849317b505abf0d13400f714d5ffa96a5a16c5561bf81e4021ac2ee.jpg",
+    "sha256": "21b774ad2566f3768de5d07200ca45bf6dec42c0261a1d3a7bb47e9b21301b86",
+    "size": [
+      290,
+      187
+    ],
+    "id": 6,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 27,
+    "bbox_1000": [
+      277,
+      626,
+      371,
+      715
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\11cd5b81c849317b505abf0d13400f714d5ffa96a5a16c5561bf81e4021ac2ee.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-006.png",
+    "source_crop_size": [
+      416,
+      270
+    ],
+    "page_preview": "page-1-027.png",
+    "method": "native_extraction",
+    "new": "006-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_26_光的干涉（二）_题面整理.md",
+        "question": "习题册-章节26-题4",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/11cd5b81c849317b505abf0d13400f714d5ffa96a5a16c5561bf81e4021ac2ee.jpg",
+        "path": "10_题库/_assets/习题册/11cd5b81c849317b505abf0d13400f714d5ffa96a5a16c5561bf81e4021ac2ee.jpg",
+        "sha256": "21b774ad2566f3768de5d07200ca45bf6dec42c0261a1d3a7bb47e9b21301b86",
+        "size": [
+          290,
+          187
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/006-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
+    "question": "习题册-章节27-题2",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/f70989531a58c634544b064192298a51570d0bcaf885b545dd10e10e880f40ef.jpg",
+    "path": "10_题库/_assets/习题册/f70989531a58c634544b064192298a51570d0bcaf885b545dd10e10e880f40ef.jpg",
+    "sha256": "5b28c6cc5f51886e9a2a39744aaf7bdba1250aa5afe37021eb84c5ab4b287735",
+    "size": [
+      289,
+      131
+    ],
+    "id": 7,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 28,
+    "bbox_1000": [
+      179,
+      533,
+      273,
+      595
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\f70989531a58c634544b064192298a51570d0bcaf885b545dd10e10e880f40ef.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-007.png",
+    "source_crop_size": [
+      417,
+      189
+    ],
+    "page_preview": "page-1-028.png",
+    "method": "native_extraction",
+    "new": "007-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
+        "question": "习题册-章节27-题2",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/f70989531a58c634544b064192298a51570d0bcaf885b545dd10e10e880f40ef.jpg",
+        "path": "10_题库/_assets/习题册/f70989531a58c634544b064192298a51570d0bcaf885b545dd10e10e880f40ef.jpg",
+        "sha256": "5b28c6cc5f51886e9a2a39744aaf7bdba1250aa5afe37021eb84c5ab4b287735",
+        "size": [
+          289,
+          131
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/007-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
+    "question": "习题册-章节27-题2",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/92f530020749f95953bd7be8d5e23bd0594fac060dcdf9d3602fd05b8bf4f639.jpg",
+    "path": "10_题库/_assets/习题册/92f530020749f95953bd7be8d5e23bd0594fac060dcdf9d3602fd05b8bf4f639.jpg",
+    "sha256": "a7b93847318007c5fd85dd60fccdf4ee7aac517be63b73973dbadce99c7c6531",
+    "size": [
+      265,
+      131
+    ],
+    "id": 8,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 28,
+    "bbox_1000": [
+      292,
+      533,
+      378,
+      595
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\92f530020749f95953bd7be8d5e23bd0594fac060dcdf9d3602fd05b8bf4f639.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-008.png",
+    "source_crop_size": [
+      381,
+      189
+    ],
+    "page_preview": "page-1-028.png",
+    "method": "native_extraction",
+    "new": "008-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
+        "question": "习题册-章节27-题2",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/92f530020749f95953bd7be8d5e23bd0594fac060dcdf9d3602fd05b8bf4f639.jpg",
+        "path": "10_题库/_assets/习题册/92f530020749f95953bd7be8d5e23bd0594fac060dcdf9d3602fd05b8bf4f639.jpg",
+        "sha256": "a7b93847318007c5fd85dd60fccdf4ee7aac517be63b73973dbadce99c7c6531",
+        "size": [
+          265,
+          131
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/008-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
+    "question": "习题册-章节27-题3",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/2f47828b9755f84593ad97f4867415cabeb4b55f3b74e80b5dfc5895d7ce45f9.jpg",
+    "path": "10_题库/_assets/习题册/2f47828b9755f84593ad97f4867415cabeb4b55f3b74e80b5dfc5895d7ce45f9.jpg",
+    "sha256": "65a0d278354552840f461bd3f93f682aa6105135702b85aa3c1009ddcc9d970c",
+    "size": [
+      387,
+      104
+    ],
+    "id": 9,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 28,
+    "bbox_1000": [
+      94,
+      675,
+      219,
+      724
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\2f47828b9755f84593ad97f4867415cabeb4b55f3b74e80b5dfc5895d7ce45f9.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-009.png",
+    "source_crop_size": [
+      554,
+      150
+    ],
+    "page_preview": "page-1-028.png",
+    "method": "redrawn",
+    "new": "009.svg",
+    "check": "劈尖零厚度在左、厚端在右；n1在上、n2在楔内、n3在下；011/033向下入射λ，011左端O保留。角度与厚度不添加数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
+        "question": "习题册-章节27-题3",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/2f47828b9755f84593ad97f4867415cabeb4b55f3b74e80b5dfc5895d7ce45f9.jpg",
+        "path": "10_题库/_assets/习题册/2f47828b9755f84593ad97f4867415cabeb4b55f3b74e80b5dfc5895d7ce45f9.jpg",
+        "sha256": "65a0d278354552840f461bd3f93f682aa6105135702b85aa3c1009ddcc9d970c",
+        "size": [
+          387,
+          104
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/009.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
+    "question": "习题册-章节27-题4",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/97fc17c9ff564287ce471a6cf5d906cefda34cb7517f53a67c328ef4dc7d06be.jpg",
+    "path": "10_题库/_assets/习题册/97fc17c9ff564287ce471a6cf5d906cefda34cb7517f53a67c328ef4dc7d06be.jpg",
+    "sha256": "f6208c3a1ecc5dcc56e42959f60c04603b9aaa46c7553ccff635340820eeb450",
+    "size": [
+      235,
+      114
+    ],
+    "id": 10,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 28,
+    "bbox_1000": [
+      90,
+      826,
+      166,
+      880
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\97fc17c9ff564287ce471a6cf5d906cefda34cb7517f53a67c328ef4dc7d06be.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-010.png",
+    "source_crop_size": [
+      337,
+      165
+    ],
+    "page_preview": "page-1-028.png",
+    "method": "native_extraction",
+    "new": "010-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
+        "question": "习题册-章节27-题4",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/97fc17c9ff564287ce471a6cf5d906cefda34cb7517f53a67c328ef4dc7d06be.jpg",
+        "path": "10_题库/_assets/习题册/97fc17c9ff564287ce471a6cf5d906cefda34cb7517f53a67c328ef4dc7d06be.jpg",
+        "sha256": "f6208c3a1ecc5dcc56e42959f60c04603b9aaa46c7553ccff635340820eeb450",
+        "size": [
+          235,
+          114
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/010-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
+    "question": "习题册-章节27-题5",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/ce4c1a6da6d594e87df859b65d73639a007048cb3296b9c9f54b9a60ebe65dad.jpg",
+    "path": "10_题库/_assets/习题册/ce4c1a6da6d594e87df859b65d73639a007048cb3296b9c9f54b9a60ebe65dad.jpg",
+    "sha256": "32cc12f3fb29433b4bfe37b532b614bbb1d593d5265fe64136670a1933e674fd",
+    "size": [
+      353,
+      217
+    ],
+    "id": 11,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 28,
+    "bbox_1000": [
+      545,
+      273,
+      660,
+      376
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\ce4c1a6da6d594e87df859b65d73639a007048cb3296b9c9f54b9a60ebe65dad.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-011.png",
+    "source_crop_size": [
+      509,
+      313
+    ],
+    "page_preview": "page-1-028.png",
+    "method": "redrawn",
+    "new": "011.svg",
+    "check": "劈尖零厚度在左、厚端在右；n1在上、n2在楔内、n3在下；011/033向下入射λ，011左端O保留。角度与厚度不添加数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
+        "question": "习题册-章节27-题5",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/ce4c1a6da6d594e87df859b65d73639a007048cb3296b9c9f54b9a60ebe65dad.jpg",
+        "path": "10_题库/_assets/习题册/ce4c1a6da6d594e87df859b65d73639a007048cb3296b9c9f54b9a60ebe65dad.jpg",
+        "sha256": "32cc12f3fb29433b4bfe37b532b614bbb1d593d5265fe64136670a1933e674fd",
+        "size": [
+          353,
+          217
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/011.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_28_光的干涉（四）_题面整理.md",
+    "question": "习题册-章节28-题1",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/7d3c4566300493a7328e00af25dbc3093970662dafced3658e2a65b3342c7ba9.jpg",
+    "path": "10_题库/_assets/习题册/7d3c4566300493a7328e00af25dbc3093970662dafced3658e2a65b3342c7ba9.jpg",
+    "sha256": "2dbed22fcd748716cd8371e2ec6e813b5c7c89fa8f634947ea6b99743ad6f8a5",
+    "size": [
+      287,
+      265
+    ],
+    "id": 12,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      90,
+      351,
+      183,
+      477
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\7d3c4566300493a7328e00af25dbc3093970662dafced3658e2a65b3342c7ba9.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-012.png",
+    "source_crop_size": [
+      412,
+      383
+    ],
+    "page_preview": "page-1-029.png",
+    "method": "native_extraction",
+    "new": "012-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_28_光的干涉（四）_题面整理.md",
+        "question": "习题册-章节28-题1",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/7d3c4566300493a7328e00af25dbc3093970662dafced3658e2a65b3342c7ba9.jpg",
+        "path": "10_题库/_assets/习题册/7d3c4566300493a7328e00af25dbc3093970662dafced3658e2a65b3342c7ba9.jpg",
+        "sha256": "2dbed22fcd748716cd8371e2ec6e813b5c7c89fa8f634947ea6b99743ad6f8a5",
+        "size": [
+          287,
+          265
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/012-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_28_光的干涉（四）_题面整理.md",
+    "question": "习题册-章节28-题2",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/71afc3752dd8d0e53da412feee742a10a27eaeacbc31076610921aeca4ce5ea2.jpg",
+    "path": "10_题库/_assets/习题册/71afc3752dd8d0e53da412feee742a10a27eaeacbc31076610921aeca4ce5ea2.jpg",
+    "sha256": "3ba02738a96cc1b8ee7d287c470d03478a30073ed195f551a307160378e4626a",
+    "size": [
+      382,
+      165
+    ],
+    "id": 13,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      94,
+      625,
+      218,
+      703
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\71afc3752dd8d0e53da412feee742a10a27eaeacbc31076610921aeca4ce5ea2.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-013.png",
+    "source_crop_size": [
+      550,
+      237
+    ],
+    "page_preview": "page-1-029.png",
+    "method": "native_extraction",
+    "new": "013-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_28_光的干涉（四）_题面整理.md",
+        "question": "习题册-章节28-题2",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/71afc3752dd8d0e53da412feee742a10a27eaeacbc31076610921aeca4ce5ea2.jpg",
+        "path": "10_题库/_assets/习题册/71afc3752dd8d0e53da412feee742a10a27eaeacbc31076610921aeca4ce5ea2.jpg",
+        "sha256": "3ba02738a96cc1b8ee7d287c470d03478a30073ed195f551a307160378e4626a",
+        "size": [
+          382,
+          165
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/013-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_28_光的干涉（四）_题面整理.md",
+    "question": "习题册-章节28-题5",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/d164bbce3a166fc5445034063bbbb3b49cba6df8d07a12d35def05cf4872a6df.jpg",
+    "path": "10_题库/_assets/习题册/d164bbce3a166fc5445034063bbbb3b49cba6df8d07a12d35def05cf4872a6df.jpg",
+    "sha256": "4a7d01c69b763648b1aa09a3f01102e4ea5ce211c4adb2b6441cdb566b8590a4",
+    "size": [
+      287,
+      140
+    ],
+    "id": 14,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      551,
+      224,
+      644,
+      291
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\d164bbce3a166fc5445034063bbbb3b49cba6df8d07a12d35def05cf4872a6df.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-014.png",
+    "source_crop_size": [
+      413,
+      204
+    ],
+    "page_preview": "page-1-029.png",
+    "method": "native_extraction",
+    "new": "014-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_28_光的干涉（四）_题面整理.md",
+        "question": "习题册-章节28-题5",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/d164bbce3a166fc5445034063bbbb3b49cba6df8d07a12d35def05cf4872a6df.jpg",
+        "path": "10_题库/_assets/习题册/d164bbce3a166fc5445034063bbbb3b49cba6df8d07a12d35def05cf4872a6df.jpg",
+        "sha256": "4a7d01c69b763648b1aa09a3f01102e4ea5ce211c4adb2b6441cdb566b8590a4",
+        "size": [
+          287,
+          140
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/014-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_28_光的干涉（四）_题面整理.md",
+    "question": "习题册-章节28-题6",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/习题册/ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg",
+    "path": "10_题库/_assets/习题册/ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg",
+    "sha256": "6cbafa64d02c95c6949c9fc169a44431d3ed66dfd1cba12a8e2c6bdd12fd2fbe",
+    "size": [
+      287,
+      334
+    ],
+    "id": 15,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      555,
+      562,
+      648,
+      720
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-015.png",
+    "source_crop_size": [
+      412,
+      480
+    ],
+    "page_preview": "page-1-029.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_28_光的干涉（四）_题面整理.md",
+        "question": "习题册-章节28-题6",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/习题册/ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg",
+        "path": "10_题库/_assets/习题册/ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg",
+        "sha256": "6cbafa64d02c95c6949c9fc169a44431d3ed66dfd1cba12a8e2c6bdd12fd2fbe",
+        "size": [
+          287,
+          334
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+    "question": "20-21期末-选5",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/98aac52a95e1d076dbbceb40c370cc13d80918e5112a4273c009f1e279e4af7e.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/98aac52a95e1d076dbbceb40c370cc13d80918e5112a4273c009f1e279e4af7e.jpg",
+    "sha256": "4095f0235c5dbdae3a546b95f289978c24d1cf23450aa0ba3bc994fe11d48ccd",
+    "size": [
+      287,
+      226
+    ],
+    "id": 16,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 27,
+    "bbox_1000": [
+      680,
+      526,
+      853,
+      623
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\98aac52a95e1d076dbbceb40c370cc13d80918e5112a4273c009f1e279e4af7e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-016.png",
+    "source_crop_size": [
+      416,
+      329
+    ],
+    "page_preview": "page-2-027.png",
+    "method": "native_extraction",
+    "new": "016-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+        "question": "20-21期末-选5",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/98aac52a95e1d076dbbceb40c370cc13d80918e5112a4273c009f1e279e4af7e.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/98aac52a95e1d076dbbceb40c370cc13d80918e5112a4273c009f1e279e4af7e.jpg",
+        "sha256": "4095f0235c5dbdae3a546b95f289978c24d1cf23450aa0ba3bc994fe11d48ccd",
+        "size": [
+          287,
+          226
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/016-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+    "question": "20-21期末-计4",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/91b7cb7775827f7cda05dc6d4cf753dbb8166864b7d13fb174100b6a172ad42d.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/91b7cb7775827f7cda05dc6d4cf753dbb8166864b7d13fb174100b6a172ad42d.jpg",
+    "sha256": "f3ca555bb8aac6cb10e2acf5dcd7ba60e81273a4b53325f2475a1d47fb9f27b0",
+    "size": [
+      254,
+      182
+    ],
+    "id": 17,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      744,
+      375,
+      897,
+      453
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\91b7cb7775827f7cda05dc6d4cf753dbb8166864b7d13fb174100b6a172ad42d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-017.png",
+    "source_crop_size": [
+      368,
+      265
+    ],
+    "page_preview": "page-2-029.png",
+    "method": "native_extraction",
+    "new": "017-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+        "question": "20-21期末-计4",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/91b7cb7775827f7cda05dc6d4cf753dbb8166864b7d13fb174100b6a172ad42d.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/91b7cb7775827f7cda05dc6d4cf753dbb8166864b7d13fb174100b6a172ad42d.jpg",
+        "sha256": "f3ca555bb8aac6cb10e2acf5dcd7ba60e81273a4b53325f2475a1d47fb9f27b0",
+        "size": [
+          254,
+          182
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/017-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+    "question": "20-21期末-计5",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/5e334c137d217459bca6e94e6d5cbf1cb541999e8eeaee9e7b8c1d4b8276bdf5.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/5e334c137d217459bca6e94e6d5cbf1cb541999e8eeaee9e7b8c1d4b8276bdf5.jpg",
+    "sha256": "d65d9dda4a85bc4397fafdd87152e95d927cda66b2028caa8ed1ce9150405904",
+    "size": [
+      273,
+      167
+    ],
+    "id": 18,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      746,
+      645,
+      910,
+      717
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\5e334c137d217459bca6e94e6d5cbf1cb541999e8eeaee9e7b8c1d4b8276bdf5.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-018.png",
+    "source_crop_size": [
+      395,
+      245
+    ],
+    "page_preview": "page-2-029.png",
+    "method": "native_extraction",
+    "new": "018-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+        "question": "20-21期末-计5",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/5e334c137d217459bca6e94e6d5cbf1cb541999e8eeaee9e7b8c1d4b8276bdf5.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/5e334c137d217459bca6e94e6d5cbf1cb541999e8eeaee9e7b8c1d4b8276bdf5.jpg",
+        "sha256": "d65d9dda4a85bc4397fafdd87152e95d927cda66b2028caa8ed1ce9150405904",
+        "size": [
+          273,
+          167
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/018-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "question": "23-24期末-填3",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/63c7ae6a5e8faf7b6a09e2a0cf08014b3fe1cf408f97390e0983b15e5a708e06.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/63c7ae6a5e8faf7b6a09e2a0cf08014b3fe1cf408f97390e0983b15e5a708e06.jpg",
+    "sha256": "7f04f8f4b8d85460865dca14f76b71161f869f72184f77fd07a173702cc8c0d7",
+    "size": [
+      245,
+      190
+    ],
+    "id": 19,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 21,
+    "bbox_1000": [
+      559,
+      141,
+      707,
+      222
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\63c7ae6a5e8faf7b6a09e2a0cf08014b3fe1cf408f97390e0983b15e5a708e06.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-019.png",
+    "source_crop_size": [
+      356,
+      275
+    ],
+    "page_preview": "page-2-021.png",
+    "method": "native_extraction",
+    "new": "019-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+        "question": "23-24期末-填3",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/63c7ae6a5e8faf7b6a09e2a0cf08014b3fe1cf408f97390e0983b15e5a708e06.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/63c7ae6a5e8faf7b6a09e2a0cf08014b3fe1cf408f97390e0983b15e5a708e06.jpg",
+        "sha256": "7f04f8f4b8d85460865dca14f76b71161f869f72184f77fd07a173702cc8c0d7",
+        "size": [
+          245,
+          190
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/019-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "question": "23-24期末-计3",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/4f3f588c54409f4e79ad6e97bd8b77dc5e76e4031bccfe4c053bd15237e5ff48.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/4f3f588c54409f4e79ad6e97bd8b77dc5e76e4031bccfe4c053bd15237e5ff48.jpg",
+    "sha256": "a15ef0fedb5794ba1b1da469dd67ec52041aa7788ab2b09498aad75eed44df58",
+    "size": [
+      292,
+      217
+    ],
+    "id": 20,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 22,
+    "bbox_1000": [
+      709,
+      171,
+      885,
+      263
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\4f3f588c54409f4e79ad6e97bd8b77dc5e76e4031bccfe4c053bd15237e5ff48.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-020.png",
+    "source_crop_size": [
+      423,
+      312
+    ],
+    "page_preview": "page-2-022.png",
+    "method": "native_extraction",
+    "new": "020-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+        "question": "23-24期末-计3",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/4f3f588c54409f4e79ad6e97bd8b77dc5e76e4031bccfe4c053bd15237e5ff48.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/4f3f588c54409f4e79ad6e97bd8b77dc5e76e4031bccfe4c053bd15237e5ff48.jpg",
+        "sha256": "a15ef0fedb5794ba1b1da469dd67ec52041aa7788ab2b09498aad75eed44df58",
+        "size": [
+          292,
+          217
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/020-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+    "question": "24-25期末-选9",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/2024-2025期末截图/d1c76e3e5a97a3bf54fa5307fb9c9fbfc04ad50424d035d7ec2992ae22a81016.jpg",
+    "path": "10_题库/_assets/2024-2025期末截图/d1c76e3e5a97a3bf54fa5307fb9c9fbfc04ad50424d035d7ec2992ae22a81016.jpg",
+    "sha256": "5fec09aa494d771e0980fdfb9a2a561b8f88bcfd4dacf4eea1c0d7eb5940ade5",
+    "size": [
+      395,
+      337
+    ],
+    "id": 21,
+    "source_pdf": "90_缓存\\扫描整理\\2024-2025期末\\2024-2025学年大学物理I期末_方向校正合并.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      712,
+      576,
+      825,
+      787
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\51a54e3a-a3bd-4a95-9173-b3b2eb575a41_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\images\\d1c76e3e5a97a3bf54fa5307fb9c9fbfc04ad50424d035d7ec2992ae22a81016.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-021.png",
+    "source_crop_size": [
+      312,
+      265
+    ],
+    "page_preview": "page-3-009.png",
+    "method": "redrawn",
+    "new": "021.svg",
+    "check": "平行薄膜上中下介质、e的厚度端点与向下入射核对；002数值n1=1.00/n2=1.30/n3=1.50；037保留SiO2/Si和n1=1，不添加λ。其余图保留原有λ。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+        "question": "24-25期末-选9",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/2024-2025期末截图/d1c76e3e5a97a3bf54fa5307fb9c9fbfc04ad50424d035d7ec2992ae22a81016.jpg",
+        "path": "10_题库/_assets/2024-2025期末截图/d1c76e3e5a97a3bf54fa5307fb9c9fbfc04ad50424d035d7ec2992ae22a81016.jpg",
+        "sha256": "5fec09aa494d771e0980fdfb9a2a561b8f88bcfd4dacf4eea1c0d7eb5940ade5",
+        "size": [
+          395,
+          337
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/021.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+    "question": "24-25期末-计4",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/2024-2025期末截图/f6d529dd8428adbcf5a7c57f04e60e27a2a44cd98236ae65f15d0d0a94316eb3.jpg",
+    "path": "10_题库/_assets/2024-2025期末截图/f6d529dd8428adbcf5a7c57f04e60e27a2a44cd98236ae65f15d0d0a94316eb3.jpg",
+    "sha256": "6b6cfb3fdaadf76367f41757b2821d8a97db5e516cf4cb4e65cadfa517b0bb83",
+    "size": [
+      762,
+      492
+    ],
+    "id": 22,
+    "source_pdf": "90_缓存\\扫描整理\\2024-2025期末\\2024-2025学年大学物理I期末_方向校正合并.pdf",
+    "pdf_page": 18,
+    "bbox_1000": [
+      603,
+      124,
+      820,
+      433
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\51a54e3a-a3bd-4a95-9173-b3b2eb575a41_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\images\\f6d529dd8428adbcf5a7c57f04e60e27a2a44cd98236ae65f15d0d0a94316eb3.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-022.png",
+    "source_crop_size": [
+      599,
+      388
+    ],
+    "page_preview": "page-3-018.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+        "question": "24-25期末-计4",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/2024-2025期末截图/f6d529dd8428adbcf5a7c57f04e60e27a2a44cd98236ae65f15d0d0a94316eb3.jpg",
+        "path": "10_题库/_assets/2024-2025期末截图/f6d529dd8428adbcf5a7c57f04e60e27a2a44cd98236ae65f15d0d0a94316eb3.jpg",
+        "sha256": "6b6cfb3fdaadf76367f41757b2821d8a97db5e516cf4cb4e65cadfa517b0bb83",
+        "size": [
+          762,
+          492
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+    "question": "未标年份-期末二-选15",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/e5b7c8c39c2a9d986e85f0a4861eb0a2437543907f0fb1eb21d3c396c9772606.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/e5b7c8c39c2a9d986e85f0a4861eb0a2437543907f0fb1eb21d3c396c9772606.jpg",
+    "sha256": "aa5d0370044bef91b4f5ba50fd3468ca24e3d030f9ae3c53c46322b3e18d61fd",
+    "size": [
+      337,
+      159
+    ],
+    "id": 23,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 51,
+    "bbox_1000": [
+      678,
+      719,
+      882,
+      787
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\e5b7c8c39c2a9d986e85f0a4861eb0a2437543907f0fb1eb21d3c396c9772606.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-023.png",
+    "source_crop_size": [
+      491,
+      231
+    ],
+    "page_preview": "page-3-051.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+        "question": "未标年份-期末二-选15",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/e5b7c8c39c2a9d986e85f0a4861eb0a2437543907f0fb1eb21d3c396c9772606.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/e5b7c8c39c2a9d986e85f0a4861eb0a2437543907f0fb1eb21d3c396c9772606.jpg",
+        "sha256": "aa5d0370044bef91b4f5ba50fd3468ca24e3d030f9ae3c53c46322b3e18d61fd",
+        "size": [
+          337,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+    "question": "未标年份-期末二-计2",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/7903ccb067c452cde1f3d4bf3384b0e0cf83a5de0d13e5c74083efa6594ac392.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/7903ccb067c452cde1f3d4bf3384b0e0cf83a5de0d13e5c74083efa6594ac392.jpg",
+    "sha256": "929c1f62cd37ed2991ec1bcc3fa35b912d483129c5191c67674e27f93ab48488",
+    "size": [
+      287,
+      265
+    ],
+    "id": 24,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 53,
+    "bbox_1000": [
+      697,
+      76,
+      870,
+      189
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\7903ccb067c452cde1f3d4bf3384b0e0cf83a5de0d13e5c74083efa6594ac392.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-024.png",
+    "source_crop_size": [
+      416,
+      384
+    ],
+    "page_preview": "page-3-053.png",
+    "method": "native_extraction",
+    "new": "024-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+        "question": "未标年份-期末二-计2",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/7903ccb067c452cde1f3d4bf3384b0e0cf83a5de0d13e5c74083efa6594ac392.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/7903ccb067c452cde1f3d4bf3384b0e0cf83a5de0d13e5c74083efa6594ac392.jpg",
+        "sha256": "929c1f62cd37ed2991ec1bcc3fa35b912d483129c5191c67674e27f93ab48488",
+        "size": [
+          287,
+          265
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/024-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-例题-13-1",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_409.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_409.jpg",
+    "sha256": "a11a70239ab42326dbe518a7532a7b860b30bfb5068923e4d4c2d4420f3427d3",
+    "size": [
+      392,
+      340
+    ],
+    "id": 25,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 279,
+    "bbox_1000": [
+      105,
+      99,
+      342,
+      244
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\5a717c18e7c3d6eac47bb565b5143f900767430cb4df534a8798a6a4a402c2bb.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-025.png",
+    "source_crop_size": [
+      587,
+      507
+    ],
+    "page_preview": "page-4-279.png",
+    "method": "native_extraction",
+    "new": "025-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-例题-13-1",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_409.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_409.jpg",
+        "sha256": "a11a70239ab42326dbe518a7532a7b860b30bfb5068923e4d4c2d4420f3427d3",
+        "size": [
+          392,
+          340
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/025-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-例题-13-3",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_085.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_085.jpg",
+    "sha256": "f2dbfdd4182641c594b588803e8b74b0a70bcd67ac80c97daff41707c7492e60",
+    "size": [
+      734,
+      351
+    ],
+    "id": 26,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 280,
+    "bbox_1000": [
+      305,
+      164,
+      749,
+      313
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\13a66e6f26fec4b782a1b201ee00891dacc8731850c5184f31664f4ca5159519.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-026.png",
+    "source_crop_size": [
+      1100,
+      521
+    ],
+    "page_preview": "page-4-280.png",
+    "method": "native_extraction",
+    "new": "026-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-例题-13-3",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_085.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_085.jpg",
+        "sha256": "f2dbfdd4182641c594b588803e8b74b0a70bcd67ac80c97daff41707c7492e60",
+        "size": [
+          734,
+          351
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/026-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-例题-13-6",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_610.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_610.jpg",
+    "sha256": "65a7658faa073bc3eac2c21d464eaecf89af1b63e516b613e84f824d42f2506f",
+    "size": [
+      270,
+      184
+    ],
+    "id": 27,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 281,
+    "bbox_1000": [
+      292,
+      695,
+      455,
+      774
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\86750a15e104f3df7ae44ceaef62fe57e9ff79f36d51e0b463d6c0dc43cd373e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-027.png",
+    "source_crop_size": [
+      404,
+      277
+    ],
+    "page_preview": "page-4-281.png",
+    "method": "native_extraction",
+    "new": "027-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-例题-13-6",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_610.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_610.jpg",
+        "sha256": "65a7658faa073bc3eac2c21d464eaecf89af1b63e516b613e84f824d42f2506f",
+        "size": [
+          270,
+          184
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/027-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-例题-13-6",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_735.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_735.jpg",
+    "sha256": "29ec498bf3575363d9cf09cebf9b1b21badebc2014e71c3fb46aa9327d2038e7",
+    "size": [
+      287,
+      309
+    ],
+    "id": 28,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 281,
+    "bbox_1000": [
+      527,
+      640,
+      700,
+      772
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\9d00e739d9a90f158025fead63a1a575fcbef508fbe119fa749d6752e978f7c9.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-028.png",
+    "source_crop_size": [
+      429,
+      462
+    ],
+    "page_preview": "page-4-281.png",
+    "method": "native_extraction",
+    "new": "028-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-例题-13-6",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_735.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_735.jpg",
+        "sha256": "29ec498bf3575363d9cf09cebf9b1b21badebc2014e71c3fb46aa9327d2038e7",
+        "size": [
+          287,
+          309
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/028-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-例题-13-7",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_156.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_156.jpg",
+    "sha256": "39cd3952ed7535166fb06cc79416976f435d503b115136b4d680df0b6f2395d7",
+    "size": [
+      451,
+      362
+    ],
+    "id": 29,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 282,
+    "bbox_1000": [
+      643,
+      240,
+      915,
+      394
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\1fb8869658d82bd001222abb79a741d229df7ff99923a4cfca97ec02b14ce484.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-029.png",
+    "source_crop_size": [
+      674,
+      539
+    ],
+    "page_preview": "page-4-282.png",
+    "method": "native_extraction",
+    "new": "029-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-例题-13-7",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_156.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_156.jpg",
+        "sha256": "39cd3952ed7535166fb06cc79416976f435d503b115136b4d680df0b6f2395d7",
+        "size": [
+          451,
+          362
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/029-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-例题-13-8",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_567.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_567.jpg",
+    "sha256": "1198ffde1783c63446e79b06af47c5b2ef46580c9f7f30d252535e879db8049f",
+    "size": [
+      428,
+      359
+    ],
+    "id": 30,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 283,
+    "bbox_1000": [
+      112,
+      95,
+      371,
+      248
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\7f30a3326696f5f5a0659fdca7526e7e65bf0e01ef8b644cb8f4a1dd719f4eb1.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-030.png",
+    "source_crop_size": [
+      642,
+      535
+    ],
+    "page_preview": "page-4-283.png",
+    "method": "native_extraction",
+    "new": "030-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-例题-13-8",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_567.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_567.jpg",
+        "sha256": "1198ffde1783c63446e79b06af47c5b2ef46580c9f7f30d252535e879db8049f",
+        "size": [
+          428,
+          359
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/030-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-思考题-13-2",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_241.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_241.jpg",
+    "sha256": "24503031f5a42d3d0a8dda44efe5a7f73ab79f0afe9f021dd13fbc2456d6fdf7",
+    "size": [
+      454,
+      220
+    ],
+    "id": 31,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 283,
+    "bbox_1000": [
+      628,
+      651,
+      902,
+      745
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\32c37ff9e74cd4f7a07337679daa0942ac14612f84fff8631fad3c0a229f844b.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-031.png",
+    "source_crop_size": [
+      679,
+      328
+    ],
+    "page_preview": "page-4-283.png",
+    "method": "redrawn",
+    "new": "031.svg",
+    "check": "平行薄膜上中下介质、e的厚度端点与向下入射核对；002数值n1=1.00/n2=1.30/n3=1.50；037保留SiO2/Si和n1=1，不添加λ。其余图保留原有λ。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-思考题-13-2",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_241.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_241.jpg",
+        "sha256": "24503031f5a42d3d0a8dda44efe5a7f73ab79f0afe9f021dd13fbc2456d6fdf7",
+        "size": [
+          454,
+          220
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/031.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-思考题-13-5",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_1144.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_1144.jpg",
+    "sha256": "769bce3e461d9f06a222e6292392a460e2a8047acf3772a6a40f9da3be296dd6",
+    "size": [
+      473,
+      232
+    ],
+    "id": 32,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 284,
+    "bbox_1000": [
+      625,
+      360,
+      910,
+      458
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\f75b443bfe36aaf6a67b4b2d4710973f5a7bfec3a0ad9e7fa46484004bbeb2a5.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-032.png",
+    "source_crop_size": [
+      706,
+      343
+    ],
+    "page_preview": "page-4-284.png",
+    "method": "native_extraction",
+    "new": "032-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-思考题-13-5",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_1144.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_1144.jpg",
+        "sha256": "769bce3e461d9f06a222e6292392a460e2a8047acf3772a6a40f9da3be296dd6",
+        "size": [
+          473,
+          232
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/032-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-思考题-13-9",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_840.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_840.jpg",
+    "sha256": "9b3e6d2a856d017f22310da8c4071b7fb935b60297edc4f9be072e4a56b9c09f",
+    "size": [
+      329,
+      179
+    ],
+    "id": 33,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 285,
+    "bbox_1000": [
+      110,
+      259,
+      309,
+      335
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\b53e463651b3d049671ba5e8a8ab148cd9b821e17d8aee7e2782338a65370f3e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-033.png",
+    "source_crop_size": [
+      493,
+      265
+    ],
+    "page_preview": "page-4-285.png",
+    "method": "redrawn",
+    "new": "033.svg",
+    "check": "劈尖零厚度在左、厚端在右；n1在上、n2在楔内、n3在下；011/033向下入射λ，011左端O保留。角度与厚度不添加数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-思考题-13-9",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_840.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_840.jpg",
+        "sha256": "9b3e6d2a856d017f22310da8c4071b7fb935b60297edc4f9be072e4a56b9c09f",
+        "size": [
+          329,
+          179
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/033.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-思考题-13-10",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_101.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_101.jpg",
+    "sha256": "61ca4beffc3f9d6c04101c38002e10fb60d276afa159a0f12e743e87d4c6df94",
+    "size": [
+      362,
+      217
+    ],
+    "id": 34,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 285,
+    "bbox_1000": [
+      684,
+      410,
+      902,
+      502
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\16b22016bd58be0acc07fbc3dfdd24b96addc72a57739e4dd9f472da3b433535.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-034.png",
+    "source_crop_size": [
+      540,
+      321
+    ],
+    "page_preview": "page-4-285.png",
+    "method": "native_extraction",
+    "new": "034-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-思考题-13-10",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_101.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_101.jpg",
+        "sha256": "61ca4beffc3f9d6c04101c38002e10fb60d276afa159a0f12e743e87d4c6df94",
+        "size": [
+          362,
+          217
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/034-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-习题-13-2",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_727.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_727.jpg",
+    "sha256": "ce2306204b331b5d95898455177207db7d621e68254a535918a64dca3479daa5",
+    "size": [
+      448,
+      390
+    ],
+    "id": 35,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 287,
+    "bbox_1000": [
+      117,
+      105,
+      388,
+      272
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\9b95fb21fd21a992951b1004d5045c9315231c6517cf714a4e18e47f9f3febdf.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-035.png",
+    "source_crop_size": [
+      672,
+      584
+    ],
+    "page_preview": "page-4-287.png",
+    "method": "native_extraction",
+    "new": "035-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-习题-13-2",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_727.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_727.jpg",
+        "sha256": "ce2306204b331b5d95898455177207db7d621e68254a535918a64dca3479daa5",
+        "size": [
+          448,
+          390
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/035-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-习题-13-4",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_193.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_193.jpg",
+    "sha256": "e98a49c74113c7591aba7702e7a16062b80fba31eef66486c63fa60b14d5df7c",
+    "size": [
+      540,
+      289
+    ],
+    "id": 36,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 287,
+    "bbox_1000": [
+      584,
+      700,
+      910,
+      824
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\2714da643c0512f0d456ad02ea3de1ecf259b483cb04840bbd845678ccdef512.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-036.png",
+    "source_crop_size": [
+      808,
+      434
+    ],
+    "page_preview": "page-4-287.png",
+    "method": "native_extraction",
+    "new": "036-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-习题-13-4",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_193.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_193.jpg",
+        "sha256": "e98a49c74113c7591aba7702e7a16062b80fba31eef66486c63fa60b14d5df7c",
+        "size": [
+          540,
+          289
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/036-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-习题-13-5",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_333.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_333.jpg",
+    "sha256": "2bfbf7ccba1703c3196f122440b10196d6c4a152d43db29c064e1caea152c7c8",
+    "size": [
+      428,
+      246
+    ],
+    "id": 37,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 288,
+    "bbox_1000": [
+      657,
+      140,
+      915,
+      244
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\465c39265b9f3708f900e19d836ecda46b0f365c22fd8a204689b4fea9d8dba5.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-037.png",
+    "source_crop_size": [
+      639,
+      363
+    ],
+    "page_preview": "page-4-288.png",
+    "method": "redrawn",
+    "new": "037.svg",
+    "check": "平行薄膜上中下介质、e的厚度端点与向下入射核对；002数值n1=1.00/n2=1.30/n3=1.50；037保留SiO2/Si和n1=1，不添加λ。其余图保留原有λ。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-习题-13-5",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_333.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_333.jpg",
+        "sha256": "2bfbf7ccba1703c3196f122440b10196d6c4a152d43db29c064e1caea152c7c8",
+        "size": [
+          428,
+          246
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/037.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-习题-13-8",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_443.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_443.jpg",
+    "sha256": "dfef02032adff26852596cf557d1851039dd8d0ff47747a32129be812aba267e",
+    "size": [
+      409,
+      192
+    ],
+    "id": 38,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 290,
+    "bbox_1000": [
+      672,
+      99,
+      919,
+      181
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\6124220d341897e0f50cc269fc5f4ca6f923b20d5eb7fffa4d4241671d8f08a4.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-038.png",
+    "source_crop_size": [
+      612,
+      287
+    ],
+    "page_preview": "page-4-290.png",
+    "method": "native_extraction",
+    "new": "038-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-习题-13-8",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_443.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_443.jpg",
+        "sha256": "dfef02032adff26852596cf557d1851039dd8d0ff47747a32129be812aba267e",
+        "size": [
+          409,
+          192
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/038-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+    "question": "学习指导-第13章-习题-13-14",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_813.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_813.jpg",
+    "sha256": "447d3fc35a7403e4d3143bea1d206fd856ac9a2b8dbae7a678fc15512128332a",
+    "size": [
+      654,
+      290
+    ],
+    "id": 39,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 293,
+    "bbox_1000": [
+      310,
+      611,
+      705,
+      734
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\af5ac72f68817caeb203a0ed0b836cca73f757e734b0f37821ae4c47b8940c08.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-039.png",
+    "source_crop_size": [
+      979,
+      430
+    ],
+    "page_preview": "page-4-293.png",
+    "method": "native_extraction",
+    "new": "039-extracted.png",
+    "check": "原PDF原生裁图，逐项核对光路连接、传播箭头、折射率所在介质、厚度端点及点名；保留复杂透视/干涉装置几何，不从示意比例推定数值。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
+        "question": "学习指导-第13章-习题-13-14",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_813.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_813.jpg",
+        "sha256": "447d3fc35a7403e4d3143bea1d206fd856ac9a2b8dbae7a678fc15512128332a",
+        "size": [
+          654,
+          290
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/039-extracted.png"
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-310",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/45bd8975dd941607bccc1804621b9a13d7d2e6bd74098685ada4a221035b45b0.jpg",
+    "path": "10_题库/_assets/清华题库/45bd8975dd941607bccc1804621b9a13d7d2e6bd74098685ada4a221035b45b0.jpg",
+    "sha256": "382b613f9f2a469d84804bb3f6cecdede6c413dfc6c594cd57902bad8f068590",
+    "size": [
+      284,
+      254
+    ],
+    "id": 40,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 36,
+    "bbox_1000": [
+      413,
+      546,
+      584,
+      655
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\45bd8975dd941607bccc1804621b9a13d7d2e6bd74098685ada4a221035b45b0.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-040.png",
+    "source_crop_size": [
+      408,
+      368
+    ],
+    "page_preview": "page-5-036.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-310",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/45bd8975dd941607bccc1804621b9a13d7d2e6bd74098685ada4a221035b45b0.jpg",
+        "path": "10_题库/_assets/清华题库/45bd8975dd941607bccc1804621b9a13d7d2e6bd74098685ada4a221035b45b0.jpg",
+        "sha256": "382b613f9f2a469d84804bb3f6cecdede6c413dfc6c594cd57902bad8f068590",
+        "size": [
+          284,
+          254
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-311",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/fc331af1700d44069d05dd30fd03330d6dfc3bf90da0f841e1229362fad25495.jpg",
+    "path": "10_题库/_assets/清华题库/fc331af1700d44069d05dd30fd03330d6dfc3bf90da0f841e1229362fad25495.jpg",
+    "sha256": "3f5769b1d1dc0093743c81a6710089f64dfb708fe1cc741839aac12ec3db4ccc",
+    "size": [
+      287,
+      181
+    ],
+    "id": 41,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 36,
+    "bbox_1000": [
+      403,
+      816,
+      576,
+      894
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\fc331af1700d44069d05dd30fd03330d6dfc3bf90da0f841e1229362fad25495.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-041.png",
+    "source_crop_size": [
+      413,
+      264
+    ],
+    "page_preview": "page-5-036.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-311",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/fc331af1700d44069d05dd30fd03330d6dfc3bf90da0f841e1229362fad25495.jpg",
+        "path": "10_题库/_assets/清华题库/fc331af1700d44069d05dd30fd03330d6dfc3bf90da0f841e1229362fad25495.jpg",
+        "sha256": "3f5769b1d1dc0093743c81a6710089f64dfb708fe1cc741839aac12ec3db4ccc",
+        "size": [
+          287,
+          181
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-316",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/5d9ec35ecebf5208e34eecc26b5b010d94d5d39a712b3b170b9457eb9b797bad.jpg",
+    "path": "10_题库/_assets/清华题库/5d9ec35ecebf5208e34eecc26b5b010d94d5d39a712b3b170b9457eb9b797bad.jpg",
+    "sha256": "514f08db9f0d78c5d1f3ba3f9a83ac63b96251f65bda44f5da5deca2cb97c4ee",
+    "size": [
+      287,
+      209
+    ],
+    "id": 42,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 37,
+    "bbox_1000": [
+      413,
+      747,
+      586,
+      837
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\5d9ec35ecebf5208e34eecc26b5b010d94d5d39a712b3b170b9457eb9b797bad.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-042.png",
+    "source_crop_size": [
+      413,
+      304
+    ],
+    "page_preview": "page-5-037.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-316",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/5d9ec35ecebf5208e34eecc26b5b010d94d5d39a712b3b170b9457eb9b797bad.jpg",
+        "path": "10_题库/_assets/清华题库/5d9ec35ecebf5208e34eecc26b5b010d94d5d39a712b3b170b9457eb9b797bad.jpg",
+        "sha256": "514f08db9f0d78c5d1f3ba3f9a83ac63b96251f65bda44f5da5deca2cb97c4ee",
+        "size": [
+          287,
+          209
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-318",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/9e2c86e5d0c80b2164bc310c1cbeeee97a61d68254f37340ae3043f340e97931.jpg",
+    "path": "10_题库/_assets/清华题库/9e2c86e5d0c80b2164bc310c1cbeeee97a61d68254f37340ae3043f340e97931.jpg",
+    "sha256": "3074e78f9d0e11b41693f193ddecc96b4b7405c62453e5e1c82a97e87ee842c3",
+    "size": [
+      290,
+      148
+    ],
+    "id": 43,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 38,
+    "bbox_1000": [
+      411,
+      313,
+      586,
+      376
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\9e2c86e5d0c80b2164bc310c1cbeeee97a61d68254f37340ae3043f340e97931.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-043.png",
+    "source_crop_size": [
+      418,
+      213
+    ],
+    "page_preview": "page-5-038.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-318",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/9e2c86e5d0c80b2164bc310c1cbeeee97a61d68254f37340ae3043f340e97931.jpg",
+        "path": "10_题库/_assets/清华题库/9e2c86e5d0c80b2164bc310c1cbeeee97a61d68254f37340ae3043f340e97931.jpg",
+        "sha256": "3074e78f9d0e11b41693f193ddecc96b4b7405c62453e5e1c82a97e87ee842c3",
+        "size": [
+          290,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-321",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/be90c0c3b34de05e102b5bd1127b8304f0c3bc440fc207ee051b3bd5a7f92f76.jpg",
+    "path": "10_题库/_assets/清华题库/be90c0c3b34de05e102b5bd1127b8304f0c3bc440fc207ee051b3bd5a7f92f76.jpg",
+    "sha256": "de400c21e16a692012358ec3a6f2aa27dcbbef5f4717dbe2d8f5b03d3ff4843c",
+    "size": [
+      312,
+      467
+    ],
+    "id": 44,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 39,
+    "bbox_1000": [
+      403,
+      117,
+      591,
+      317
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\be90c0c3b34de05e102b5bd1127b8304f0c3bc440fc207ee051b3bd5a7f92f76.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-044.png",
+    "source_crop_size": [
+      449,
+      674
+    ],
+    "page_preview": "page-5-039.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-321",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/be90c0c3b34de05e102b5bd1127b8304f0c3bc440fc207ee051b3bd5a7f92f76.jpg",
+        "path": "10_题库/_assets/清华题库/be90c0c3b34de05e102b5bd1127b8304f0c3bc440fc207ee051b3bd5a7f92f76.jpg",
+        "sha256": "de400c21e16a692012358ec3a6f2aa27dcbbef5f4717dbe2d8f5b03d3ff4843c",
+        "size": [
+          312,
+          467
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-322",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/9309be3431dc25ba3f2a7005833de3d48123c259abcc89d3b50ea764d02af6b6.jpg",
+    "path": "10_题库/_assets/清华题库/9309be3431dc25ba3f2a7005833de3d48123c259abcc89d3b50ea764d02af6b6.jpg",
+    "sha256": "1445b10de4e0d299d8753919c5ef0f03068086077fd8091260f308a7329209c5",
+    "size": [
+      306,
+      203
+    ],
+    "id": 45,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 39,
+    "bbox_1000": [
+      406,
+      475,
+      591,
+      562
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\9309be3431dc25ba3f2a7005833de3d48123c259abcc89d3b50ea764d02af6b6.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-045.png",
+    "source_crop_size": [
+      442,
+      294
+    ],
+    "page_preview": "page-5-039.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-322",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/9309be3431dc25ba3f2a7005833de3d48123c259abcc89d3b50ea764d02af6b6.jpg",
+        "path": "10_题库/_assets/清华题库/9309be3431dc25ba3f2a7005833de3d48123c259abcc89d3b50ea764d02af6b6.jpg",
+        "sha256": "1445b10de4e0d299d8753919c5ef0f03068086077fd8091260f308a7329209c5",
+        "size": [
+          306,
+          203
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-359",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/f147709c60b7cb9af67cbc3be6f0276cf07da8654c21f3d0a8f78b639a122922.jpg",
+    "path": "10_题库/_assets/清华题库/f147709c60b7cb9af67cbc3be6f0276cf07da8654c21f3d0a8f78b639a122922.jpg",
+    "sha256": "1b8152cad271044a91cb904023eb6bf471fa5907bce22ad9ef09e992f422d362",
+    "size": [
+      279,
+      198
+    ],
+    "id": 46,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 46,
+    "bbox_1000": [
+      413,
+      538,
+      581,
+      623
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\f147709c60b7cb9af67cbc3be6f0276cf07da8654c21f3d0a8f78b639a122922.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-046.png",
+    "source_crop_size": [
+      401,
+      287
+    ],
+    "page_preview": "page-5-046.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-359",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/f147709c60b7cb9af67cbc3be6f0276cf07da8654c21f3d0a8f78b639a122922.jpg",
+        "path": "10_题库/_assets/清华题库/f147709c60b7cb9af67cbc3be6f0276cf07da8654c21f3d0a8f78b639a122922.jpg",
+        "sha256": "1b8152cad271044a91cb904023eb6bf471fa5907bce22ad9ef09e992f422d362",
+        "size": [
+          279,
+          198
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-365",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/8ac60c223c998b23e71906df42229af2c93b9672d3e5842770fb1eb7f25df22c.jpg",
+    "path": "10_题库/_assets/清华题库/8ac60c223c998b23e71906df42229af2c93b9672d3e5842770fb1eb7f25df22c.jpg",
+    "sha256": "2919d03fb6e57f76d23eae7676216a5cd6756713dcd549844e49f5a214bfb1bd",
+    "size": [
+      309,
+      165
+    ],
+    "id": 47,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 47,
+    "bbox_1000": [
+      405,
+      369,
+      591,
+      439
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\8ac60c223c998b23e71906df42229af2c93b9672d3e5842770fb1eb7f25df22c.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-047.png",
+    "source_crop_size": [
+      444,
+      237
+    ],
+    "page_preview": "page-5-047.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-365",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/8ac60c223c998b23e71906df42229af2c93b9672d3e5842770fb1eb7f25df22c.jpg",
+        "path": "10_题库/_assets/清华题库/8ac60c223c998b23e71906df42229af2c93b9672d3e5842770fb1eb7f25df22c.jpg",
+        "sha256": "2919d03fb6e57f76d23eae7676216a5cd6756713dcd549844e49f5a214bfb1bd",
+        "size": [
+          309,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-369",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/410e2d195d5c0f6159aedf68fff7810fce20586988f6ee9fbb87d34c5a9e22f2.jpg",
+    "path": "10_题库/_assets/清华题库/410e2d195d5c0f6159aedf68fff7810fce20586988f6ee9fbb87d34c5a9e22f2.jpg",
+    "sha256": "51ccde232186c0f533c402a17a7f551f3547f01ceb4e529f085add4cc3e472d3",
+    "size": [
+      315,
+      185
+    ],
+    "id": 48,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 48,
+    "bbox_1000": [
+      403,
+      118,
+      593,
+      197
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\410e2d195d5c0f6159aedf68fff7810fce20586988f6ee9fbb87d34c5a9e22f2.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-048.png",
+    "source_crop_size": [
+      454,
+      267
+    ],
+    "page_preview": "page-5-048.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-369",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/410e2d195d5c0f6159aedf68fff7810fce20586988f6ee9fbb87d34c5a9e22f2.jpg",
+        "path": "10_题库/_assets/清华题库/410e2d195d5c0f6159aedf68fff7810fce20586988f6ee9fbb87d34c5a9e22f2.jpg",
+        "sha256": "51ccde232186c0f533c402a17a7f551f3547f01ceb4e529f085add4cc3e472d3",
+        "size": [
+          315,
+          185
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-369",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/6613a96a383f59b097c25318301ea9c078ed8c2f88ac54ce62681d7d29263c89.jpg",
+    "path": "10_题库/_assets/清华题库/6613a96a383f59b097c25318301ea9c078ed8c2f88ac54ce62681d7d29263c89.jpg",
+    "sha256": "5dd6b0c0b2667a0e504b6e370adf310c007adc697716edd97ec89f42505799e6",
+    "size": [
+      309,
+      92
+    ],
+    "id": 49,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 48,
+    "bbox_1000": [
+      403,
+      214,
+      589,
+      253
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\6613a96a383f59b097c25318301ea9c078ed8c2f88ac54ce62681d7d29263c89.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-049.png",
+    "source_crop_size": [
+      444,
+      132
+    ],
+    "page_preview": "page-5-048.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-369",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/6613a96a383f59b097c25318301ea9c078ed8c2f88ac54ce62681d7d29263c89.jpg",
+        "path": "10_题库/_assets/清华题库/6613a96a383f59b097c25318301ea9c078ed8c2f88ac54ce62681d7d29263c89.jpg",
+        "sha256": "5dd6b0c0b2667a0e504b6e370adf310c007adc697716edd97ec89f42505799e6",
+        "size": [
+          309,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-371",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/25e6cdde107019c408b2cab7a5578c9d9ef48a55ed0281777ffb31603d68c46d.jpg",
+    "path": "10_题库/_assets/清华题库/25e6cdde107019c408b2cab7a5578c9d9ef48a55ed0281777ffb31603d68c46d.jpg",
+    "sha256": "d089d656d314c67d5707605e8f570ef7da42e64e8bd6ac49168f6efea8ea74e6",
+    "size": [
+      314,
+      137
+    ],
+    "id": 50,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 48,
+    "bbox_1000": [
+      400,
+      470,
+      589,
+      529
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\25e6cdde107019c408b2cab7a5578c9d9ef48a55ed0281777ffb31603d68c46d.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-050.png",
+    "source_crop_size": [
+      451,
+      200
+    ],
+    "page_preview": "page-5-048.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-371",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/25e6cdde107019c408b2cab7a5578c9d9ef48a55ed0281777ffb31603d68c46d.jpg",
+        "path": "10_题库/_assets/清华题库/25e6cdde107019c408b2cab7a5578c9d9ef48a55ed0281777ffb31603d68c46d.jpg",
+        "sha256": "d089d656d314c67d5707605e8f570ef7da42e64e8bd6ac49168f6efea8ea74e6",
+        "size": [
+          314,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+    "question": "清华题库-光学-399",
+    "chapter": "13",
+    "target": "物理/10_题库/_assets/清华题库/2f43af15ccf470dfc1e409e857a8a6a5871b543cf366c83c7e2fd07f39c0b903.jpg",
+    "path": "10_题库/_assets/清华题库/2f43af15ccf470dfc1e409e857a8a6a5871b543cf366c83c7e2fd07f39c0b903.jpg",
+    "sha256": "f2ec07d5a83f82b4f80d475699e00e7c9a7a764ab5e223a301804c3381569809",
+    "size": [
+      318,
+      195
+    ],
+    "id": 51,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 52,
+    "bbox_1000": [
+      401,
+      164,
+      593,
+      247
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\2f43af15ccf470dfc1e409e857a8a6a5871b543cf366c83c7e2fd07f39c0b903.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-051.png",
+    "source_crop_size": [
+      459,
+      280
+    ],
+    "page_preview": "page-5-052.png",
+    "method": "retained_clear",
+    "check": "原题库图的折射率、光路、箭头和界面清楚；已有几何/标注支持黑白辨认，不重复转换。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
+        "question": "清华题库-光学-399",
+        "chapter": "13",
+        "target": "物理/10_题库/_assets/清华题库/2f43af15ccf470dfc1e409e857a8a6a5871b543cf366c83c7e2fd07f39c0b903.jpg",
+        "path": "10_题库/_assets/清华题库/2f43af15ccf470dfc1e409e857a8a6a5871b543cf366c83c7e2fd07f39c0b903.jpg",
+        "sha256": "f2ec07d5a83f82b4f80d475699e00e7c9a7a764ab5e223a301804c3381569809",
+        "size": [
+          318,
+          195
+        ]
+      }
+    ]
+  },
+  {
+    "document": "大学物理习题册（上）/25_习题二十五 光的干涉（一）.md",
+    "question": "1",
+    "chapter": "13",
+    "target": "_assets/25_习题二十五 光的干涉（一）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/25_习题二十五 光的干涉（一）/图1.png",
+    "sha256": "c9b9fb105a8d1def1d77a2e716df335b9c2e2c5b6ecbf139daf412855e557641",
+    "size": [
+      350,
+      210
+    ],
+    "id": 52,
+    "method": "reuse_extraction",
+    "new": "001-extracted.png",
+    "check": "对照同一习题册001的光路、折射率与符号，复用核验产物，保留旧题号。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/25_习题二十五 光的干涉（一）.md",
+        "question": "1",
+        "chapter": "13",
+        "target": "_assets/25_习题二十五 光的干涉（一）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/25_习题二十五 光的干涉（一）/图1.png",
+        "sha256": "c9b9fb105a8d1def1d77a2e716df335b9c2e2c5b6ecbf139daf412855e557641",
+        "size": [
+          350,
+          210
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/001-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/25_习题二十五 光的干涉（一）.md",
+    "question": "3",
+    "chapter": "13",
+    "target": "_assets/25_习题二十五 光的干涉（一）/图3.png|220",
+    "path": "大学物理习题册（上）/_assets/25_习题二十五 光的干涉（一）/图3.png",
+    "sha256": "a7c59ab68cf2e0d619143942f0d0394ad541dda45733d6e2d6b2131bf3e15c00",
+    "size": [
+      488,
+      241
+    ],
+    "id": 53,
+    "method": "reuse_redraw",
+    "new": "002.svg",
+    "check": "对照同一习题册002的光路、折射率与符号，复用核验产物，保留旧题号。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/25_习题二十五 光的干涉（一）.md",
+        "question": "3",
+        "chapter": "13",
+        "target": "_assets/25_习题二十五 光的干涉（一）/图3.png|220",
+        "path": "大学物理习题册（上）/_assets/25_习题二十五 光的干涉（一）/图3.png",
+        "sha256": "a7c59ab68cf2e0d619143942f0d0394ad541dda45733d6e2d6b2131bf3e15c00",
+        "size": [
+          488,
+          241
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/002.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/25_习题二十五 光的干涉（一）.md",
+    "question": "5",
+    "chapter": "13",
+    "target": "_assets/25_习题二十五 光的干涉（一）/图5.png|220",
+    "path": "大学物理习题册（上）/_assets/25_习题二十五 光的干涉（一）/图5.png",
+    "sha256": "36a0035fb9afbf0c371f9ee28de2514e0af3fabf3808ccbcaa42b5ad6f405f79",
+    "size": [
+      462,
+      322
+    ],
+    "id": 54,
+    "method": "reuse_extraction",
+    "new": "003-extracted.png",
+    "check": "对照同一习题册003的光路、折射率与符号，复用核验产物，保留旧题号。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/25_习题二十五 光的干涉（一）.md",
+        "question": "5",
+        "chapter": "13",
+        "target": "_assets/25_习题二十五 光的干涉（一）/图5.png|220",
+        "path": "大学物理习题册（上）/_assets/25_习题二十五 光的干涉（一）/图5.png",
+        "sha256": "36a0035fb9afbf0c371f9ee28de2514e0af3fabf3808ccbcaa42b5ad6f405f79",
+        "size": [
+          462,
+          322
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/003-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/26_习题二十六 光的干涉（二）.md",
+    "question": "2",
+    "chapter": "13",
+    "target": "_assets/26_习题二十六 光的干涉（二）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/26_习题二十六 光的干涉（二）/图2.png",
+    "sha256": "4703cd43fae8edd0336388ebfba77a7028c48d5fb9de6d752e033818ab0054a3",
+    "size": [
+      348,
+      280
+    ],
+    "id": 55,
+    "method": "reuse_extraction",
+    "new": "004-extracted.png",
+    "check": "对照同一习题册004的光路、折射率与符号，复用核验产物，保留旧题号。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/26_习题二十六 光的干涉（二）.md",
+        "question": "2",
+        "chapter": "13",
+        "target": "_assets/26_习题二十六 光的干涉（二）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/26_习题二十六 光的干涉（二）/图2.png",
+        "sha256": "4703cd43fae8edd0336388ebfba77a7028c48d5fb9de6d752e033818ab0054a3",
+        "size": [
+          348,
+          280
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/004-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/26_习题二十六 光的干涉（二）.md",
+    "question": "3",
+    "chapter": "13",
+    "target": "_assets/26_习题二十六 光的干涉（二）/图3_4.png|220",
+    "path": "大学物理习题册（上）/_assets/26_习题二十六 光的干涉（二）/图3_4.png",
+    "sha256": "c85cfeb291c1d449d91f1728a55f69b05f625c1d8b26fbd81df9e202e0197c34",
+    "size": [
+      725,
+      253
+    ],
+    "id": 56,
+    "method": "retained_uncertain",
+    "check": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/26_习题二十六 光的干涉（二）.md",
+        "question": "3",
+        "chapter": "13",
+        "target": "_assets/26_习题二十六 光的干涉（二）/图3_4.png|220",
+        "path": "大学物理习题册（上）/_assets/26_习题二十六 光的干涉（二）/图3_4.png",
+        "sha256": "c85cfeb291c1d449d91f1728a55f69b05f625c1d8b26fbd81df9e202e0197c34",
+        "size": [
+          725,
+          253
+        ]
+      }
+    ]
+  },
+  {
+    "document": "大学物理习题册（上）/27_习题二十七 光的干涉（三）.md",
+    "question": "2",
+    "chapter": "13",
+    "target": "_assets/27_习题二十七 光的干涉（三）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/27_习题二十七 光的干涉（三）/图2.png",
+    "sha256": "3f86644bd839d106ad6046b7a0ecf2d35f24bce819a9e0862838a68b50eb6f0e",
+    "size": [
+      738,
+      162
+    ],
+    "id": 57,
+    "method": "retained_uncertain",
+    "check": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/27_习题二十七 光的干涉（三）.md",
+        "question": "2",
+        "chapter": "13",
+        "target": "_assets/27_习题二十七 光的干涉（三）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/27_习题二十七 光的干涉（三）/图2.png",
+        "sha256": "3f86644bd839d106ad6046b7a0ecf2d35f24bce819a9e0862838a68b50eb6f0e",
+        "size": [
+          738,
+          162
+        ]
+      }
+    ]
+  },
+  {
+    "document": "大学物理习题册（上）/27_习题二十七 光的干涉（三）.md",
+    "question": "3",
+    "chapter": "13",
+    "target": "_assets/27_习题二十七 光的干涉（三）/图3.png|220",
+    "path": "大学物理习题册（上）/_assets/27_习题二十七 光的干涉（三）/图3.png",
+    "sha256": "78cc18590106ec12a0ae155f48051e4e7c0e8aa882f3990efc72643bd20b0647",
+    "size": [
+      469,
+      135
+    ],
+    "id": 58,
+    "method": "reuse_redraw",
+    "new": "009.svg",
+    "check": "对照同一习题册009的光路、折射率与符号，复用核验产物，保留旧题号。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/27_习题二十七 光的干涉（三）.md",
+        "question": "3",
+        "chapter": "13",
+        "target": "_assets/27_习题二十七 光的干涉（三）/图3.png|220",
+        "path": "大学物理习题册（上）/_assets/27_习题二十七 光的干涉（三）/图3.png",
+        "sha256": "78cc18590106ec12a0ae155f48051e4e7c0e8aa882f3990efc72643bd20b0647",
+        "size": [
+          469,
+          135
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/009.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/27_习题二十七 光的干涉（三）.md",
+    "question": "4",
+    "chapter": "13",
+    "target": "_assets/27_习题二十七 光的干涉（三）/图4.png|220",
+    "path": "大学物理习题册（上）/_assets/27_习题二十七 光的干涉（三）/图4.png",
+    "sha256": "2c32f54340db8cd81e8478fe78a82fe81cb7e8be64ca3c1c5e72e31cf22adefa",
+    "size": [
+      275,
+      140
+    ],
+    "id": 59,
+    "method": "reuse_extraction",
+    "new": "010-extracted.png",
+    "check": "对照同一习题册010的光路、折射率与符号，复用核验产物，保留旧题号。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/27_习题二十七 光的干涉（三）.md",
+        "question": "4",
+        "chapter": "13",
+        "target": "_assets/27_习题二十七 光的干涉（三）/图4.png|220",
+        "path": "大学物理习题册（上）/_assets/27_习题二十七 光的干涉（三）/图4.png",
+        "sha256": "2c32f54340db8cd81e8478fe78a82fe81cb7e8be64ca3c1c5e72e31cf22adefa",
+        "size": [
+          275,
+          140
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/010-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/27_习题二十七 光的干涉（三）.md",
+    "question": "5",
+    "chapter": "13",
+    "target": "_assets/27_习题二十七 光的干涉（三）/图5.png|220",
+    "path": "大学物理习题册（上）/_assets/27_习题二十七 光的干涉（三）/图5.png",
+    "sha256": "693a796cc4778a38a209fa0074bb6e3fa612ea113c39731dabe60e282984c5a2",
+    "size": [
+      389,
+      262
+    ],
+    "id": 60,
+    "method": "reuse_redraw",
+    "new": "011.svg",
+    "check": "对照同一习题册011的光路、折射率与符号，复用核验产物，保留旧题号。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/27_习题二十七 光的干涉（三）.md",
+        "question": "5",
+        "chapter": "13",
+        "target": "_assets/27_习题二十七 光的干涉（三）/图5.png|220",
+        "path": "大学物理习题册（上）/_assets/27_习题二十七 光的干涉（三）/图5.png",
+        "sha256": "693a796cc4778a38a209fa0074bb6e3fa612ea113c39731dabe60e282984c5a2",
+        "size": [
+          389,
+          262
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/011.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/28_习题二十八 光的干涉（四）.md",
+    "question": "1",
+    "chapter": "13",
+    "target": "_assets/28_习题二十八 光的干涉（四）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/28_习题二十八 光的干涉（四）/图1.png",
+    "sha256": "3805a95883440d553af4199b89e0755425692fd5408e9b376b475bab556a2af7",
+    "size": [
+      336,
+      311
+    ],
+    "id": 61,
+    "method": "reuse_extraction",
+    "new": "012-extracted.png",
+    "check": "对照同一习题册012的光路、折射率与符号，复用核验产物，保留旧题号。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/28_习题二十八 光的干涉（四）.md",
+        "question": "1",
+        "chapter": "13",
+        "target": "_assets/28_习题二十八 光的干涉（四）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/28_习题二十八 光的干涉（四）/图1.png",
+        "sha256": "3805a95883440d553af4199b89e0755425692fd5408e9b376b475bab556a2af7",
+        "size": [
+          336,
+          311
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/012-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/28_习题二十八 光的干涉（四）.md",
+    "question": "2",
+    "chapter": "13",
+    "target": "_assets/28_习题二十八 光的干涉（四）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/28_习题二十八 光的干涉（四）/图2.png",
+    "sha256": "c9691a1d2ed97ad6d9ea79a412f7f623f7ab2f2c560ad978ef7b436e734ed4a1",
+    "size": [
+      472,
+      245
+    ],
+    "id": 62,
+    "method": "retained_uncertain",
+    "check": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/28_习题二十八 光的干涉（四）.md",
+        "question": "2",
+        "chapter": "13",
+        "target": "_assets/28_习题二十八 光的干涉（四）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/28_习题二十八 光的干涉（四）/图2.png",
+        "sha256": "c9691a1d2ed97ad6d9ea79a412f7f623f7ab2f2c560ad978ef7b436e734ed4a1",
+        "size": [
+          472,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "document": "大学物理习题册（上）/28_习题二十八 光的干涉（四）.md",
+    "question": "5",
+    "chapter": "13",
+    "target": "_assets/28_习题二十八 光的干涉（四）/图5.png|220",
+    "path": "大学物理习题册（上）/_assets/28_习题二十八 光的干涉（四）/图5.png",
+    "sha256": "2ed24cb9fa53596318e3c7753f697ea3d00e21b0b654c89f56bcbae9d3a6a7bd",
+    "size": [
+      361,
+      194
+    ],
+    "id": 63,
+    "method": "reuse_extraction",
+    "new": "014-extracted.png",
+    "check": "对照同一习题册014的光路、折射率与符号，复用核验产物，保留旧题号。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/28_习题二十八 光的干涉（四）.md",
+        "question": "5",
+        "chapter": "13",
+        "target": "_assets/28_习题二十八 光的干涉（四）/图5.png|220",
+        "path": "大学物理习题册（上）/_assets/28_习题二十八 光的干涉（四）/图5.png",
+        "sha256": "2ed24cb9fa53596318e3c7753f697ea3d00e21b0b654c89f56bcbae9d3a6a7bd",
+        "size": [
+          361,
+          194
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/13_干涉/014-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/28_习题二十八 光的干涉（四）.md",
+    "question": "6",
+    "chapter": "13",
+    "target": "_assets/28_习题二十八 光的干涉（四）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/28_习题二十八 光的干涉（四）/图6.png",
+    "sha256": "774410ae3742bcf1a323687a3fae02068406d1f3100995b2a7b1665721ace9f2",
+    "size": [
+      381,
+      370
+    ],
+    "id": 64,
+    "method": "retained_uncertain",
+    "check": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/28_习题二十八 光的干涉（四）.md",
+        "question": "6",
+        "chapter": "13",
+        "target": "_assets/28_习题二十八 光的干涉（四）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/28_习题二十八 光的干涉（四）/图6.png",
+        "sha256": "774410ae3742bcf1a323687a3fae02068406d1f3100995b2a7b1665721ace9f2",
+        "size": [
+          381,
+          370
+        ]
+      }
+    ]
+  }
+]

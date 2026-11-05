@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 165405,
-    "sha256": "59f62a181b5551c3d05a7947ba41a03f0ba51aa5a9b8f6a05f9883680e0f0f8b"
+    "bytes": 175267,
+    "sha256": "b357d31c96d44e46df21ac3220dcc441b9c8c29419c3fdf1a3c1b00e0e762640"
   },
   {
     "path": "tools/verify_share.py",
@@ -2775,6 +2775,236 @@
     "sha256": "0896f6ac7ca8ad1b83f5ce9fa013eefb4ea95f2edae2fd5656033483d57031af"
   },
   {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/001-extracted.png",
+    "bytes": 13942,
+    "sha256": "4da4996e5fd92712fbac57ed6fc34620d6c315603fe2074b9752629118e00c20"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/002.png",
+    "bytes": 27827,
+    "sha256": "8d6857b54f983ceff3529ecd66f5ba934408849a2d86e058388906a99160c20b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/002.svg",
+    "bytes": 10832,
+    "sha256": "c0f0759dcc45ea4a3bf40f5af4287d94768215905e59a34878460104b4072f60"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/003-extracted.png",
+    "bytes": 24109,
+    "sha256": "8b1043f9eea75b358062141fb493373b6ba0cc476e63501d67254f644de29076"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/004-extracted.png",
+    "bytes": 26287,
+    "sha256": "ac01312ff6a6ff5e7c21ddc5c80950e6e15d4f54a350a13e6512e5b2e3f952a0"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/005-extracted.png",
+    "bytes": 17053,
+    "sha256": "b9b775869ea50dd02de62213e185010560aa69c465f7a99630d7340b2369a10c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/006-extracted.png",
+    "bytes": 16665,
+    "sha256": "8ba0cb8f1051080045df6f74516a5ecc5ed2044b36492db453818b676ead3d86"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/007-extracted.png",
+    "bytes": 20560,
+    "sha256": "b9f400b2a057d4a685107cd7e2c4f9dc88ba1072d3297f16d3c31e90df302952"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/008-extracted.png",
+    "bytes": 12180,
+    "sha256": "95bac97355619b136e56002320742315885f37744bbfcd053fbf41ba3a14d8e1"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/009.png",
+    "bytes": 14564,
+    "sha256": "e530b292acd62105cd19c3c025faeaa52ed0c0b8447702e88b516cc02250d705"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/009.svg",
+    "bytes": 4826,
+    "sha256": "6067a49bb1597f0483300a72d20eace6ad3c9aaea06e19dcee67aa7fa7c3ab9e"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/010-extracted.png",
+    "bytes": 9898,
+    "sha256": "6e6576ef484d636e81edd9ea23978727baf1b0214f60a98027a994c57502ae41"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/011.png",
+    "bytes": 19334,
+    "sha256": "15159c7ec7df0fc0d4e53f4088d4611966c8411414f363763dbb76d6bd3d4d85"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/011.svg",
+    "bytes": 7374,
+    "sha256": "7ab65b8029be2258c5d81846c411db8d5eb8098b346ad5fc31809b5f67a19666"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/012-extracted.png",
+    "bytes": 25288,
+    "sha256": "95fd9a61058be07fe13b29ba7aaefce5fb2527b1afeae15c46e952f1182818ad"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/013-extracted.png",
+    "bytes": 24216,
+    "sha256": "d0de8a1f6e53c1d82d7fa04c4cfc452778b2c0253efff4007b41cb63d3303d7f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/014-extracted.png",
+    "bytes": 14981,
+    "sha256": "8043bde9a28ff5f4b140ef4d5902735b9095f9cefec816895c902a4afce08c4d"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/016-extracted.png",
+    "bytes": 56309,
+    "sha256": "1985d01305f982d41da52cfb3cf2557aafb10a6453c5591e2d25f982184e0a5c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/017-extracted.png",
+    "bytes": 62954,
+    "sha256": "f2ebadf9ca585beca0cac4fbf4dedd9d7a304940f16fef50182277393b4e3dbf"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/018-extracted.png",
+    "bytes": 54158,
+    "sha256": "35fe99c9d95c9835511c7e15a6023289cbdf84f7c6c62bf0cae5b2ec7d7b4be0"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/019-extracted.png",
+    "bytes": 48933,
+    "sha256": "a58d677458e77b801316f7f3a16f2eda2db2719d2f57db593635c91bd301785c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/020-extracted.png",
+    "bytes": 61401,
+    "sha256": "acdc7a2b0a770b640020e1ab2310bb4db31ec0292c586d1096c89ae9775e971c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/021.png",
+    "bytes": 19063,
+    "sha256": "7a05a38271b806465f84f03bedcfd4ce17aee2f213f41fe46899140d38f95d3d"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/021.svg",
+    "bytes": 7933,
+    "sha256": "2d76469983588b1541795750141b4bd428369c5180a86da10afc7230ad3f7344"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/024-extracted.png",
+    "bytes": 80027,
+    "sha256": "842f8296a16db6097689ff7e1ddb84e98231c631d40a65399ff8720939f36034"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/025-extracted.png",
+    "bytes": 36482,
+    "sha256": "fb80019daf8d298de5741e6fb7711f6441ab3fbffa4e1034d333fd61cec16d1e"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/026-extracted.png",
+    "bytes": 149602,
+    "sha256": "c1875fb468161578a5ae4500af53fd355fa96f1b366be2148575ec4fda91ce26"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/027-extracted.png",
+    "bytes": 38239,
+    "sha256": "76b65ff51c0e6e7e53fa29cdc6e45315aed2c3330b757dfd4bc78cb4137c9213"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/028-extracted.png",
+    "bytes": 69078,
+    "sha256": "4f3cd1aaf50e0cce63e6f6f9c582596df2ab4f820ff4840f49fb66d278fbf28b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/029-extracted.png",
+    "bytes": 107401,
+    "sha256": "78053ab5e4b6d787409831099aefa7e8c13427c3d837c17899a1f3b1c146eea5"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/030-extracted.png",
+    "bytes": 53223,
+    "sha256": "f58c9ededf910772746ed414a8d02786f4315fc095ccd4484199642160e7ecbc"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/031.png",
+    "bytes": 18792,
+    "sha256": "ad0f43fa41a2777e875a51f659bd20555ab242dca383ce1d554441e1f51a8f98"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/031.svg",
+    "bytes": 7603,
+    "sha256": "764de4ddc53d669ef4bd32a7e49a6a3e5759ba1dc0143c4925d1a10f3d2d59ae"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/032-extracted.png",
+    "bytes": 47804,
+    "sha256": "94b536659a9df062c3359030a46e91b6b0ff9f4867ad6f444ef439f165a07f0c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/033.png",
+    "bytes": 16886,
+    "sha256": "fb4e78885a0dc085a7cb4128dece9853528ba7ee84f702cdc2326441ef83b9a5"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/033.svg",
+    "bytes": 6281,
+    "sha256": "ec7ec2c34e67417ac3291a672ddd3df5228e30efedfa72232ba84913a0b1595f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/034-extracted.png",
+    "bytes": 44882,
+    "sha256": "c64b4c6267024ba29be42397a6010d9c955f2a964403cdd306482137958b33ec"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/035-extracted.png",
+    "bytes": 67245,
+    "sha256": "3ece8c0e7c035cb26779cd906c1a2e059628dc264a85506c8eb06d2515deb3cd"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/036-extracted.png",
+    "bytes": 81472,
+    "sha256": "1a534ae8ac2f383a574509efc0a720309b1ff2b8b3860ec80d6bd9b1fc70fd01"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/037.png",
+    "bytes": 24523,
+    "sha256": "d3300d891f2cc473d608a61b4d35fc655342b740634d6cdd0247badfe3527663"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/037.svg",
+    "bytes": 10323,
+    "sha256": "d7fb48ee6942277154b79cfb927dbdbbff2c192897ec0cade3fbaef4286e2804"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/038-extracted.png",
+    "bytes": 75825,
+    "sha256": "2d0380ec9dd7d2334ddd74b798918b980ca261a82cb59e801e241bc45b1da9a2"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/039-extracted.png",
+    "bytes": 114084,
+    "sha256": "e96dcb6811035da0ff18ddf79efe0887d3bb762cd9af1467a7ac60a5d0956012"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/extract_from_pdf.py",
+    "bytes": 1378,
+    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/generate.py",
+    "bytes": 1667,
+    "sha256": "62d5845b0627d704eb5a308d1cd20d90619531d19bbb7a0ed8e47fafedc7944a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/13_干涉/mapping.json",
+    "bytes": 125754,
+    "sha256": "4c0311cda0951c71da7e0fe386e3fc7f94743fd3611d193004ed07ceba0c5526"
+  },
+  {
     "path": "物理/10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
     "bytes": 10165,
     "sha256": "3af9b8c8227990fea3d54357ad9c07f1694fbce566a4d816bdd9766cd2037fe6"
@@ -5026,23 +5256,23 @@
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_25_光的干涉（一）_题面整理.md",
-    "bytes": 3579,
-    "sha256": "02947da85643377a40dbe7cf317c06ba2c8b0d568b87eacc782f5d4f8d5604f7"
+    "bytes": 3455,
+    "sha256": "08b35f893c4fdca8475c8d6f695aeaa33c9b3f15dc2828117f12ad91b8673eea"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_26_光的干涉（二）_题面整理.md",
-    "bytes": 3891,
-    "sha256": "12b4479af463e40eef6f9fa01a999a1709cd7cd5508fd990217b6942c66ef0fc"
+    "bytes": 3777,
+    "sha256": "6e2e5c5e5d9e72aa59a696082d6abf331f02fc44eab04f9269a3774ff2bef1fe"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
-    "bytes": 4277,
-    "sha256": "ddcddf99bfacc4455d3b7c3492052c61d13495f65ca4281f4713ca4ef51002ca"
+    "bytes": 4067,
+    "sha256": "5c47e6cb0e67b2dc445709e6031f247bb3170ca6a6e5283428df2d8832de98dc"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_28_光的干涉（四）_题面整理.md",
-    "bytes": 3747,
-    "sha256": "af726e8e432a2db8d2b2512912646b5b7e81a55b986c1dfbdae63e03c3f97912"
+    "bytes": 3633,
+    "sha256": "ee3e1136f084943ce09e7f2aa2a2c9760389967028eafaa65c66b1a0ccc1d41b"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_29_光的衍射（一）_题面整理.md",
@@ -5116,8 +5346,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
-    "bytes": 12466,
-    "sha256": "79a53d051731fec24c6a9af52da661ed38a4823a4b5032021e1f80782c2a2ce8"
+    "bytes": 12295,
+    "sha256": "96ef4f2d7a30df6b98f6f4ca21cf25675908e0970eba1092d8f746c3fb2c742d"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
@@ -5126,13 +5356,13 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
-    "bytes": 16176,
-    "sha256": "a049a472f859644db3c0deca90cf65414d1581dbedf7f69a768eee50ad612c23"
+    "bytes": 16062,
+    "sha256": "346c3eb11aa2a5016baa8a8b78b4ca7d342172fe95b7d0ac2307f4bcd863249a"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
-    "bytes": 13143,
-    "sha256": "425c9552944a8bbb4f2a0950c58b80175d0f43b7e06d5e186a288c6cb80563df"
+    "bytes": 13083,
+    "sha256": "06b4471b67c6689f3dc81f109f50f7925c15b59d320f8cfbb6f59ec93a6e91cf"
   },
   {
     "path": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
@@ -5141,8 +5371,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
-    "bytes": 15266,
-    "sha256": "a5ee86fa9a180ab0e74f56b1cd446c8b3ba047b642d1f90de6a62705b995ac0e"
+    "bytes": 15209,
+    "sha256": "8df18d10f415db577d8bf1a3deeb1ec846b85afb0ab7c01a2d7d3ad12890a679"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第01章_运动学_题面整理.md",
@@ -5201,8 +5431,8 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
-    "bytes": 25241,
-    "sha256": "324aa62e5926d703ec9ce937ae4bdd2cbf08f2b81e049ac3071221c2d397b4ab"
+    "bytes": 25345,
+    "sha256": "9a1235f15b73853facd890913176d76f27ee7c8a92ded446efa75c57917bdcfa"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第14章_光的衍射_题面整理.md",
@@ -7203,6 +7433,321 @@
     "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/validation.json",
     "bytes": 2421,
     "sha256": "60618ee71167a2a6c1908111a16cf916534810826c05063db5a57b8adba8acd5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/README.md",
+    "bytes": 39087,
+    "sha256": "659dacf25911df19fa1f9c8703b02045396e4497166c4cf96a621e085e4c6cb1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-01.png",
+    "bytes": 409786,
+    "sha256": "840defde3341210f1bd7cfcc224549804f0e5b4638a193b2ecc127ca1363b1e5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-02.png",
+    "bytes": 454081,
+    "sha256": "61d6040fa6c363fa8205bc666c395722d48cf3eaedfc7acc42496a160ee472fc"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-03.png",
+    "bytes": 548083,
+    "sha256": "3ac64d268a8398706bdfc84b7828c6bbbabe660c5c761f7d22e5ca50e54f896f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-04.png",
+    "bytes": 404711,
+    "sha256": "038ccff87e5ab404aa9e3cce70d15ea2eacb237278efaf36cc3f4bd8ab6bc93b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-05.png",
+    "bytes": 466931,
+    "sha256": "3dc0dd6b519fe63e563588ac859dcb75849ff98a01304195bf5cfafe61e739c7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-06.png",
+    "bytes": 129577,
+    "sha256": "e40435176ddc6e3a8cf619fbda526e51fe2e9cfae27fe969faba285bfbba4ea5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/reading-320px.png",
+    "bytes": 784443,
+    "sha256": "a9974e04c2d52d3406f8485aeb631c0b62198f9509cf12cc1de304919e7518d4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/reading-part-1.png",
+    "bytes": 276264,
+    "sha256": "0a53049bc760fc1bf4bc51d485950bc3b43b29420f14dcdf7bc644ebfef78770"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/reading-part-2.png",
+    "bytes": 313172,
+    "sha256": "a8b30e6ccaaa83c5e6a74675da39b0ea28bdf695b5113633fa30e773b06d35b8"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/reading-part-3.png",
+    "bytes": 194529,
+    "sha256": "0ad166d971f0d4f66d45017def5691a35784eacbb799c21973671f6494c4fc48"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-001.png",
+    "bytes": 13942,
+    "sha256": "4da4996e5fd92712fbac57ed6fc34620d6c315603fe2074b9752629118e00c20"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-002.png",
+    "bytes": 41344,
+    "sha256": "bbed9fad7dbed463d306cf85eba5235df3ea7c7147bfee1e5abdb75ef25bbe56"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-003.png",
+    "bytes": 24109,
+    "sha256": "8b1043f9eea75b358062141fb493373b6ba0cc476e63501d67254f644de29076"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-004.png",
+    "bytes": 26287,
+    "sha256": "ac01312ff6a6ff5e7c21ddc5c80950e6e15d4f54a350a13e6512e5b2e3f952a0"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-005.png",
+    "bytes": 17053,
+    "sha256": "b9b775869ea50dd02de62213e185010560aa69c465f7a99630d7340b2369a10c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-006.png",
+    "bytes": 16665,
+    "sha256": "8ba0cb8f1051080045df6f74516a5ecc5ed2044b36492db453818b676ead3d86"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-007.png",
+    "bytes": 20560,
+    "sha256": "b9f400b2a057d4a685107cd7e2c4f9dc88ba1072d3297f16d3c31e90df302952"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-008.png",
+    "bytes": 12180,
+    "sha256": "95bac97355619b136e56002320742315885f37744bbfcd053fbf41ba3a14d8e1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-009.png",
+    "bytes": 8795,
+    "sha256": "6f9409677132bea28fc5ef39ee8fdfc0b344ab82929977927cd349ebcaf65865"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-010.png",
+    "bytes": 9898,
+    "sha256": "6e6576ef484d636e81edd9ea23978727baf1b0214f60a98027a994c57502ae41"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-011.png",
+    "bytes": 15913,
+    "sha256": "27c5d0a72f8fd47ea1eae82a73f9c36f93138b7366af1c6aa2248504a2a7286d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-012.png",
+    "bytes": 25288,
+    "sha256": "95fd9a61058be07fe13b29ba7aaefce5fb2527b1afeae15c46e952f1182818ad"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-013.png",
+    "bytes": 24216,
+    "sha256": "d0de8a1f6e53c1d82d7fa04c4cfc452778b2c0253efff4007b41cb63d3303d7f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-014.png",
+    "bytes": 14981,
+    "sha256": "8043bde9a28ff5f4b140ef4d5902735b9095f9cefec816895c902a4afce08c4d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-015.png",
+    "bytes": 48366,
+    "sha256": "7bb45d17e1280d754a074dff6309a3d6a3380c0229a2a93d7819c80fde6ceb1b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-016.png",
+    "bytes": 56309,
+    "sha256": "1985d01305f982d41da52cfb3cf2557aafb10a6453c5591e2d25f982184e0a5c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-017.png",
+    "bytes": 62954,
+    "sha256": "f2ebadf9ca585beca0cac4fbf4dedd9d7a304940f16fef50182277393b4e3dbf"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-018.png",
+    "bytes": 54158,
+    "sha256": "35fe99c9d95c9835511c7e15a6023289cbdf84f7c6c62bf0cae5b2ec7d7b4be0"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-019.png",
+    "bytes": 48933,
+    "sha256": "a58d677458e77b801316f7f3a16f2eda2db2719d2f57db593635c91bd301785c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-020.png",
+    "bytes": 61401,
+    "sha256": "acdc7a2b0a770b640020e1ab2310bb4db31ec0292c586d1096c89ae9775e971c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-021.png",
+    "bytes": 17453,
+    "sha256": "e780acd70f4b2437de797a676be2c38ad9527649a0b111fc7028664b920a3867"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-022.png",
+    "bytes": 52673,
+    "sha256": "6956a3d2f9de2c6037557289ab6051a117b40035dca9c78dcccec534f5adec60"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-023.png",
+    "bytes": 80001,
+    "sha256": "a30da9f08b839cd7f3b17b7aab066299f651fa336cc6773ef2cdeb5a96722aa5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-024.png",
+    "bytes": 80027,
+    "sha256": "842f8296a16db6097689ff7e1ddb84e98231c631d40a65399ff8720939f36034"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-025.png",
+    "bytes": 36482,
+    "sha256": "fb80019daf8d298de5741e6fb7711f6441ab3fbffa4e1034d333fd61cec16d1e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-026.png",
+    "bytes": 149602,
+    "sha256": "c1875fb468161578a5ae4500af53fd355fa96f1b366be2148575ec4fda91ce26"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-027.png",
+    "bytes": 38239,
+    "sha256": "76b65ff51c0e6e7e53fa29cdc6e45315aed2c3330b757dfd4bc78cb4137c9213"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-028.png",
+    "bytes": 69078,
+    "sha256": "4f3cd1aaf50e0cce63e6f6f9c582596df2ab4f820ff4840f49fb66d278fbf28b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-029.png",
+    "bytes": 107401,
+    "sha256": "78053ab5e4b6d787409831099aefa7e8c13427c3d837c17899a1f3b1c146eea5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-030.png",
+    "bytes": 53223,
+    "sha256": "f58c9ededf910772746ed414a8d02786f4315fc095ccd4484199642160e7ecbc"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-031.png",
+    "bytes": 39095,
+    "sha256": "1121bfedb85198709690dd8f930e400cfda87a6fd2ab3cf58799a1d09fddac2f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-032.png",
+    "bytes": 47804,
+    "sha256": "94b536659a9df062c3359030a46e91b6b0ff9f4867ad6f444ef439f165a07f0c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-033.png",
+    "bytes": 29909,
+    "sha256": "283663d10518b5d92a17e6a2c1d266c4875bc331e4df0709a4dd29b6ac6c791c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-034.png",
+    "bytes": 44882,
+    "sha256": "c64b4c6267024ba29be42397a6010d9c955f2a964403cdd306482137958b33ec"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-035.png",
+    "bytes": 67245,
+    "sha256": "3ece8c0e7c035cb26779cd906c1a2e059628dc264a85506c8eb06d2515deb3cd"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-036.png",
+    "bytes": 81472,
+    "sha256": "1a534ae8ac2f383a574509efc0a720309b1ff2b8b3860ec80d6bd9b1fc70fd01"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-037.png",
+    "bytes": 44316,
+    "sha256": "802bd80ff7495dda6053501977eedfa8046f35ad4cb9886c66a7bbb1adcd9f21"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-038.png",
+    "bytes": 75825,
+    "sha256": "2d0380ec9dd7d2334ddd74b798918b980ca261a82cb59e801e241bc45b1da9a2"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-039.png",
+    "bytes": 114084,
+    "sha256": "e96dcb6811035da0ff18ddf79efe0887d3bb762cd9af1467a7ac60a5d0956012"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-040.png",
+    "bytes": 15794,
+    "sha256": "0fd7ac31a58811c91c03d1adad9d33c1f47898dcbf23468f568a3fed4b002884"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-041.png",
+    "bytes": 9174,
+    "sha256": "15cd875e3311cf324f7210ffde285dab167cb4e7b944fa852169b5a8b1e9cf71"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-042.png",
+    "bytes": 7640,
+    "sha256": "caf925dd6821a38850fcc141f60f76d42ad1730ed94df793bb15ce7797bbe091"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-043.png",
+    "bytes": 12305,
+    "sha256": "7a26eb14d862bf0ec6235497a816d4559d61650d84d412c74f81b7cae715960d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-044.png",
+    "bytes": 52682,
+    "sha256": "2f8299fc6e369f2ec26537000b17be9ac03637d56afb4729c30e7d9db8eefcef"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-045.png",
+    "bytes": 17743,
+    "sha256": "c87a32a20ac5ffea09d47fb5e98f80ae13ff0f3c4c03c590a19e667e533847d5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-046.png",
+    "bytes": 10657,
+    "sha256": "ac2ff5f587df15973378f051c9704d7c34a54b89016acdb04119140204aa8140"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-047.png",
+    "bytes": 8834,
+    "sha256": "44cb1aaf170ae1dcbfbcb0aa4cd05c7274964778b2d1336278e91dd6dc0b83d6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-048.png",
+    "bytes": 16206,
+    "sha256": "17fcab63c7d472dd66b7d12cf9a2b13794915a80908da74b31dfcc6e983fd65d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-049.png",
+    "bytes": 6293,
+    "sha256": "11c36c76220281fa320fe5c0c08f45d1ddf81feac2ec8baeb11362a28df10a38"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-050.png",
+    "bytes": 5189,
+    "sha256": "b9111cfc19dfd7f09d0aad8c9d699bf37ac076eebd1d54992b6ca8342c955cef"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-051.png",
+    "bytes": 12993,
+    "sha256": "431397799704e4e03af547a23c89fac6dd040bf7ee743128fa156938af8d3393"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/validation.json",
+    "bytes": 9370,
+    "sha256": "d7281229f7d088f9c256c0d75d964f5cc94955f51df923ea4cbe15b28e916d0d"
   },
   {
     "path": "物理/40_派生视图/大物上/今年期末复用高可能题单.md",
@@ -10831,23 +11376,23 @@
   },
   {
     "path": "物理/大学物理习题册（上）/25_习题二十五 光的干涉（一）.md",
-    "bytes": 2627,
-    "sha256": "859c4516bc68a71868f4e0ffed31079e4b2d4f24e08eaf2b2e0bf495802d4d81"
+    "bytes": 2641,
+    "sha256": "2f81e8e978e86217661f4126f65168742c75efa20f9675c67208ec73c5354610"
   },
   {
     "path": "物理/大学物理习题册（上）/26_习题二十六 光的干涉（二）.md",
-    "bytes": 2859,
-    "sha256": "c0c05fdfb4a3e460800b30b2a7572ec987c7aa6c8c0a9cf3655048792d341bbe"
+    "bytes": 2867,
+    "sha256": "4aaeafd6c7d2f953bf4864df507f5fd7e68dd42e7c4d930124bdc255242bc1da"
   },
   {
     "path": "物理/大学物理习题册（上）/27_习题二十七 光的干涉（三）.md",
-    "bytes": 3060,
-    "sha256": "8d41b5ef22726b8a3d6b4574d823d1fd028900ad8a5c308e5fab073edf0a41d8"
+    "bytes": 3064,
+    "sha256": "c562b40230d04fecc16e4affc3d321150a54cc3ae537afc176d059b82137bd29"
   },
   {
     "path": "物理/大学物理习题册（上）/28_习题二十八 光的干涉（四）.md",
-    "bytes": 2653,
-    "sha256": "a903212cd4fcc327951ce0e1587e5022e5f70872912334bf8b82b7bdcb0046c4"
+    "bytes": 2669,
+    "sha256": "5781dc32d137f54f6da424b813379184a190655f490523bc8f70c5fe3d36322d"
   },
   {
     "path": "物理/大学物理习题册（上）/29_习题二十九 光的衍射（一）.md",
