@@ -11,13 +11,13 @@
   },
   {
     "path": "README.md",
-    "bytes": 2976,
-    "sha256": "d9266de9cf84fb21343ded8e8fb675ecb2abddebf355a12bc6f5ccf4d2ba5420"
+    "bytes": 3292,
+    "sha256": "97bc8f5a1c2532bf4a6ffdae3dd047579d2ac4b2d64e42ea5a4374d2c32d61c7"
   },
   {
     "path": "export-audit.json",
-    "bytes": 87434,
-    "sha256": "d13af06169644df16465e6a5021c30466a09308b9d7e684e5430c5029f96ac3c"
+    "bytes": 88796,
+    "sha256": "7cf12b36724869ff112bdc111af45005c7eb0362393e89b5983e61a84e0a3403"
   },
   {
     "path": "tools/verify_share.py",
@@ -8075,9 +8075,59 @@
     "sha256": "9d60445a43c9e9456d3693eaa5f902eff2b91f7c85a0ed937696bdff9ea2e002"
   },
   {
+    "path": "电路分析/10_题库/README.md",
+    "bytes": 735,
+    "sha256": "70f36857aef9905b33c6ef45cf276c4c2151bcdaa3ef30780b23d5a7e9be9f59"
+  },
+  {
     "path": "电路分析/10_题库/_标签库.md",
-    "bytes": 7104,
-    "sha256": "85f32315f2c96507c720eab1a87d61d890927ef6b54aec195885f4aa870aa0fb"
+    "bytes": 7105,
+    "sha256": "a5076f15ddc2bd8bef539c339caaf1b0211ca74d3e87928316a97e50cf29f531"
+  },
+  {
+    "path": "电路分析/10_题库/assets/ch5/E5-1.png",
+    "bytes": 82475,
+    "sha256": "1ac38b9fff0e3f3d7856ad56fa42744ada23625eda926b4e8e0702209d7118a6"
+  },
+  {
+    "path": "电路分析/10_题库/assets/ch5/E5-10.png",
+    "bytes": 62261,
+    "sha256": "9e2b37f15e99d599b07e3d891baec4190ac5d59d339a24b57b38f75d02cbee29"
+  },
+  {
+    "path": "电路分析/10_题库/assets/ch5/E5-2.png",
+    "bytes": 52070,
+    "sha256": "2d7d37757e2bb41bd8df2e3325ae207bc0f94a6ed7f71dfaff0ea7720209195c"
+  },
+  {
+    "path": "电路分析/10_题库/assets/ch5/E5-3.png",
+    "bytes": 60982,
+    "sha256": "5dbb1e403aa2df456304042ce40b7d277516e8334f5f686c3639d3677d825b7d"
+  },
+  {
+    "path": "电路分析/10_题库/assets/ch5/E5-4.png",
+    "bytes": 30947,
+    "sha256": "5f9164195297245cc5a555bf3c8008e1202747f62a8b682325b2f07ac5335a87"
+  },
+  {
+    "path": "电路分析/10_题库/assets/ch5/E5-5.png",
+    "bytes": 34996,
+    "sha256": "61c9d7d4d979799162ee8dc569751a588d12e4afea6e9f388b79d1b44bb7c0e4"
+  },
+  {
+    "path": "电路分析/10_题库/assets/ch5/E5-8.png",
+    "bytes": 43813,
+    "sha256": "a069022b7b9da979f2c6713081a1a7bf718e1839be50044294899bcaa593011a"
+  },
+  {
+    "path": "电路分析/10_题库/assets/ch5/E5-9.png",
+    "bytes": 42248,
+    "sha256": "cf891def8e191b75fdc1f68ec8596c243d1393f97d9a4bcf14772035ad0b874b"
+  },
+  {
+    "path": "电路分析/10_题库/assets/ch5/fig5-5a.png",
+    "bytes": 73128,
+    "sha256": "9fae6f670e95406025b97d47abc0b6d521defae66e92b949ba135d323ca61ba8"
   },
   {
     "path": "电路分析/10_题库/assets/ch6_amp_p212_fig_e6_3.png",
@@ -9785,6 +9835,16 @@
     "sha256": "6a3c44d48e03c9b81374665cdf776bfd41e3739cf69ee581a32efc6f76bfecbf"
   },
   {
+    "path": "电路分析/10_题库/第5章课后习题_覆盖核查.md",
+    "bytes": 5957,
+    "sha256": "19faf31cc5aaaf40a9b48eba71163a2437c0f640dc4b30452a0de89f34fc57ab"
+  },
+  {
+    "path": "电路分析/10_题库/第5章课后习题_题面整理.md",
+    "bytes": 6780,
+    "sha256": "f87ffd8dab94b74a7cdc3d2a658c299ac9a6c7eb6349af3303dd0f0ab16779f3"
+  },
+  {
     "path": "电路分析/10_题库/第6章课后习题_题面整理.md",
     "bytes": 43864,
     "sha256": "f910fe30195e22166fd578357a07ec0f75c3c698dc8fec61f9c0b218fdc97b12"
@@ -10098,6 +10158,21 @@
     "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/夸克扫描王_电子线路期末复习.md",
     "bytes": 11885,
     "sha256": "655c8488fd7d26e56bf6a917ff9d6315b68a147656d74e962faa392dbd332456"
+  },
+  {
+    "path": "电路分析/90_缓存/s1-ch5-20261106/source-lineage.json",
+    "bytes": 3587,
+    "sha256": "085f228c7e6af73d7ab2ee439d7e3ddc06dcf59991122cfc9f7adcdfa42dbdbd"
+  },
+  {
+    "path": "电路分析/90_缓存/s1-ch5-20261106/validation-summary.json",
+    "bytes": 1700,
+    "sha256": "ae0289fce60b14696f55680fbaa451cef3b3e7a2130eab9e1efa5c4d1263dc47"
+  },
+  {
+    "path": "电路分析/90_缓存/s1-ch5-20261106/扫描件_电路与模拟电子技术(1)_p168-183.pdf",
+    "bytes": 12295151,
+    "sha256": "6e39cc9a9d5de5141cba930cd1a4e270a0d2268fa17aa6f12651d54fd5c6fce4"
   },
   {
     "path": "电路分析/90_缓存/s2-frequency-analysis.json",

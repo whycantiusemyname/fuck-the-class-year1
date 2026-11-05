@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-06",
+  "source_readonly_hashes_verified": 42,
+  "excerpt_pages_verified": 16,
+  "question_count": 10,
+  "question_forms": {
+    "计算题": 7,
+    "综合题": 3
+  },
+  "ocr_status": {
+    "已对照 PDF 复核": 10
+  },
+  "knowledge_tags_with_unique_capability_theme": "2/2",
+  "new_anchors": 10,
+  "full_duplicates": 0,
+  "figures": 9,
+  "pdf_completion": "verified; 2/2 segments; unresolved=0",
+  "s1_course_validator": "passed; control characters=0, LaTeX anomalies=0, broken links=0",
+  "s1_intake": "bind/verify passed; 10 anchors; source SHA-256 matched",
+  "s2_status": "not regenerated; existing matrix predates this intake",
+  "question_markdown_sha256": "f87ffd8dab94b74a7cdc3d2a658c299ac9a6c7eb6349af3303dd0f0ab16779f3",
+  "figures_sha256": {
+    "E5-1.png": "1ac38b9fff0e3f3d7856ad56fa42744ada23625eda926b4e8e0702209d7118a6",
+    "E5-10.png": "9e2b37f15e99d599b07e3d891baec4190ac5d59d339a24b57b38f75d02cbee29",
+    "E5-2.png": "2d7d37757e2bb41bd8df2e3325ae207bc0f94a6ed7f71dfaff0ea7720209195c",
+    "E5-3.png": "5dbb1e403aa2df456304042ce40b7d277516e8334f5f686c3639d3677d825b7d",
+    "E5-4.png": "5f9164195297245cc5a555bf3c8008e1202747f62a8b682325b2f07ac5335a87",
+    "E5-5.png": "61c9d7d4d979799162ee8dc569751a588d12e4afea6e9f388b79d1b44bb7c0e4",
+    "E5-8.png": "a069022b7b9da979f2c6713081a1a7bf718e1839be50044294899bcaa593011a",
+    "E5-9.png": "cf891def8e191b75fdc1f68ec8596c243d1393f97d9a4bcf14772035ad0b874b",
+    "fig5-5a.png": "9fae6f670e95406025b97d47abc0b6d521defae66e92b949ba135d323ca61ba8"
+  },
+  "intake_manifest_relative": "90_缓存/s1-intake/扫描件_电路与模拟电子技术(1)_p168-183-6e39cc9a/intake.json"
+}

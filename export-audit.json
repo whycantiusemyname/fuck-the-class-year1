@@ -1,6 +1,6 @@
 {
-  "files": 2026,
-  "MiB": 965.85,
+  "files": 2041,
+  "MiB": 978.08,
   "retained_cache_files": 699,
   "preexisting_unresolved_links": [],
   "excluded_private_dependencies": [
@@ -1163,5 +1163,34 @@
       "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/ebc3054ffa4b83bf7337f9febb9da0d84e00ff4f7f110289b83d8f5fff214c76.jpg"
     ],
     "s2_regenerated": false
+  },
+  "ch5_update_20261106": {
+    "new_questions": 10,
+    "source": "配套辅导书5.4；书页168—174；原PDF177—183",
+    "new_figures": 9,
+    "changed_files": [
+      "README.md",
+      "电路分析/10_题库/README.md",
+      "电路分析/10_题库/第5章课后习题_题面整理.md",
+      "电路分析/10_题库/第5章课后习题_覆盖核查.md",
+      "电路分析/10_题库/_标签库.md",
+      "电路分析/10_题库/assets/ch5/E5-1.png",
+      "电路分析/10_题库/assets/ch5/E5-10.png",
+      "电路分析/10_题库/assets/ch5/E5-2.png",
+      "电路分析/10_题库/assets/ch5/E5-3.png",
+      "电路分析/10_题库/assets/ch5/E5-4.png",
+      "电路分析/10_题库/assets/ch5/E5-5.png",
+      "电路分析/10_题库/assets/ch5/E5-8.png",
+      "电路分析/10_题库/assets/ch5/E5-9.png",
+      "电路分析/10_题库/assets/ch5/fig5-5a.png",
+      "电路分析/90_缓存/s1-ch5-20261106/扫描件_电路与模拟电子技术(1)_p168-183.pdf",
+      "电路分析/90_缓存/s1-ch5-20261106/source-lineage.json",
+      "电路分析/90_缓存/s1-ch5-20261106/validation-summary.json"
+    ],
+    "conversion_completion": "verified",
+    "s1_intake": "verified in source workspace",
+    "source_pages_render_identical": 16,
+    "readonly_sources_verified": 42,
+    "s2": "not regenerated"
   }
 }
