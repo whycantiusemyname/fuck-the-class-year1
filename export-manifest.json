@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 182118,
-    "sha256": "b12842403cae17311fd68304794fbd8681f9491b802d4b1a52b54a66877eb4b8"
+    "bytes": 182405,
+    "sha256": "57fb39a3032922300f9b2812a884bc0de5319c80472bab0a255c75920aa96ac7"
   },
   {
     "path": "tools/verify_share.py",
@@ -2161,8 +2161,8 @@
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/034-extracted.png",
-    "bytes": 123231,
-    "sha256": "19b51527a36f4ff5a4aad60788ba6c859a15bccd380c41ff8bd6e4111595b917"
+    "bytes": 119273,
+    "sha256": "9fbf210834745397eaefbca613f1a8d2d873d4d5596ec677af96b07e3de0ec80"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/035-extracted.png",
@@ -2251,8 +2251,8 @@
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/mapping.json",
-    "bytes": 103647,
-    "sha256": "aa9bd4279d166034597f6acdc3960ba265e1795b5fa1ffb32947f16bf5a77d2d"
+    "bytes": 103831,
+    "sha256": "5d82b645d2f1a74ad3119b37a15e168be7aa1895f9c04b79ff5ae0d2cdf51485"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/001.png",
@@ -6451,8 +6451,8 @@
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/README.md",
-    "bytes": 34012,
-    "sha256": "cbb143bc16db9fb644a59b464b50431e97ace0b1cdec135aee79e795b9cf4555"
+    "bytes": 34220,
+    "sha256": "060e772757dddddaf8503b984738cc9634f00e9864cc1f8fa58af1bcdb7e74c1"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/comparison-01.png",
@@ -6471,8 +6471,8 @@
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/comparison-04.png",
-    "bytes": 490341,
-    "sha256": "a120e1c296f9def62edf8e0c22dc92c4613118bb444c7dc106f1d26292d5fefb"
+    "bytes": 489256,
+    "sha256": "5156cf66a77165f74b81dd8fb1a8c90f2df8a7bc3590c36c519f932e7a5d9fdb"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/comparison-05.png",
@@ -6485,9 +6485,14 @@
     "sha256": "c99a326d4707d0fa973eb4f163bc1621cfd53d4d0899275033ceab084ee3fdcc"
   },
   {
+    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/crop-review-034.png",
+    "bytes": 250440,
+    "sha256": "779c4560cf137bbafac18bf0feaae85573066c8441cc8f9fae46d379c4c5cf55"
+  },
+  {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/reading-320px.png",
-    "bytes": 937179,
-    "sha256": "96c2577dc9d08e7bd16e782cdb423b833bbd732be78d5315462b16bc0dc3b637"
+    "bytes": 937949,
+    "sha256": "c531b6628523b628de5a624537423232b58792f99ed00d407eaccf61f1afb22b"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/source-001.png",
@@ -6656,8 +6661,8 @@
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/source-034.png",
-    "bytes": 123231,
-    "sha256": "19b51527a36f4ff5a4aad60788ba6c859a15bccd380c41ff8bd6e4111595b917"
+    "bytes": 119273,
+    "sha256": "9fbf210834745397eaefbca613f1a8d2d873d4d5596ec677af96b07e3de0ec80"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/source-035.png",
@@ -6716,8 +6721,8 @@
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/validation.json",
-    "bytes": 11550,
-    "sha256": "b8a168b7591591e7b2c12a958f8b8c5258afecddb8f3a80ee87627ffb448aaeb"
+    "bytes": 11809,
+    "sha256": "c593947a73e42e102d6d675700d6628c52fd26b35ff8dbfddfd0496fb8ba7a73"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/04_振动/README.md",

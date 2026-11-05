@@ -2473,5 +2473,10 @@
       "物理/40_派生视图/大物上/上册逐章/15_偏振/全册覆盖.md"
     ],
     "validation": "物理/40_派生视图/大物上/上册逐章/15_偏振/validation.json"
+  },
+  "physics_upper_chapter_03_crop_review_20261106": {
+    "asset": "034",
+    "changes": "收紧原PDF裁图左边界，去相邻正文碎片；物理标签/题面/引用不变",
+    "validation": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/validation.json"
   }
 }

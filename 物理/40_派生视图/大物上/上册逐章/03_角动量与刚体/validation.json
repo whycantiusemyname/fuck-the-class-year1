@@ -96,7 +96,7 @@
     "10_题库/_assets/上册逐章/03_角动量与刚体/032-extracted.png": "08e97c9e66c812a691469c4c0bd122e17e3164b8c09450497ffcf88dc01a1ddb",
     "10_题库/_assets/上册逐章/03_角动量与刚体/033.png": "3d86b801229ef4fe7cf5c7d8789169e68ede415f478e21c3e1276fadcbd8cdde",
     "10_题库/_assets/上册逐章/03_角动量与刚体/033.svg": "74dc3898ef7487a31d6237a81664071bd73d3e901132a45973a57a5b09e04507",
-    "10_题库/_assets/上册逐章/03_角动量与刚体/034-extracted.png": "19b51527a36f4ff5a4aad60788ba6c859a15bccd380c41ff8bd6e4111595b917",
+    "10_题库/_assets/上册逐章/03_角动量与刚体/034-extracted.png": "9fbf210834745397eaefbca613f1a8d2d873d4d5596ec677af96b07e3de0ec80",
     "10_题库/_assets/上册逐章/03_角动量与刚体/035-extracted.png": "af801c2540a7b715bed2773b98db95e4bad485082beaab2a1e0ee3942836c052",
     "10_题库/_assets/上册逐章/03_角动量与刚体/036.png": "a092912a5e65c505641fb5ee51a635187969e91e9813fc5d08ff3fdb80a9c47d",
     "10_题库/_assets/上册逐章/03_角动量与刚体/036.svg": "8f47009905a962906aef7e2501eac31fe2ee45fb9551252d6a59a6165a1e60e4",
@@ -114,6 +114,23 @@
     "10_题库/_assets/上册逐章/03_角动量与刚体/045-extracted.png": "5a53aee8683a30d41106b422de34048923f002a838be7867c0161e64f00091c4",
     "10_题库/_assets/上册逐章/03_角动量与刚体/extract_from_pdf.py": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a",
     "10_题库/_assets/上册逐章/03_角动量与刚体/generate.py": "aa8b3fe5b0e359dc01fe47596c133d75aaeb90c93b3e22a0459e94f73fb8563f",
-    "10_题库/_assets/上册逐章/03_角动量与刚体/mapping.json": "aa9bd4279d166034597f6acdc3960ba265e1795b5fa1ffb32947f16bf5a77d2d"
+    "10_题库/_assets/上册逐章/03_角动量与刚体/mapping.json": "5d82b645d2f1a74ad3119b37a15e168be7aa1895f9c04b79ff5ae0d2cdf51485"
+  },
+  "final_crop_review": {
+    "id": 34,
+    "old_bbox": [
+      628,
+      77,
+      887,
+      209
+    ],
+    "new_bbox": [
+      636,
+      77,
+      887,
+      209
+    ],
+    "physical_labels_unchanged": true,
+    "document_references_unchanged": true
   }
 }

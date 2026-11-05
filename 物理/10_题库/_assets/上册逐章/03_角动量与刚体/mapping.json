@@ -1608,7 +1608,7 @@
     "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
     "pdf_page": 54,
     "bbox_1000": [
-      628,
+      636,
       77,
       887,
       209
@@ -1618,8 +1618,8 @@
     "extraction": "native_scan_crop",
     "source_crop": "source-034.png",
     "source_crop_size": [
-      592,
-      407
+      602,
+      447
     ],
     "page_preview": "page-3-054.png",
     "original_bbox_1000": [
@@ -1630,7 +1630,7 @@
     ],
     "method": "native_extraction",
     "new": "034-extracted.png",
-    "check": "O端直角弹簧、水平l、竖直l0、m、v0和v/θ；未知夹角不拟合。 原生提取，无放大插值或新增标注。",
+    "check": "O端直角弹簧、水平l、竖直l0、m、v0和v/θ；未知夹角不拟合。 原生提取，无放大插值或新增标注。 总验收收紧左裁边，去除相邻正文残片；l0、O、l、m、v0及θ全部保留。",
     "references": [
       {
         "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
@@ -1645,7 +1645,13 @@
         ]
       }
     ],
-    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/034-extracted.png"
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/034-extracted.png",
+    "bbox_before_final_margin_review": [
+      628,
+      77,
+      887,
+      209
+    ]
   },
   {
     "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
