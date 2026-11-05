@@ -1,0 +1,3163 @@
+[
+  {
+    "document": "10_题库/习题册/大学物理习题册_13_振动（一）_题面整理.md",
+    "question": "习题册-章节13-题2",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/习题册/cc987054c146a48ec6adf0c937a16c00b23bab6552b64e840739c1f107d6c546.jpg",
+    "path": "10_题库/_assets/习题册/cc987054c146a48ec6adf0c937a16c00b23bab6552b64e840739c1f107d6c546.jpg",
+    "sha256": "a54f5d5b632bbf65c0e277bcb6d2d4b98bb45294430ced30b4b108fe37842e97",
+    "size": [
+      607,
+      246
+    ],
+    "id": 1,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 14,
+    "bbox_1000": [
+      85,
+      436,
+      283,
+      552
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\cc987054c146a48ec6adf0c937a16c00b23bab6552b64e840739c1f107d6c546.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-001.png",
+    "source_crop_size": [
+      877,
+      352
+    ],
+    "page_preview": "page-1-014.png",
+    "method": "redrawn",
+    "new": "001.svg",
+    "check": "定量：x/m，幅度4，初位移2且先向上，t=1s向下过零。按约束绘制4cos(5πt/6-π/3)，不将答案周期写入图。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_13_振动（一）_题面整理.md",
+        "question": "习题册-章节13-题2",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/习题册/cc987054c146a48ec6adf0c937a16c00b23bab6552b64e840739c1f107d6c546.jpg",
+        "path": "10_题库/_assets/习题册/cc987054c146a48ec6adf0c937a16c00b23bab6552b64e840739c1f107d6c546.jpg",
+        "sha256": "a54f5d5b632bbf65c0e277bcb6d2d4b98bb45294430ced30b4b108fe37842e97",
+        "size": [
+          607,
+          246
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/001.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_13_振动（一）_题面整理.md",
+    "question": "习题册-章节13-题4",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/习题册/f68bc045adfa88737ab87cec38578b1dac46a1135b4b7e9078e29e06842bf1d3.jpg",
+    "path": "10_题库/_assets/习题册/f68bc045adfa88737ab87cec38578b1dac46a1135b4b7e9078e29e06842bf1d3.jpg",
+    "sha256": "6d89f62f1cb9cd611176015e2d598ecd3e8cbc95546f7c4e40d9e97916924dd9",
+    "size": [
+      679,
+      285
+    ],
+    "id": 2,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 14,
+    "bbox_1000": [
+      91,
+      744,
+      312,
+      879
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\f68bc045adfa88737ab87cec38578b1dac46a1135b4b7e9078e29e06842bf1d3.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-002.png",
+    "source_crop_size": [
+      978,
+      410
+    ],
+    "page_preview": "page-1-014.png",
+    "method": "redrawn",
+    "new": "002.svg",
+    "check": "定量：x/cm、t/s，振幅6；0过零向下，1/3为谷/峰，2/4过零，按-6sin(πt/2)重建。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_13_振动（一）_题面整理.md",
+        "question": "习题册-章节13-题4",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/习题册/f68bc045adfa88737ab87cec38578b1dac46a1135b4b7e9078e29e06842bf1d3.jpg",
+        "path": "10_题库/_assets/习题册/f68bc045adfa88737ab87cec38578b1dac46a1135b4b7e9078e29e06842bf1d3.jpg",
+        "sha256": "6d89f62f1cb9cd611176015e2d598ecd3e8cbc95546f7c4e40d9e97916924dd9",
+        "size": [
+          679,
+          285
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/002.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_14_振动（二）_题面整理.md",
+    "question": "习题册-章节14-题4",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/习题册/f7282b4d58c82b654d17d022a794552081a044ec9c6f38b81681309fa12d994e.jpg",
+    "path": "10_题库/_assets/习题册/f7282b4d58c82b654d17d022a794552081a044ec9c6f38b81681309fa12d994e.jpg",
+    "sha256": "630814430975a3c63d00e7818f845ee22cd218cdea0f0275294b29cd00d8975f",
+    "size": [
+      462,
+      234
+    ],
+    "id": 3,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      86,
+      546,
+      237,
+      657
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\f7282b4d58c82b654d17d022a794552081a044ec9c6f38b81681309fa12d994e.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-003.png",
+    "source_crop_size": [
+      669,
+      337
+    ],
+    "page_preview": "page-1-015.png",
+    "method": "redrawn",
+    "new": "003.svg",
+    "check": "定量：幅度10cm、初位移5cm向下；1/7/13s过零、4s谷、10s峰；按10cos(πt/6+π/3)重建。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_14_振动（二）_题面整理.md",
+        "question": "习题册-章节14-题4",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/习题册/f7282b4d58c82b654d17d022a794552081a044ec9c6f38b81681309fa12d994e.jpg",
+        "path": "10_题库/_assets/习题册/f7282b4d58c82b654d17d022a794552081a044ec9c6f38b81681309fa12d994e.jpg",
+        "sha256": "630814430975a3c63d00e7818f845ee22cd218cdea0f0275294b29cd00d8975f",
+        "size": [
+          462,
+          234
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/003.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_14_振动（二）_题面整理.md",
+    "question": "习题册-章节14-题5",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/习题册/de5ba0a812896e275130f1fc852bd54e065e53900adcfa14f3f99b256bd68679.jpg",
+    "path": "10_题库/_assets/习题册/de5ba0a812896e275130f1fc852bd54e065e53900adcfa14f3f99b256bd68679.jpg",
+    "sha256": "1b2863ec8893480e076a2d6c6833bc4f7c72b9cd405b81b0570fb1959479461a",
+    "size": [
+      459,
+      196
+    ],
+    "id": 4,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      544,
+      227,
+      694,
+      320
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\de5ba0a812896e275130f1fc852bd54e065e53900adcfa14f3f99b256bd68679.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-004.png",
+    "source_crop_size": [
+      665,
+      282
+    ],
+    "page_preview": "page-1-015.png",
+    "method": "native_extraction",
+    "new": "004-extracted.png",
+    "check": "墙-弹簧-物块m、O/x及F标记，原箭头不清时不擅自改变其线形，保持原像素。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_14_振动（二）_题面整理.md",
+        "question": "习题册-章节14-题5",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/习题册/de5ba0a812896e275130f1fc852bd54e065e53900adcfa14f3f99b256bd68679.jpg",
+        "path": "10_题库/_assets/习题册/de5ba0a812896e275130f1fc852bd54e065e53900adcfa14f3f99b256bd68679.jpg",
+        "sha256": "1b2863ec8893480e076a2d6c6833bc4f7c72b9cd405b81b0570fb1959479461a",
+        "size": [
+          459,
+          196
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/004-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_14_振动（二）_题面整理.md",
+    "question": "习题册-章节14-题6",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/习题册/abb48843952d51eb6b5ee2c7807a5a339d2b1ac574877ade477f96cd5316384d.jpg",
+    "path": "10_题库/_assets/习题册/abb48843952d51eb6b5ee2c7807a5a339d2b1ac574877ade477f96cd5316384d.jpg",
+    "sha256": "dc4258de1b4ad2f6ee5f52933e213a0e4ef30ba7d26a2f1a9f6fd8824fcf5b65",
+    "size": [
+      240,
+      318
+    ],
+    "id": 5,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      847,
+      597,
+      925,
+      748
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\abb48843952d51eb6b5ee2c7807a5a339d2b1ac574877ade477f96cd5316384d.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-005.png",
+    "source_crop_size": [
+      346,
+      458
+    ],
+    "page_preview": "page-1-015.png",
+    "method": "redrawn",
+    "new": "005.svg",
+    "check": "定滑轮右挂m与下方虚线位置，左绳连接竖直弹簧，支点与连接未变。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_14_振动（二）_题面整理.md",
+        "question": "习题册-章节14-题6",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/习题册/abb48843952d51eb6b5ee2c7807a5a339d2b1ac574877ade477f96cd5316384d.jpg",
+        "path": "10_题库/_assets/习题册/abb48843952d51eb6b5ee2c7807a5a339d2b1ac574877ade477f96cd5316384d.jpg",
+        "sha256": "dc4258de1b4ad2f6ee5f52933e213a0e4ef30ba7d26a2f1a9f6fd8824fcf5b65",
+        "size": [
+          240,
+          318
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/005.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_15_振动（三）_题面整理.md",
+    "question": "习题册-章节15-题1",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/习题册/c88914bcdb004d3f27968da45b03b268d8ba1ed6d13fe54318f3cbf70da1f4aa.jpg",
+    "path": "10_题库/_assets/习题册/c88914bcdb004d3f27968da45b03b268d8ba1ed6d13fe54318f3cbf70da1f4aa.jpg",
+    "sha256": "6a2f3bba5f73669d90fa451172a6ab8cfeadcbbf76909a2a6d20e6e845755e04",
+    "size": [
+      434,
+      214
+    ],
+    "id": 6,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 16,
+    "bbox_1000": [
+      91,
+      309,
+      232,
+      411
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\c88914bcdb004d3f27968da45b03b268d8ba1ed6d13fe54318f3cbf70da1f4aa.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-006.png",
+    "source_crop_size": [
+      625,
+      310
+    ],
+    "page_preview": "page-1-016.png",
+    "method": "redrawn",
+    "new": "006.svg",
+    "check": "定性速度曲线：初v=vm/2且上升；纵轴v/(m/s)、横轴t/s，无数字时间刻度，不假定周期数值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_15_振动（三）_题面整理.md",
+        "question": "习题册-章节15-题1",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/习题册/c88914bcdb004d3f27968da45b03b268d8ba1ed6d13fe54318f3cbf70da1f4aa.jpg",
+        "path": "10_题库/_assets/习题册/c88914bcdb004d3f27968da45b03b268d8ba1ed6d13fe54318f3cbf70da1f4aa.jpg",
+        "sha256": "6a2f3bba5f73669d90fa451172a6ab8cfeadcbbf76909a2a6d20e6e845755e04",
+        "size": [
+          434,
+          214
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/006.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_15_振动（三）_题面整理.md",
+    "question": "习题册-章节15-题2",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/习题册/d3cceb5d0c4cb9da347218fc2c1ffd5388bbc1a76c88f881d668b5ba070524cb.jpg",
+    "path": "10_题库/_assets/习题册/d3cceb5d0c4cb9da347218fc2c1ffd5388bbc1a76c88f881d668b5ba070524cb.jpg",
+    "sha256": "364636dba1cc11644f06f88467379361a9e63e10822ef6d935a3fd610c0c2feb",
+    "size": [
+      467,
+      245
+    ],
+    "id": 7,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 16,
+    "bbox_1000": [
+      88,
+      535,
+      240,
+      652
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\d3cceb5d0c4cb9da347218fc2c1ffd5388bbc1a76c88f881d668b5ba070524cb.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-007.png",
+    "source_crop_size": [
+      673,
+      356
+    ],
+    "page_preview": "page-1-016.png",
+    "method": "redrawn",
+    "new": "007.svg",
+    "check": "定性叠加曲线：x1起始-A、x2起始A/2，同频反相；x2改虚线以便黑白辨认，无数值周期。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_15_振动（三）_题面整理.md",
+        "question": "习题册-章节15-题2",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/习题册/d3cceb5d0c4cb9da347218fc2c1ffd5388bbc1a76c88f881d668b5ba070524cb.jpg",
+        "path": "10_题库/_assets/习题册/d3cceb5d0c4cb9da347218fc2c1ffd5388bbc1a76c88f881d668b5ba070524cb.jpg",
+        "sha256": "364636dba1cc11644f06f88467379361a9e63e10822ef6d935a3fd610c0c2feb",
+        "size": [
+          467,
+          245
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/007.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选21",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/4c321022dac83e63e3abf441aec1535f65d34f53e1b6995ffecc5c547b0a3310.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/4c321022dac83e63e3abf441aec1535f65d34f53e1b6995ffecc5c547b0a3310.jpg",
+    "sha256": "b9c593760d3cb08781d6fc2599e8249a418fe2f86eee19180bb5d0a4e0f44bb7",
+    "size": [
+      314,
+      162
+    ],
+    "id": 8,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 17,
+    "bbox_1000": [
+      717,
+      300,
+      907,
+      369
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\4c321022dac83e63e3abf441aec1535f65d34f53e1b6995ffecc5c547b0a3310.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-008.png",
+    "source_crop_size": [
+      457,
+      234
+    ],
+    "page_preview": "page-2-017.png",
+    "method": "reuse_redraw",
+    "new": "006.svg",
+    "check": "与已核验资产006的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选21",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/4c321022dac83e63e3abf441aec1535f65d34f53e1b6995ffecc5c547b0a3310.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/4c321022dac83e63e3abf441aec1535f65d34f53e1b6995ffecc5c547b0a3310.jpg",
+        "sha256": "b9c593760d3cb08781d6fc2599e8249a418fe2f86eee19180bb5d0a4e0f44bb7",
+        "size": [
+          314,
+          162
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/006.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选22",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/02f01804c7882cabbdd24c8349fac295eac2070567cfdd56a8743548904c935e.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/02f01804c7882cabbdd24c8349fac295eac2070567cfdd56a8743548904c935e.jpg",
+    "sha256": "066e921c6a0e1df9befef678d4bc672ec24ac958fd3652c46f1a85ac0bbc0273",
+    "size": [
+      381,
+      128
+    ],
+    "id": 9,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 17,
+    "bbox_1000": [
+      559,
+      400,
+      789,
+      455
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\02f01804c7882cabbdd24c8349fac295eac2070567cfdd56a8743548904c935e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-009.png",
+    "source_crop_size": [
+      553,
+      187
+    ],
+    "page_preview": "page-2-017.png",
+    "method": "native_extraction",
+    "new": "009-extracted.png",
+    "check": "墙、串联k1/k2弹簧及m，连接可辨。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选22",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/02f01804c7882cabbdd24c8349fac295eac2070567cfdd56a8743548904c935e.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/02f01804c7882cabbdd24c8349fac295eac2070567cfdd56a8743548904c935e.jpg",
+        "sha256": "066e921c6a0e1df9befef678d4bc672ec24ac958fd3652c46f1a85ac0bbc0273",
+        "size": [
+          381,
+          128
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/009-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选23",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3c582ef7b232ffe9078ffc6c535dd2ca4c07cf7dce498c7d9baf129371cdd190.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/3c582ef7b232ffe9078ffc6c535dd2ca4c07cf7dce498c7d9baf129371cdd190.jpg",
+    "sha256": "cfade373673487502865a56ba6be0f45102b1a1b3fb45ba5f18f9adaa420496e",
+    "size": [
+      292,
+      162
+    ],
+    "id": 10,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 17,
+    "bbox_1000": [
+      694,
+      478,
+      870,
+      546
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\3c582ef7b232ffe9078ffc6c535dd2ca4c07cf7dce498c7d9baf129371cdd190.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-010.png",
+    "source_crop_size": [
+      423,
+      231
+    ],
+    "page_preview": "page-2-017.png",
+    "method": "redrawn",
+    "new": "010.svg",
+    "check": "定量：x/cm、振幅4、初位移2、t=1s向下过零，约束同第001图，单位保留为cm。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选23",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3c582ef7b232ffe9078ffc6c535dd2ca4c07cf7dce498c7d9baf129371cdd190.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/3c582ef7b232ffe9078ffc6c535dd2ca4c07cf7dce498c7d9baf129371cdd190.jpg",
+        "sha256": "cfade373673487502865a56ba6be0f45102b1a1b3fb45ba5f18f9adaa420496e",
+        "size": [
+          292,
+          162
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/010.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+    "question": "18-19期中-选6",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/9fa01f5710da713e100a2d3cd33605127de68ea9625bfa5bf8c6a9dbd3d1e09b.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/9fa01f5710da713e100a2d3cd33605127de68ea9625bfa5bf8c6a9dbd3d1e09b.jpg",
+    "sha256": "8fc7a2c3ec7d1930a1d0c12317a12cb7bd68606fb47cf94ad915e7160e32725a",
+    "size": [
+      262,
+      196
+    ],
+    "id": 11,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 1,
+    "bbox_1000": [
+      685,
+      574,
+      843,
+      657
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\9fa01f5710da713e100a2d3cd33605127de68ea9625bfa5bf8c6a9dbd3d1e09b.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-011.png",
+    "source_crop_size": [
+      379,
+      281
+    ],
+    "page_preview": "page-2-001.png",
+    "method": "native_extraction",
+    "new": "011-extracted.png",
+    "check": "纵轴x/v/a、横轴t，编号1/2/3和三曲线关系保持；不把编号当物理单位。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+        "question": "18-19期中-选6",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/9fa01f5710da713e100a2d3cd33605127de68ea9625bfa5bf8c6a9dbd3d1e09b.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/9fa01f5710da713e100a2d3cd33605127de68ea9625bfa5bf8c6a9dbd3d1e09b.jpg",
+        "sha256": "8fc7a2c3ec7d1930a1d0c12317a12cb7bd68606fb47cf94ad915e7160e32725a",
+        "size": [
+          262,
+          196
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/011-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+    "question": "18-19期中-选7",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/c971b62b2c7da0250030363383c814eccb9cf6d29ae52a7fab844727fd14bdb3.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/c971b62b2c7da0250030363383c814eccb9cf6d29ae52a7fab844727fd14bdb3.jpg",
+    "sha256": "e22bb95724d8bcc4da6956fd529f3aa45fc167e5a924a259243c1e49d7df7714",
+    "size": [
+      345,
+      287
+    ],
+    "id": 12,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 1,
+    "bbox_1000": [
+      685,
+      674,
+      894,
+      796
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\c971b62b2c7da0250030363383c814eccb9cf6d29ae52a7fab844727fd14bdb3.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-012.png",
+    "source_crop_size": [
+      501,
+      414
+    ],
+    "page_preview": "page-2-001.png",
+    "method": "native_extraction",
+    "new": "012-extracted.png",
+    "check": "竖直弹簧与斜面弹簧两图及中文放置说明完整；不添加斜角数值。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+        "question": "18-19期中-选7",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/c971b62b2c7da0250030363383c814eccb9cf6d29ae52a7fab844727fd14bdb3.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/c971b62b2c7da0250030363383c814eccb9cf6d29ae52a7fab844727fd14bdb3.jpg",
+        "sha256": "e22bb95724d8bcc4da6956fd529f3aa45fc167e5a924a259243c1e49d7df7714",
+        "size": [
+          345,
+          287
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/012-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-选10",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/7eb6844acb1ed5d05d8f8ecfaf38d4c64bd33788758fd452717a7ed9f93cc292.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/7eb6844acb1ed5d05d8f8ecfaf38d4c64bd33788758fd452717a7ed9f93cc292.jpg",
+    "sha256": "4941f0fe771279f7f779a4c918282e3a4408520c098eb5006a93925e4b9aa6a5",
+    "size": [
+      254,
+      198
+    ],
+    "id": 13,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 14,
+    "bbox_1000": [
+      757,
+      74,
+      910,
+      159
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\7eb6844acb1ed5d05d8f8ecfaf38d4c64bd33788758fd452717a7ed9f93cc292.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-013.png",
+    "source_crop_size": [
+      369,
+      289
+    ],
+    "page_preview": "page-3-014.png",
+    "method": "native_extraction",
+    "new": "013-extracted.png",
+    "check": "左单弹簧k、右并联两弹簧及m，保持串并联拓扑。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-选10",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/7eb6844acb1ed5d05d8f8ecfaf38d4c64bd33788758fd452717a7ed9f93cc292.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/7eb6844acb1ed5d05d8f8ecfaf38d4c64bd33788758fd452717a7ed9f93cc292.jpg",
+        "sha256": "4941f0fe771279f7f779a4c918282e3a4408520c098eb5006a93925e4b9aa6a5",
+        "size": [
+          254,
+          198
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/013-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-填4",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/6c07330c2cf3d5727a0ee85d4ad242eebc0e8cefa8f2ddb7f6c88524b465261d.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/6c07330c2cf3d5727a0ee85d4ad242eebc0e8cefa8f2ddb7f6c88524b465261d.jpg",
+    "sha256": "aebbbeb3571f0c841f5a1bcdc47cab00506103a3562485c30d27429fb429c974",
+    "size": [
+      326,
+      182
+    ],
+    "id": 14,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 14,
+    "bbox_1000": [
+      694,
+      632,
+      890,
+      709
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\6c07330c2cf3d5727a0ee85d4ad242eebc0e8cefa8f2ddb7f6c88524b465261d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-014.png",
+    "source_crop_size": [
+      471,
+      261
+    ],
+    "page_preview": "page-3-014.png",
+    "method": "redrawn",
+    "new": "014.svg",
+    "check": "定性速度曲线：初-vm/2且继续下降，谷-vm、峰vm；极值投影虚线保留，无数值时间或周期。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-填4",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/6c07330c2cf3d5727a0ee85d4ad242eebc0e8cefa8f2ddb7f6c88524b465261d.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/6c07330c2cf3d5727a0ee85d4ad242eebc0e8cefa8f2ddb7f6c88524b465261d.jpg",
+        "sha256": "aebbbeb3571f0c841f5a1bcdc47cab00506103a3562485c30d27429fb429c974",
+        "size": [
+          326,
+          182
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/014.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-选9",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/c500934efcf9ecaf44c6ef1c58b7415cab1242edaee04e105ab2684f5cdeadd5.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/c500934efcf9ecaf44c6ef1c58b7415cab1242edaee04e105ab2684f5cdeadd5.jpg",
+    "sha256": "e2e255231febae7ddcc569e7f7a45df8a2ad6e101a6fc7d6f1bf3c9c16055e8a",
+    "size": [
+      287,
+      223
+    ],
+    "id": 15,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      727,
+      764,
+      900,
+      859
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\c500934efcf9ecaf44c6ef1c58b7415cab1242edaee04e105ab2684f5cdeadd5.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-015.png",
+    "source_crop_size": [
+      416,
+      323
+    ],
+    "page_preview": "page-3-009.png",
+    "method": "native_extraction",
+    "new": "015-extracted.png",
+    "check": "弹簧切分与并联示意，k/m及支架完整。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-选9",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/c500934efcf9ecaf44c6ef1c58b7415cab1242edaee04e105ab2684f5cdeadd5.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/c500934efcf9ecaf44c6ef1c58b7415cab1242edaee04e105ab2684f5cdeadd5.jpg",
+        "sha256": "e2e255231febae7ddcc569e7f7a45df8a2ad6e101a6fc7d6f1bf3c9c16055e8a",
+        "size": [
+          287,
+          223
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/015-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-选13",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/8c9b11f1deb58f2a7e8190c299c944e8c7975be3f5f6fb38e707c708a5c84c91.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/8c9b11f1deb58f2a7e8190c299c944e8c7975be3f5f6fb38e707c708a5c84c91.jpg",
+    "sha256": "39b8c76802535fca7ed0b9af36efcceb4adaeab5654856145ad3678f82e9499f",
+    "size": [
+      356,
+      198
+    ],
+    "id": 16,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      670,
+      115,
+      885,
+      199
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\8c9b11f1deb58f2a7e8190c299c944e8c7975be3f5f6fb38e707c708a5c84c91.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-016.png",
+    "source_crop_size": [
+      517,
+      285
+    ],
+    "page_preview": "page-3-010.png",
+    "method": "reuse_redraw",
+    "new": "014.svg",
+    "check": "与已核验资产014的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-选13",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/8c9b11f1deb58f2a7e8190c299c944e8c7975be3f5f6fb38e707c708a5c84c91.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/8c9b11f1deb58f2a7e8190c299c944e8c7975be3f5f6fb38e707c708a5c84c91.jpg",
+        "sha256": "39b8c76802535fca7ed0b9af36efcceb4adaeab5654856145ad3678f82e9499f",
+        "size": [
+          356,
+          198
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/014.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-计4",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/38cfa297a1f5843ebea728c9da63dc537326611545846a640829987517709c1d.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/38cfa297a1f5843ebea728c9da63dc537326611545846a640829987517709c1d.jpg",
+    "sha256": "0f8f56077f65bff4ac39bf16a7ed8c7616050a766c13e89d85973bc193b0c6c2",
+    "size": [
+      140,
+      279
+    ],
+    "id": 17,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 12,
+    "bbox_1000": [
+      815,
+      130,
+      899,
+      249
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\38cfa297a1f5843ebea728c9da63dc537326611545846a640829987517709c1d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-017.png",
+    "source_crop_size": [
+      202,
+      404
+    ],
+    "page_preview": "page-3-012.png",
+    "method": "native_extraction",
+    "new": "017-extracted.png",
+    "check": "竖直弹簧、O参考位和x向下，质块与轴位置不变。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-计4",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/38cfa297a1f5843ebea728c9da63dc537326611545846a640829987517709c1d.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/38cfa297a1f5843ebea728c9da63dc537326611545846a640829987517709c1d.jpg",
+        "sha256": "0f8f56077f65bff4ac39bf16a7ed8c7616050a766c13e89d85973bc193b0c6c2",
+        "size": [
+          140,
+          279
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/017-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+    "question": "19-20期末-选6",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/b87aa123b73b9e2ba28239f8e6ba0a0f92ff8064a757a0a424bb95ee732ef498.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/b87aa123b73b9e2ba28239f8e6ba0a0f92ff8064a757a0a424bb95ee732ef498.jpg",
+    "sha256": "170b5d572d88d5038b648f6ea71f840f27fbca6c6a33061cf0bf36aa0ce17b5d",
+    "size": [
+      370,
+      214
+    ],
+    "id": 18,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 32,
+    "bbox_1000": [
+      631,
+      813,
+      855,
+      904
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\b87aa123b73b9e2ba28239f8e6ba0a0f92ff8064a757a0a424bb95ee732ef498.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-018.png",
+    "source_crop_size": [
+      539,
+      309
+    ],
+    "page_preview": "page-3-032.png",
+    "method": "reuse_redraw",
+    "new": "014.svg",
+    "check": "与已核验资产014的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+        "question": "19-20期末-选6",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/b87aa123b73b9e2ba28239f8e6ba0a0f92ff8064a757a0a424bb95ee732ef498.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/b87aa123b73b9e2ba28239f8e6ba0a0f92ff8064a757a0a424bb95ee732ef498.jpg",
+        "sha256": "170b5d572d88d5038b648f6ea71f840f27fbca6c6a33061cf0bf36aa0ce17b5d",
+        "size": [
+          370,
+          214
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/014.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+    "question": "22-23期末-选3",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+    "sha256": "de52f641f64e26dd5a2b328bbd014de193b17cedb5fef34e8dfd6df5bb397a62",
+    "size": [
+      404,
+      462
+    ],
+    "id": 19,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 23,
+    "bbox_1000": [
+      707,
+      322,
+      951,
+      519
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-019.png",
+    "source_crop_size": [
+      587,
+      669
+    ],
+    "page_preview": "page-3-023.png",
+    "method": "retained_uncertain",
+    "check": "源扫描有手写叠加或刻度边界歧义；保留原图，不补函数或拆分题目归属。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+        "question": "22-23期末-选3",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+        "sha256": "de52f641f64e26dd5a2b328bbd014de193b17cedb5fef34e8dfd6df5bb397a62",
+        "size": [
+          404,
+          462
+        ]
+      },
+      {
+        "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+        "question": "22-23期末-选4",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+        "sha256": "de52f641f64e26dd5a2b328bbd014de193b17cedb5fef34e8dfd6df5bb397a62",
+        "size": [
+          404,
+          462
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "question": "23-24期末-选2",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/f810df5d2a7931444fcaabb5a6a17c5a386e63773135a7447d1af3a554606773.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/f810df5d2a7931444fcaabb5a6a17c5a386e63773135a7447d1af3a554606773.jpg",
+    "sha256": "e6b48ddbe5e165f66d926a040b31f41d9dce96638cbd68050be237a36ed0806c",
+    "size": [
+      201,
+      118
+    ],
+    "id": 20,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 19,
+    "bbox_1000": [
+      594,
+      147,
+      715,
+      197
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\f810df5d2a7931444fcaabb5a6a17c5a386e63773135a7447d1af3a554606773.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-020.png",
+    "source_crop_size": [
+      291,
+      170
+    ],
+    "page_preview": "page-3-019.png",
+    "method": "redrawn",
+    "new": "020.svg",
+    "check": "旋转矢量A、O/x、±A/2投影与逆时针ω逐项核对；未把选项图改成正确答案。 选项括号与字母保留。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+        "question": "23-24期末-选2",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/f810df5d2a7931444fcaabb5a6a17c5a386e63773135a7447d1af3a554606773.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/f810df5d2a7931444fcaabb5a6a17c5a386e63773135a7447d1af3a554606773.jpg",
+        "sha256": "e6b48ddbe5e165f66d926a040b31f41d9dce96638cbd68050be237a36ed0806c",
+        "size": [
+          201,
+          118
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/020.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "question": "23-24期末-选2",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/29742d1c54d52ba53bd35b8065a1abaa6419e94e81a4d3bec8800887f37ccab5.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/29742d1c54d52ba53bd35b8065a1abaa6419e94e81a4d3bec8800887f37ccab5.jpg",
+    "sha256": "ebef7817a1a33d66080c6a4cdc9b464726b55aba040d9d06774e66adf7e26516",
+    "size": [
+      204,
+      123
+    ],
+    "id": 21,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 19,
+    "bbox_1000": [
+      751,
+      149,
+      873,
+      202
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\29742d1c54d52ba53bd35b8065a1abaa6419e94e81a4d3bec8800887f37ccab5.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-021.png",
+    "source_crop_size": [
+      294,
+      180
+    ],
+    "page_preview": "page-3-019.png",
+    "method": "redrawn",
+    "new": "021.svg",
+    "check": "旋转矢量A、O/x、±A/2投影与逆时针ω逐项核对；未把选项图改成正确答案。 选项括号与字母保留。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+        "question": "23-24期末-选2",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/29742d1c54d52ba53bd35b8065a1abaa6419e94e81a4d3bec8800887f37ccab5.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/29742d1c54d52ba53bd35b8065a1abaa6419e94e81a4d3bec8800887f37ccab5.jpg",
+        "sha256": "ebef7817a1a33d66080c6a4cdc9b464726b55aba040d9d06774e66adf7e26516",
+        "size": [
+          204,
+          123
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/021.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "question": "23-24期末-选2",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/07b9aac78e08e2e50802b4a5538cc6164b6f5ff03fc16f4cd94e23185ebe368e.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/07b9aac78e08e2e50802b4a5538cc6164b6f5ff03fc16f4cd94e23185ebe368e.jpg",
+    "sha256": "6893433a65ce12835b2e1061c0d4e346598d146b7e709289b7b32d6f120ac8ca",
+    "size": [
+      198,
+      134
+    ],
+    "id": 22,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 19,
+    "bbox_1000": [
+      600,
+      212,
+      719,
+      269
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\07b9aac78e08e2e50802b4a5538cc6164b6f5ff03fc16f4cd94e23185ebe368e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-022.png",
+    "source_crop_size": [
+      286,
+      194
+    ],
+    "page_preview": "page-3-019.png",
+    "method": "redrawn",
+    "new": "022.svg",
+    "check": "旋转矢量A、O/x、±A/2投影与逆时针ω逐项核对；未把选项图改成正确答案。 选项括号与字母保留。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+        "question": "23-24期末-选2",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/07b9aac78e08e2e50802b4a5538cc6164b6f5ff03fc16f4cd94e23185ebe368e.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/07b9aac78e08e2e50802b4a5538cc6164b6f5ff03fc16f4cd94e23185ebe368e.jpg",
+        "sha256": "6893433a65ce12835b2e1061c0d4e346598d146b7e709289b7b32d6f120ac8ca",
+        "size": [
+          198,
+          134
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/022.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "question": "23-24期末-选2",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/602f8d508ec60f5321259a69019f042e0c7cb150732225af65da203471d3e14f.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/602f8d508ec60f5321259a69019f042e0c7cb150732225af65da203471d3e14f.jpg",
+    "sha256": "2efe50b2f9fb58c2449890d6f35ab9c7e12a7a22a9168de3b8b10149f28a5b54",
+    "size": [
+      206,
+      132
+    ],
+    "id": 23,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 19,
+    "bbox_1000": [
+      754,
+      219,
+      878,
+      275
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\602f8d508ec60f5321259a69019f042e0c7cb150732225af65da203471d3e14f.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-023.png",
+    "source_crop_size": [
+      299,
+      190
+    ],
+    "page_preview": "page-3-019.png",
+    "method": "redrawn",
+    "new": "023.svg",
+    "check": "旋转矢量A、O/x、±A/2投影与逆时针ω逐项核对；未把选项图改成正确答案。 选项括号与字母保留。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+        "question": "23-24期末-选2",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/602f8d508ec60f5321259a69019f042e0c7cb150732225af65da203471d3e14f.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/602f8d508ec60f5321259a69019f042e0c7cb150732225af65da203471d3e14f.jpg",
+        "sha256": "2efe50b2f9fb58c2449890d6f35ab9c7e12a7a22a9168de3b8b10149f28a5b54",
+        "size": [
+          206,
+          132
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/023.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
+    "question": "未标年份-期末一-选6",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/d08316bc35a43768719b6c274cbdc8dede6676fd75712363fad1cc9183487a47.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/d08316bc35a43768719b6c274cbdc8dede6676fd75712363fad1cc9183487a47.jpg",
+    "sha256": "10e3a18210588b7a6d208a2ce657a67409d937149531f7bf5bc2a7d12ce9bd75",
+    "size": [
+      314,
+      173
+    ],
+    "id": 24,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 47,
+    "bbox_1000": [
+      680,
+      76,
+      870,
+      149
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\d08316bc35a43768719b6c274cbdc8dede6676fd75712363fad1cc9183487a47.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-024.png",
+    "source_crop_size": [
+      457,
+      248
+    ],
+    "page_preview": "page-3-047.png",
+    "method": "reuse_redraw",
+    "new": "014.svg",
+    "check": "与已核验资产014的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
+        "question": "未标年份-期末一-选6",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/d08316bc35a43768719b6c274cbdc8dede6676fd75712363fad1cc9183487a47.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/d08316bc35a43768719b6c274cbdc8dede6676fd75712363fad1cc9183487a47.jpg",
+        "sha256": "10e3a18210588b7a6d208a2ce657a67409d937149531f7bf5bc2a7d12ce9bd75",
+        "size": [
+          314,
+          173
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/014.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+    "question": "未标年份-期末二-选10",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/14310921d5668c06e338a8e6634672c7ba94c65c7e5aaa90809b924639ef0b8b.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/14310921d5668c06e338a8e6634672c7ba94c65c7e5aaa90809b924639ef0b8b.jpg",
+    "sha256": "8d4c9e7477b4a44efe67f75045cc56012bfef299128d52b1fb6fb46dbf1e1fc9",
+    "size": [
+      351,
+      204
+    ],
+    "id": 25,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 51,
+    "bbox_1000": [
+      626,
+      239,
+      838,
+      325
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\14310921d5668c06e338a8e6634672c7ba94c65c7e5aaa90809b924639ef0b8b.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-025.png",
+    "source_crop_size": [
+      510,
+      292
+    ],
+    "page_preview": "page-3-051.png",
+    "method": "retained_uncertain",
+    "check": "源扫描有手写叠加或刻度边界歧义；保留原图，不补函数或拆分题目归属。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+        "question": "未标年份-期末二-选10",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/14310921d5668c06e338a8e6634672c7ba94c65c7e5aaa90809b924639ef0b8b.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/14310921d5668c06e338a8e6634672c7ba94c65c7e5aaa90809b924639ef0b8b.jpg",
+        "sha256": "8d4c9e7477b4a44efe67f75045cc56012bfef299128d52b1fb6fb46dbf1e1fc9",
+        "size": [
+          351,
+          204
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-例题-4-2",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_540.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_540.jpg",
+    "sha256": "e41411590e694bc6716c32d7e91b091dcaf8aa6c9d0b9f0d50802595ed9de6f1",
+    "size": [
+      428,
+      376
+    ],
+    "id": 26,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 68,
+    "bbox_1000": [
+      112,
+      728,
+      371,
+      889
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\7570b4d3e0f86bbee4f16c3d4b56c5f4f2af5e52bb1c8b4ad662a1ea0c6a5dae.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-026.png",
+    "source_crop_size": [
+      642,
+      563
+    ],
+    "page_preview": "page-4-068.png",
+    "method": "native_extraction",
+    "new": "026-extracted.png",
+    "check": "旋转矢量图的t=0/t1/t2、-5/5、2π/3与φ按原图保持，弧线不猜测重配。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-例题-4-2",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_540.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_540.jpg",
+        "sha256": "e41411590e694bc6716c32d7e91b091dcaf8aa6c9d0b9f0d50802595ed9de6f1",
+        "size": [
+          428,
+          376
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/026-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-例题-4-6",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_654.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_654.jpg",
+    "sha256": "50f12a2bf85cc35070df9f3822612c732a2ce2a46c660f1f5941fc6c0b1bec66",
+    "size": [
+      306,
+      439
+    ],
+    "id": 27,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 71,
+    "bbox_1000": [
+      717,
+      464,
+      902,
+      652
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\8c644823b99452d528195c26e3ea9e59f5a9edbd1001d51f04ef79fec99fe0c2.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-027.png",
+    "source_crop_size": [
+      458,
+      657
+    ],
+    "page_preview": "page-4-071.png",
+    "method": "native_extraction",
+    "new": "027-extracted.png",
+    "check": "弹簧挂盘M与内部m、h的端点，不将示意比例当尺寸。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-例题-4-6",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_654.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_654.jpg",
+        "sha256": "50f12a2bf85cc35070df9f3822612c732a2ce2a46c660f1f5941fc6c0b1bec66",
+        "size": [
+          306,
+          439
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/027-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-例题-4-7",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_1036.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_1036.jpg",
+    "sha256": "885b374a0010a363d1c88425db109cecab414ab5cd45640da0919fcccb784872",
+    "size": [
+      373,
+      237
+    ],
+    "id": 28,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 72,
+    "bbox_1000": [
+      242,
+      500,
+      467,
+      601
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\e1a163e34f7df6dd79508a0178cdd7422a6547d64f897949d254972523fe1fe4.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-028.png",
+    "source_crop_size": [
+      557,
+      354
+    ],
+    "page_preview": "page-4-072.png",
+    "method": "native_extraction",
+    "new": "028-extracted.png",
+    "check": "斜面θ、m与滑轮及弹簧k的绳路完整。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-例题-4-7",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_1036.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_1036.jpg",
+        "sha256": "885b374a0010a363d1c88425db109cecab414ab5cd45640da0919fcccb784872",
+        "size": [
+          373,
+          237
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/028-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-例题-4-7",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_896.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_896.jpg",
+    "sha256": "b3b3bcbdff7fbd32ea6e5619c4af70d003873bb9512e1ed0094c5fca692789df",
+    "size": [
+      262,
+      251
+    ],
+    "id": 29,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 72,
+    "bbox_1000": [
+      507,
+      500,
+      665,
+      607
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\c3636bdcb9b351d952307d126315f67018c887342d1e82d762c14485873e2ea6.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-029.png",
+    "source_crop_size": [
+      392,
+      375
+    ],
+    "page_preview": "page-4-072.png",
+    "method": "native_extraction",
+    "new": "029-extracted.png",
+    "check": "N左上、T1右上、mg向下、x沿斜面向左下，θ相对竖直，按原图保留。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-例题-4-7",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_896.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_896.jpg",
+        "sha256": "b3b3bcbdff7fbd32ea6e5619c4af70d003873bb9512e1ed0094c5fca692789df",
+        "size": [
+          262,
+          251
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/029-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-例题-4-7",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/重绘_上册_批01/03-pulley-4-7.svg",
+    "path": "10_题库/_assets/重绘_上册_批01/03-pulley-4-7.svg",
+    "sha256": "ac2dcd9879cfed66d5c00b2fbefb1edfeac86f55e695f6c2df530dc51517f014",
+    "size": null,
+    "id": 30,
+    "method": "already_verified_svg",
+    "check": "首批SVG与引用存在，保持不重复替换。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-例题-4-7",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/重绘_上册_批01/03-pulley-4-7.svg",
+        "path": "10_题库/_assets/重绘_上册_批01/03-pulley-4-7.svg",
+        "sha256": "ac2dcd9879cfed66d5c00b2fbefb1edfeac86f55e695f6c2df530dc51517f014",
+        "size": null
+      }
+    ]
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-思考题-4-7",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/重绘_上册_批01/04-vibration-4-7.svg",
+    "path": "10_题库/_assets/重绘_上册_批01/04-vibration-4-7.svg",
+    "sha256": "be5d03cac1c069936041aa47643d2059587ce0541a76454bf391fc277c7a6bf6",
+    "size": null,
+    "id": 31,
+    "method": "already_verified_svg",
+    "check": "首批SVG与引用存在，保持不重复替换。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-思考题-4-7",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/重绘_上册_批01/04-vibration-4-7.svg",
+        "path": "10_题库/_assets/重绘_上册_批01/04-vibration-4-7.svg",
+        "sha256": "be5d03cac1c069936041aa47643d2059587ce0541a76454bf391fc277c7a6bf6",
+        "size": null
+      }
+    ]
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-思考题-4-8",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_984.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_984.jpg",
+    "sha256": "410f06831ec05228416912a2bd34a297eb54d39b7846f8eb232a1c545c26e756",
+    "size": [
+      243,
+      184
+    ],
+    "id": 32,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 78,
+    "bbox_1000": [
+      139,
+      682,
+      285,
+      760
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\d634d23596e93edbd1be667d39793143800f40b71e71fe2b0355b6eeccd9ec86.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-032.png",
+    "source_crop_size": [
+      362,
+      273
+    ],
+    "page_preview": "page-4-078.png",
+    "method": "redrawn",
+    "new": "032.svg",
+    "check": "旋转矢量A、O/x、±A/2投影与逆时针ω逐项核对；未把选项图改成正确答案。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-思考题-4-8",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_984.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_984.jpg",
+        "sha256": "410f06831ec05228416912a2bd34a297eb54d39b7846f8eb232a1c545c26e756",
+        "size": [
+          243,
+          184
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/032.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-思考题-4-8",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_071.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_071.jpg",
+    "sha256": "7fb85cfc2366db04784d6b814b8496bbcf9adecfa3cc4d8415a729d88912e433",
+    "size": [
+      248,
+      170
+    ],
+    "id": 33,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 78,
+    "bbox_1000": [
+      327,
+      693,
+      477,
+      765
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\1356d6ef6cfd6dbd49cfa57eacc502f5491da98e7bd57c5de2b4808617c40c23.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-033.png",
+    "source_crop_size": [
+      371,
+      252
+    ],
+    "page_preview": "page-4-078.png",
+    "method": "redrawn",
+    "new": "033.svg",
+    "check": "旋转矢量A、O/x、±A/2投影与逆时针ω逐项核对；未把选项图改成正确答案。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-思考题-4-8",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_071.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_071.jpg",
+        "sha256": "7fb85cfc2366db04784d6b814b8496bbcf9adecfa3cc4d8415a729d88912e433",
+        "size": [
+          248,
+          170
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/033.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-思考题-4-8",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_901.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_901.jpg",
+    "sha256": "974b652d9d5c54b8908d0c39c55ea8abf1717b9d2742dbb2163d81906dee85e7",
+    "size": [
+      270,
+      167
+    ],
+    "id": 34,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 78,
+    "bbox_1000": [
+      124,
+      784,
+      287,
+      856
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\c415174deae7ad0f09fc9c659afc50f85a82bfcfb45b28769280913c9729a51a.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-034.png",
+    "source_crop_size": [
+      403,
+      251
+    ],
+    "page_preview": "page-4-078.png",
+    "method": "redrawn",
+    "new": "034.svg",
+    "check": "旋转矢量A、O/x、±A/2投影与逆时针ω逐项核对；未把选项图改成正确答案。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-思考题-4-8",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_901.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_901.jpg",
+        "sha256": "974b652d9d5c54b8908d0c39c55ea8abf1717b9d2742dbb2163d81906dee85e7",
+        "size": [
+          270,
+          167
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/034.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-思考题-4-8",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_773.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_773.jpg",
+    "sha256": "669b99ecd52969b740f26071438e0cb80b162736d611e5fa008388206a30951b",
+    "size": [
+      248,
+      182
+    ],
+    "id": 35,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 78,
+    "bbox_1000": [
+      327,
+      787,
+      477,
+      864
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\a4cecb06698f767de8b127f110eb72baafe07700943ac9c35a60e6aef5fa8716.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-035.png",
+    "source_crop_size": [
+      371,
+      269
+    ],
+    "page_preview": "page-4-078.png",
+    "method": "redrawn",
+    "new": "035.svg",
+    "check": "旋转矢量A、O/x、±A/2投影与逆时针ω逐项核对；未把选项图改成正确答案。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-思考题-4-8",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_773.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_773.jpg",
+        "sha256": "669b99ecd52969b740f26071438e0cb80b162736d611e5fa008388206a30951b",
+        "size": [
+          248,
+          182
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/035.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-思考题-4-8",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_862.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_862.jpg",
+    "sha256": "a351cd8b927c3d2c624264e37b0d54fa270a841c0be10ae279a13fdb64c6636d",
+    "size": [
+      557,
+      329
+    ],
+    "id": 36,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 78,
+    "bbox_1000": [
+      561,
+      739,
+      897,
+      879
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\b9c7c01a95d3563816f18df82ecaf80415aef9a6a8be34e9aaada48607bebb70.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-036.png",
+    "source_crop_size": [
+      832,
+      490
+    ],
+    "page_preview": "page-4-078.png",
+    "method": "reuse_redraw",
+    "new": "006.svg",
+    "check": "与已核验资产006的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-思考题-4-8",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_862.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_862.jpg",
+        "sha256": "a351cd8b927c3d2c624264e37b0d54fa270a841c0be10ae279a13fdb64c6636d",
+        "size": [
+          557,
+          329
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/006.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-思考题-4-15",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_129.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_129.jpg",
+    "sha256": "ff28baaa08f336f7186a6eb96b67db44bc093706eea71d195154b06c070cda26",
+    "size": [
+      439,
+      276
+    ],
+    "id": 37,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 80,
+    "bbox_1000": [
+      642,
+      219,
+      907,
+      337
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\1d65e84ccca2bcb3a083c458d22f1e8e22c37c8d0c09392eb7e682c8ba5cecde.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-037.png",
+    "source_crop_size": [
+      656,
+      412
+    ],
+    "page_preview": "page-4-080.png",
+    "method": "reuse_redraw",
+    "new": "007.svg",
+    "check": "与已核验资产007的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-思考题-4-15",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_129.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_129.jpg",
+        "sha256": "ff28baaa08f336f7186a6eb96b67db44bc093706eea71d195154b06c070cda26",
+        "size": [
+          439,
+          276
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/007.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-习题-4-1",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_763.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_763.jpg",
+    "sha256": "7356309f0c89834ac17a3d7978b276856f9465b9361eeaaeaf03c848212c4650",
+    "size": [
+      415,
+      312
+    ],
+    "id": 38,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 80,
+    "bbox_1000": [
+      117,
+      470,
+      368,
+      604
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\a344c399b79e3994a26e8505f9c8fc1401ef2781a40ef9e42d8ae31306245d54.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-038.png",
+    "source_crop_size": [
+      622,
+      468
+    ],
+    "page_preview": "page-4-080.png",
+    "method": "native_extraction",
+    "new": "038-extracted.png",
+    "check": "同轴x/v/a与t；三曲线相位、a虚线、v/x实线及标识保持。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-习题-4-1",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_763.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_763.jpg",
+        "sha256": "7356309f0c89834ac17a3d7978b276856f9465b9361eeaaeaf03c848212c4650",
+        "size": [
+          415,
+          312
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/038-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-习题-4-5",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_291.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_291.jpg",
+    "sha256": "66877d618c990110317c55ffa65c5c3248ceaa06d6f646bfa943c850b98a462a",
+    "size": [
+      595,
+      143
+    ],
+    "id": 39,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 82,
+    "bbox_1000": [
+      549,
+      311,
+      909,
+      372
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\3eb77871b7ebdfc2e379be030445efb526cadcb0c78a17795b712d0e41b7c6dc.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-039.png",
+    "source_crop_size": [
+      892,
+      213
+    ],
+    "page_preview": "page-4-082.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-习题-4-5",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_291.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_291.jpg",
+        "sha256": "66877d618c990110317c55ffa65c5c3248ceaa06d6f646bfa943c850b98a462a",
+        "size": [
+          595,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-习题-4-9",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_109.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_109.jpg",
+    "sha256": "7d4bd138d42427e0ce2ed35f7dc89e1b84ac7e5a384b2086f88bd5978db18b37",
+    "size": [
+      326,
+      326
+    ],
+    "id": 40,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 83,
+    "bbox_1000": [
+      228,
+      690,
+      425,
+      829
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\1b56dbff1eb4b0f4d9d37480ba09f5a62a3b297bbd3d2ef39650b323c249a946.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-040.png",
+    "source_crop_size": [
+      488,
+      486
+    ],
+    "page_preview": "page-4-083.png",
+    "method": "native_extraction",
+    "new": "040-extracted.png",
+    "check": "U管左右液面相反，竖直X正向上，O与+x/-x虚线端点不变。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-习题-4-9",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_109.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_109.jpg",
+        "sha256": "7d4bd138d42427e0ce2ed35f7dc89e1b84ac7e5a384b2086f88bd5978db18b37",
+        "size": [
+          326,
+          326
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/040-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-习题-4-9",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_840.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_840.jpg",
+    "sha256": "3cb867c16c03bfd43be204db297f09ccbaf1f7a073fd3bd5bdf2a6a2a00a5894",
+    "size": [
+      315,
+      342
+    ],
+    "id": 41,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 83,
+    "bbox_1000": [
+      601,
+      683,
+      791,
+      829
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\b4dcd9a9563fe0a824d70d3c7c023890854fd5f52084ac255ea218355fcf836d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-041.png",
+    "source_crop_size": [
+      471,
+      511
+    ],
+    "page_preview": "page-4-083.png",
+    "method": "reuse_redraw",
+    "new": "005.svg",
+    "check": "与已核验资产005的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-习题-4-9",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_840.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_840.jpg",
+        "sha256": "3cb867c16c03bfd43be204db297f09ccbaf1f7a073fd3bd5bdf2a6a2a00a5894",
+        "size": [
+          315,
+          342
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/005.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-习题-4-10",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_1124.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_1124.jpg",
+    "sha256": "e3b3764debdc6c018bee7ae4b4b616e249fd0446adae39f62f20aaa8f8cfa252",
+    "size": [
+      287,
+      290
+    ],
+    "id": 42,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 84,
+    "bbox_1000": [
+      539,
+      366,
+      712,
+      489
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\f714892b4fcb58cf34c028e5a6cad5df27f288138d550dc4dfc20833cdc9c6ca.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-042.png",
+    "source_crop_size": [
+      428,
+      430
+    ],
+    "page_preview": "page-4-084.png",
+    "method": "native_extraction",
+    "new": "042-extracted.png",
+    "check": "浮体C与液面、O及坐标x/虚线位置保留，未添加原图没有的数值密度。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-习题-4-10",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_1124.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_1124.jpg",
+        "sha256": "e3b3764debdc6c018bee7ae4b4b616e249fd0446adae39f62f20aaa8f8cfa252",
+        "size": [
+          287,
+          290
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/042-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-习题-4-10",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_816.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_816.jpg",
+    "sha256": "536bd5bd1bfa667dd1730dc0379562799001fa645b2802ea3f92b19940213502",
+    "size": [
+      292,
+      290
+    ],
+    "id": 43,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 84,
+    "bbox_1000": [
+      732,
+      367,
+      909,
+      491
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\aef15383515c6dbea93b0da4dfc80011ffa79e5cfb06e7f90e9b40af5159b533.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-043.png",
+    "source_crop_size": [
+      438,
+      434
+    ],
+    "page_preview": "page-4-084.png",
+    "method": "native_extraction",
+    "new": "043-extracted.png",
+    "check": "浮体向上偏移x、C、液面与O关系保持。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-习题-4-10",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_816.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_816.jpg",
+        "sha256": "536bd5bd1bfa667dd1730dc0379562799001fa645b2802ea3f92b19940213502",
+        "size": [
+          292,
+          290
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/043-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-习题-4-11",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_621.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_621.jpg",
+    "sha256": "8f06c04e617f1ba8220a326fcf62ff1cae0f74e17d52a63b32dcdca0b7abfc69",
+    "size": [
+      362,
+      270
+    ],
+    "id": 44,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 85,
+    "bbox_1000": [
+      109,
+      357,
+      327,
+      473
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\8504e03ee9d22066963bb5b84d3e1c4d14596c6a127f15423c343097abed0b3e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-044.png",
+    "source_crop_size": [
+      540,
+      406
+    ],
+    "page_preview": "page-4-085.png",
+    "method": "native_extraction",
+    "new": "044-extracted.png",
+    "check": "曲面O/θ、N、Fτ与mg方向及接触点保持，不把未知曲线强制改成抛物线。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-习题-4-11",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_621.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_621.jpg",
+        "sha256": "8f06c04e617f1ba8220a326fcf62ff1cae0f74e17d52a63b32dcdca0b7abfc69",
+        "size": [
+          362,
+          270
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/044-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+    "question": "学习指导-第04章-习题-4-13",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_283.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_283.jpg",
+    "sha256": "1067af779e8b2d8b45e9a88cfe2ed4d37f5366e9827a1cc0a24104c8a081d043",
+    "size": [
+      421,
+      367
+    ],
+    "id": 45,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 86,
+    "bbox_1000": [
+      658,
+      400,
+      912,
+      557
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\3c9b47e4d5f35f013f67c6e89373a0a7f62cc6246ab508cc799ad20c3375ea61.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-045.png",
+    "source_crop_size": [
+      630,
+      549
+    ],
+    "page_preview": "page-4-086.png",
+    "method": "native_extraction",
+    "new": "045-extracted.png",
+    "check": "A1/A2/A3与合矢量A、O/x、φ及虚线平行四边形连接保留。 原生裁图，不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
+        "question": "学习指导-第04章-习题-4-13",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_283.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_283.jpg",
+        "sha256": "1067af779e8b2d8b45e9a88cfe2ed4d37f5366e9827a1cc0a24104c8a081d043",
+        "size": [
+          421,
+          367
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/045-extracted.png"
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-176",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/ee9efcc0fb62bcb543182b7dfdcf2989b49e0274e094e004a5512bb3d6733999.jpg",
+    "path": "10_题库/_assets/清华题库/ee9efcc0fb62bcb543182b7dfdcf2989b49e0274e094e004a5512bb3d6733999.jpg",
+    "sha256": "82510b490598d25a1202c36ad8522b825ae0c1d8e51fdb88127426d5055b20dd",
+    "size": [
+      471,
+      289
+    ],
+    "id": 46,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 8,
+    "bbox_1000": [
+      356,
+      122,
+      640,
+      246
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\ee9efcc0fb62bcb543182b7dfdcf2989b49e0274e094e004a5512bb3d6733999.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-046.png",
+    "source_crop_size": [
+      677,
+      419
+    ],
+    "page_preview": "page-5-008.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-176",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/ee9efcc0fb62bcb543182b7dfdcf2989b49e0274e094e004a5512bb3d6733999.jpg",
+        "path": "10_题库/_assets/清华题库/ee9efcc0fb62bcb543182b7dfdcf2989b49e0274e094e004a5512bb3d6733999.jpg",
+        "sha256": "82510b490598d25a1202c36ad8522b825ae0c1d8e51fdb88127426d5055b20dd",
+        "size": [
+          471,
+          289
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-183",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/ff13e81bf283b3dd0e2b9214e152b847d8d95ac5c5dec1355797c2fe46d2bea0.jpg",
+    "path": "10_题库/_assets/清华题库/ff13e81bf283b3dd0e2b9214e152b847d8d95ac5c5dec1355797c2fe46d2bea0.jpg",
+    "sha256": "541072d18d68ec9a3bff7dec1b83e2594d4f6ac65088755039a6764b33f03643",
+    "size": [
+      443,
+      306
+    ],
+    "id": 47,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      364,
+      411,
+      631,
+      542
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\ff13e81bf283b3dd0e2b9214e152b847d8d95ac5c5dec1355797c2fe46d2bea0.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-047.png",
+    "source_crop_size": [
+      637,
+      442
+    ],
+    "page_preview": "page-5-009.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-183",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/ff13e81bf283b3dd0e2b9214e152b847d8d95ac5c5dec1355797c2fe46d2bea0.jpg",
+        "path": "10_题库/_assets/清华题库/ff13e81bf283b3dd0e2b9214e152b847d8d95ac5c5dec1355797c2fe46d2bea0.jpg",
+        "sha256": "541072d18d68ec9a3bff7dec1b83e2594d4f6ac65088755039a6764b33f03643",
+        "size": [
+          443,
+          306
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-184",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/d02ea7999681e0c591940722d7aad32aa799fff9cc215cea88df9e4a2adbd9d0.jpg",
+    "path": "10_题库/_assets/清华题库/d02ea7999681e0c591940722d7aad32aa799fff9cc215cea88df9e4a2adbd9d0.jpg",
+    "sha256": "c6bd6a9370622c15aab031218f171479d7d1f4cd2233616872e13b1b90decd22",
+    "size": [
+      217,
+      184
+    ],
+    "id": 48,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      149,
+      642,
+      280,
+      720
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\d02ea7999681e0c591940722d7aad32aa799fff9cc215cea88df9e4a2adbd9d0.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-048.png",
+    "source_crop_size": [
+      313,
+      264
+    ],
+    "page_preview": "page-5-009.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-184",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/d02ea7999681e0c591940722d7aad32aa799fff9cc215cea88df9e4a2adbd9d0.jpg",
+        "path": "10_题库/_assets/清华题库/d02ea7999681e0c591940722d7aad32aa799fff9cc215cea88df9e4a2adbd9d0.jpg",
+        "sha256": "c6bd6a9370622c15aab031218f171479d7d1f4cd2233616872e13b1b90decd22",
+        "size": [
+          217,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-184",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/01ab32ef7527829b18fca6837ec33c7f35e71fefbed056e83bf55bac7ebe17ab.jpg",
+    "path": "10_题库/_assets/清华题库/01ab32ef7527829b18fca6837ec33c7f35e71fefbed056e83bf55bac7ebe17ab.jpg",
+    "sha256": "d818223e755aa4ca753a62220465edf189f62cacc2e89a4f7e7491259e7ede20",
+    "size": [
+      214,
+      181
+    ],
+    "id": 49,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      339,
+      642,
+      468,
+      719
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\01ab32ef7527829b18fca6837ec33c7f35e71fefbed056e83bf55bac7ebe17ab.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-049.png",
+    "source_crop_size": [
+      308,
+      261
+    ],
+    "page_preview": "page-5-009.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-184",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/01ab32ef7527829b18fca6837ec33c7f35e71fefbed056e83bf55bac7ebe17ab.jpg",
+        "path": "10_题库/_assets/清华题库/01ab32ef7527829b18fca6837ec33c7f35e71fefbed056e83bf55bac7ebe17ab.jpg",
+        "sha256": "d818223e755aa4ca753a62220465edf189f62cacc2e89a4f7e7491259e7ede20",
+        "size": [
+          214,
+          181
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-184",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/8241b3d97dfb4f2a96837ba5552a0a8c2a9fca8089bdda5d83e34854cfd7e346.jpg",
+    "path": "10_题库/_assets/清华题库/8241b3d97dfb4f2a96837ba5552a0a8c2a9fca8089bdda5d83e34854cfd7e346.jpg",
+    "sha256": "5efc4fc97eabf4e72bc9945343a87d5928663b3524c07d6e720163b3eda3da36",
+    "size": [
+      214,
+      178
+    ],
+    "id": 50,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      529,
+      640,
+      658,
+      717
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\8241b3d97dfb4f2a96837ba5552a0a8c2a9fca8089bdda5d83e34854cfd7e346.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-050.png",
+    "source_crop_size": [
+      308,
+      260
+    ],
+    "page_preview": "page-5-009.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-184",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/8241b3d97dfb4f2a96837ba5552a0a8c2a9fca8089bdda5d83e34854cfd7e346.jpg",
+        "path": "10_题库/_assets/清华题库/8241b3d97dfb4f2a96837ba5552a0a8c2a9fca8089bdda5d83e34854cfd7e346.jpg",
+        "sha256": "5efc4fc97eabf4e72bc9945343a87d5928663b3524c07d6e720163b3eda3da36",
+        "size": [
+          214,
+          178
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-184",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/0ca3a1bed804377cb53ea91529bd4da7d45c21576415cbd5f8f36581ceb5af21.jpg",
+    "path": "10_题库/_assets/清华题库/0ca3a1bed804377cb53ea91529bd4da7d45c21576415cbd5f8f36581ceb5af21.jpg",
+    "sha256": "3ba1845f795817f02603a026a4426d41fb826c2f878fb4e2ba78c6a89d84022d",
+    "size": [
+      212,
+      184
+    ],
+    "id": 51,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      719,
+      640,
+      847,
+      719
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\0ca3a1bed804377cb53ea91529bd4da7d45c21576415cbd5f8f36581ceb5af21.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-051.png",
+    "source_crop_size": [
+      305,
+      267
+    ],
+    "page_preview": "page-5-009.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-184",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/0ca3a1bed804377cb53ea91529bd4da7d45c21576415cbd5f8f36581ceb5af21.jpg",
+        "path": "10_题库/_assets/清华题库/0ca3a1bed804377cb53ea91529bd4da7d45c21576415cbd5f8f36581ceb5af21.jpg",
+        "sha256": "3ba1845f795817f02603a026a4426d41fb826c2f878fb4e2ba78c6a89d84022d",
+        "size": [
+          212,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-186",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/ddc447271225baf3beefaeeba4f6606b500f463ffee711ab9b2db2c8157f343a.jpg",
+    "path": "10_题库/_assets/清华题库/ddc447271225baf3beefaeeba4f6606b500f463ffee711ab9b2db2c8157f343a.jpg",
+    "sha256": "4c2ce4e4b6d0132177a2b631eb02e5933ed71b5c28fd6e628edc256d651cee8c",
+    "size": [
+      468,
+      307
+    ],
+    "id": 52,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      357,
+      166,
+      640,
+      297
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\ddc447271225baf3beefaeeba4f6606b500f463ffee711ab9b2db2c8157f343a.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-052.png",
+    "source_crop_size": [
+      674,
+      442
+    ],
+    "page_preview": "page-5-010.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-186",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/ddc447271225baf3beefaeeba4f6606b500f463ffee711ab9b2db2c8157f343a.jpg",
+        "path": "10_题库/_assets/清华题库/ddc447271225baf3beefaeeba4f6606b500f463ffee711ab9b2db2c8157f343a.jpg",
+        "sha256": "4c2ce4e4b6d0132177a2b631eb02e5933ed71b5c28fd6e628edc256d651cee8c",
+        "size": [
+          468,
+          307
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-187",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/bbe7b83b1b5e5feb6d6731d83fa4275c3526d7401452c61c5422daa89c4d3245.jpg",
+    "path": "10_题库/_assets/清华题库/bbe7b83b1b5e5feb6d6731d83fa4275c3526d7401452c61c5422daa89c4d3245.jpg",
+    "sha256": "c2aa7903b75a3fc2fbe6c2764f195cc51b042fd9e25c06e51b8b690f1c77ce03",
+    "size": [
+      462,
+      323
+    ],
+    "id": 53,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      357,
+      468,
+      636,
+      606
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\bbe7b83b1b5e5feb6d6731d83fa4275c3526d7401452c61c5422daa89c4d3245.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-053.png",
+    "source_crop_size": [
+      665,
+      465
+    ],
+    "page_preview": "page-5-010.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-187",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/bbe7b83b1b5e5feb6d6731d83fa4275c3526d7401452c61c5422daa89c4d3245.jpg",
+        "path": "10_题库/_assets/清华题库/bbe7b83b1b5e5feb6d6731d83fa4275c3526d7401452c61c5422daa89c4d3245.jpg",
+        "sha256": "c2aa7903b75a3fc2fbe6c2764f195cc51b042fd9e25c06e51b8b690f1c77ce03",
+        "size": [
+          462,
+          323
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-188",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/7615d14041e4dc9fce37abb6feb432c1ba8bfc9a58817fe753806f74bb03cca9.jpg",
+    "path": "10_题库/_assets/清华题库/7615d14041e4dc9fce37abb6feb432c1ba8bfc9a58817fe753806f74bb03cca9.jpg",
+    "sha256": "c867391e09f8773a8a67b4900c7fbd509597c8d30b11b596f0f318ce55133add",
+    "size": [
+      165,
+      187
+    ],
+    "id": 54,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      337,
+      785,
+      436,
+      865
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\7615d14041e4dc9fce37abb6feb432c1ba8bfc9a58817fe753806f74bb03cca9.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-054.png",
+    "source_crop_size": [
+      237,
+      270
+    ],
+    "page_preview": "page-5-010.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-188",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/7615d14041e4dc9fce37abb6feb432c1ba8bfc9a58817fe753806f74bb03cca9.jpg",
+        "path": "10_题库/_assets/清华题库/7615d14041e4dc9fce37abb6feb432c1ba8bfc9a58817fe753806f74bb03cca9.jpg",
+        "sha256": "c867391e09f8773a8a67b4900c7fbd509597c8d30b11b596f0f318ce55133add",
+        "size": [
+          165,
+          187
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-188",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/c8edb1589cdbed4ce77f81c0af5418ff6d54e43c8adb6718c2ab181180a7f41f.jpg",
+    "path": "10_题库/_assets/清华题库/c8edb1589cdbed4ce77f81c0af5418ff6d54e43c8adb6718c2ab181180a7f41f.jpg",
+    "sha256": "1de386c29bc1d0ebdb486ce78561874b98a897796dee98c000f35f9316c2dc58",
+    "size": [
+      209,
+      190
+    ],
+    "id": 55,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      519,
+      787,
+      645,
+      868
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\c8edb1589cdbed4ce77f81c0af5418ff6d54e43c8adb6718c2ab181180a7f41f.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-055.png",
+    "source_crop_size": [
+      301,
+      274
+    ],
+    "page_preview": "page-5-010.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-188",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/c8edb1589cdbed4ce77f81c0af5418ff6d54e43c8adb6718c2ab181180a7f41f.jpg",
+        "path": "10_题库/_assets/清华题库/c8edb1589cdbed4ce77f81c0af5418ff6d54e43c8adb6718c2ab181180a7f41f.jpg",
+        "sha256": "1de386c29bc1d0ebdb486ce78561874b98a897796dee98c000f35f9316c2dc58",
+        "size": [
+          209,
+          190
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-196",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/5eb75de0097f4fde06afdc889d0cd164c41a7c41c75f1a2f238217c64a6e5c11.jpg",
+    "path": "10_题库/_assets/清华题库/5eb75de0097f4fde06afdc889d0cd164c41a7c41c75f1a2f238217c64a6e5c11.jpg",
+    "sha256": "880f5d2e6e539f3d733743a6512ac9b51759e3e4008d5e7e5ca1b7718ebd8ed8",
+    "size": [
+      440,
+      300
+    ],
+    "id": 56,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 12,
+    "bbox_1000": [
+      366,
+      342,
+      631,
+      470
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\5eb75de0097f4fde06afdc889d0cd164c41a7c41c75f1a2f238217c64a6e5c11.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-056.png",
+    "source_crop_size": [
+      632,
+      432
+    ],
+    "page_preview": "page-5-012.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-196",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/5eb75de0097f4fde06afdc889d0cd164c41a7c41c75f1a2f238217c64a6e5c11.jpg",
+        "path": "10_题库/_assets/清华题库/5eb75de0097f4fde06afdc889d0cd164c41a7c41c75f1a2f238217c64a6e5c11.jpg",
+        "sha256": "880f5d2e6e539f3d733743a6512ac9b51759e3e4008d5e7e5ca1b7718ebd8ed8",
+        "size": [
+          440,
+          300
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-205",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/6aae6dee9d873ef9c99b6ca14b5791589dc542fa389d97ccfed939c093b4dd15.jpg",
+    "path": "10_题库/_assets/清华题库/6aae6dee9d873ef9c99b6ca14b5791589dc542fa389d97ccfed939c093b4dd15.jpg",
+    "sha256": "a761382249706f0fb4b0ed13a75c085992838bb60b077935e1d0499158409618",
+    "size": [
+      478,
+      351
+    ],
+    "id": 57,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 13,
+    "bbox_1000": [
+      354,
+      625,
+      643,
+      775
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\6aae6dee9d873ef9c99b6ca14b5791589dc542fa389d97ccfed939c093b4dd15.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-057.png",
+    "source_crop_size": [
+      690,
+      506
+    ],
+    "page_preview": "page-5-013.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-205",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/6aae6dee9d873ef9c99b6ca14b5791589dc542fa389d97ccfed939c093b4dd15.jpg",
+        "path": "10_题库/_assets/清华题库/6aae6dee9d873ef9c99b6ca14b5791589dc542fa389d97ccfed939c093b4dd15.jpg",
+        "sha256": "a761382249706f0fb4b0ed13a75c085992838bb60b077935e1d0499158409618",
+        "size": [
+          478,
+          351
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-206",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/2e950416c76c42feb8270dcf9499732b41ba0bc43365798121a6c0583bcbe82e.jpg",
+    "path": "10_题库/_assets/清华题库/2e950416c76c42feb8270dcf9499732b41ba0bc43365798121a6c0583bcbe82e.jpg",
+    "sha256": "6aaab3d2d9cb33aa6053e8617e755d83fb2c16fca5fb5721c54197e5ae66d7c9",
+    "size": [
+      465,
+      328
+    ],
+    "id": 58,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 14,
+    "bbox_1000": [
+      359,
+      122,
+      640,
+      262
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\2e950416c76c42feb8270dcf9499732b41ba0bc43365798121a6c0583bcbe82e.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-058.png",
+    "source_crop_size": [
+      670,
+      473
+    ],
+    "page_preview": "page-5-014.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-206",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/2e950416c76c42feb8270dcf9499732b41ba0bc43365798121a6c0583bcbe82e.jpg",
+        "path": "10_题库/_assets/清华题库/2e950416c76c42feb8270dcf9499732b41ba0bc43365798121a6c0583bcbe82e.jpg",
+        "sha256": "6aaab3d2d9cb33aa6053e8617e755d83fb2c16fca5fb5721c54197e5ae66d7c9",
+        "size": [
+          465,
+          328
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-207",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/94ec456e7616d169318a5fc6bd1ecd3270544c26795f34a0f32a22fb8b9fef97.jpg",
+    "path": "10_题库/_assets/清华题库/94ec456e7616d169318a5fc6bd1ecd3270544c26795f34a0f32a22fb8b9fef97.jpg",
+    "sha256": "e965913352ab97cac4e9dce2b10c59ba64d408ae9ca7657a8bda3b028f16dc8e",
+    "size": [
+      323,
+      309
+    ],
+    "id": 59,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 14,
+    "bbox_1000": [
+      400,
+      370,
+      594,
+      502
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\94ec456e7616d169318a5fc6bd1ecd3270544c26795f34a0f32a22fb8b9fef97.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-059.png",
+    "source_crop_size": [
+      463,
+      446
+    ],
+    "page_preview": "page-5-014.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-207",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/94ec456e7616d169318a5fc6bd1ecd3270544c26795f34a0f32a22fb8b9fef97.jpg",
+        "path": "10_题库/_assets/清华题库/94ec456e7616d169318a5fc6bd1ecd3270544c26795f34a0f32a22fb8b9fef97.jpg",
+        "sha256": "e965913352ab97cac4e9dce2b10c59ba64d408ae9ca7657a8bda3b028f16dc8e",
+        "size": [
+          323,
+          309
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-208",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/cefae6734b9098448bf68752800d2140db6a8a5977f41456c5609cc054947834.jpg",
+    "path": "10_题库/_assets/清华题库/cefae6734b9098448bf68752800d2140db6a8a5977f41456c5609cc054947834.jpg",
+    "sha256": "ac692dafb698c6556b1f3e33618b371422b29866d8f0c2728ed69408e43c9dde",
+    "size": [
+      462,
+      321
+    ],
+    "id": 60,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 14,
+    "bbox_1000": [
+      361,
+      605,
+      640,
+      741
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\cefae6734b9098448bf68752800d2140db6a8a5977f41456c5609cc054947834.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-060.png",
+    "source_crop_size": [
+      665,
+      459
+    ],
+    "page_preview": "page-5-014.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-208",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/cefae6734b9098448bf68752800d2140db6a8a5977f41456c5609cc054947834.jpg",
+        "path": "10_题库/_assets/清华题库/cefae6734b9098448bf68752800d2140db6a8a5977f41456c5609cc054947834.jpg",
+        "sha256": "ac692dafb698c6556b1f3e33618b371422b29866d8f0c2728ed69408e43c9dde",
+        "size": [
+          462,
+          321
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-209",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/481778016a61ec7d6d82765aec4a8e08661d2e65c6aa0e2b923f75d32ac471a2.jpg",
+    "path": "10_题库/_assets/清华题库/481778016a61ec7d6d82765aec4a8e08661d2e65c6aa0e2b923f75d32ac471a2.jpg",
+    "sha256": "2dda18e3c993b7daf4443fb5ff2f3a5fdae0a85bb6b2b6fece4beb9d00606fd6",
+    "size": [
+      462,
+      334
+    ],
+    "id": 61,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      361,
+      120,
+      640,
+      262
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\481778016a61ec7d6d82765aec4a8e08661d2e65c6aa0e2b923f75d32ac471a2.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-061.png",
+    "source_crop_size": [
+      665,
+      479
+    ],
+    "page_preview": "page-5-015.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-209",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/481778016a61ec7d6d82765aec4a8e08661d2e65c6aa0e2b923f75d32ac471a2.jpg",
+        "path": "10_题库/_assets/清华题库/481778016a61ec7d6d82765aec4a8e08661d2e65c6aa0e2b923f75d32ac471a2.jpg",
+        "sha256": "2dda18e3c993b7daf4443fb5ff2f3a5fdae0a85bb6b2b6fece4beb9d00606fd6",
+        "size": [
+          462,
+          334
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-210",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/0be01d6992c08bbc8441e7779c989ddd489eb573546b4989fb19b8bf1aa09d6d.jpg",
+    "path": "10_题库/_assets/清华题库/0be01d6992c08bbc8441e7779c989ddd489eb573546b4989fb19b8bf1aa09d6d.jpg",
+    "sha256": "7ea8ff1d516992114a911dad9e69b749c2395e24376a224796e9466b66a7edb1",
+    "size": [
+      321,
+      290
+    ],
+    "id": 62,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      401,
+      361,
+      594,
+      485
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\0be01d6992c08bbc8441e7779c989ddd489eb573546b4989fb19b8bf1aa09d6d.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-062.png",
+    "source_crop_size": [
+      461,
+      419
+    ],
+    "page_preview": "page-5-015.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-210",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/0be01d6992c08bbc8441e7779c989ddd489eb573546b4989fb19b8bf1aa09d6d.jpg",
+        "path": "10_题库/_assets/清华题库/0be01d6992c08bbc8441e7779c989ddd489eb573546b4989fb19b8bf1aa09d6d.jpg",
+        "sha256": "7ea8ff1d516992114a911dad9e69b749c2395e24376a224796e9466b66a7edb1",
+        "size": [
+          321,
+          290
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+    "question": "清华题库-振动-226",
+    "chapter": "04",
+    "target": "物理/10_题库/_assets/清华题库/6b963e3a34b559210677be0162ecfd7fba6e1e8c290fc6aa1ba93b386f734d12.jpg",
+    "path": "10_题库/_assets/清华题库/6b963e3a34b559210677be0162ecfd7fba6e1e8c290fc6aa1ba93b386f734d12.jpg",
+    "sha256": "e863ac4204e7281b46f524485943578a8eeb560ed80c6265443b78bbdc231414",
+    "size": [
+      314,
+      117
+    ],
+    "id": 63,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 17,
+    "bbox_1000": [
+      400,
+      663,
+      589,
+      713
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\6b963e3a34b559210677be0162ecfd7fba6e1e8c290fc6aa1ba93b386f734d12.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-063.png",
+    "source_crop_size": [
+      451,
+      170
+    ],
+    "page_preview": "page-5-017.png",
+    "method": "retained_clear",
+    "check": "原图已有清晰线条、文字、轴标和可辨曲线；按排除已清楚图的要求保留。彩色图的点名、投影线或频率差仍可辨，不把色彩当唯一物理依据。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
+        "question": "清华题库-振动-226",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/清华题库/6b963e3a34b559210677be0162ecfd7fba6e1e8c290fc6aa1ba93b386f734d12.jpg",
+        "path": "10_题库/_assets/清华题库/6b963e3a34b559210677be0162ecfd7fba6e1e8c290fc6aa1ba93b386f734d12.jpg",
+        "sha256": "e863ac4204e7281b46f524485943578a8eeb560ed80c6265443b78bbdc231414",
+        "size": [
+          314,
+          117
+        ]
+      }
+    ]
+  },
+  {
+    "document": "大学物理习题册（上）/13_习题十三 振动（一）.md",
+    "question": "2",
+    "chapter": "04",
+    "target": "_assets/13_习题十三 振动（一）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/13_习题十三 振动（一）/图1.png",
+    "sha256": "5c794d2feffded37c388fc5375ec93289df4c0895d27e38dda2e6ee5256302eb",
+    "size": [
+      622,
+      252
+    ],
+    "id": 64,
+    "method": "reuse_redraw",
+    "new": "001.svg",
+    "check": "与已核验资产001的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/13_习题十三 振动（一）.md",
+        "question": "2",
+        "chapter": "04",
+        "target": "_assets/13_习题十三 振动（一）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/13_习题十三 振动（一）/图1.png",
+        "sha256": "5c794d2feffded37c388fc5375ec93289df4c0895d27e38dda2e6ee5256302eb",
+        "size": [
+          622,
+          252
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/001.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/13_习题十三 振动（一）.md",
+    "question": "4",
+    "chapter": "04",
+    "target": "_assets/13_习题十三 振动（一）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/13_习题十三 振动（一）/图2.png",
+    "sha256": "60b51d736f95c85a0ed120bc40be3e1d5068124141ee73f7414ce1c001254396",
+    "size": [
+      711,
+      292
+    ],
+    "id": 65,
+    "method": "reuse_redraw",
+    "new": "002.svg",
+    "check": "与已核验资产002的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/13_习题十三 振动（一）.md",
+        "question": "4",
+        "chapter": "04",
+        "target": "_assets/13_习题十三 振动（一）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/13_习题十三 振动（一）/图2.png",
+        "sha256": "60b51d736f95c85a0ed120bc40be3e1d5068124141ee73f7414ce1c001254396",
+        "size": [
+          711,
+          292
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/002.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/14_习题十四 振动（二）.md",
+    "question": "4",
+    "chapter": "04",
+    "target": "_assets/14_习题十四 振动（二）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/14_习题十四 振动（二）/图1.png",
+    "sha256": "154e25ff2a9a7e9d15d6683a73ed1769eb8597bdba15044b8b4777f3636be405",
+    "size": [
+      498,
+      235
+    ],
+    "id": 66,
+    "method": "reuse_redraw",
+    "new": "003.svg",
+    "check": "与已核验资产003的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/14_习题十四 振动（二）.md",
+        "question": "4",
+        "chapter": "04",
+        "target": "_assets/14_习题十四 振动（二）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/14_习题十四 振动（二）/图1.png",
+        "sha256": "154e25ff2a9a7e9d15d6683a73ed1769eb8597bdba15044b8b4777f3636be405",
+        "size": [
+          498,
+          235
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/003.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/14_习题十四 振动（二）.md",
+    "question": "5",
+    "chapter": "04",
+    "target": "_assets/14_习题十四 振动（二）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/14_习题十四 振动（二）/图2.png",
+    "sha256": "e5feb77eeaedd00c614037aa049bb32f1bf373010ac86e5dfb530f1d0e620529",
+    "size": [
+      456,
+      215
+    ],
+    "id": 67,
+    "method": "reuse_extraction",
+    "new": "004-extracted.png",
+    "check": "与已核验资产004的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/14_习题十四 振动（二）.md",
+        "question": "5",
+        "chapter": "04",
+        "target": "_assets/14_习题十四 振动（二）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/14_习题十四 振动（二）/图2.png",
+        "sha256": "e5feb77eeaedd00c614037aa049bb32f1bf373010ac86e5dfb530f1d0e620529",
+        "size": [
+          456,
+          215
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/004-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/14_习题十四 振动（二）.md",
+    "question": "6",
+    "chapter": "04",
+    "target": "_assets/14_习题十四 振动（二）/图3.png|220",
+    "path": "大学物理习题册（上）/_assets/14_习题十四 振动（二）/图3.png",
+    "sha256": "2f1d9872392e6041110683fddbefda9e6765940e3447c0a1aae0d6ce9bfbee09",
+    "size": [
+      267,
+      317
+    ],
+    "id": 68,
+    "method": "reuse_redraw",
+    "new": "005.svg",
+    "check": "与已核验资产005的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/14_习题十四 振动（二）.md",
+        "question": "6",
+        "chapter": "04",
+        "target": "_assets/14_习题十四 振动（二）/图3.png|220",
+        "path": "大学物理习题册（上）/_assets/14_习题十四 振动（二）/图3.png",
+        "sha256": "2f1d9872392e6041110683fddbefda9e6765940e3447c0a1aae0d6ce9bfbee09",
+        "size": [
+          267,
+          317
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/005.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/15_习题十五 振动（三）.md",
+    "question": "1",
+    "chapter": "04",
+    "target": "_assets/15_习题十五 振动（三）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/15_习题十五 振动（三）/图1.png",
+    "sha256": "22b66b9461bda1c72f993991898b8be7eb633f76811f7c23d2c2ea7dd4f516d3",
+    "size": [
+      519,
+      239
+    ],
+    "id": 69,
+    "method": "reuse_redraw",
+    "new": "006.svg",
+    "check": "与已核验资产006的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/15_习题十五 振动（三）.md",
+        "question": "1",
+        "chapter": "04",
+        "target": "_assets/15_习题十五 振动（三）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/15_习题十五 振动（三）/图1.png",
+        "sha256": "22b66b9461bda1c72f993991898b8be7eb633f76811f7c23d2c2ea7dd4f516d3",
+        "size": [
+          519,
+          239
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/006.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/15_习题十五 振动（三）.md",
+    "question": "2",
+    "chapter": "04",
+    "target": "_assets/15_习题十五 振动（三）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/15_习题十五 振动（三）/图2.png",
+    "sha256": "06eff5a03a11574cfc0479d0f469137b5147f18237d86a563abc75d33d0803eb",
+    "size": [
+      520,
+      272
+    ],
+    "id": 70,
+    "method": "reuse_redraw",
+    "new": "007.svg",
+    "check": "与已核验资产007的给定标注、初态和方向相同；复用产物，原文/显示宽度保留。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/15_习题十五 振动（三）.md",
+        "question": "2",
+        "chapter": "04",
+        "target": "_assets/15_习题十五 振动（三）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/15_习题十五 振动（三）/图2.png",
+        "sha256": "06eff5a03a11574cfc0479d0f469137b5147f18237d86a563abc75d33d0803eb",
+        "size": [
+          520,
+          272
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/04_振动/007.svg"
+  }
+]

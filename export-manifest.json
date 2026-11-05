@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 140672,
-    "sha256": "2993bfacfef48411b455e64a7ffd1a64c1d3955aa345c3bd5473ff17aeb96eec"
+    "bytes": 151408,
+    "sha256": "a565b7f3e6f4b614408e13b1bf2683b9daf6189dfcc88302771b6333f2c18ca6"
   },
   {
     "path": "tools/verify_share.py",
@@ -2255,6 +2255,266 @@
     "sha256": "aa9bd4279d166034597f6acdc3960ba265e1795b5fa1ffb32947f16bf5a77d2d"
   },
   {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/001.png",
+    "bytes": 44179,
+    "sha256": "b394d7dc3d3554a4dda3a94f3cf70727d66f9a7a2122437070a46edfe7d8ef05"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/001.svg",
+    "bytes": 11062,
+    "sha256": "ddec2c24578431501b9c0f6f51496af672be439a6ef8c1945740838701e9c514"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/002.png",
+    "bytes": 46489,
+    "sha256": "7f5557f64a4215cb27e948ec5eafa8109cf1ccab7c7c0f31899d14a093063d3b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/002.svg",
+    "bytes": 13352,
+    "sha256": "30cbb0179a429db535f236cb634efb76d1a007d00f795daf206cb65b65fb2cbe"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/003.png",
+    "bytes": 54434,
+    "sha256": "999dd3b3a71466d59438103706a824615c947ed8fa8da92a1890f562fcc2ad6a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/003.svg",
+    "bytes": 14885,
+    "sha256": "578dbd33f3925d23327d205070c804d684ab815600216f7894ddf96fdcf89e48"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/004-extracted.png",
+    "bytes": 36660,
+    "sha256": "87b37131ec34a2a6237f9d2481d9b6063fe732655d8819d830b18a9e631239e0"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/005.png",
+    "bytes": 33743,
+    "sha256": "14c41e3e52ec2aca324ab4a45e3bca11bf3c222b0c8bc92ab42fe1ac48a41f9b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/005.svg",
+    "bytes": 9725,
+    "sha256": "033e16432cd87669fa31cbe7950f917ec8f8bc4c7f901d47c7cffaff9d36d941"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/006.png",
+    "bytes": 52721,
+    "sha256": "a87b93ce519a3df948b3fba0a8eb9e2dea66297b0cb05c8b5e7ce5253b63dd7d"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/006.svg",
+    "bytes": 12806,
+    "sha256": "29ed9c4d450af678c53247e30f114ca56f437fd0ebde786caff8501bc6863a81"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/007.png",
+    "bytes": 56339,
+    "sha256": "a81ce0040ae23ec7030f06fe9357f56114d19b72f12b9fd6a830158ae2bf2214"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/007.svg",
+    "bytes": 11731,
+    "sha256": "b64d9bee78ed1b241db72b337d7ce99f1144b1c3f16b3032fdd8f95535d15c7e"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/009-extracted.png",
+    "bytes": 63869,
+    "sha256": "cbc0faaca10e27f3c939f02f13b987483eae6e266b59429ad522a1c28af576ca"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/010.png",
+    "bytes": 44837,
+    "sha256": "4f77d791439f835ed39a0cbc593e6e2e1d51f830fc5b4445139a9234c1606636"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/010.svg",
+    "bytes": 11658,
+    "sha256": "b61f608f91cb53c511e1886d4d66290b15014bbeeca6831de48d6ceb1dca046a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/011-extracted.png",
+    "bytes": 60884,
+    "sha256": "b1f64a4eb65d7d433507dcdfdc49cca4d92ac76b00438a9ba96a81ca19a7c65c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/012-extracted.png",
+    "bytes": 113431,
+    "sha256": "21b41b3aa7952388047ba4f6235984e5484fd8a91547ef84e082014fb3f85439"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/013-extracted.png",
+    "bytes": 59395,
+    "sha256": "9022fdb8123dc346d3d0863aaa3b02816ed228d9c76caa0c5e6695be491f8e00"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/014.png",
+    "bytes": 53492,
+    "sha256": "82cdc06731f7dea847a80ea0474ab93a97f2b749c4da10ce392a7a53d3395470"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/014.svg",
+    "bytes": 13582,
+    "sha256": "87f0bf11937f481c9a326d00a86857a3848af8a941f670e3683ccafd641395a5"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/015-extracted.png",
+    "bytes": 62722,
+    "sha256": "e81309233d77177ee19e103a19f28b52f09ea6fc62c86fa4f9ca5e428bc36b90"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/017-extracted.png",
+    "bytes": 36498,
+    "sha256": "c16b3f7cb83b7e4ef4db823b3e9216974249890a5d8aeb42437257e98a84f719"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/020.png",
+    "bytes": 41782,
+    "sha256": "24d7effd1018682d4b0e73e1ed8b0b0e65dc41bb8481c0d5e64cfbc33dc94721"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/020.svg",
+    "bytes": 9864,
+    "sha256": "d9b9ddd5a4feadc188341392bb49c1d6be1f1fc95f692cf706c1f236c9dfd7c8"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/021.png",
+    "bytes": 41713,
+    "sha256": "9386a71505d9a837909b801be6085756fd393ef1e53d8501dacb7d65d1994fdb"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/021.svg",
+    "bytes": 10311,
+    "sha256": "7db8748fa925a97c71ddf9d5332ac5de5c57bd44b0f82ae90861c037e2f5099f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/022.png",
+    "bytes": 41943,
+    "sha256": "a4023b80c73a0222a411e42c02b1a861cad7b22f9c8a8b01bcc71cb75c9dfe0b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/022.svg",
+    "bytes": 10091,
+    "sha256": "9e030fc2dff32eaabea3c4b79c310b2bb520e9291d37138ea97f7bb7e102d61b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/023.png",
+    "bytes": 41847,
+    "sha256": "cad41d591c31e9f93537761f5b587b5da4a36b4e9409df0090524ab83c0bae43"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/023.svg",
+    "bytes": 10203,
+    "sha256": "5a16162d53c6379dc62922e25401a11bfdf0dfc7cbfe6afafa2fe0976fb75fe2"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/026-extracted.png",
+    "bytes": 87277,
+    "sha256": "ec57495f2da22ba1d63a56162621d20e8d4b21e2d1533af47f2402d1ef4a05de"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/027-extracted.png",
+    "bytes": 75680,
+    "sha256": "0bc82d02b73520ace10196b3bcd0776ec8a8663eae7c91b6c009386e36e40844"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/028-extracted.png",
+    "bytes": 66419,
+    "sha256": "573f271a82641dd9ab76996e421334d0ec546da3fea9048c4aa8034f551c6678"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/029-extracted.png",
+    "bytes": 43532,
+    "sha256": "204af93a385d04b33d6097e0c3f9800364ff49a64e8674ad874b8cb60ce15889"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/032.png",
+    "bytes": 39679,
+    "sha256": "015aa06d24ec13756cd69f733bddf3a8ba42f80ad8019e6649c798f6d553808f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/032.svg",
+    "bytes": 8530,
+    "sha256": "34a896a0da31027f5eb111d54891fce4734e871caae62de9061cfb395bcbc859"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/033.png",
+    "bytes": 39387,
+    "sha256": "f47f24b0eed8f1fcb8aa9d53caf3d85a5bfc3024a49d9e8176abb590f6d42413"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/033.svg",
+    "bytes": 8572,
+    "sha256": "863ef7e8c37f86ed96012f366514b7a6bddcad93b8c6438ab4bde38118f58f80"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/034.png",
+    "bytes": 39712,
+    "sha256": "ca6fac8b6e54f626fcf12701fac7b30b7192554969acbe8d65ab3591de56960a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/034.svg",
+    "bytes": 8743,
+    "sha256": "cb761e824844c02b802ffc1fe31ab8525b2c8ac7717070249fa3fa3154df5405"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/035.png",
+    "bytes": 39601,
+    "sha256": "55f3983175b3232b85ec9b06669829cec4b0809157a7f9ae5a8af03c9e343a0a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/035.svg",
+    "bytes": 8789,
+    "sha256": "85d8514999de7da2e2c6d081b4a85b2a38c5d95d7223fbb1256cf114ad6b4f23"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/038-extracted.png",
+    "bytes": 79556,
+    "sha256": "d59188e4323760c56dbb1c2de9b75dc7dd4d76a0d2d9420369dcabae0a8ca76c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/040-extracted.png",
+    "bytes": 47737,
+    "sha256": "2291b6436f44ffc673eb232e69e659d90d56f0357c1f34ee9abb4ad4f2a3beb1"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/042-extracted.png",
+    "bytes": 49903,
+    "sha256": "757dc2f9ef6a2aa629162930829351d3989d907ca9e6f94e26fb20939fdc03bb"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/043-extracted.png",
+    "bytes": 53054,
+    "sha256": "eb1f900eedca4222de03f13687a58852e6044a425ae800e795758b156beae1a8"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/044-extracted.png",
+    "bytes": 59322,
+    "sha256": "af9cce2b4364256d01ee360e82e7f3a8a3331c841f0bd14ee6ef5872a87b0c81"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/045-extracted.png",
+    "bytes": 79209,
+    "sha256": "944cb4be277bd06a6f9f7b760f3057620bdad4d7c90ed6b46ec5c253a0c0cbb1"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/extract_from_pdf.py",
+    "bytes": 1378,
+    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/generate.py",
+    "bytes": 4811,
+    "sha256": "eea736ba4b4529bdab0895251c5869b59bd68f80b1ba132333bdc64092387141"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/04_振动/mapping.json",
+    "bytes": 140722,
+    "sha256": "cc1ad7ce74fd7b23119eadb9a576abcdcb3eba5e72fbd431a6e3afc603941aa8"
+  },
+  {
     "path": "物理/10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
     "bytes": 10165,
     "sha256": "3af9b8c8227990fea3d54357ad9c07f1694fbce566a4d816bdd9766cd2037fe6"
@@ -4446,18 +4706,18 @@
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_13_振动（一）_题面整理.md",
-    "bytes": 3510,
-    "sha256": "d46cf6ce811ddb4e9fac143fcb30d7c1d760d239f7b75c0d3e760e3fade9f3d8"
+    "bytes": 3414,
+    "sha256": "7b3c132affb4a4432d9d7e2ecaa1683c85bd5086b99d1655b38f879935389fc1"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_14_振动（二）_题面整理.md",
-    "bytes": 3584,
-    "sha256": "2e8a42da98803d372a0637c0a326a6c1c8a0baa58eec0c6450b6031500f77af2"
+    "bytes": 3450,
+    "sha256": "2d4b7dae83a5ec14cf78ba3c60839e36a05b8051c9b848452c0183b7900c067d"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_15_振动（三）_题面整理.md",
-    "bytes": 3494,
-    "sha256": "a238c65ffb4d78567a46450d5e41a93cc39f34f9feeb4fe8f38d48a881469187"
+    "bytes": 3398,
+    "sha256": "fbd6f8d02f60e60f079337d12ea098890132375435c2767cc2a57cbee1cb500f"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_16_相对论（一）_题面整理.md",
@@ -4541,8 +4801,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
-    "bytes": 16234,
-    "sha256": "5c5eb2fd7bc96d34b999a5949c3030d486f4aba303f73e7f658106ee7292ec30"
+    "bytes": 16043,
+    "sha256": "e5c33c52a88699c7b609173a15736ab86b71bc02b634db5ceefb3fe008629dd4"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
@@ -4556,18 +4816,18 @@
   },
   {
     "path": "物理/10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
-    "bytes": 12438,
-    "sha256": "079529a02a34b6baf806d8bde680b1b95b0772335efad8a3789ea7feaef50f61"
+    "bytes": 12324,
+    "sha256": "c96f65f74ff0a7cf8bf63464a736b9631acbde57bd6579c74e523fdd74c204fb"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
-    "bytes": 15870,
-    "sha256": "3c402784a904926ed3578a4ae347f4795365ecf241d5881e871ff47eafacd44e"
+    "bytes": 15758,
+    "sha256": "6757dd612bc20e482a28733a233056842a712fce36c5529e8535d182052b5b5b"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
-    "bytes": 15281,
-    "sha256": "cbdb71eba62ee637f6c699437ff7d8b5f7e908975e9fa6e9c4e2d1274d88a035"
+    "bytes": 15118,
+    "sha256": "ab683355d5073c8c949e7ef0f8e27a382fca9a8814010a62f6b4b3544766a3a4"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
@@ -4591,8 +4851,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
-    "bytes": 13354,
-    "sha256": "3bcdbd1334803e6c00a85ee7a59ed910b31ed2ec226fa72f0c0382065e046c77"
+    "bytes": 13287,
+    "sha256": "2e04d543d4101ec93665bd3a7839446fd1ca411591b30ddabac92a303db012b2"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
@@ -4606,8 +4866,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
-    "bytes": 16733,
-    "sha256": "70750dc39bbf9b1b0f4c5d4f6bda4ab10eff2c8cf5388fa623912220ea210ff3"
+    "bytes": 16465,
+    "sha256": "03b96118e909d187726ffcf538b4d1e3b67be2a3dab4405b94630a10cb1212e2"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
@@ -4616,8 +4876,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
-    "bytes": 13826,
-    "sha256": "a6d14428fd2f8a4498ee3b82b84435c6fd96f5a6486bab276424cb0eb1f51e38"
+    "bytes": 13759,
+    "sha256": "a58d5324c70492d264e67c82c6a9572aac8005bbf72a2877ffe8994723b22acc"
   },
   {
     "path": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
@@ -4641,8 +4901,8 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
-    "bytes": 29527,
-    "sha256": "ac4f0432d684785c2a707f54fc9a9b85022cfded10a562b99aeb957e23dc396f"
+    "bytes": 29608,
+    "sha256": "a049b1e5d7fcdfc07e6dd67a2eb424af4f1ec0f421a71fe0bb48e490ca4aef31"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
@@ -5833,6 +6093,356 @@
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/validation.json",
     "bytes": 11550,
     "sha256": "b8a168b7591591e7b2c12a958f8b8c5258afecddb8f3a80ee87627ffb448aaeb"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/README.md",
+    "bytes": 39406,
+    "sha256": "68b5d6750844c68afbfe63854cea59e64b8d442306cfbe5746216cca21a18744"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-01.png",
+    "bytes": 451114,
+    "sha256": "250c3837db0253d2287168d71e9ac9bb3a361a2fa0ded0d9057d4055cd63783f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-02.png",
+    "bytes": 623998,
+    "sha256": "5d04ba8aefe847a1169ea49a63b317d5e68ddc4d3cd93498ab36696838344d24"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-03.png",
+    "bytes": 367386,
+    "sha256": "34f4758df1f8a5b405cc2277a46be6dfdd695d0a05d83d3077cad0b14a5a678f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-04.png",
+    "bytes": 404445,
+    "sha256": "703bf7bf56e28e6a67f427ac1f62be471de52772769b5823b190d248e740c3a0"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-05.png",
+    "bytes": 421430,
+    "sha256": "d1be32558a482763bbe950821b41440eb1c7849348b7ae22dc57722b3904d079"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-06.png",
+    "bytes": 271660,
+    "sha256": "5d889cf197cc3b7cbc129d04341be50d20ea510f73ffd296900149271057ec27"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/reading-320px.png",
+    "bytes": 707163,
+    "sha256": "f04b8aae0967f69078946e0ec4d9b20ebe6ad9549bd93935b85dbdfc69711864"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-001.png",
+    "bytes": 49981,
+    "sha256": "68af75e9f6fbb2950973def96d099c5b3eb61de479b147275bee2f6cc834bd34"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-002.png",
+    "bytes": 58850,
+    "sha256": "668df64371c5088656102894d3b722c87758f80542f507429eb5c985b811c5a7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-003.png",
+    "bytes": 49801,
+    "sha256": "89eda02d68dfd334e7ff72cac808bc9c8317069b2e3aa2f0774d751a80c5ee0c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-004.png",
+    "bytes": 36660,
+    "sha256": "87b37131ec34a2a6237f9d2481d9b6063fe732655d8819d830b18a9e631239e0"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-005.png",
+    "bytes": 39525,
+    "sha256": "21f0682db37e75128fcd11684b70fb9a5c0bc00c8dfc37aca4c3738a589515be"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-006.png",
+    "bytes": 22567,
+    "sha256": "dab0fcf730f724ba13c885a4a8a99bd74131eb838c6112cea22e2c39e7ada85c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-007.png",
+    "bytes": 31789,
+    "sha256": "ce7b393010d45c2de8af580e0437d16386834641129851c9a0e7ae2c6c3fe2b2"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-008.png",
+    "bytes": 57836,
+    "sha256": "8338ed78f7f3afb59af448df7178f4d10b39a45f93032d118685a0c5e0c04771"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-009.png",
+    "bytes": 63869,
+    "sha256": "cbc0faaca10e27f3c939f02f13b987483eae6e266b59429ad522a1c28af576ca"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-010.png",
+    "bytes": 58195,
+    "sha256": "3178e64c8299f950b9e3c6b0f60c185abc30fc3bacc737f0276e54f3912e3bf5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-011.png",
+    "bytes": 60884,
+    "sha256": "b1f64a4eb65d7d433507dcdfdc49cca4d92ac76b00438a9ba96a81ca19a7c65c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-012.png",
+    "bytes": 113431,
+    "sha256": "21b41b3aa7952388047ba4f6235984e5484fd8a91547ef84e082014fb3f85439"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-013.png",
+    "bytes": 59395,
+    "sha256": "9022fdb8123dc346d3d0863aaa3b02816ed228d9c76caa0c5e6695be491f8e00"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-014.png",
+    "bytes": 65185,
+    "sha256": "6016663cd4eba7cb4d850bee37cec818a0ee1e66bb70822c6172010dd3c7fef2"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-015.png",
+    "bytes": 62722,
+    "sha256": "e81309233d77177ee19e103a19f28b52f09ea6fc62c86fa4f9ca5e428bc36b90"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-016.png",
+    "bytes": 67304,
+    "sha256": "b0259683e17849ce9b287e0d3926523d5908b2ddeb66af1656694f858050d8e5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-017.png",
+    "bytes": 36498,
+    "sha256": "c16b3f7cb83b7e4ef4db823b3e9216974249890a5d8aeb42437257e98a84f719"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-018.png",
+    "bytes": 72001,
+    "sha256": "ef6fbf0c58dfb7c9ff6d96faa082d8cc0bea63f85333c8304e55f5749ef6a1b3"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-019.png",
+    "bytes": 201868,
+    "sha256": "8eb0705daf4e1fd40d621c6535418497ff88cecdca660c46568d549e478ab5ff"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-020.png",
+    "bytes": 37532,
+    "sha256": "4b7d02579f88ad1d3c8dbce983a242188aa48ea18d9690f9c107b94ea9fc2b3b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-021.png",
+    "bytes": 39297,
+    "sha256": "a9818683b511c37f38bf954b9a3a2e585a1d044834af9d7758c81c20e50a624d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-022.png",
+    "bytes": 37256,
+    "sha256": "be84cf2a69733e9e359d30ed5ccce304f31a00230d6d42dd4aefc4e02c1ae246"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-023.png",
+    "bytes": 42258,
+    "sha256": "967d3340e3f299e42575cc560721de31683970cd72c870b7c9788e6e6b42fc1a"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-024.png",
+    "bytes": 58685,
+    "sha256": "0b9784b870f1a19d05c43b16cd095047120154019f4d275092be31aa9800ba5a"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-025.png",
+    "bytes": 58353,
+    "sha256": "f037c743851a753d5d3b167f086b5771d4801e77547156f09adf3a3d739394bf"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-026.png",
+    "bytes": 87277,
+    "sha256": "ec57495f2da22ba1d63a56162621d20e8d4b21e2d1533af47f2402d1ef4a05de"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-027.png",
+    "bytes": 75680,
+    "sha256": "0bc82d02b73520ace10196b3bcd0776ec8a8663eae7c91b6c009386e36e40844"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-028.png",
+    "bytes": 66419,
+    "sha256": "573f271a82641dd9ab76996e421334d0ec546da3fea9048c4aa8034f551c6678"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-029.png",
+    "bytes": 43532,
+    "sha256": "204af93a385d04b33d6097e0c3f9800364ff49a64e8674ad874b8cb60ce15889"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-032.png",
+    "bytes": 37671,
+    "sha256": "7c89d48a94c384b5fbab3b9c0a475c02b0886a34e67af16c23561f9997203aca"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-033.png",
+    "bytes": 39112,
+    "sha256": "ba3873934e426f69668856f9c9184fabb47feca54d8cfdf4face3fb764e4fa5a"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-034.png",
+    "bytes": 41637,
+    "sha256": "703ab398f515399f66984ca60067f1c390a86abecbd9894a36c5fe474f425d8f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-035.png",
+    "bytes": 39543,
+    "sha256": "60ae5a58072079fa0f9ea0c2b1ae361c49a68bc847f87f44bd933594f043ba35"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-036.png",
+    "bytes": 76840,
+    "sha256": "ddef824cfaf3ea5892068f4d38901a0994da40f947a33e33b240c961620c7c13"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-037.png",
+    "bytes": 77072,
+    "sha256": "498ce33faad61c8ee799ee9eaf882c7241deb269845cc18490bc292a6f166cb6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-038.png",
+    "bytes": 79556,
+    "sha256": "d59188e4323760c56dbb1c2de9b75dc7dd4d76a0d2d9420369dcabae0a8ca76c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-039.png",
+    "bytes": 61165,
+    "sha256": "f274857f0aa5ad729026219908a7ad7aa56172d8877f31fc281b1224f4203bb5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-040.png",
+    "bytes": 47737,
+    "sha256": "2291b6436f44ffc673eb232e69e659d90d56f0357c1f34ee9abb4ad4f2a3beb1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-041.png",
+    "bytes": 66087,
+    "sha256": "4a695b281d88ab6654709d230cafcdaf2440893b49048992f9b88d05f64f05cc"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-042.png",
+    "bytes": 49903,
+    "sha256": "757dc2f9ef6a2aa629162930829351d3989d907ca9e6f94e26fb20939fdc03bb"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-043.png",
+    "bytes": 53054,
+    "sha256": "eb1f900eedca4222de03f13687a58852e6044a425ae800e795758b156beae1a8"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-044.png",
+    "bytes": 59322,
+    "sha256": "af9cce2b4364256d01ee360e82e7f3a8a3331c841f0bd14ee6ef5872a87b0c81"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-045.png",
+    "bytes": 79209,
+    "sha256": "944cb4be277bd06a6f9f7b760f3057620bdad4d7c90ed6b46ec5c253a0c0cbb1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-046.png",
+    "bytes": 25581,
+    "sha256": "5032204a46b337e51aaec28beea17b1a460063cd1dc6077f4b83521ec7e489c9"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-047.png",
+    "bytes": 36647,
+    "sha256": "8dc2fed792d4554798cd14ad41ce9de689ac35082c967d90e3efd1d616fbf019"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-048.png",
+    "bytes": 13736,
+    "sha256": "2cc663cbc7a0629b549ae81a6a2442e5f0a6fef008ef74eae236554af2c5a1d7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-049.png",
+    "bytes": 13851,
+    "sha256": "d14ba79d05e518aa218e48684612dc490e5d955542d7419e081e14e4b2ccad1e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-050.png",
+    "bytes": 13865,
+    "sha256": "1776321ba295f14829b9e0721654285d3ab50353699ae772b4ba2a62b40e262e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-051.png",
+    "bytes": 14097,
+    "sha256": "0e64522e9462d9b656c9a4bb25175c930a09e498438247fb512191910c225c76"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-052.png",
+    "bytes": 25743,
+    "sha256": "549f1803c748cc04f4e1d418307d890ec323e6a91cdc71ccc9e785ef54d4ebad"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-053.png",
+    "bytes": 23741,
+    "sha256": "5ef912b54017950b21420ef59cad12ef2ea456b7a8ca51587212500a20259b06"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-054.png",
+    "bytes": 6974,
+    "sha256": "8c93f1367f109a2235a51e4c5773c08c75af62694f7eba22e7b19474380ef7d7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-055.png",
+    "bytes": 20266,
+    "sha256": "379f963f7327bca90043a24c59ff563061f713fe97b706162e9d0bc0d6927011"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-056.png",
+    "bytes": 28633,
+    "sha256": "3c61fbbec2ad4453beb5a42eff1b422f94a60fd568a902d1ef816f8205975c57"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-057.png",
+    "bytes": 34245,
+    "sha256": "3e70c70a06a6fc452bacfebdc3a44527c1cb568f845c28f878b9c97bf560917b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-058.png",
+    "bytes": 27738,
+    "sha256": "5f986f79af9cdf8983297780d4c750f715e1f1dac002340e827e765b0cb9eb97"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-059.png",
+    "bytes": 28266,
+    "sha256": "600ec6086671539c6713ce07784e6fade4b3b32a27c71b1bf3932a9f7c0d76ab"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-060.png",
+    "bytes": 23794,
+    "sha256": "27a4ffaf0f1b2c9983549e22925d3f923948edd04a095e036a6bb64880019195"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-061.png",
+    "bytes": 45286,
+    "sha256": "92f96fad2f66ce8ea0d810d4a2e1a36ad38e049523b87a0c439bc77e582678d5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-062.png",
+    "bytes": 16938,
+    "sha256": "a6d6f8de13e18e777f01184b164bc53037a9f3b8e663bf7e276c41dbad7a7e34"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-063.png",
+    "bytes": 16681,
+    "sha256": "70a83ab49fa91c446e7b1ee24e2cfa76861c2bf96667015072a901d5fee4c1cc"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/validation.json",
+    "bytes": 9259,
+    "sha256": "1621250f4b46c3689bfb352db80d9317eca71a57f759a9f5aec95240454ed9ef"
   },
   {
     "path": "物理/40_派生视图/大物上/今年期末复用高可能题单.md",
@@ -9401,18 +10011,18 @@
   },
   {
     "path": "物理/大学物理习题册（上）/13_习题十三 振动（一）.md",
-    "bytes": 2668,
-    "sha256": "835974f7cd433e213300b182cef23f729d3e6efa9b9f2c8e70ad8fefd86fc021"
+    "bytes": 2682,
+    "sha256": "fede65c7d53c15135f470a1b6e867e47f3cc21a71039dc46124999e0a046a6f2"
   },
   {
     "path": "物理/大学物理习题册（上）/14_习题十四 振动（二）.md",
-    "bytes": 2688,
-    "sha256": "26b4823b74744c38241c0e65cd55ac2bf5e5aea8e6357c6b8be6ca1e624757fd"
+    "bytes": 2719,
+    "sha256": "e6f3c3dc71a6bc641ec3f9e780c0ff6540b8b8e8667c713ec061209a0cc70d5c"
   },
   {
     "path": "物理/大学物理习题册（上）/15_习题十五 振动（三）.md",
-    "bytes": 2649,
-    "sha256": "4b9550f670b4ed26135ece446072686cd8c981177deac3a7a81904cf174f9ad3"
+    "bytes": 2663,
+    "sha256": "c52e2703d9c42a9c132f6e22c51ae3748e1b3de99a76fb0e135c55162532a17d"
   },
   {
     "path": "物理/大学物理习题册（上）/16_习题十六 相对论（一）.md",
