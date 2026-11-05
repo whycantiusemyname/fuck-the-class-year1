@@ -50,7 +50,7 @@ for key,spec in mos_specs.items():
  out=s if spec.get('follower') else d
  if spec.get('outputcap'):cap(c,out,(14,out.y),spec['outputcap'])
  else:c.wire(out,(14,out.y))
- c.port((14,out.y),'$+$','right');c.port((14,0),'$-$','right');c.text(17,out.y/2,'$u_o(t)$' if key=='F165' else '$v_o$' if key=='F178' else '$u_o$',ha='left')
+ c.port((14,out.y),'$+$','right');c.port((14,0),'$-$','right');c.text(17,out.y/2,'$u_o(t)$' if key in ['F165','F168'] else '$v_o$' if key in ['F112','F160','F178'] else '$u_o$',ha='left')
  if spec.get('rl'):c.part('R',(14,out.y),(14,0),value(spec['rl']));c.dot((14,out.y));c.dot((14,0))
  c.dot((d.x,0));c.dot(d)
  if key=='F165':

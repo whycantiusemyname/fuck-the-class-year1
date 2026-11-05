@@ -7,7 +7,12 @@ HERE=Path(__file__).resolve().parent;sys.path.insert(0,str(HERE.parent))
 import common as M
 from panels import combine
 import fitz
-M.OUT=HERE;C=M.Circuit;E=M.E
+M.OUT=HERE;E=M.E
+class C(M.Circuit):
+ def port(self,p,label=None,side='left'):
+  if label=='$-$' and side=='right':
+   super().port(p,None,side);self.text(p[0]+.18,p[1]+.3,label,ha='left')
+  else:super().port(p,label,side)
 def bjt(c,x,y,label='T',pnp=False,flip=False):
  elm=E.BjtPnp() if pnp else E.BjtNpn()
  if pnp != flip:elm.flip()  # Normalize both transistor families to collector-up unless flip=True.

@@ -19,5 +19,6 @@
   "s8_lint_exit": 2,
   "s8_full_exit": 2,
   "s8_scope_note": "Full S8 has preexisting temp-note structure, framework heading links, and stale course-wide digest coverage. New image-only digests bind changed notes to original figures; no claim of renewed whole-text ingestion.",
-  "share": "passed: portable verifier and tools/verify_share.py; final hash check repeated before commit"
+  "share": "passed: portable verifier and tools/verify_share.py; final hash check repeated before commit",
+  "variable_audit": "F112/F160 preserve source v_o; F168 preserves u_o(t); right negative reference signs offset from horizontal lines"
 }

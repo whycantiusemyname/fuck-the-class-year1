@@ -2628,7 +2628,8 @@
     ],
     "report": "电路分析/40_派生视图/逐章图像重绘/第06章_核验报告.md",
     "style": "STIX/black/IEC; original and answer evidence retained",
-    "prior_commits_preserved": "8a2ed52d7c7607967bda7a48377d055cf6c86003"
+    "prior_commits_preserved": "8a2ed52d7c7607967bda7a48377d055cf6c86003",
+    "variable_reference_audit": "Preserve v_o/v_o/u_o(t) in F112/F160/F168 and move negative markers off wires; all 49 pairs re-rendered and source topology unchanged."
   },
   "circuit_redraw_ch03_20261106": {
     "verified": 1,

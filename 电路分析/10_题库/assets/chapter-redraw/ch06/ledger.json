@@ -27,7 +27,7 @@
       "status": "verified",
       "verification": "51kΩ串接供电与偏置上端；3MΩ从该节点接栅极，180kΩ从该节点接地；交叉输入不相接；IRF1310、680Ω、6.8kΩ、两只30μF；电压表跨漏源，1.992V仅照录原截图，A/B为原示波器通道。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F003.svg",
-      "svg_sha256": "e066d0822a29aa90abd6b3d76eb3caf9bd3f9cc38758b6ed10cc8e6316247887",
+      "svg_sha256": "2fa649d29fc5a26c1806ce83fb4b9d808aa884535ad772e32f0eec578be1fbd5",
       "png_sha256": "9addb8328d30048081d5fce93e5d814a7dbb0d442f91ac4944b3449e6544bf79",
       "replacements": [
         {
@@ -187,7 +187,7 @@
       "status": "verified",
       "verification": "三个子图保留器件类型及发射极箭头方向；电压分别(6,.1,-.2)、(-18,-12.3,-12)、(-5.6,-6.3,-3)V，不补状态答案。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F033.svg",
-      "svg_sha256": "cd65a9700d4764840be5a6ae8c1b28dd8a84386b298d10a9eb8fe35dbdeba4de",
+      "svg_sha256": "369c4ab30ce63e905787c0b8fc199eeb68225af11c92ba6f10d85007fa9cee27",
       "png_sha256": "2748b980484a54c48be9617539d72eb2265037875ec4d32a9f697c65f01319bb",
       "replacements": [
         {
@@ -222,7 +222,7 @@
       "status": "verified",
       "verification": "四幅原题判断电路照录：a基极直连供电，b普通偏置，c PNP，d集电极无RC直接接供电；不替原题纠错。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F034.svg",
-      "svg_sha256": "3d5466b29d85a8ba954b8f232649aac99effbbb5ff41c439e181ffc61252ed97",
+      "svg_sha256": "ddcc51736cef5d9284b2529ec33d3beafcc5cdd7bf113a564e6ad24b75afff44",
       "png_sha256": "71b23bd88ea3f6818a2d1d7b2ccda6a0d77c6356118399fe539294b53c60ca83",
       "replacements": [
         {
@@ -257,8 +257,8 @@
       "status": "verified",
       "verification": "RB固定偏置，RC集电极，RL在C2后；输入C1正端朝基极，C2正端朝集电极。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F035.svg",
-      "svg_sha256": "b6f449e553400163eb5d6b88a2ab174ee5d6c40eb337b31c74d1423768242ba6",
-      "png_sha256": "11337a7de05580dc238c84c48279a62fbbad4a0ff2222378f2c68ba2f24e7ac2",
+      "svg_sha256": "7a620dae33ccb73f3a0db631a77835587ab5091f499a21204ba4587d7e35cdf2",
+      "png_sha256": "af1141038f74b541a2028385fa730155e0c8e9f7bdb4a2f6411aec46706bdb95",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -292,8 +292,8 @@
       "status": "verified",
       "verification": "RB1/RB2分压偏置，RE及CE并联；Rs及us输入，RC及C2/RL输出。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F036.svg",
-      "svg_sha256": "95cd0b5a2d7ed168b54bdd4c5acf4b500d92dec96cb534069c042ee9a8fb7032",
-      "png_sha256": "67add6639825dcd4813c30fdaf9a05e3371722f802ea38c42d725fd8083c497a",
+      "svg_sha256": "812fd06b3e6850fc3e18378a5dd6343ba2a91392c53d78cddcf0e93015df2619",
+      "png_sha256": "e3669362558079226895deabe8120b7752ae71e1b425705ec43f2f14afdf6b18",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -327,8 +327,8 @@
       "status": "verified",
       "verification": "RE′与RE串联，仅RE被CE旁路，RB1/RB2分压，C1/C2极性照原图。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F037.svg",
-      "svg_sha256": "ee341a5982e61cda05ead36b75c7af6b479d12502729be5e9c215a8e0b7d0aa6",
-      "png_sha256": "bbccf14d4f2e6b2200438f37da6886bd28e67b5d96edcf140bc0a10f3029bdbd",
+      "svg_sha256": "30d3cd6e110f47d0fa57275740e7a158a0245a626d4ca93ca13cac3b9eddf7ca",
+      "png_sha256": "bdbe55cbc61338099fb94b3416121b4676b7fc6faf1dfe19d592ca79badb30f5",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -362,8 +362,8 @@
       "status": "verified",
       "verification": "共集射极跟随器；集电极直连供电，输出自发射极经C2至RL，保留Rs/us。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F038.svg",
-      "svg_sha256": "5186b2c676f6959cd573fb32164209db94d4d9caa248ff4479ebbde06c152bfc",
-      "png_sha256": "7316013fcd9d93f2cba5089aa46497538cdaedfe7adbf48496b3b84042752345",
+      "svg_sha256": "c920360e4250f94d76fe0030e581c49c58ef8b324cda1d24971378b8f39932ad",
+      "png_sha256": "25e85c616c9c684e0fa27829d4acd5c575b969dd2b2ed880232c0e8f3c7313a9",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -397,8 +397,8 @@
       "status": "verified",
       "verification": "两级共射阻容耦合，C2串于第一集电极与第二基极；两级分压及发射极旁路均保留。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F039.svg",
-      "svg_sha256": "9eebed6a8698e454b9728993c4cbae742d6738e80e6a2bd4f6b66f1f7a298a0a",
-      "png_sha256": "42df3e71485e096e8fdfdc74c05b72e14aac55f6428a5fe782b607042e61a947",
+      "svg_sha256": "8874c5bdf32521de8d6f33f62f9e60e4b3fedd0d97813773b801e8741bafb61e",
+      "png_sha256": "6f1650638ab8289ce75f2234eacb78ddfbfd532d6b5a8f6b7de4894f38b5edd5",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -432,8 +432,8 @@
       "status": "verified",
       "verification": "E6-15共射→共集；第一级集电极电阻原图标RC2予以保留；第二集电极直连电源，输出取发射极。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F040.svg",
-      "svg_sha256": "65c348ac2c96fc4b5616f93c59bdd83891f236ba7cca348a16843cd47c000a51",
-      "png_sha256": "88f526defdacf97f0286b3f475542f2358377c8ddc2785011f0f785b28bc0546",
+      "svg_sha256": "b7188bfdb836100740c878332c02a2d8790e25861528f1e0ec321daf9ef35abc",
+      "png_sha256": "94e8d9c2f7b0f418159f93861db4e6c123119be8f7fba1d4c3747dd7d4ac8182",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -467,8 +467,8 @@
       "status": "verified",
       "verification": "第一级共集，第二级共射；RE21/RE22分段，仅RE22旁路；无添RL。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F041.svg",
-      "svg_sha256": "f852a2f022d996058fc6adb2b6bce180353fbf3fc18cb70c387def3d0d677df0",
-      "png_sha256": "a4cb207da4028a5bd51b082e0e51f000113677e07f19f54761c14b0a6b8a337a",
+      "svg_sha256": "f5ff9e10c86350186a7e1da5463a656b7c40ae6dfe8ae4162dae052e13076707",
+      "png_sha256": "f1c5925a55aee3d0507d0687c25ce0d71c4201c74d3743a2b48e0080dd9a9208",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -502,8 +502,8 @@
       "status": "verified",
       "verification": "集电极和发射极各经电容出端口1/2，共用负参考端，保留uo1/uo2。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F042.svg",
-      "svg_sha256": "0044751a242f61d533f00f0fcfab2fc39622346c2899cf7fa0b1739d3436d586",
-      "png_sha256": "90f919569c16ccb9f37fb969e65dcab53e73e835d94e1cfe9b5f8809fdea6568",
+      "svg_sha256": "b00430d227a0a03fee15489fe5cea3c2c7eda7ba940cb9632547773ca890e76b",
+      "png_sha256": "dfb7ebcffb2e065264a39e2855c747c8d7a3aaa70ecc72724f7c37c222787758",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -537,8 +537,8 @@
       "status": "verified",
       "verification": "RB从集电极反馈至基极，RC到供电；发射极接地；输入与输出电容极性。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F043.svg",
-      "svg_sha256": "4db092753fac553c0be9e3ab7b2a5564fec90df736570fce18514c455037ede0",
-      "png_sha256": "21ae27a1f921a628595df434bfa489b00491707a56a382d8ae9d16e0cf11f6f1",
+      "svg_sha256": "bed114b8044016cfbbfb2c4bee24a8e2d81c8b4c1ef4be0025deea964e82d97a",
+      "png_sha256": "7182155b29cacf3e76d2e4fc950e741cb1a7d6d3476c142d0d10fcf158798a42",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -572,8 +572,8 @@
       "status": "verified",
       "verification": "RB1/RB2从集电极串至基极，中点C3到地；C3下行跨输入线用跨线桥、不相接；保留Rs/us。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F044.svg",
-      "svg_sha256": "7999977ef2aa3e9de5398570dfc07bfa5fbe8816829fe1d40cf893df2308861a",
-      "png_sha256": "18c04c721c1a9a3e51a063626dfad631ea7eb8d0580c9ac818f03d4fd60e35d3",
+      "svg_sha256": "0a624f89c9bc7e3bab8e286989153e642ec7aa155bd15bd8d5b90a613809271a",
+      "png_sha256": "02f6e6deaaf7e039f24fbf554f068121f4499658205c0bd40684302e3e310f65",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -607,8 +607,8 @@
       "status": "verified",
       "verification": "两级直接耦合，RF从第二集电极接第一发射极，跨基极线不相接；第二级发射极旁路。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F045.svg",
-      "svg_sha256": "bc8b46a0c76816ca45e0398147ca9170b8dc8259e3795893bb12bbe6654f1afa",
-      "png_sha256": "0fff15e121e05c892c72247b5d49ab060b29ecf1e8aa811cddcd6e0428ad5913",
+      "svg_sha256": "2d1802c6291cf73f7ea4c7628dbffcdb0a87eb84526981376ad12614a031c91c",
+      "png_sha256": "eea5983b2038ba1da6e6f7ca6bcf7dc1607838f279ee45c9ccdceca83424da10",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -642,8 +642,8 @@
       "status": "verified",
       "verification": "两子图分别电容耦合RF/CF回第一基极，以及RF1回第一发射极、RF2从R1/R2中点回第一基极；跨线不相接，旁路范围照原图。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F046.svg",
-      "svg_sha256": "467a83f59246bcd4caec6e768a9d073cbf39dd97c49909352e488c52af232c3a",
-      "png_sha256": "6f20219825ac5a7f1ec2e599fea41fcb344716bf7675023f73096f6093ada816",
+      "svg_sha256": "43680ef748e9e502c6ae71b2f1656effa98ff698ff285f7252dcb84eb07100e4",
+      "png_sha256": "e53c37974640ba816ded5e42aaa4abcefdb975f86c31874099819b84dd3fb61a",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -677,7 +677,7 @@
       "status": "verified",
       "verification": "OCL双电源互补NPN/PNP，发射极共输出；RB1为滑臂回上端电位器，D1/D2同向下；RL到地。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F047.svg",
-      "svg_sha256": "622fcca7aca6dcf2940bd7547b634e4f4cb5c5bebcbd3e85a3938a308f0906be",
+      "svg_sha256": "030c55df51db3ba95cd9736154bdcd7430e0dddba40677195537d67b96c2a11c",
       "png_sha256": "2210b908b77d109d18156e71715b64b91b83c0c1d1d42ae2b546ae6428cb1841",
       "replacements": [
         {
@@ -712,7 +712,7 @@
       "status": "verified",
       "verification": "OTL单电源；输入C1、输出C2正端均朝电路；下管集电极接地；RB1滑臂回上端，保留UC参考极性。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F048.svg",
-      "svg_sha256": "15312f873448d063d5883a8ff59c69c2c7b2d818caaaf77bcf1c73ec9cb6d0f3",
+      "svg_sha256": "a0a9da151cb7e67a8dee9eb430e271289ab094d0d52048fce140329007c22d46",
       "png_sha256": "8eeebcf4655bcfc51ec17ab35f1a625bc3c26991fa43f751f3b2892978241106",
       "replacements": [
         {
@@ -747,8 +747,8 @@
       "status": "verified",
       "verification": "JFET箭头向沟道；R1=5MΩ，R2=6.8kΩ，R3=2kΩ，RL=10kΩ，+10V；C3旁路源电阻；电容极性照原图。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F049.svg",
-      "svg_sha256": "a236dcfc2fd0da652a8a32f2c7aaa0f883c46efbef1e2c99fd4ca1ecb43274c1",
-      "png_sha256": "379edcf14b72ad30ef4c28aefaae6213daaf9e0fd8842eb6e9c128f022e1cefa",
+      "svg_sha256": "9e5ae33ecb88dfc1cd22b6d266f4a2c7179cfa60cfd8867ee8744c2d5e62bfbd",
+      "png_sha256": "40d77d362d474f8b8664d8f89e69d8ed29993d5a5d0e51c99d96d66228e875ff",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -782,8 +782,8 @@
       "status": "verified",
       "verification": "MOS共漏；RG经下方连分压中点，跨栅极输入线无接点；漏极接供电，RS到地，输出自源极；保留相量输入/输出。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F050.svg",
-      "svg_sha256": "83b7d66afee9e47e8327ad4db6ca43b960e71a1e6de0f838cf0607c4753fadb3",
-      "png_sha256": "466b709a382cc82e97a0ed00e5dfeb0b0b65b178d51fee585644ea96ecab888e",
+      "svg_sha256": "d674daf62ba9b0f1ec8263187af1f89187ec023af6e1f89e3c5b013b94515ad3",
+      "png_sha256": "9f7bdaca0ec4ff4272e00e78761249a02e0bfe073bd6a09808fdd8bcfbb992c9",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -817,7 +817,7 @@
       "status": "verified",
       "verification": "MOS共源→BJT共射；24V；RG1 200k、RG2 60k、RG 1M、RD/RS/RC/RL均10k、RB1 33k、RB2 8.2k、RE′ .39k、RE 3k；CS/CE旁路范围与C1/C2/C3极性照录。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F051.svg",
-      "svg_sha256": "0cd7e7cb66969bee903cce0de44336346eab39a9694620e6cbdcfe8ce15f1492",
+      "svg_sha256": "190d72a71c3537cb20465125a36a2ea7fc9cb454b4c535a10fa71e660eb8e896",
       "png_sha256": "215c6dc06275241d714d5221c95430d30e0f10afaf10063da43ca6cd6a9eb4e0",
       "replacements": [
         {
@@ -852,7 +852,7 @@
       "status": "verified",
       "verification": "四只NPN差分与镜像偏置；尾电流连Q3集电极，Q4集电极与基极短接；偏置R上端为地，与差分级正供电分开；R1/R2至负VEE，输出跨两个集电极。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F094.svg",
-      "svg_sha256": "bd8b3fbb7cd851fbb3589bac4ef61830bcace2c7c1f4b75e2858c7938c8d1f98",
+      "svg_sha256": "c8cc85a50f8e7d0ef3eb1483ac4a57ddc71bdc48beb0b73f660cb985d2826715",
       "png_sha256": "1b8b6791efa5753a144e17532ca73075f140d1c26e248b98fc5ebb848a39e3e9",
       "replacements": [
         {
@@ -887,8 +887,8 @@
       "status": "verified",
       "verification": "三只NPN直接耦合；第二发射极接地，RF2连第一/第三发射极，与第二发射极跨线不相接；保留ic3、ii及Rif/Rof观察箭头。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F095.svg",
-      "svg_sha256": "0f8bc7eb84233d2f4859bb6f7b0ff6d264aa9ae6e3093925193cc9cdb7bd9281",
-      "png_sha256": "b7150bc619d93d0132193f42d7e3831c0fda83389cde0863d5d49c2c4583fcf4",
+      "svg_sha256": "8ed675a5ef4139f8af99930938bdf6f4f03b7dac5261c41631bb282ac76fcbab",
+      "png_sha256": "b8792066fe67b4f1658d556e334d25a28d4ce971d65f315cbac692f99ccb47d9",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2015-2016模拟电路期末A_5-9章题面整理.md",
@@ -922,7 +922,7 @@
       "status": "verified",
       "verification": "复合运放：A1正端经Rs输入，负端2k到地/4k至A2输出；A2正端10k/5k输出分压，负端本级跟随。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F098.svg",
-      "svg_sha256": "7fdba305c7dcbf537a94cc4467876cedeb0920bdd1ec24a8025e53e0375d99b8",
+      "svg_sha256": "b56f3b8bb97c511193a7cab22a34636c1ecd596998449f78b5655a82ed93632a",
       "png_sha256": "236d70b22805a5eb7873865f5256f205f4f3c0252e52038ea5d867b4871e990e",
       "replacements": [
         {
@@ -1007,7 +1007,7 @@
       "status": "verified",
       "verification": "0.2kΩ、200kΩ、1.8kΩ、2kΩ；65ib受控电流源向上；ib沿1.8k支路向右；us正上负下。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F107.svg",
-      "svg_sha256": "da6aafe403e643d9f146fef8eb7a4df3699eb87eb2c1f5f2e6b93dfc065e906d",
+      "svg_sha256": "ff1c836ff95b1c5dfed0f1a7f7991dc3bd99016dee41be0fe01cd75728cd1f13",
       "png_sha256": "746dc73f0bddab4d57e75379492c68bceda70229ce88b042b7d3e5e7334e30b3",
       "replacements": [
         {
@@ -1042,8 +1042,8 @@
       "status": "verified",
       "verification": "两级MOS阻容耦合；第一级40k/20k分压经1M接栅，RD5k；第二20k/40k分压、源5k、漏接电源；C1/C2/C3。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F108.svg",
-      "svg_sha256": "38722b175b98fed38dc3426726876fad4454c66bdf1ff7f12105c51736bbb956",
-      "png_sha256": "bc6960c6b1a455616fe46b5071e6789ba4fe3ab9a2318a786c4e0e88c002ff82",
+      "svg_sha256": "c236eb14de3998302b659bd05ca142528131d5e350d05f47e9bceaeadf1e82ad",
+      "png_sha256": "2ef37cc677eb1bc7cd1d77f53d57272d025a2b56b4ccea1edcc6ea7b10653962",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2016-2017第二学期期末A_5-9章题面整理.md",
@@ -1077,7 +1077,7 @@
       "status": "verified",
       "verification": "原题两级反相输入运放各正端10k到地，输入/级间均10k，RL后10k到地；原图没有反馈支路，未补画。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F109.svg",
-      "svg_sha256": "861fa918335146fb22f3eca3472bd74f17b41e830508b00fa02d167b467c81af",
+      "svg_sha256": "fbd2faea7878a6861f9d258188e3dd9b77f12bf6b3e34ef9a86cd2805e8d9d1e",
       "png_sha256": "90f35c66100f8d6afe17070a16e05d3ebdda36fa3f052a2100aef026b8619e7a",
       "replacements": [
         {
@@ -1112,8 +1112,8 @@
       "status": "verified",
       "verification": "MOS共源，RG1/RG2分压、Rsig和vsig输入；RD至VS，输出直接取漏极，无输出电容。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F112.svg",
-      "svg_sha256": "ba675bc564298f81ed76ba7343d65e16750f17187920424c86f230ca7ea3df03",
-      "png_sha256": "7cd1e93b70172ef514c5c6535445d543bf2aa01c4c6ddd97d7542877651a290f",
+      "svg_sha256": "5af0bf5ea0dfa67ee92e180e1ac5afc284a4acadd9d9ae83345826039e4784a0",
+      "png_sha256": "f6db4ad5c5c2b13a1d7d0964d7e1a8e4bd13a0d7fec3776e9c0504385b0eb61a",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理.md",
@@ -1222,8 +1222,8 @@
       "status": "verified",
       "verification": "3k/1k与12V输入网络；受控电流(4/7)(UGS−2)向下，串2V正上；输出2k/12V偏置，5μF后负载2k。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F123.svg",
-      "svg_sha256": "135924e7925ff88bebebc4cff5655d20c6888227bb1a264324d0d383a5dd8e32",
-      "png_sha256": "32b7bc11d5bbcc6ab7efd9f9e2242df2b96e83196f60dcd3c0a28d0b19c1ef33",
+      "svg_sha256": "630b3f912bd5863a9467f69e14d56f5593401617811b3681af3ec9b2d5e7aa16",
+      "png_sha256": "424215602cfe4429adb58181bdf9d4996e06fe7e6de65fbb8e97d3b6cf4b1fe9",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md",
@@ -1282,8 +1282,8 @@
       "status": "verified",
       "verification": "6k/3k偏置经48k接第一MOS栅；1k集电负载，第一漏极直接耦合第二栅，无中间电容；第二源及RL均1k，供电12V，输出C2。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F125.svg",
-      "svg_sha256": "162d7bc322c6b6c08fdfa7838c723595d31866b169d126aa203217dca4b270b0",
-      "png_sha256": "e099d08b1a0712469e53ae0553cf426ce0b5971c1763af3668a4a89aca811ee4",
+      "svg_sha256": "d66cc79373c6ebcccfaa038431f8725d81be56e0f4eb73b00201105e21acb95f",
+      "png_sha256": "3d2bf4ff6c9f16ec9f2b63d8f8d52db343e77fe9a8d4f5561cf356992fce39c3",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md",
@@ -1317,7 +1317,7 @@
       "status": "verified",
       "verification": "两级正输入；5k输入/级间，A1负端5k到地无本级反馈；A2负端10k到地并10k反馈；RL后5k到地。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F126.svg",
-      "svg_sha256": "d0ff18da5c9f0280c7b36c3fe581ecb006da90c8b96ebc29f775fc9a453949b7",
+      "svg_sha256": "668803665c7be011f4b965a706ddf3f662f0950f0f795667b5916531e92be2a5",
       "png_sha256": "b19cec6810c4b42357354c1708227fc9a9e54e914d1988769f0cf8168ff18b0f",
       "replacements": [
         {
@@ -1377,7 +1377,7 @@
       "status": "verified",
       "verification": "原题仅空圆三端，标12V、11.3V、0V；未猜测圆内器件类型或方向。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F132.svg",
-      "svg_sha256": "ea5ebf57145824572d445f9d15f973c54dd6579a6e90b2b50c682ffd72b11d7f",
+      "svg_sha256": "aaa2c642b1d7cc185ca5ec79dec563c56dfa298678920ca1b1edbd2872fcaac5",
       "png_sha256": "4b2c256acfd89ad5a52b509bcdbba8a91c8ba70e9a3a6996b6ba380544c56a2e",
       "replacements": [
         {
@@ -1412,7 +1412,7 @@
       "status": "verified",
       "verification": "三幅电压/箭头照录；第二管PNP，其余NPN；不给工作状态答案。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F136.svg",
-      "svg_sha256": "410718a17349b34d7ccee3ae0a9e58ceee2e6159c79d1f3ec640c1734efa7ce6",
+      "svg_sha256": "7ca4385d0960121800702cb1f188d33c24ec5d9e7ed034f45c08831c6e530da0",
       "png_sha256": "f4347ce38745d8fa377d812b479464fae7a5c62a252f5fd5e67f443938bd83e5",
       "replacements": [
         {
@@ -1447,8 +1447,8 @@
       "status": "verified",
       "verification": "Rb与VBB基极偏置；独立右侧RC与VCC支路；发射极接地，未使电源支路与发射极线重叠；C1正右/C2正左。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F137.svg",
-      "svg_sha256": "4bcef1d0ee7a0fc049e450ad75549d84ee5bf2ba1460d259473098035a911388",
-      "png_sha256": "0b732365908d71bdcdfa89e3d412de43b6e077e8abb0bdb7a322d346f3fecc16",
+      "svg_sha256": "70094d60d6fb288c2a06d1229acf0abe1d8a4f9c1e9049074487984de610ee1b",
+      "png_sha256": "946ac50dc8992120bde7882c9b8c7b38dbf9a19b7ebfb93c62f5e470aff9d44f",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
@@ -1507,7 +1507,7 @@
       "status": "verified",
       "verification": "两级同相输入网络；第二级10k负反馈，RL后1k取样；RF从取样节点回A1负端，不被导线短接；A1负端10k到地。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F142.svg",
-      "svg_sha256": "2aba8dcfecf13ce50537a8b86ce015e89d9b3fce3db6305711344552cb3f4b82",
+      "svg_sha256": "04d24ecf464615961e42e519426e40b58abd165fa992d8fecf51642282281fa2",
       "png_sha256": "bae8021054008379eb043b63bcd3f30756d72dee51c4d60accaec09b9da3bec2",
       "replacements": [
         {
@@ -1567,8 +1567,8 @@
       "status": "verified",
       "verification": "50k/R偏置中点经1M接栅，输入线跨分压支路不接；RD=.5k至12V，源接地，无输出电容。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F145.svg",
-      "svg_sha256": "cf94acf4a03519323441eafcfa1efef162505550539cdb14bc416280b487c80f",
-      "png_sha256": "7bbdccaa7856e9323ea2b13a7c8d32d7c8d945976db6af34eefd9c751ba9d4c3",
+      "svg_sha256": "5faf04567d598ecb51455469238fa3b939564e983771cda8f1d73197a08c071d",
+      "png_sha256": "25a528da89cde592cb4afc17b6f8ce71417419832c1ebadc9f902e597d5de62f",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理.md",
@@ -1627,8 +1627,8 @@
       "status": "verified",
       "verification": "414k/9V与1k/.7V输入网络，I向下；50I受控源向下，5k/9V输出网络，5μF与5k负载。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F149.svg",
-      "svg_sha256": "9613ff77bdb7c0837aff6018ca562c970b0d5b02d959df51d1084d3476b3f94d",
-      "png_sha256": "74ec0e0899e6d724fdc6b2cc26a9b11ccd0ca3866bb7c71ec9363bca52e649ca",
+      "svg_sha256": "3d6c5294c038dd083dad795e9fc3bb55f1e517781ff26c16ab9502b7ff88cfeb",
+      "png_sha256": "c9c98dd81e925fcf43b8a7da79130fb374bf7e6563cd98e25282d16a2991f5f4",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理.md",
@@ -1662,8 +1662,8 @@
       "status": "verified",
       "verification": ".5k、50pF输入；u正上负下；4u受控源向下；1k输出电阻，5μF串负载1k。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F150.svg",
-      "svg_sha256": "2650f91ce2388b4bf6ebe83327c148ed3bedd87ec0f4c1c76ef64c7c75b342c5",
-      "png_sha256": "4d75a3d4a3f0b52216988ad477286caeaded4fa7550004d5d7e067b4b418495c",
+      "svg_sha256": "13fd5055f33c00ce4bdae421e1e5a07418e48177132dbf1fb0ea12584ff45fee",
+      "png_sha256": "6a6be4876c0ed1c8e21c11db1dc9429434ce03f7a108b2b975152abbbfdeb18e",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理.md",
@@ -1697,8 +1697,8 @@
       "status": "verified",
       "verification": "350k/100k偏置，9V、RD=RL=2k，输入/输出各5μF；NMOS源接地。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F151.svg",
-      "svg_sha256": "2549f45a241c5ba3bb294df755aee8e3ca3c6b612b5fd0a8cf59f5e5ebd2dee4",
-      "png_sha256": "fe1c368916262c518fc093a266f932c6f40ab339e0dddb75a623177b5269b932",
+      "svg_sha256": "5031b313478249336a92da39b884ef94e35c1ece1b4c66db970c825ecf346e30",
+      "png_sha256": "0e898858cc905f3fb499a8a2f41153e73d06944f0790de241210ba2bc9ef1fdd",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理.md",
@@ -1732,7 +1732,7 @@
       "status": "verified",
       "verification": "运放同相端.4k输入、反相端.8k到地；输出驱动MOS栅，RL到+5V，源.4k到−5V；运放正负供电均显式连接。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F152.svg",
-      "svg_sha256": "e583edd41ce54f815019f8ca43052d02e1e54a57362c72eafb22152357bc9470",
+      "svg_sha256": "bfc6fb40e07e59bb878d069a27207dd13ca8e3be968c8cdf75efad13c736fe34",
       "png_sha256": "a769b575d35f4032b40d77cf1abfeb19202edadc89a1ce648932ecd2603bea73",
       "replacements": [
         {
@@ -1767,8 +1767,8 @@
       "status": "verified",
       "verification": "Rsig、C1输入，RG1/RG2分压、RD至VS、C2输出；保留1′、2、2′端口。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F160.svg",
-      "svg_sha256": "b1c73a5ff9cfd662f36133d0e65d8bd30a9c59c8127dafe31768b9685745109e",
-      "png_sha256": "81c26f479e60fca2feebd2c915fb0bf97d122f10a0e962f3d5c66f238a5b86dd",
+      "svg_sha256": "074c74a0144c55c7a0f7719f8b8abc4ee164751d889134b283c1db1237824d47",
+      "png_sha256": "d6dfefc11f9122a597123d2f005ad66e8f41c53b90a9f63bc818d9844ca19053",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理.md",
@@ -1837,8 +1837,8 @@
       "status": "verified",
       "verification": "MOS R1/R2偏置、R3漏极负载，源接地；保留g/d/s及ui(t)/uo(t)，输出直连漏极。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F165.svg",
-      "svg_sha256": "3fccdef927eaa9eba68b771c8d4e60affe4aa28f0111adb66734bd874bbe0842",
-      "png_sha256": "bff25783d37dcd60bfa94ddea8a7b48a1f529d9734368dfe6642e539f7821dd7",
+      "svg_sha256": "9e6aa24db035e8e74d367c7008613edabf65160cb7785644aa4d37707653fe0e",
+      "png_sha256": "5f79e4962746b1053cc696ec056a6885b07d5df48b5f4c5878e4a5ac3c16b752",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2020-2021期末_5-9章题面整理.md",
@@ -1902,8 +1902,8 @@
       "status": "verified",
       "verification": "3V，10k/10k偏置、5k漏负载、C1/C2；保留us(t)和uo(t)；源接地。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F168.svg",
-      "svg_sha256": "f9621ffd3b0375eb1beb65f77eaf9448e3113c0a84c37dc190c0b1d59f4c8c44",
-      "png_sha256": "67623f133b81dd1d6ca28e9814171193ea6cf3ce3d290617232ff9e386256086",
+      "svg_sha256": "7ad06ca1d69d6e37a91faea373fd49bf97e38c162dea397b75aeb1ccef31d5ea",
+      "png_sha256": "327d0d4d4d62a431ebb24fdc01d3e3e678cc9f9917fd98821137595057945b20",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2021-2022期末A_5-9章题面整理.md",
@@ -1937,8 +1937,8 @@
       "status": "verified",
       "verification": "R1/R2偏置经RG至栅，输入跨线不接；VS=10V，RD=6k，C1/C2，RL到地。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F172.svg",
-      "svg_sha256": "154d785ad3b5d19446d891d743b523c5d9dc3bdb4085584c802f7004a6576579",
-      "png_sha256": "771435d0827c7007fdc5fdfcd63f27a5083d7dc52e612c55661c2db625c5c7f2",
+      "svg_sha256": "b05f53355920fc110bfe8d9f809156fad02dccff6d2de703b4c4c8258269a8eb",
+      "png_sha256": "6fc18bc452dc31a51b917a5e33dabec6715d21692c29a2d1c6533493956c9187",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2022-2023期末评测_5-9章题面整理.md",
@@ -1972,8 +1972,8 @@
       "status": "verified",
       "verification": "MOS R1/R2偏置，R3漏负载、R4源电阻被C2旁路；输入C1/输出C3，RL，Vi/Vo极性。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F178.svg",
-      "svg_sha256": "1585e6b37b19ff01bbb3c5a71090d4cbdfbd39cf53fa43f61f3154bc0a799df3",
-      "png_sha256": "e08e729845b87f3301e43470392308536f05d73802a322371c24a6e6c8bed757",
+      "svg_sha256": "4dfb13588868526c7d3914100bba0ba643e036dfaa909d64e251b90532e97299",
+      "png_sha256": "26983e2d73968806922b96ab6549d79fbed8cb702bfd1274a4e65a84c350df03",
       "replacements": [
         {
           "document": "10_题库/成惠团队期末卷_5-9章/2023-2024期末A_5-9章题面整理.md",
@@ -2082,8 +2082,8 @@
       "status": "verified",
       "verification": "固定偏置共射，保留Rs/us、Rb/Rc/RL、C1/C2及UBEQ/UCEQ参考电压标签；使用原题符号大小写。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F183.svg",
-      "svg_sha256": "7a255dedba272b406fde601369dd674be143afedd536e10ddd28c552d3898b76",
-      "png_sha256": "b3c749a607a15815675fc432f885cae788fac5c551abec4de88d783c185eff13",
+      "svg_sha256": "529ddd34686915f6c82c676b53c02d363a60f3499f0b468f0ceace01ac5708e3",
+      "png_sha256": "a432de85121a43d5c62c70a33954d9762da1961c88bd7fa352eb3fd8738094a4",
       "replacements": [
         {
           "document": "20_知识/第06章_晶体管放大电路基础_主干重点.md",
@@ -2117,7 +2117,7 @@
       "status": "verified",
       "verification": "三级端口等效：后级输入电阻接前级输出，源阻、各级输入/输出电阻及受控电压源、RL、虚线边界与省略连接均保留；分析要点原义照录。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F184.svg",
-      "svg_sha256": "80dec8a578b37f4f9614f54de9381bb9f3b22cc9674154da49f731bd6fecddd7",
+      "svg_sha256": "6607700e8bb4345e5ce72a5120d5eba25d489296d19c39c4baca8ab7b2fb3dac",
       "png_sha256": "aeca4188791cfa00563c933878eb4b6fb9850a91f7c3296f7d2424be58bb1fbf",
       "replacements": [
         {
@@ -2152,7 +2152,7 @@
       "status": "verified",
       "verification": "差模对称半电路，两只NPN镜像、Rb1/Rb2、RC1/RC2、分裂RL/2到虚地；±uid/2输入及±vod/2输出极性保留，虚地对称轴为点线。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F185.svg",
-      "svg_sha256": "ad956cf724492fbfa660975531e82ec79b0a4f01ce89454a5cd1b3888cfcaf80",
+      "svg_sha256": "39174518b416d465fb0d9c490344e03fd238e84d26236ef0e333a2bceba89e0f",
       "png_sha256": "8dde58f223be799eeb720fad8460818551c54382dd61008356d22f1a160c6b86",
       "replacements": [
         {
@@ -2187,7 +2187,7 @@
       "status": "verified",
       "verification": "OCL/OTL并列知识图，R1/R2、两只二极管、互补管、单/双电源、隔直C及RL照录；POM公式分别VCC²/(2RL)、VCC²/(8RL)。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F186.svg",
-      "svg_sha256": "ef6d5ca1ada847a7ac726a4141baa9299497a01a7308733df19c00d18720cadd",
+      "svg_sha256": "33773fd27319c798cf8c1cb687b99e82e9c394591744aa37c8ee6b8266fa3293",
       "png_sha256": "c55620c42374e95c91f683cf1d2056e284972942766c2f56ff77f782c797d5f8",
       "replacements": [
         {
@@ -2222,7 +2222,7 @@
       "status": "verified",
       "verification": "同相负反馈，R2回负端、R1到地、RL到地；保留uI/uo及uD/uF的正负参考极性。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F187.svg",
-      "svg_sha256": "e9baafa016dd6906a9d6e430c9c9738ce6a1c74c08a9ac41610b12a8971b8948",
+      "svg_sha256": "7a860e8ea07a190b3ceefbafbdfbd3c48d2ce9d970b885cb2db0da2c615b9f09",
       "png_sha256": "8aebd2751bfaafd42a5a36b163eee8563f8b8143ce079ae1fe53a00bf97c7503",
       "replacements": [
         {
