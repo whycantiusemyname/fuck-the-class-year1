@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 107865,
-    "sha256": "507045cc61c3c84809f756702677c6de40fcf560c27d8e0012245307b125c205"
+    "bytes": 128166,
+    "sha256": "4e6a90ec43344746de75b25bb97fff9e9b203f676aad5378dec9ac1e11cc7493"
   },
   {
     "path": "tools/verify_share.py",
@@ -1378,6 +1378,581 @@
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/mapping.json",
     "bytes": 19051,
     "sha256": "ca4a9a3cc70782662f0bab19045ec09a6b79a8b5fdc61591798f72d12d6d13d9"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/001.png",
+    "bytes": 19237,
+    "sha256": "6a0563ceb092ccac0581d74b439215471e61c1b4490673ae348922b2780156de"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/001.svg",
+    "bytes": 12022,
+    "sha256": "51c82c31d3bde1ad7001b5016ddddb8ba829353dff62a6909ca7107c00c1b868"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/002.png",
+    "bytes": 11954,
+    "sha256": "4df678eb73c61bc68590423fd8e6140d7cb370fbce33f5682901b3170b56d255"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/002.svg",
+    "bytes": 6409,
+    "sha256": "78da79dac85b918051904896f0694d3c9abd8362929a778dd36f9b141d2ca6a4"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/003.png",
+    "bytes": 29304,
+    "sha256": "241484027b3d0305d388bfb801d02c0427301a7d2eb997486012a7f8a949e1af"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/003.svg",
+    "bytes": 11007,
+    "sha256": "f3d1d6afe4889ecc66d8c78f16c9d07189fa646cf5a657499d371bf82b22946b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/004-extracted.png",
+    "bytes": 30441,
+    "sha256": "d2f3180507c33d1a55aaacf85b113b5a5d3c10cfa0e3c375400e9bd4526246b1"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/005-extracted.png",
+    "bytes": 37838,
+    "sha256": "1e417dd3e254697b56327efb23b7739103316e6d49a3ceec7e2aaab56043d317"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/006.png",
+    "bytes": 36014,
+    "sha256": "0af0ae6243bc4c8db5596df2aa9441c67dc285b1780de819386bfbe832de04b7"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/006.svg",
+    "bytes": 9261,
+    "sha256": "838568969f7985511f7c6a4b6e5274a5ee8ebb4a1b3730b5916d6d5ad9a0f832"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/007.png",
+    "bytes": 32189,
+    "sha256": "a92c924a5d0ac4006aa8ca4b7f10228c892be1ff6063c4fdea6d16090343ea3b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/007.svg",
+    "bytes": 13368,
+    "sha256": "c52d9f05b416a498ad2453089242c67196c9dc835e49f385f5607976c57fb987"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/008.png",
+    "bytes": 43698,
+    "sha256": "fcba46ac019b86a804209d94faf395db597719f9794cb5b5f2a80e779b419ddd"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/008.svg",
+    "bytes": 8439,
+    "sha256": "26637272a4fac94cec66121ba253557dc2dc82273d6bf66dfcedad485193cb07"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/009-extracted.png",
+    "bytes": 29015,
+    "sha256": "68ea2d1b0c16ca9b4cc35f7b2319ca33fa1167ba1b9291d6171008ea38e325d3"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/010.png",
+    "bytes": 29236,
+    "sha256": "a069737e1945f8a46614910d9eeea7fee691e006a8ca7d8308b8d47ce0385076"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/010.svg",
+    "bytes": 15782,
+    "sha256": "1e9f429b37e703bc062e87b9a2662daaa422e4df3d380ece2ddb618088643246"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/011.png",
+    "bytes": 51485,
+    "sha256": "ce0648c2342355ec4eb26dfb9de0e55921e418fffa549cc220be1dd3aaf8f0b5"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/011.svg",
+    "bytes": 10934,
+    "sha256": "54e89b39b3097435fcf4e664eaf00df941d13d157dad5492e6f75551ecdd1ae8"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/012.png",
+    "bytes": 35420,
+    "sha256": "544e20aead09f8735d7af8cee4ba01105184ad0f3900c72e760f14ad61195091"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/012.svg",
+    "bytes": 18145,
+    "sha256": "642cdeb413f957a5e5695e5a3468388172cd6100eb4f7d2823cafaac06a99938"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/013.png",
+    "bytes": 34499,
+    "sha256": "f77197cd716fec5932cfdf58d06a48470fcf44115c69e8a86793f1d45b4d0637"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/013.svg",
+    "bytes": 5099,
+    "sha256": "e069cd7f89e1dfbfec14de528185b56687b22feebef9b7ea67c8596474b52eaf"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/014-extracted.png",
+    "bytes": 30364,
+    "sha256": "b96bf9db20ae215c6da720e5884841d1512f25dc92e90430f394392c9649c163"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/015.png",
+    "bytes": 15376,
+    "sha256": "ddfa079e83819a91eee3d9a847de523929fa5e08449a6b5cd20de9fc2fad485b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/015.svg",
+    "bytes": 10245,
+    "sha256": "c1393ddbc0926d5f9749ade1e8735af2c6d0cfc767209b36d7fb65ba803822f0"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/016-extracted.png",
+    "bytes": 38166,
+    "sha256": "f6682e79d815c2f3bfd0502c947b3cbd84f9844bc9531b4631207e8fcb934b16"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/017-extracted.png",
+    "bytes": 46493,
+    "sha256": "15f0f38add330cbd9a28ff2bf3e7a0e1287daf137a7064277e1307d494744487"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/018-extracted.png",
+    "bytes": 30892,
+    "sha256": "ea53bd9100c482d6c45f2775fa109381a4c7b47ac1050f58d5386e2a24ae5ec3"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/019-extracted.png",
+    "bytes": 70580,
+    "sha256": "9ab17ae5c3e64e5f78e3b3fe11bc0d6f062a9f01db5dfefe4f41d35325aeabff"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/020-extracted.png",
+    "bytes": 30990,
+    "sha256": "c1f8e11b5a364ee671f5570660a5a5c6c0410d4d1e620eed7c0c99b98b92b3d4"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/021.png",
+    "bytes": 16462,
+    "sha256": "1d79f113910a1d432df3829b1741266b940f8465af7042cfffc803eff697871e"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/021.svg",
+    "bytes": 10944,
+    "sha256": "eb98ea919657ecfc8cb9594101ebaac90f4e80c4a4fd7189b81d1f7a909c4b85"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/022-extracted.png",
+    "bytes": 76780,
+    "sha256": "26d9340fd15ad23cdfeb5213a002595061ba287eaafb69688f3d595703dba303"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/023.png",
+    "bytes": 23587,
+    "sha256": "3224f49aba45600e1e72c08f4508cd3c2a40f66681b465d492c6534d50ad6334"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/023.svg",
+    "bytes": 11417,
+    "sha256": "8373eb73f09ad9cf707331a8de172318bc91ed4c9f3803b26413732741c4e9ee"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/024.png",
+    "bytes": 39000,
+    "sha256": "9466a0d9a1f38ce4391c3f69c2b3abb08eacad1c0cd9633d850a76a3f1e3ebb9"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/024.svg",
+    "bytes": 6694,
+    "sha256": "15ab3ce8371e208844651a4d1d8401bb78f7b6264d29cb55996f7f34bb1b82e4"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/025.png",
+    "bytes": 21815,
+    "sha256": "1e97ca2dadca457dbd30b43eb6d9cda28a771d005850c8f33b4ad8f3dee851b5"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/025.svg",
+    "bytes": 7152,
+    "sha256": "103f02291f2b07881328d94ab46e18ea247aeff88b3251771b9ebe83ecf93d0a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/027.png",
+    "bytes": 49040,
+    "sha256": "7ec523d43ffc72777172310aedcd8d45fe810cd9eee94d975d6ac848c6d3efc9"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/027.svg",
+    "bytes": 11372,
+    "sha256": "c1844377bdada6356ab139f31383bb23348e40dae8c1b21a1f938539580acd40"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/028.png",
+    "bytes": 35420,
+    "sha256": "544e20aead09f8735d7af8cee4ba01105184ad0f3900c72e760f14ad61195091"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/028.svg",
+    "bytes": 18145,
+    "sha256": "642cdeb413f957a5e5695e5a3468388172cd6100eb4f7d2823cafaac06a99938"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/029-extracted.png",
+    "bytes": 51622,
+    "sha256": "ac231255ec36874e78ece36ccf2a8789e3ccc8f11ef111f626701a7e02a795aa"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/030.png",
+    "bytes": 39000,
+    "sha256": "9466a0d9a1f38ce4391c3f69c2b3abb08eacad1c0cd9633d850a76a3f1e3ebb9"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/030.svg",
+    "bytes": 6694,
+    "sha256": "15ab3ce8371e208844651a4d1d8401bb78f7b6264d29cb55996f7f34bb1b82e4"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/031-extracted.png",
+    "bytes": 81944,
+    "sha256": "7951ebd3a8626a1976e199daea94883affe7910d42de512eb0582f07ff20b3c5"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/032-extracted.png",
+    "bytes": 56612,
+    "sha256": "6d2861ff8c85b4b7a5bed8cb136ff5dd593204bce36c7447ce928c0279e524b1"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/033.png",
+    "bytes": 32210,
+    "sha256": "a87f0c93eec4b1a6f87be8f0e7964fe6913753d9658d7a2b422c14db85c72380"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/033.svg",
+    "bytes": 16207,
+    "sha256": "656773166f2b23b64188542cb5606b06150f28ff796259bfd90f3955f7abd77b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/034-extracted.png",
+    "bytes": 87583,
+    "sha256": "14f9b2a8c729e1650c2e4847b04da2622d30af585127b01c6910fe3b8464e462"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/035.png",
+    "bytes": 21931,
+    "sha256": "effa0fb6d72a5408e39cc86db58e0b17468e08669e1ad2e6de0e7d78cdb2ff5c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/035.svg",
+    "bytes": 10817,
+    "sha256": "1ec298480f5eebbede6087cd7123ac42055045a32b55fad13cb59ae4501b38f2"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/036.png",
+    "bytes": 29996,
+    "sha256": "adcf3c75797a1fda2e0557997288a4732004fc62adf92b1f9882160b05f22f89"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/036.svg",
+    "bytes": 14444,
+    "sha256": "0304a409cba94ff88808deda31162bc2ed79e92036d43580620d2a3f03395131"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/037.png",
+    "bytes": 35292,
+    "sha256": "6de39e511d8d7855fb95dc2ff3568a417b0dc0fad17bb1565c589f1fb926b6b8"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/037.svg",
+    "bytes": 15104,
+    "sha256": "0e2cc4f58df17386c1bc99ef7be5509c89ada250e000ea4e0c104ee60878f4ca"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/038.png",
+    "bytes": 21916,
+    "sha256": "3df78b450f07c666bec50df52e1111a4b0778b0ec831cb87321bc4cc28b8037a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/038.svg",
+    "bytes": 14339,
+    "sha256": "395b3b80ba774a78b336ccdd988fc7b8c4f7009266fef9da2509b6382a6f7198"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/039.png",
+    "bytes": 31643,
+    "sha256": "343c8f978f24f08a75d7ee659796d1588fd9f208d04d300f0d86c4b6f48920a4"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/039.svg",
+    "bytes": 9356,
+    "sha256": "679cd228aa488d84818d595b622f0af25571bd81f4ce969ec95a5aff667e0d8d"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/040.png",
+    "bytes": 32773,
+    "sha256": "fe6cc28e4c60ead346876e506595edbcabb298f4e5ff7451aab792566d0d93ce"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/040.svg",
+    "bytes": 15602,
+    "sha256": "b86731e480e81b855438ed4edd63b42aa7a9778b2a965cd3fb7c84eb311931ca"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/041.png",
+    "bytes": 45110,
+    "sha256": "6578a65368fce654224e335737f1007bb0fe16c1b0ab52929a4b4133eca163b0"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/041.svg",
+    "bytes": 11097,
+    "sha256": "2c178fc83f79ba6b9d317067fb9f023e09641188c9e252941a7a170ae4385438"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/042-extracted.png",
+    "bytes": 56008,
+    "sha256": "d14a38637e2ee8f4c4b06b82757c51bfc691e5f3202ca5889f8925ccea74a955"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/043-extracted.png",
+    "bytes": 60320,
+    "sha256": "901d148fae3c875d942f0fa3e407e793efe3703ecfe1efcdbf8376370f75635b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/044.png",
+    "bytes": 13662,
+    "sha256": "8e0e2b20780a7bc462e19055d90263d8c77cf2d0217f0639fa0066b18fbc9d2d"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/044.svg",
+    "bytes": 9221,
+    "sha256": "6972b188c40257ed9ce9affb1a896f27796d932e7b2afd47289188720ef1215b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/045.png",
+    "bytes": 21815,
+    "sha256": "1e97ca2dadca457dbd30b43eb6d9cda28a771d005850c8f33b4ad8f3dee851b5"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/045.svg",
+    "bytes": 7152,
+    "sha256": "103f02291f2b07881328d94ab46e18ea247aeff88b3251771b9ebe83ecf93d0a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/046-extracted.png",
+    "bytes": 55452,
+    "sha256": "54d40523e47f9f695b7d979e784406b3ca96eb448f0b7a53264642f242e39e8f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/047-extracted.png",
+    "bytes": 76421,
+    "sha256": "d926b2fbc543a73c3ca5d523563c0633d632bd22e1c430986282c8759e104fbf"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/048-extracted.png",
+    "bytes": 47148,
+    "sha256": "1e311b0be4f2d3cde5dfd3d0be9577a48f3fca472200a694b2c25158d6743b6c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/049.png",
+    "bytes": 26286,
+    "sha256": "a6ac0f84dc84e65bd5618947d941131a68bfc4af8ffee60b24ada9381342f904"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/049.svg",
+    "bytes": 13540,
+    "sha256": "484f13a77482a4618fadbbb5d8e4d1f79bf6cb1eb93443ad8d17e518985b02bc"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/050.png",
+    "bytes": 21931,
+    "sha256": "effa0fb6d72a5408e39cc86db58e0b17468e08669e1ad2e6de0e7d78cdb2ff5c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/050.svg",
+    "bytes": 10817,
+    "sha256": "1ec298480f5eebbede6087cd7123ac42055045a32b55fad13cb59ae4501b38f2"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/051.png",
+    "bytes": 29996,
+    "sha256": "adcf3c75797a1fda2e0557997288a4732004fc62adf92b1f9882160b05f22f89"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/051.svg",
+    "bytes": 14444,
+    "sha256": "0304a409cba94ff88808deda31162bc2ed79e92036d43580620d2a3f03395131"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/052-extracted.png",
+    "bytes": 57528,
+    "sha256": "fbc5f55d4f76898f702dd060e2a487e11b017600bd99c7a8b88f21031e3831b4"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/053.png",
+    "bytes": 23617,
+    "sha256": "6d24d3735119a2681a32043cb287f094992e4dcb99c857128f301be29bb01d29"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/053.svg",
+    "bytes": 8115,
+    "sha256": "73f4c047ed1c798dccdc2ffcce2ba3e27cf465ce394cf23c097f6e1ed76ac1ad"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/054-extracted.png",
+    "bytes": 59757,
+    "sha256": "50e49f91a471491e39c50cdd75d93230792f03a5b55d8c0e741f9c7de560fae4"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/055.png",
+    "bytes": 39000,
+    "sha256": "9466a0d9a1f38ce4391c3f69c2b3abb08eacad1c0cd9633d850a76a3f1e3ebb9"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/055.svg",
+    "bytes": 6694,
+    "sha256": "15ab3ce8371e208844651a4d1d8401bb78f7b6264d29cb55996f7f34bb1b82e4"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/056-extracted.png",
+    "bytes": 35591,
+    "sha256": "8f8417fb70d75428190e09f07e709ef5bcd15256c4068b29c04553b9aee0047d"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/057.png",
+    "bytes": 23064,
+    "sha256": "c3bdc98f30aa7ba5d87ed1476821a4ddb5ed73e01b8f29c066653252650a3ff9"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/057.svg",
+    "bytes": 10990,
+    "sha256": "eb136e4802f9e36e53dfa43e3afb7ae4b7c73d7a064a0522ccc98e1ea8efc131"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/058-extracted.png",
+    "bytes": 90246,
+    "sha256": "1e9d0797f92e228fd44ab6cc091c3b756b426040610500c139f60a961291f625"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/059-extracted.png",
+    "bytes": 33493,
+    "sha256": "77c909b311cf64a9584386186e76160cd3d0d3766c7d3b66b676184b689a78c6"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/060-extracted.png",
+    "bytes": 70663,
+    "sha256": "78a045e4297460d15560409130cebbfa3e0b3fcbec5fa95876df36ef06113a58"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/061-extracted.png",
+    "bytes": 91862,
+    "sha256": "d489155fcb686d0dd445296409f1336296895c4f27d34551ca38480e13a5efb9"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/063-extracted.png",
+    "bytes": 108437,
+    "sha256": "732bd225b01406ca121cef5b52d7fb463d8590bcfd304e1fb5797ec05eaa2040"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/064-extracted.png",
+    "bytes": 53077,
+    "sha256": "e2985234d40e134efb42bba3fd0dce8be480f5bb4d08eb4b639a7efc6bc2bed4"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/065-extracted.png",
+    "bytes": 49607,
+    "sha256": "9c49cd291f982cf4bc80d8f455346b6ff2df1ac9689133317bd91a566f8d5051"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/066-extracted.png",
+    "bytes": 52355,
+    "sha256": "ad0221f1207b7550ba06df038e86e9519f1280626ce5d742f5908f1e60b3eef7"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/067-extracted.png",
+    "bytes": 171961,
+    "sha256": "20b60e1a173dde75d465116568f0c1c05088ee505040c893c79a37671add0864"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/068-extracted.png",
+    "bytes": 113607,
+    "sha256": "cced0994a6540b312fb70fb0db1d46a70d5cc82c553f79330138691170709fa1"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/069-extracted.png",
+    "bytes": 69691,
+    "sha256": "4c67e7d4b89b5d0f76b4ab15eb57945ea56169eddcb69f7cfeaf547cc3dc02df"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/070-extracted.png",
+    "bytes": 49300,
+    "sha256": "c6ce4babe82535d5191e13cca438da6b43743d3b42a1ed2da5d1ad6d487b3700"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/071.png",
+    "bytes": 16077,
+    "sha256": "1ada2af4866cdae69ca3fca5ca62baba781913fdde06b1dd99e5a54ee4492bd5"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/071.svg",
+    "bytes": 8015,
+    "sha256": "dc28613575e682d59be50ba6e9e90680aa6e4e7bddf6627c85c91bfa874970be"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/072-extracted.png",
+    "bytes": 50421,
+    "sha256": "6ce827bcd57bf574421b5d9dd4183cb1e7902449754de08fa80692d8a5971ffa"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/075-extracted.png",
+    "bytes": 236445,
+    "sha256": "ea4b6910dbfcd23a76203388609de9a56b30c177992c725993c2269d2be3e9f1"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/076-extracted.png",
+    "bytes": 99028,
+    "sha256": "cf36009984953b7424a8378aef3293626d331007d58bb02cf9ca26a19a2719d9"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/077-extracted.png",
+    "bytes": 74098,
+    "sha256": "456b83740dbb5b81c5ac4435cf6d18e80ca040118b54aee07770bdfc8ac73e44"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/078-extracted.png",
+    "bytes": 115476,
+    "sha256": "ef114206fe98d609300dd1a0220b077d98e9b904bf6adfb82c733d1db04fa035"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/079-extracted.png",
+    "bytes": 104532,
+    "sha256": "14d3922d57b38ef78361ff5beb32015dc4f44f7b96ec11572d222a1bb1967499"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/080.png",
+    "bytes": 29236,
+    "sha256": "a069737e1945f8a46614910d9eeea7fee691e006a8ca7d8308b8d47ce0385076"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/080.svg",
+    "bytes": 15782,
+    "sha256": "1e9f429b37e703bc062e87b9a2662daaa422e4df3d380ece2ddb618088643246"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/extract_from_pdf.py",
+    "bytes": 1378,
+    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/generate.py",
+    "bytes": 10726,
+    "sha256": "c90731eadcff9ad6696fedcaf4fae747a2528b756c0e8ad593481d4bb95554ee"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/mapping.json",
+    "bytes": 193044,
+    "sha256": "a51b841a204b6473b978cdde50367ee8169ea5d2d5bf5abd35cb0fc0d8b597c6"
   },
   {
     "path": "物理/10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
@@ -3526,33 +4101,33 @@
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
-    "bytes": 3852,
-    "sha256": "2d1daa3974b8813f1958311cfee600fb71babf27253d2976cd139f33b982312b"
+    "bytes": 3744,
+    "sha256": "94169f88e3fa727dd57d6edb23e3ce9eab0f0d52af658b1cced4e971203fd485"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
-    "bytes": 4382,
-    "sha256": "1e830a871f7c21b80b299fbe619c0ebc2935b64b842fe6698ced1d7bdd60cc20"
+    "bytes": 4222,
+    "sha256": "7719a513db863c69fa0bd8ff13ac2b8401749bc9bb36509a6d46028d85020312"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_06_能量守恒一_题面整理.md",
-    "bytes": 4079,
-    "sha256": "38c9f8dfc02fab40616353016ece0f0a575a6b3cd6a0f7b0b0e44bcb0024be14"
+    "bytes": 4017,
+    "sha256": "7cdcf06df604bba58ea766448fd2e75f97148fac140509d73f2ebc7e09d8d6a6"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_07_能量守恒二_题面整理.md",
-    "bytes": 4258,
-    "sha256": "6a22c392f987e96805c4f0c442c30d8c9117f86266d6c4e9dd0fa60935a7628a"
+    "bytes": 4150,
+    "sha256": "a1231202a10bd91f901180fa964160c11e0aa7e1ed3fb5208e41b987d98b198b"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
-    "bytes": 3877,
-    "sha256": "5d26659ab21e8208fd76b9c93f68b22824f92ba548c33c79ab6d5197c52d8dc5"
+    "bytes": 3763,
+    "sha256": "9d9aba1bb30ede07815d6897c503211082d961e7b055cc1911bc1d4812da93f6"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_09_动量守恒二_题面整理.md",
-    "bytes": 3822,
-    "sha256": "79ea4d78fcb01cb9523bb21af1a3e5ef0515d69b5bfa5d12c74b87ecb221085e"
+    "bytes": 3744,
+    "sha256": "1268c58215c9cd962e1223e74e9d994e23bb4f3a6d7f77651fd5e6aa34320705"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_10_角动量守恒一_题面整理.md",
@@ -3666,43 +4241,43 @@
   },
   {
     "path": "物理/10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
-    "bytes": 16799,
-    "sha256": "44862ede2ceb1455ea5b11dc5b5e6ec39f1e4d4116101ad5990c803f17946940"
+    "bytes": 16424,
+    "sha256": "921fdfc577893da6eb96609dd0fbd69dac07009b5d7494dd730fdcff11024e21"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
-    "bytes": 12964,
-    "sha256": "1f2a3da8863a806773f97806291a0284dc0f208b8a21657cde10625267242f04"
+    "bytes": 12674,
+    "sha256": "211101c2e20fd10fe92f1f4d6ad28586f752ac8d9f307f0e83eae1e5246fc311"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
-    "bytes": 12868,
-    "sha256": "77a4839e36ce13524756736cef73ae6bd4d35461987a8c29146700409b5712b4"
+    "bytes": 12648,
+    "sha256": "e80b389225f5c8a433f2e6a2db0d7fa55b38ec70ffbb503c2f8b78e2af1a8d6d"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
-    "bytes": 12748,
-    "sha256": "d6e0fdcb4a236cbc4a9abb8c2f856332667831a058b45b76c6f2f70d3559a490"
+    "bytes": 12538,
+    "sha256": "cbc435635172f3835dcecf5fbb0cfb3b42e9b64f9f73a3f61371d4cd1210598f"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
-    "bytes": 16349,
-    "sha256": "c1d224ea6f7267f28e0f50dd33450ace08f6df30a9438dbe0e6379b133cab4db"
+    "bytes": 16095,
+    "sha256": "9a249d521dfd73060abc8e79164955d2ee9d8a15b6c76f5b1e4c98c663d35615"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
-    "bytes": 15692,
-    "sha256": "6454d3599de5e94cb6ffc93ced719b28838d1af0d4eb8eb505a28d7ef1e57c27"
+    "bytes": 15457,
+    "sha256": "f0a7619b9acfcc8c4a1fa6ef9bd6dde69278e4373c62d85a1c0f185c98d0fff1"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
-    "bytes": 13441,
-    "sha256": "5bf9c44684f9723d1eed9d294fe3b75e28a54f66ba22f4cacc8d0ec4b863406a"
+    "bytes": 13187,
+    "sha256": "a1d2de267d0bc8b6e5052983f146e3603f40c078f039f4b3e7d47a5d00aa3282"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
-    "bytes": 12676,
-    "sha256": "3e3ad1e4b388a5fde22de6012467381c2115e327eb1f824fac44a9dd48d7ba1b"
+    "bytes": 12598,
+    "sha256": "8a47323ab7af6c5c22b9eef45b6c8e863b5e1d2a2f71da87a8d53bc8ccdbad2c"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2016-2017学年大学物理I期末题面整理.md",
@@ -3716,8 +4291,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
-    "bytes": 13499,
-    "sha256": "3a82f9025fdfb662527509665b5594446615bb023d7a76e56be7a5cc09197e5c"
+    "bytes": 13454,
+    "sha256": "4ddd2efbcc559b8cae074ef173b75df2297ee15ec88566daa2ef9da45442d7e1"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
@@ -3746,8 +4321,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
-    "bytes": 15446,
-    "sha256": "280e97920b67a44397b4084e8a36e99b7be14b18564def9e60ff25388ec21651"
+    "bytes": 15311,
+    "sha256": "ecff704697d03b9982f6f9218baf1761debb3195b746cfab110b5125344bd621"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第01章_运动学_题面整理.md",
@@ -3756,8 +4331,8 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
-    "bytes": 22367,
-    "sha256": "bc58a424392252f8e17e7dd46b8ee3ed87097b163ed55f3cefc94ec646f1d22d"
+    "bytes": 22599,
+    "sha256": "53d28cefea33c1248dd32ddd34f215448f2bbf8f5761c04f118ca4826746af20"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
@@ -4223,6 +4798,471 @@
     "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/validation.json",
     "bytes": 4354,
     "sha256": "be0b40a5a5ee20b8a3a0e1dd8f758fa33c3025f6381769b041999e5f05a28fcc"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/README.md",
+    "bytes": 61822,
+    "sha256": "241c2ebad23c49151b00d66b5c877f39479686c99ff89b476f9d2fb0a6523f46"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-01.png",
+    "bytes": 318833,
+    "sha256": "b5eb39e07301e85d05aad8855fd3343f4da966be9d1cc49daceb03a4f7903992"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-02.png",
+    "bytes": 387135,
+    "sha256": "3dc74effea5b1e6c593195aa9821062d787cc6e77b70121b712d2a4e53afdb0f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-03.png",
+    "bytes": 566496,
+    "sha256": "33675dafca59221b5556c0d437f0dd6a9153a33d79a3263197243fbdb17cc161"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-04.png",
+    "bytes": 525451,
+    "sha256": "522dffbfdffaa4e8e7972b3d27d27f88e72b1b0989431ab4e4f33ee5be92a4a2"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-05.png",
+    "bytes": 490294,
+    "sha256": "df61584e7712f55806711e965cd8def0b52d56b23dcf5389366e3efbc0dd8683"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-06.png",
+    "bytes": 527426,
+    "sha256": "58e081a1a266807399be672ce751b2265b26f07f1b1e45bf44b90519cf88229d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-07.png",
+    "bytes": 456989,
+    "sha256": "163ce0a182cb4ab05c7d8a40ed7b06f7800544edc35e681d555f93364c652cec"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-08.png",
+    "bytes": 620610,
+    "sha256": "7943c32e0b72d28b7ee7c6741d325c52efa1d888a3f5e7da94b0771b021e49bc"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-09.png",
+    "bytes": 454198,
+    "sha256": "44894a1d16c14decc8ebd912ffa514f0806dade981298d9ef378f14a5e271718"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-10.png",
+    "bytes": 393276,
+    "sha256": "bc4437968f16ad8b4d79a27dc879cca7d5e4c18446fc3d3a895b9e9e0bddd868"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-11.png",
+    "bytes": 291420,
+    "sha256": "01cd8de5ae3f2f60d5b632a4bf3ee622b8593a0a23d3a2312dcb867ffb7411d0"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-12.png",
+    "bytes": 372585,
+    "sha256": "2b6f57dc8b6d324d8d239d82ebdcd88c652c706e0c9ae6d6af96a5de3a902910"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/reading-320px.png",
+    "bytes": 1744781,
+    "sha256": "ce345655651a2240027fd918ae71ae14647c20499edc3526fc735874a4eb7d89"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-001.png",
+    "bytes": 14284,
+    "sha256": "94d3ef600117e990b5f63477c602b0db25b5d02e1901f56e493079d4ee5335c2"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-002.png",
+    "bytes": 5891,
+    "sha256": "49219e4b15040b6eb5557e69098d2769e16cc6a87b4798f8da9c6548455fe75c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-003.png",
+    "bytes": 15087,
+    "sha256": "b68c47369075ac72cf342583802bf5ea7812e385ed7ea623df34217cc8b64b59"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-004.png",
+    "bytes": 30441,
+    "sha256": "d2f3180507c33d1a55aaacf85b113b5a5d3c10cfa0e3c375400e9bd4526246b1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-005.png",
+    "bytes": 37838,
+    "sha256": "1e417dd3e254697b56327efb23b7739103316e6d49a3ceec7e2aaab56043d317"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-006.png",
+    "bytes": 35856,
+    "sha256": "fe5ed6a2d3be88ea7d7b3963a9556fc95489be9cca521af7ac35bd8f88b7a295"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-007.png",
+    "bytes": 36542,
+    "sha256": "8ebcb128f1ab078bb8445144eb0c2bbc403f19c3a7c409096b772eca51df2fe3"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-008.png",
+    "bytes": 30397,
+    "sha256": "8895d3d6582b55058a2969ab25bcd695c00ff6f678f8cb9e25cfef7f020f0875"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-009.png",
+    "bytes": 29015,
+    "sha256": "68ea2d1b0c16ca9b4cc35f7b2319ca33fa1167ba1b9291d6171008ea38e325d3"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-010.png",
+    "bytes": 22579,
+    "sha256": "edc1476b6f40b980788416a059c24eab2f53e9d3dae36bd05d3f9efd860fca1c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-011.png",
+    "bytes": 44484,
+    "sha256": "76d3af5df53fce2f6727ec18a9cbfebcbd9c6e01a101c264194f1da7af28eb01"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-012.png",
+    "bytes": 65037,
+    "sha256": "7de11e37423a118fc92022f1ec517b929246469bbe555d75e01c1c94034e4a91"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-013.png",
+    "bytes": 27243,
+    "sha256": "4ff505994b90f4ac91412cca57e2fd0956688bfe066f8c341d85f2920cfd1e63"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-014.png",
+    "bytes": 30364,
+    "sha256": "b96bf9db20ae215c6da720e5884841d1512f25dc92e90430f394392c9649c163"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-015.png",
+    "bytes": 27665,
+    "sha256": "f4422f2a5c7621c4393fb7177ef2237f79faf64a14e2bbdb57f69a74ee1fba4e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-016.png",
+    "bytes": 38166,
+    "sha256": "f6682e79d815c2f3bfd0502c947b3cbd84f9844bc9531b4631207e8fcb934b16"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-017.png",
+    "bytes": 46493,
+    "sha256": "15f0f38add330cbd9a28ff2bf3e7a0e1287daf137a7064277e1307d494744487"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-018.png",
+    "bytes": 30892,
+    "sha256": "ea53bd9100c482d6c45f2775fa109381a4c7b47ac1050f58d5386e2a24ae5ec3"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-019.png",
+    "bytes": 70580,
+    "sha256": "9ab17ae5c3e64e5f78e3b3fe11bc0d6f062a9f01db5dfefe4f41d35325aeabff"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-020.png",
+    "bytes": 30990,
+    "sha256": "c1f8e11b5a364ee671f5570660a5a5c6c0410d4d1e620eed7c0c99b98b92b3d4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-021.png",
+    "bytes": 135541,
+    "sha256": "fb7941430deac843fd40c34dcf21f3a60fb7a2695c3116e875c09c98b14414c2"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-022.png",
+    "bytes": 76780,
+    "sha256": "26d9340fd15ad23cdfeb5213a002595061ba287eaafb69688f3d595703dba303"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-023.png",
+    "bytes": 91597,
+    "sha256": "d144dec668ab26b877f7caa56cc52868bfa30c9588fe25341d97d9ba2fd66b20"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-024.png",
+    "bytes": 46133,
+    "sha256": "72a1d98d026c9db40749a5a14506a29c7d4c68ac276f2923ebfeccbbec47d437"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-025.png",
+    "bytes": 63066,
+    "sha256": "2764f4fd199077be3dc6dc786f02add18da0e766aac7adb5ab24795a262d25a6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-026.png",
+    "bytes": 46130,
+    "sha256": "477a263befe26755281fb98d3f768c8cd299199b1c0b23fa7e04afb205aaded3"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-027.png",
+    "bytes": 84892,
+    "sha256": "0ea4dadab3d66701edc2064dde2e668f72178e7fba67af59e4e389f729412d07"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-028.png",
+    "bytes": 94552,
+    "sha256": "91e5782e0cc3cef74d6b3127313aac6e3def31ad1fc28bed9c67c47e3bc196a9"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-029.png",
+    "bytes": 51622,
+    "sha256": "ac231255ec36874e78ece36ccf2a8789e3ccc8f11ef111f626701a7e02a795aa"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-030.png",
+    "bytes": 44641,
+    "sha256": "36837cad7c55722c7dceeeef58c4e85324ad0fefd69e6b1a095ff4616e04946d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-031.png",
+    "bytes": 81944,
+    "sha256": "7951ebd3a8626a1976e199daea94883affe7910d42de512eb0582f07ff20b3c5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-032.png",
+    "bytes": 56612,
+    "sha256": "6d2861ff8c85b4b7a5bed8cb136ff5dd593204bce36c7447ce928c0279e524b1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-033.png",
+    "bytes": 59789,
+    "sha256": "d362392520c5a98a764de5f7220e3c5a2de42fff3b21065a025d5474bbbd40e0"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-034.png",
+    "bytes": 87583,
+    "sha256": "14f9b2a8c729e1650c2e4847b04da2622d30af585127b01c6910fe3b8464e462"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-035.png",
+    "bytes": 36124,
+    "sha256": "9f00d37758713269e29f25b7ced1d25b90c5d1cfcfd69ec0d6b9b22b4f444add"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-036.png",
+    "bytes": 93548,
+    "sha256": "0330175e6b2f90f571815d067d6648a5ad15a7690b994ab5b9b74f7a99c1a493"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-037.png",
+    "bytes": 101733,
+    "sha256": "e2e3615510adb66bb0762dd4fdea70fb342b91b064bb5edba7d8d72b2663c199"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-038.png",
+    "bytes": 51712,
+    "sha256": "07c0c28c03ca180e87057970b2751c7f4ef9190572ca8600b437ac7c4cb471d1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-039.png",
+    "bytes": 76044,
+    "sha256": "e2da792d9358c9503fec938c2d398ecd231ecca4e5e61dbd3afa642e5a18e373"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-040.png",
+    "bytes": 92231,
+    "sha256": "d90c985b8aee6e3e9482133bd8bf6b6d4b710f00779d0728d2124c4b411dde23"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-041.png",
+    "bytes": 81258,
+    "sha256": "5dedc698f03dd705b4ded8330319f1188d7538d5ebeb5f37711982048e03da49"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-042.png",
+    "bytes": 56008,
+    "sha256": "d14a38637e2ee8f4c4b06b82757c51bfc691e5f3202ca5889f8925ccea74a955"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-043.png",
+    "bytes": 60320,
+    "sha256": "901d148fae3c875d942f0fa3e407e793efe3703ecfe1efcdbf8376370f75635b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-044.png",
+    "bytes": 35676,
+    "sha256": "b9b19750139ff080e2c52e07e63f3a2d5dc9d3ca60d3a8742e99b7631a5108bc"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-045.png",
+    "bytes": 35165,
+    "sha256": "5c024ef5324238e4eabb85277d74248a09ec7f6d2f7187f023ad2d7ed3ff8de7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-046.png",
+    "bytes": 55452,
+    "sha256": "54d40523e47f9f695b7d979e784406b3ca96eb448f0b7a53264642f242e39e8f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-047.png",
+    "bytes": 76421,
+    "sha256": "d926b2fbc543a73c3ca5d523563c0633d632bd22e1c430986282c8759e104fbf"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-048.png",
+    "bytes": 47148,
+    "sha256": "1e311b0be4f2d3cde5dfd3d0be9577a48f3fca472200a694b2c25158d6743b6c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-049.png",
+    "bytes": 60943,
+    "sha256": "9c95c35f625c4b32308496a7f605a8166ab59b9b36e093ab800f3a2019f5aaf4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-050.png",
+    "bytes": 33389,
+    "sha256": "c2de02a7f1721a47d9f10df9514059e4eaeb148b72ccc805656813a04bcc72d5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-051.png",
+    "bytes": 54040,
+    "sha256": "ec715407047123388b639f4e9d4423da2730d38202db3240e1bd3874f630fcec"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-052.png",
+    "bytes": 57528,
+    "sha256": "fbc5f55d4f76898f702dd060e2a487e11b017600bd99c7a8b88f21031e3831b4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-053.png",
+    "bytes": 44079,
+    "sha256": "7e10471dfa4b1e7af046175aed9ac1cabd9d5f5a8e8950cc85fbbdef8c1eb10d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-054.png",
+    "bytes": 59757,
+    "sha256": "50e49f91a471491e39c50cdd75d93230792f03a5b55d8c0e741f9c7de560fae4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-055.png",
+    "bytes": 41220,
+    "sha256": "dd435c9635f87d728ac88911e6306071c3787d0a58c89838f4a8a47c6a034aed"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-056.png",
+    "bytes": 35591,
+    "sha256": "8f8417fb70d75428190e09f07e709ef5bcd15256c4068b29c04553b9aee0047d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-057.png",
+    "bytes": 54463,
+    "sha256": "6ad4cd23cde416e214bcf7c4a82d307212252d0c0d492ba0c10d57931c5d8a8f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-058.png",
+    "bytes": 90246,
+    "sha256": "1e9d0797f92e228fd44ab6cc091c3b756b426040610500c139f60a961291f625"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-059.png",
+    "bytes": 33493,
+    "sha256": "77c909b311cf64a9584386186e76160cd3d0d3766c7d3b66b676184b689a78c6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-060.png",
+    "bytes": 70663,
+    "sha256": "78a045e4297460d15560409130cebbfa3e0b3fcbec5fa95876df36ef06113a58"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-061.png",
+    "bytes": 91862,
+    "sha256": "d489155fcb686d0dd445296409f1336296895c4f27d34551ca38480e13a5efb9"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-062.png",
+    "bytes": 659585,
+    "sha256": "23816a2cfe3faf533729873e0ca19433a1f8eb897f761ae9549b38aa5db6776a"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-063.png",
+    "bytes": 108437,
+    "sha256": "732bd225b01406ca121cef5b52d7fb463d8590bcfd304e1fb5797ec05eaa2040"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-064.png",
+    "bytes": 53077,
+    "sha256": "e2985234d40e134efb42bba3fd0dce8be480f5bb4d08eb4b639a7efc6bc2bed4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-065.png",
+    "bytes": 49607,
+    "sha256": "9c49cd291f982cf4bc80d8f455346b6ff2df1ac9689133317bd91a566f8d5051"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-066.png",
+    "bytes": 52355,
+    "sha256": "ad0221f1207b7550ba06df038e86e9519f1280626ce5d742f5908f1e60b3eef7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-067.png",
+    "bytes": 171961,
+    "sha256": "20b60e1a173dde75d465116568f0c1c05088ee505040c893c79a37671add0864"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-068.png",
+    "bytes": 113607,
+    "sha256": "cced0994a6540b312fb70fb0db1d46a70d5cc82c553f79330138691170709fa1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-069.png",
+    "bytes": 69691,
+    "sha256": "4c67e7d4b89b5d0f76b4ab15eb57945ea56169eddcb69f7cfeaf547cc3dc02df"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-070.png",
+    "bytes": 49300,
+    "sha256": "c6ce4babe82535d5191e13cca438da6b43743d3b42a1ed2da5d1ad6d487b3700"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-071.png",
+    "bytes": 32977,
+    "sha256": "6c82fabda8da2d4f3a54edd0618b92895816501bc3e5ca41817159b7d80507b4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-072.png",
+    "bytes": 50421,
+    "sha256": "6ce827bcd57bf574421b5d9dd4183cb1e7902449754de08fa80692d8a5971ffa"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-075.png",
+    "bytes": 236445,
+    "sha256": "ea4b6910dbfcd23a76203388609de9a56b30c177992c725993c2269d2be3e9f1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-076.png",
+    "bytes": 99028,
+    "sha256": "cf36009984953b7424a8378aef3293626d331007d58bb02cf9ca26a19a2719d9"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-077.png",
+    "bytes": 74098,
+    "sha256": "456b83740dbb5b81c5ac4435cf6d18e80ca040118b54aee07770bdfc8ac73e44"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-078.png",
+    "bytes": 115476,
+    "sha256": "ef114206fe98d609300dd1a0220b077d98e9b904bf6adfb82c733d1db04fa035"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-079.png",
+    "bytes": 104532,
+    "sha256": "14d3922d57b38ef78361ff5beb32015dc4f44f7b96ec11572d222a1bb1967499"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-080.png",
+    "bytes": 77267,
+    "sha256": "a80cee5d551d30c4a3045a476241609df1c38994d4597292d90cf424b31d2b65"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/validation.json",
+    "bytes": 19824,
+    "sha256": "2ed769cbf81fb47a0bc0089599c8a9a0ace783cd2409127d40be0a82721d5dd9"
   },
   {
     "path": "物理/40_派生视图/大物上/今年期末复用高可能题单.md",
@@ -7746,33 +8786,33 @@
   },
   {
     "path": "物理/大学物理习题册（上）/04_习题四 质点运动的描述（四）.md",
-    "bytes": 2832,
-    "sha256": "68b96ec0e8e76ae0c0322df0c4ebcdfae04d55fa5280146cb716e2948a6fbbeb"
+    "bytes": 2853,
+    "sha256": "4340aa61cf9ff266f8b94dde93938b3166cc657e9ca1b770e8a2ea4edd19a14d"
   },
   {
     "path": "物理/大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
-    "bytes": 3225,
-    "sha256": "eab6e23aa776964bc8997ee9d83b3a5d500fc6fc776e448b0b6ac489c73060a6"
+    "bytes": 3280,
+    "sha256": "a7cbe3f570432744f0d93d62d1071cc035128f157ad50c5bf26ea45fdfbce83b"
   },
   {
     "path": "物理/大学物理习题册（上）/06_习题六 能量守恒（一）.md",
-    "bytes": 3046,
-    "sha256": "9f03a52d6ceb38473cd5c8c12f27a5f2304fae94151ba55af1371b3f4715bf30"
+    "bytes": 3088,
+    "sha256": "fbfcb31f9e9e65fe08cf72c31a9db17059bdf26cb10af32ce45eda4c8ab96e8b"
   },
   {
     "path": "物理/大学物理习题册（上）/07_习题七 能量守恒（二）.md",
-    "bytes": 3226,
-    "sha256": "dc80a6ee6b6ebc0d4792d3cd8e6ae6dabe3358e8ea1d057507c236b2623bc36c"
+    "bytes": 3274,
+    "sha256": "bfddcf620cf340437d94dea1202a5115280e278faa93d59dfc7510579dbb5317"
   },
   {
     "path": "物理/大学物理习题册（上）/08_习题八 动量守恒（一）.md",
-    "bytes": 2839,
-    "sha256": "c9fee0b90690d2049a96ff12b38864411d29013a0cf0a4cde7549a673db51764"
+    "bytes": 2933,
+    "sha256": "8e9b4fdd0c353c3034fd7f365137b31a7db6df586db476cf929922368c4fbe4f"
   },
   {
     "path": "物理/大学物理习题册（上）/09_习题九 动量守恒（二）.md",
-    "bytes": 2911,
-    "sha256": "41862e3049e38c29b7eec4caf645ec7b599b78b3078cdee94d4211559addc7d8"
+    "bytes": 2989,
+    "sha256": "7b5c90c7afe778ff8dc3e01040e1b833152bde7082015a1a5306b1245e99fd18"
   },
   {
     "path": "物理/大学物理习题册（上）/10_习题十 角动量守恒（一）.md",

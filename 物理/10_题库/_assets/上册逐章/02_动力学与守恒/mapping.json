@@ -1,0 +1,4408 @@
+[
+  {
+    "document": "10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
+    "question": "习题册-章节04-题2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/733927997d1ba7b7dcb5479003008087849253e8d8835b6dc6a1cb9b427ae638.jpg",
+    "path": "10_题库/_assets/习题册/733927997d1ba7b7dcb5479003008087849253e8d8835b6dc6a1cb9b427ae638.jpg",
+    "sha256": "01063621d5e3420d4942056973e65efcce63d93e6f5738a377063df482e4b240",
+    "size": [
+      301,
+      148
+    ],
+    "id": 1,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 5,
+    "bbox_1000": [
+      363,
+      497,
+      461,
+      567
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\733927997d1ba7b7dcb5479003008087849253e8d8835b6dc6a1cb9b427ae638.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-001.png",
+    "source_crop_size": [
+      434,
+      213
+    ],
+    "page_preview": "page-1-005.png",
+    "method": "redrawn",
+    "new": "001.svg",
+    "check": "两个接触物块m1/m2，两个F均水平向右，地面在下。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
+        "question": "习题册-章节04-题2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/733927997d1ba7b7dcb5479003008087849253e8d8835b6dc6a1cb9b427ae638.jpg",
+        "path": "10_题库/_assets/习题册/733927997d1ba7b7dcb5479003008087849253e8d8835b6dc6a1cb9b427ae638.jpg",
+        "sha256": "01063621d5e3420d4942056973e65efcce63d93e6f5738a377063df482e4b240",
+        "size": [
+          301,
+          148
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/001.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
+    "question": "习题册-章节04-题3",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/2d75e38d7c4e6bbb321349e4b4ac25a28223bca7d2ca6178207c685a8906cc0e.jpg",
+    "path": "10_题库/_assets/习题册/2d75e38d7c4e6bbb321349e4b4ac25a28223bca7d2ca6178207c685a8906cc0e.jpg",
+    "sha256": "84c681713beeca14c0180425be402183140d5d44062b6f49ec9dfdbe87009a58",
+    "size": [
+      151,
+      171
+    ],
+    "id": 2,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 5,
+    "bbox_1000": [
+      424,
+      662,
+      473,
+      743
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\2d75e38d7c4e6bbb321349e4b4ac25a28223bca7d2ca6178207c685a8906cc0e.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-002.png",
+    "source_crop_size": [
+      217,
+      246
+    ],
+    "page_preview": "page-1-005.png",
+    "method": "redrawn",
+    "new": "002.svg",
+    "check": "A接触竖直墙，F水平向左指向A。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
+        "question": "习题册-章节04-题3",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/2d75e38d7c4e6bbb321349e4b4ac25a28223bca7d2ca6178207c685a8906cc0e.jpg",
+        "path": "10_题库/_assets/习题册/2d75e38d7c4e6bbb321349e4b4ac25a28223bca7d2ca6178207c685a8906cc0e.jpg",
+        "sha256": "84c681713beeca14c0180425be402183140d5d44062b6f49ec9dfdbe87009a58",
+        "size": [
+          151,
+          171
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/002.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
+    "question": "习题册-章节04-题5",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/8b5f925314038ce1416a0441b581890c18159d3ea5b8cf3520bd2af3b7b7c389.jpg",
+    "path": "10_题库/_assets/习题册/8b5f925314038ce1416a0441b581890c18159d3ea5b8cf3520bd2af3b7b7c389.jpg",
+    "sha256": "3d05ff781964cfd8efcaaa15a65209e481ed704c73ad568e03dbdf815c1ab3c1",
+    "size": [
+      235,
+      223
+    ],
+    "id": 3,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 5,
+    "bbox_1000": [
+      856,
+      191,
+      932,
+      297
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\8b5f925314038ce1416a0441b581890c18159d3ea5b8cf3520bd2af3b7b7c389.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-003.png",
+    "source_crop_size": [
+      337,
+      322
+    ],
+    "page_preview": "page-1-005.png",
+    "method": "redrawn",
+    "new": "003.svg",
+    "check": "定滑轮m1左挂、m2右挂；a2向下，未增加未知张力。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
+        "question": "习题册-章节04-题5",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/8b5f925314038ce1416a0441b581890c18159d3ea5b8cf3520bd2af3b7b7c389.jpg",
+        "path": "10_题库/_assets/习题册/8b5f925314038ce1416a0441b581890c18159d3ea5b8cf3520bd2af3b7b7c389.jpg",
+        "sha256": "3d05ff781964cfd8efcaaa15a65209e481ed704c73ad568e03dbdf815c1ab3c1",
+        "size": [
+          235,
+          223
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/003.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+    "question": "习题册-章节05-题1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/c2144120389e042f14cf54ba6f3ef9d83573df635f147e962d81b64c6c8d752d.jpg",
+    "path": "10_题库/_assets/习题册/c2144120389e042f14cf54ba6f3ef9d83573df635f147e962d81b64c6c8d752d.jpg",
+    "sha256": "19227d61f75b6b9bb8ee0fd6b7b390411161f590578faa50e3eaf24e81880036",
+    "size": [
+      281,
+      232
+    ],
+    "id": 4,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 6,
+    "bbox_1000": [
+      381,
+      281,
+      473,
+      391
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\c2144120389e042f14cf54ba6f3ef9d83573df635f147e962d81b64c6c8d752d.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-004.png",
+    "source_crop_size": [
+      407,
+      334
+    ],
+    "page_preview": "page-1-006.png",
+    "method": "native_extraction",
+    "new": "004-extracted.png",
+    "check": "转盘O、A、R和ω；轴方向与原图一致，无新增量值。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+        "question": "习题册-章节05-题1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/c2144120389e042f14cf54ba6f3ef9d83573df635f147e962d81b64c6c8d752d.jpg",
+        "path": "10_题库/_assets/习题册/c2144120389e042f14cf54ba6f3ef9d83573df635f147e962d81b64c6c8d752d.jpg",
+        "sha256": "19227d61f75b6b9bb8ee0fd6b7b390411161f590578faa50e3eaf24e81880036",
+        "size": [
+          281,
+          232
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/004-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+    "question": "习题册-章节05-题2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/e541e07de73303f6eb17901e8862df75249532d1e9bf277ecc63f0b74663c104.jpg",
+    "path": "10_题库/_assets/习题册/e541e07de73303f6eb17901e8862df75249532d1e9bf277ecc63f0b74663c104.jpg",
+    "sha256": "fe256382131fbc2f927c8dddb6b50bac92cc6b11284076240b4b7bbe1a30ac94",
+    "size": [
+      342,
+      281
+    ],
+    "id": 5,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 6,
+    "bbox_1000": [
+      361,
+      427,
+      473,
+      560
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\e541e07de73303f6eb17901e8862df75249532d1e9bf277ecc63f0b74663c104.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-005.png",
+    "source_crop_size": [
+      496,
+      404
+    ],
+    "page_preview": "page-1-006.png",
+    "method": "native_extraction",
+    "new": "005-extracted.png",
+    "check": "轴O、半圆C与P；保持原转动指向，不改手绘角。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+        "question": "习题册-章节05-题2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/e541e07de73303f6eb17901e8862df75249532d1e9bf277ecc63f0b74663c104.jpg",
+        "path": "10_题库/_assets/习题册/e541e07de73303f6eb17901e8862df75249532d1e9bf277ecc63f0b74663c104.jpg",
+        "sha256": "fe256382131fbc2f927c8dddb6b50bac92cc6b11284076240b4b7bbe1a30ac94",
+        "size": [
+          342,
+          281
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/005-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+    "question": "习题册-章节05-题3",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/a76ba2300cd1b777355e648b10cc97f54c0055db8b11eb676217687a136cc24d.jpg",
+    "path": "10_题库/_assets/习题册/a76ba2300cd1b777355e648b10cc97f54c0055db8b11eb676217687a136cc24d.jpg",
+    "sha256": "ad2e011566810b80559aa78963beb53d6efb4d8f95150370316f8b644a41e883",
+    "size": [
+      256,
+      207
+    ],
+    "id": 6,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 6,
+    "bbox_1000": [
+      378,
+      601,
+      461,
+      699
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\a76ba2300cd1b777355e648b10cc97f54c0055db8b11eb676217687a136cc24d.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-006.png",
+    "source_crop_size": [
+      368,
+      298
+    ],
+    "page_preview": "page-1-006.png",
+    "method": "redrawn",
+    "new": "006.svg",
+    "check": "锥摆m、l、θ相对竖直，轨迹水平圆的透视椭圆完整。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+        "question": "习题册-章节05-题3",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/a76ba2300cd1b777355e648b10cc97f54c0055db8b11eb676217687a136cc24d.jpg",
+        "path": "10_题库/_assets/习题册/a76ba2300cd1b777355e648b10cc97f54c0055db8b11eb676217687a136cc24d.jpg",
+        "sha256": "ad2e011566810b80559aa78963beb53d6efb4d8f95150370316f8b644a41e883",
+        "size": [
+          256,
+          207
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/006.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+    "question": "习题册-章节05-题4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/cb18360529a994bdfacf6d20b22321b82e015d30665050d41e8dab050f4c271a.jpg",
+    "path": "10_题库/_assets/习题册/cb18360529a994bdfacf6d20b22321b82e015d30665050d41e8dab050f4c271a.jpg",
+    "sha256": "45b0782673d0b3a002fd23f814c9847223676f7ddb3f62f28256f13406ad6772",
+    "size": [
+      220,
+      320
+    ],
+    "id": 7,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 6,
+    "bbox_1000": [
+      378,
+      740,
+      449,
+      892
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\cb18360529a994bdfacf6d20b22321b82e015d30665050d41e8dab050f4c271a.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-007.png",
+    "source_crop_size": [
+      315,
+      461
+    ],
+    "page_preview": "page-1-006.png",
+    "method": "redrawn",
+    "new": "007.svg",
+    "check": "O下两弹簧与m1/m2/m3，旁标A/B/C，x向下。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+        "question": "习题册-章节05-题4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/cb18360529a994bdfacf6d20b22321b82e015d30665050d41e8dab050f4c271a.jpg",
+        "path": "10_题库/_assets/习题册/cb18360529a994bdfacf6d20b22321b82e015d30665050d41e8dab050f4c271a.jpg",
+        "sha256": "45b0782673d0b3a002fd23f814c9847223676f7ddb3f62f28256f13406ad6772",
+        "size": [
+          220,
+          320
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/007.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+    "question": "习题册-章节05-题6",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/cd910e0b3abbb2c1380af2b50b5eeacb9f6521cc95aaac58ef5067b054ced38e.jpg",
+    "path": "10_题库/_assets/习题册/cd910e0b3abbb2c1380af2b50b5eeacb9f6521cc95aaac58ef5067b054ced38e.jpg",
+    "sha256": "224b5cb39b6e309f826d9f23ded0f9b03a3eedcd240a0a163307aa47570b1205",
+    "size": [
+      223,
+      190
+    ],
+    "id": 8,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 6,
+    "bbox_1000": [
+      862,
+      634,
+      934,
+      724
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\cd910e0b3abbb2c1380af2b50b5eeacb9f6521cc95aaac58ef5067b054ced38e.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-008.png",
+    "source_crop_size": [
+      319,
+      274
+    ],
+    "page_preview": "page-1-006.png",
+    "method": "redrawn",
+    "new": "008.svg",
+    "check": "圆周质量m、R与θ从竖直量起，v左下沿切线。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+        "question": "习题册-章节05-题6",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/cd910e0b3abbb2c1380af2b50b5eeacb9f6521cc95aaac58ef5067b054ced38e.jpg",
+        "path": "10_题库/_assets/习题册/cd910e0b3abbb2c1380af2b50b5eeacb9f6521cc95aaac58ef5067b054ced38e.jpg",
+        "sha256": "224b5cb39b6e309f826d9f23ded0f9b03a3eedcd240a0a163307aa47570b1205",
+        "size": [
+          223,
+          190
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/008.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_06_能量守恒一_题面整理.md",
+    "question": "习题册-章节06-题4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/21651b6494db061b5fb419251671150328b05a8ecf86cb9801d7efb65f50721a.jpg",
+    "path": "10_题库/_assets/习题册/21651b6494db061b5fb419251671150328b05a8ecf86cb9801d7efb65f50721a.jpg",
+    "sha256": "cb05cbf2dea6d2ee1d26c00b1eacef724b5647da9ad037b70d45c7d2afe875a2",
+    "size": [
+      398,
+      237
+    ],
+    "id": 9,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 7,
+    "bbox_1000": [
+      217,
+      732,
+      346,
+      845
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\21651b6494db061b5fb419251671150328b05a8ecf86cb9801d7efb65f50721a.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-009.png",
+    "source_crop_size": [
+      572,
+      343
+    ],
+    "page_preview": "page-1-007.png",
+    "method": "native_extraction",
+    "new": "009-extracted.png",
+    "check": "A/O/C在底线、B在顶点，R竖直、弹簧从A至B。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_06_能量守恒一_题面整理.md",
+        "question": "习题册-章节06-题4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/21651b6494db061b5fb419251671150328b05a8ecf86cb9801d7efb65f50721a.jpg",
+        "path": "10_题库/_assets/习题册/21651b6494db061b5fb419251671150328b05a8ecf86cb9801d7efb65f50721a.jpg",
+        "sha256": "cb05cbf2dea6d2ee1d26c00b1eacef724b5647da9ad037b70d45c7d2afe875a2",
+        "size": [
+          398,
+          237
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/009-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_06_能量守恒一_题面整理.md",
+    "question": "习题册-章节06-题6",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/965c8d6c73c1023086a365aa334e72a7d47ef1e8cd4e389aa275a783f780b116.jpg",
+    "path": "10_题库/_assets/习题册/965c8d6c73c1023086a365aa334e72a7d47ef1e8cd4e389aa275a783f780b116.jpg",
+    "sha256": "b264c7375cde33fe957a471649424261e382d5d6b2dd5e66d29d736fc5bad03f",
+    "size": [
+      362,
+      140
+    ],
+    "id": 10,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 7,
+    "bbox_1000": [
+      555,
+      670,
+      673,
+      736
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\965c8d6c73c1023086a365aa334e72a7d47ef1e8cd4e389aa275a783f780b116.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-010.png",
+    "source_crop_size": [
+      523,
+      201
+    ],
+    "page_preview": "page-1-007.png",
+    "method": "redrawn",
+    "new": "010.svg",
+    "check": "墙、A/B及m1/m2，k弹簧水平连接，无额外外力。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_06_能量守恒一_题面整理.md",
+        "question": "习题册-章节06-题6",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/965c8d6c73c1023086a365aa334e72a7d47ef1e8cd4e389aa275a783f780b116.jpg",
+        "path": "10_题库/_assets/习题册/965c8d6c73c1023086a365aa334e72a7d47ef1e8cd4e389aa275a783f780b116.jpg",
+        "sha256": "b264c7375cde33fe957a471649424261e382d5d6b2dd5e66d29d736fc5bad03f",
+        "size": [
+          362,
+          140
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/010.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_07_能量守恒二_题面整理.md",
+    "question": "习题册-章节07-题4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/289a21d2cd19e4404321f73c77bd8c89fec09a86a31e4373114ae5ed8065f97b.jpg",
+    "path": "10_题库/_assets/习题册/289a21d2cd19e4404321f73c77bd8c89fec09a86a31e4373114ae5ed8065f97b.jpg",
+    "sha256": "3ce672102690cfa505d89814e6f2c630bf15997210934dab74cfb6d42f677fa9",
+    "size": [
+      265,
+      248
+    ],
+    "id": 11,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 8,
+    "bbox_1000": [
+      385,
+      679,
+      471,
+      797
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\289a21d2cd19e4404321f73c77bd8c89fec09a86a31e4373114ae5ed8065f97b.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-011.png",
+    "source_crop_size": [
+      382,
+      359
+    ],
+    "page_preview": "page-1-008.png",
+    "method": "redrawn",
+    "new": "011.svg",
+    "check": "O为两个弹簧公共端，A右、B下，l0水平、l竖直，k和m保留。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_07_能量守恒二_题面整理.md",
+        "question": "习题册-章节07-题4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/289a21d2cd19e4404321f73c77bd8c89fec09a86a31e4373114ae5ed8065f97b.jpg",
+        "path": "10_题库/_assets/习题册/289a21d2cd19e4404321f73c77bd8c89fec09a86a31e4373114ae5ed8065f97b.jpg",
+        "sha256": "3ce672102690cfa505d89814e6f2c630bf15997210934dab74cfb6d42f677fa9",
+        "size": [
+          265,
+          248
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/011.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_07_能量守恒二_题面整理.md",
+    "question": "习题册-章节07-题5",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/357ae32c3554409e79ad755321903673a7ecd36124f688ddd3d87ae5dac5fb1b.jpg",
+    "path": "10_题库/_assets/习题册/357ae32c3554409e79ad755321903673a7ecd36124f688ddd3d87ae5dac5fb1b.jpg",
+    "sha256": "db1089af928d6dc291cace63bc94d8c55d43c2af879bd0a18f5920d4555a069e",
+    "size": [
+      332,
+      262
+    ],
+    "id": 12,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 8,
+    "bbox_1000": [
+      823,
+      232,
+      931,
+      357
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\357ae32c3554409e79ad755321903673a7ecd36124f688ddd3d87ae5dac5fb1b.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-012.png",
+    "source_crop_size": [
+      479,
+      379
+    ],
+    "page_preview": "page-1-008.png",
+    "method": "redrawn",
+    "new": "012.svg",
+    "check": "链条过直角桌边，水平l-a、竖直a；链节数仅为示意。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_07_能量守恒二_题面整理.md",
+        "question": "习题册-章节07-题5",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/357ae32c3554409e79ad755321903673a7ecd36124f688ddd3d87ae5dac5fb1b.jpg",
+        "path": "10_题库/_assets/习题册/357ae32c3554409e79ad755321903673a7ecd36124f688ddd3d87ae5dac5fb1b.jpg",
+        "sha256": "db1089af928d6dc291cace63bc94d8c55d43c2af879bd0a18f5920d4555a069e",
+        "size": [
+          332,
+          262
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/012.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_07_能量守恒二_题面整理.md",
+    "question": "习题册-章节07-题6",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/81d3c9a442e00df39c13e2d4315cc1156ee604954113027db092fd73d2ca36f2.jpg",
+    "path": "10_题库/_assets/习题册/81d3c9a442e00df39c13e2d4315cc1156ee604954113027db092fd73d2ca36f2.jpg",
+    "sha256": "a2bc18b26e8fc57689cc48c049c674e08df751b9e154dadba4ccdc60f4039287",
+    "size": [
+      187,
+      212
+    ],
+    "id": 13,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 8,
+    "bbox_1000": [
+      550,
+      679,
+      610,
+      780
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\81d3c9a442e00df39c13e2d4315cc1156ee604954113027db092fd73d2ca36f2.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-013.png",
+    "source_crop_size": [
+      266,
+      307
+    ],
+    "page_preview": "page-1-008.png",
+    "method": "redrawn",
+    "new": "013.svg",
+    "check": "半圆槽开口向右，m在上口外，v0向左。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_07_能量守恒二_题面整理.md",
+        "question": "习题册-章节07-题6",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/81d3c9a442e00df39c13e2d4315cc1156ee604954113027db092fd73d2ca36f2.jpg",
+        "path": "10_题库/_assets/习题册/81d3c9a442e00df39c13e2d4315cc1156ee604954113027db092fd73d2ca36f2.jpg",
+        "sha256": "a2bc18b26e8fc57689cc48c049c674e08df751b9e154dadba4ccdc60f4039287",
+        "size": [
+          187,
+          212
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/013.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+    "question": "习题册-章节08-题1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/f11354077970a8eb93f27e2260fec9f5bdf0745d4970c09e29979e1861909cf6.jpg",
+    "path": "10_题库/_assets/习题册/f11354077970a8eb93f27e2260fec9f5bdf0745d4970c09e29979e1861909cf6.jpg",
+    "sha256": "0200c28cbc0b50475c36855511938fab155fac010a2943931da7474e72b3450e",
+    "size": [
+      248,
+      253
+    ],
+    "id": 14,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      392,
+      238,
+      473,
+      358
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\f11354077970a8eb93f27e2260fec9f5bdf0745d4970c09e29979e1861909cf6.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-014.png",
+    "source_crop_size": [
+      359,
+      364
+    ],
+    "page_preview": "page-1-009.png",
+    "method": "native_extraction",
+    "new": "014-extracted.png",
+    "check": "绳竖直、入射v0与绳夹角30°；保留原箭头和点体。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+        "question": "习题册-章节08-题1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/f11354077970a8eb93f27e2260fec9f5bdf0745d4970c09e29979e1861909cf6.jpg",
+        "path": "10_题库/_assets/习题册/f11354077970a8eb93f27e2260fec9f5bdf0745d4970c09e29979e1861909cf6.jpg",
+        "sha256": "0200c28cbc0b50475c36855511938fab155fac010a2943931da7474e72b3450e",
+        "size": [
+          248,
+          253
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/014-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+    "question": "习题册-章节08-题4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/d2fb8de51b5b8a062bbc8cdddd489aae5baa9bcb43c6d2b181be29274672ddf1.jpg",
+    "path": "10_题库/_assets/习题册/d2fb8de51b5b8a062bbc8cdddd489aae5baa9bcb43c6d2b181be29274672ddf1.jpg",
+    "sha256": "524c9f5d3a762b1f7406e32344fec341af850888ffe0575cf13334ffb48760a8",
+    "size": [
+      359,
+      157
+    ],
+    "id": 15,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      355,
+      656,
+      472,
+      730
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\d2fb8de51b5b8a062bbc8cdddd489aae5baa9bcb43c6d2b181be29274672ddf1.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-015.png",
+    "source_crop_size": [
+      518,
+      225
+    ],
+    "page_preview": "page-1-009.png",
+    "method": "redrawn",
+    "new": "015.svg",
+    "check": "子弹向右先穿A后B，A/B贴合、地面保留。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+        "question": "习题册-章节08-题4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/d2fb8de51b5b8a062bbc8cdddd489aae5baa9bcb43c6d2b181be29274672ddf1.jpg",
+        "path": "10_题库/_assets/习题册/d2fb8de51b5b8a062bbc8cdddd489aae5baa9bcb43c6d2b181be29274672ddf1.jpg",
+        "sha256": "524c9f5d3a762b1f7406e32344fec341af850888ffe0575cf13334ffb48760a8",
+        "size": [
+          359,
+          157
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/015.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+    "question": "习题册-章节08-题5",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/980fe81280184bef31c19b2422b62d7a9b96324864ec546d40d48cd19b38a2f6.jpg",
+    "path": "10_题库/_assets/习题册/980fe81280184bef31c19b2422b62d7a9b96324864ec546d40d48cd19b38a2f6.jpg",
+    "sha256": "f1c3fbab32e063a085e673deb39567b42830ca69abd5d4b4cd7099315d9efab7",
+    "size": [
+      467,
+      256
+    ],
+    "id": 16,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      532,
+      236,
+      684,
+      358
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\980fe81280184bef31c19b2422b62d7a9b96324864ec546d40d48cd19b38a2f6.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-016.png",
+    "source_crop_size": [
+      674,
+      370
+    ],
+    "page_preview": "page-1-009.png",
+    "method": "native_extraction",
+    "new": "016-extracted.png",
+    "check": "x/y轴与O、A在横轴、B在曲线上；vA右上、vB向左。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+        "question": "习题册-章节08-题5",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/980fe81280184bef31c19b2422b62d7a9b96324864ec546d40d48cd19b38a2f6.jpg",
+        "path": "10_题库/_assets/习题册/980fe81280184bef31c19b2422b62d7a9b96324864ec546d40d48cd19b38a2f6.jpg",
+        "sha256": "f1c3fbab32e063a085e673deb39567b42830ca69abd5d4b4cd7099315d9efab7",
+        "size": [
+          467,
+          256
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/016-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+    "question": "习题册-章节08-题6",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
+    "path": "10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
+    "sha256": "3af9b8c8227990fea3d54357ad9c07f1694fbce566a4d816bdd9766cd2037fe6",
+    "size": [
+      437,
+      182
+    ],
+    "id": 17,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      525,
+      656,
+      667,
+      742
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-017.png",
+    "source_crop_size": [
+      629,
+      261
+    ],
+    "page_preview": "page-1-009.png",
+    "method": "native_extraction",
+    "new": "017-extracted.png",
+    "check": "小车M、A点、L水平尺度、v0向右；后位置虚线保留。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+        "question": "习题册-章节08-题6",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
+        "path": "10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
+        "sha256": "3af9b8c8227990fea3d54357ad9c07f1694fbce566a4d816bdd9766cd2037fe6",
+        "size": [
+          437,
+          182
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/017-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_09_动量守恒二_题面整理.md",
+    "question": "习题册-章节09-题2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/29bf4f5c12f270a4d48b04a93346a70051fb9917844cdf38ea14d6274dc90e55.jpg",
+    "path": "10_题库/_assets/习题册/29bf4f5c12f270a4d48b04a93346a70051fb9917844cdf38ea14d6274dc90e55.jpg",
+    "sha256": "2f0b674e2c8bcda56514518097d09ab48c3cdc92745dc1e4d6405f341a1ac305",
+    "size": [
+      254,
+      367
+    ],
+    "id": 18,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      389,
+      384,
+      471,
+      559
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\29bf4f5c12f270a4d48b04a93346a70051fb9917844cdf38ea14d6274dc90e55.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-018.png",
+    "source_crop_size": [
+      364,
+      531
+    ],
+    "page_preview": "page-1-010.png",
+    "method": "native_extraction",
+    "new": "018-extracted.png",
+    "check": "锥摆上支点、圆轨迹R、质量m和v切向。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_09_动量守恒二_题面整理.md",
+        "question": "习题册-章节09-题2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/29bf4f5c12f270a4d48b04a93346a70051fb9917844cdf38ea14d6274dc90e55.jpg",
+        "path": "10_题库/_assets/习题册/29bf4f5c12f270a4d48b04a93346a70051fb9917844cdf38ea14d6274dc90e55.jpg",
+        "sha256": "2f0b674e2c8bcda56514518097d09ab48c3cdc92745dc1e4d6405f341a1ac305",
+        "size": [
+          254,
+          367
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/018-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_09_动量守恒二_题面整理.md",
+    "question": "习题册-章节09-题5",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/a5040d6c0973043c2c2e40d965febf5f7be59a74852d0d7c8400bdaba1ae7994.jpg",
+    "path": "10_题库/_assets/习题册/a5040d6c0973043c2c2e40d965febf5f7be59a74852d0d7c8400bdaba1ae7994.jpg",
+    "sha256": "a50ceb1067b6b679acba3c70b364ae9e579bd8167dff4135280a3b70ad609f2a",
+    "size": [
+      412,
+      226
+    ],
+    "id": 19,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      547,
+      212,
+      681,
+      320
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\a5040d6c0973043c2c2e40d965febf5f7be59a74852d0d7c8400bdaba1ae7994.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-019.png",
+    "source_crop_size": [
+      593,
+      328
+    ],
+    "page_preview": "page-1-010.png",
+    "method": "native_extraction",
+    "new": "019-extracted.png",
+    "check": "斜面θ、m入射v向右、杆长l、A/B及M保留。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_09_动量守恒二_题面整理.md",
+        "question": "习题册-章节09-题5",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/a5040d6c0973043c2c2e40d965febf5f7be59a74852d0d7c8400bdaba1ae7994.jpg",
+        "path": "10_题库/_assets/习题册/a5040d6c0973043c2c2e40d965febf5f7be59a74852d0d7c8400bdaba1ae7994.jpg",
+        "sha256": "a50ceb1067b6b679acba3c70b364ae9e579bd8167dff4135280a3b70ad609f2a",
+        "size": [
+          412,
+          226
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/019-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_09_动量守恒二_题面整理.md",
+    "question": "习题册-章节09-题6",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/习题册/49f15f6bab03293c95c31ecf7e9bf68f220f68d96b605b27f6656635efe08be7.jpg",
+    "path": "10_题库/_assets/习题册/49f15f6bab03293c95c31ecf7e9bf68f220f68d96b605b27f6656635efe08be7.jpg",
+    "sha256": "9e0a164b357c5ae8aebb7185a22ec0299688106657bb74ce21849e4da12570f9",
+    "size": [
+      251,
+      178
+    ],
+    "id": 20,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      853,
+      653,
+      934,
+      738
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\49f15f6bab03293c95c31ecf7e9bf68f220f68d96b605b27f6656635efe08be7.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-020.png",
+    "source_crop_size": [
+      359,
+      258
+    ],
+    "page_preview": "page-1-010.png",
+    "method": "native_extraction",
+    "new": "020-extracted.png",
+    "check": "四分之一圆弧A/B、圆心O、半径R和底座M保留。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_09_动量守恒二_题面整理.md",
+        "question": "习题册-章节09-题6",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/习题册/49f15f6bab03293c95c31ecf7e9bf68f220f68d96b605b27f6656635efe08be7.jpg",
+        "path": "10_题库/_assets/习题册/49f15f6bab03293c95c31ecf7e9bf68f220f68d96b605b27f6656635efe08be7.jpg",
+        "sha256": "9e0a164b357c5ae8aebb7185a22ec0299688106657bb74ce21849e4da12570f9",
+        "size": [
+          251,
+          178
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/020-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/d28b977eba75443ea54756aafe62bdbdb8785c5fe396c7e7fc3e0112ecf5832b.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/d28b977eba75443ea54756aafe62bdbdb8785c5fe396c7e7fc3e0112ecf5832b.jpg",
+    "sha256": "6d2b7c6be56b63c9b0eb976b1d6187050402e15d5c502a81367a8ed2c967243e",
+    "size": [
+      260,
+      187
+    ],
+    "id": 21,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      719,
+      224,
+      875,
+      304
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\d28b977eba75443ea54756aafe62bdbdb8785c5fe396c7e7fc3e0112ecf5832b.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-021.png",
+    "source_crop_size": [
+      375,
+      272
+    ],
+    "page_preview": "page-2-015.png",
+    "method": "redrawn",
+    "new": "021.svg",
+    "check": "A叠在B上，F对A向右，B在地面上。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/d28b977eba75443ea54756aafe62bdbdb8785c5fe396c7e7fc3e0112ecf5832b.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/d28b977eba75443ea54756aafe62bdbdb8785c5fe396c7e7fc3e0112ecf5832b.jpg",
+        "sha256": "6d2b7c6be56b63c9b0eb976b1d6187050402e15d5c502a81367a8ed2c967243e",
+        "size": [
+          260,
+          187
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/021.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/43c5e0f6754d4e710cd0be23c5a8bcad772449d63c14b4ed416149cad7eb2471.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/43c5e0f6754d4e710cd0be23c5a8bcad772449d63c14b4ed416149cad7eb2471.jpg",
+    "sha256": "6a7b9f173cb3e3547ec1d3d28aac6024ece5d8835b9ce1e558c436ffedf52903",
+    "size": [
+      167,
+      257
+    ],
+    "id": 22,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      763,
+      316,
+      863,
+      425
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\43c5e0f6754d4e710cd0be23c5a8bcad772449d63c14b4ed416149cad7eb2471.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-022.png",
+    "source_crop_size": [
+      240,
+      371
+    ],
+    "page_preview": "page-2-015.png",
+    "method": "native_extraction",
+    "new": "022-extracted.png",
+    "check": "悬线与圆轨迹R、m和切向v，原生裁图文字可辨。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/43c5e0f6754d4e710cd0be23c5a8bcad772449d63c14b4ed416149cad7eb2471.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/43c5e0f6754d4e710cd0be23c5a8bcad772449d63c14b4ed416149cad7eb2471.jpg",
+        "sha256": "6a7b9f173cb3e3547ec1d3d28aac6024ece5d8835b9ce1e558c436ffedf52903",
+        "size": [
+          167,
+          257
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/022-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选5",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/890763f5f81fab026ea0849dcc0a124a1fb8c2b4a0f7fc9e6b1ed367fe1e7f09.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/890763f5f81fab026ea0849dcc0a124a1fb8c2b4a0f7fc9e6b1ed367fe1e7f09.jpg",
+    "sha256": "1d80f68ceb85191278b8fb04c8113e8851af59e2e2df575383a7513d8075ccd0",
+    "size": [
+      395,
+      98
+    ],
+    "id": 23,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      650,
+      474,
+      889,
+      516
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\890763f5f81fab026ea0849dcc0a124a1fb8c2b4a0f7fc9e6b1ed367fe1e7f09.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-023.png",
+    "source_crop_size": [
+      575,
+      143
+    ],
+    "page_preview": "page-2-015.png",
+    "method": "redrawn",
+    "new": "023.svg",
+    "check": "mA/mB间弹簧，地面水平，不添加外力。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选5",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/890763f5f81fab026ea0849dcc0a124a1fb8c2b4a0f7fc9e6b1ed367fe1e7f09.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/890763f5f81fab026ea0849dcc0a124a1fb8c2b4a0f7fc9e6b1ed367fe1e7f09.jpg",
+        "sha256": "1d80f68ceb85191278b8fb04c8113e8851af59e2e2df575383a7513d8075ccd0",
+        "size": [
+          395,
+          98
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/023.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选6",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/92617a30b73658efd7ce6f07541e796d76573e2ae380e14f10751b45ca4e30bf.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/92617a30b73658efd7ce6f07541e796d76573e2ae380e14f10751b45ca4e30bf.jpg",
+    "sha256": "7ce5932816c72255fc0ebe5ba4758796f29ea294fad29c247b57bd28079a9164",
+    "size": [
+      201,
+      198
+    ],
+    "id": 24,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      742,
+      533,
+      863,
+      618
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\92617a30b73658efd7ce6f07541e796d76573e2ae380e14f10751b45ca4e30bf.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-024.png",
+    "source_crop_size": [
+      291,
+      288
+    ],
+    "page_preview": "page-2-015.png",
+    "method": "redrawn",
+    "new": "024.svg",
+    "check": "圆与x轴在O相切、y轴过圆心、R向右上。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选6",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/92617a30b73658efd7ce6f07541e796d76573e2ae380e14f10751b45ca4e30bf.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/92617a30b73658efd7ce6f07541e796d76573e2ae380e14f10751b45ca4e30bf.jpg",
+        "sha256": "7ce5932816c72255fc0ebe5ba4758796f29ea294fad29c247b57bd28079a9164",
+        "size": [
+          201,
+          198
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/024.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选9",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/80a1e8eb61816425d238beb4c80c47fbedf6923c9534363f4c9a03e144fd95c5.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/80a1e8eb61816425d238beb4c80c47fbedf6923c9534363f4c9a03e144fd95c5.jpg",
+    "sha256": "16d0054e9223eb5560bebbb2e5860b3412a7223f82a2e2fccdefcadf5c2f0ede",
+    "size": [
+      145,
+      206
+    ],
+    "id": 25,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      778,
+      854,
+      865,
+      942
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\80a1e8eb61816425d238beb4c80c47fbedf6923c9534363f4c9a03e144fd95c5.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-025.png",
+    "source_crop_size": [
+      209,
+      299
+    ],
+    "page_preview": "page-2-015.png",
+    "method": "redrawn",
+    "new": "025.svg",
+    "check": "m在弹簧上方，高差h端点在物块底面与弹簧顶端。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选9",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/80a1e8eb61816425d238beb4c80c47fbedf6923c9534363f4c9a03e144fd95c5.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/80a1e8eb61816425d238beb4c80c47fbedf6923c9534363f4c9a03e144fd95c5.jpg",
+        "sha256": "16d0054e9223eb5560bebbb2e5860b3412a7223f82a2e2fccdefcadf5c2f0ede",
+        "size": [
+          145,
+          206
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/025.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选11",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/ba3c2064faf99181eafef1071df9a03b23e251c0277038cf8abf632f082f89fb.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/ba3c2064faf99181eafef1071df9a03b23e251c0277038cf8abf632f082f89fb.jpg",
+    "sha256": "0977ade18c6e26751b017fb98348619046a99067df61ad788a94c5b34c98bd05",
+    "size": [
+      203,
+      159
+    ],
+    "id": 26,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 16,
+    "bbox_1000": [
+      771,
+      153,
+      894,
+      221
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\ba3c2064faf99181eafef1071df9a03b23e251c0277038cf8abf632f082f89fb.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-026.png",
+    "source_crop_size": [
+      295,
+      230
+    ],
+    "page_preview": "page-2-016.png",
+    "method": "retained_annotation",
+    "check": "扫描图含手写受力标注，避免把手写答案混入重绘题设，保留原图。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选11",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/ba3c2064faf99181eafef1071df9a03b23e251c0277038cf8abf632f082f89fb.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/ba3c2064faf99181eafef1071df9a03b23e251c0277038cf8abf632f082f89fb.jpg",
+        "sha256": "0977ade18c6e26751b017fb98348619046a99067df61ad788a94c5b34c98bd05",
+        "size": [
+          203,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选17",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/926c17b9797620569a288a6be552a2fbb69343904de22c08f3384cc3616d131d.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/926c17b9797620569a288a6be552a2fbb69343904de22c08f3384cc3616d131d.jpg",
+    "sha256": "53235236531480a350150134df056ee0e9cebe9403f4f8a5681e204ea520385e",
+    "size": [
+      220,
+      204
+    ],
+    "id": 27,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 16,
+    "bbox_1000": [
+      761,
+      675,
+      894,
+      762
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\926c17b9797620569a288a6be552a2fbb69343904de22c08f3384cc3616d131d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-027.png",
+    "source_crop_size": [
+      319,
+      295
+    ],
+    "page_preview": "page-2-016.png",
+    "method": "redrawn",
+    "new": "027.svg",
+    "check": "A为墙端、B为地端，θ相对竖直墙，不相对地面。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选17",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/926c17b9797620569a288a6be552a2fbb69343904de22c08f3384cc3616d131d.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/926c17b9797620569a288a6be552a2fbb69343904de22c08f3384cc3616d131d.jpg",
+        "sha256": "53235236531480a350150134df056ee0e9cebe9403f4f8a5681e204ea520385e",
+        "size": [
+          220,
+          204
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/027.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-计1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/06dfe4348e42610eac412eb44b6cd7155c85fca84d754350c22be71f33826739.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/06dfe4348e42610eac412eb44b6cd7155c85fca84d754350c22be71f33826739.jpg",
+    "sha256": "2cedc3efbc72a8973109d9ddbef157c7750b3593d7a67f22c225200af6657e95",
+    "size": [
+      332,
+      268
+    ],
+    "id": 28,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 17,
+    "bbox_1000": [
+      675,
+      615,
+      875,
+      730
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\06dfe4348e42610eac412eb44b6cd7155c85fca84d754350c22be71f33826739.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-028.png",
+    "source_crop_size": [
+      481,
+      391
+    ],
+    "page_preview": "page-2-017.png",
+    "method": "redrawn",
+    "new": "028.svg",
+    "check": "链条水平l-a、竖直a，几何关系不变。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-计1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/06dfe4348e42610eac412eb44b6cd7155c85fca84d754350c22be71f33826739.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/06dfe4348e42610eac412eb44b6cd7155c85fca84d754350c22be71f33826739.jpg",
+        "sha256": "2cedc3efbc72a8973109d9ddbef157c7750b3593d7a67f22c225200af6657e95",
+        "size": [
+          332,
+          268
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/028.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+    "question": "15-16期中-选2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/0cab9616f3ce2204d15e3227c4472ae718f2b1d8d142cd4270ceb8be378c5a06.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/0cab9616f3ce2204d15e3227c4472ae718f2b1d8d142cd4270ceb8be378c5a06.jpg",
+    "sha256": "14382c0487a560fe3c957fc1905b04388cfb5f028bd2b6da5c6f49e84f262ab1",
+    "size": [
+      273,
+      143
+    ],
+    "id": 29,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 11,
+    "bbox_1000": [
+      736,
+      215,
+      900,
+      275
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\0cab9616f3ce2204d15e3227c4472ae718f2b1d8d142cd4270ceb8be378c5a06.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-029.png",
+    "source_crop_size": [
+      394,
+      204
+    ],
+    "page_preview": "page-2-011.png",
+    "method": "native_extraction",
+    "new": "029-extracted.png",
+    "check": "卡车斜面、m与θ，原题未给具体角度。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+        "question": "15-16期中-选2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/0cab9616f3ce2204d15e3227c4472ae718f2b1d8d142cd4270ceb8be378c5a06.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/0cab9616f3ce2204d15e3227c4472ae718f2b1d8d142cd4270ceb8be378c5a06.jpg",
+        "sha256": "14382c0487a560fe3c957fc1905b04388cfb5f028bd2b6da5c6f49e84f262ab1",
+        "size": [
+          273,
+          143
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/029-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+    "question": "15-16期中-选3",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/59e279c560ce070a7ec1923f58f53c5ad57a2ebe8a0f4c9475da8b863504b9b6.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/59e279c560ce070a7ec1923f58f53c5ad57a2ebe8a0f4c9475da8b863504b9b6.jpg",
+    "sha256": "7a38ece6d12c15744851662357af0ee16bcb0cad39965d311509262cf2538b21",
+    "size": [
+      190,
+      206
+    ],
+    "id": 30,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 11,
+    "bbox_1000": [
+      776,
+      282,
+      890,
+      370
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\59e279c560ce070a7ec1923f58f53c5ad57a2ebe8a0f4c9475da8b863504b9b6.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-030.png",
+    "source_crop_size": [
+      274,
+      299
+    ],
+    "page_preview": "page-2-011.png",
+    "method": "redrawn",
+    "new": "030.svg",
+    "check": "圆在O与x轴相切，y轴过圆心，R保持。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+        "question": "15-16期中-选3",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/59e279c560ce070a7ec1923f58f53c5ad57a2ebe8a0f4c9475da8b863504b9b6.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/59e279c560ce070a7ec1923f58f53c5ad57a2ebe8a0f4c9475da8b863504b9b6.jpg",
+        "sha256": "7a38ece6d12c15744851662357af0ee16bcb0cad39965d311509262cf2538b21",
+        "size": [
+          190,
+          206
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/030.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+    "question": "15-16期中-选4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/42bac148952364bbefe3676997209f3ec90d3b5bea72185d8660786a467b0188.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/42bac148952364bbefe3676997209f3ec90d3b5bea72185d8660786a467b0188.jpg",
+    "sha256": "f44c5019f4e9b05d987d657f4738f7ff9445be252607ae96c269a5a409751f8c",
+    "size": [
+      201,
+      246
+    ],
+    "id": 31,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 11,
+    "bbox_1000": [
+      784,
+      381,
+      905,
+      486
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\42bac148952364bbefe3676997209f3ec90d3b5bea72185d8660786a467b0188.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-031.png",
+    "source_crop_size": [
+      292,
+      357
+    ],
+    "page_preview": "page-2-011.png",
+    "method": "native_extraction",
+    "new": "031-extracted.png",
+    "check": "定滑轮、弹簧与M、绳端F向下、20cm尺寸保留。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+        "question": "15-16期中-选4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/42bac148952364bbefe3676997209f3ec90d3b5bea72185d8660786a467b0188.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/42bac148952364bbefe3676997209f3ec90d3b5bea72185d8660786a467b0188.jpg",
+        "sha256": "f44c5019f4e9b05d987d657f4738f7ff9445be252607ae96c269a5a409751f8c",
+        "size": [
+          201,
+          246
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/031-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+    "question": "15-16期中-选6",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/ff56aae141a4111bcb401f84ba8439fb274497eb1f2cf7af496d8037adb3eb28.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/ff56aae141a4111bcb401f84ba8439fb274497eb1f2cf7af496d8037adb3eb28.jpg",
+    "sha256": "09bcd7d543502484372bf2e2eab86f9ae7d8a856a2f3cf610f8269022ede5fd9",
+    "size": [
+      307,
+      187
+    ],
+    "id": 32,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 11,
+    "bbox_1000": [
+      721,
+      621,
+      905,
+      701
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\ff56aae141a4111bcb401f84ba8439fb274497eb1f2cf7af496d8037adb3eb28.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-032.png",
+    "source_crop_size": [
+      443,
+      271
+    ],
+    "page_preview": "page-2-011.png",
+    "method": "native_extraction",
+    "new": "032-extracted.png",
+    "check": "半圆弧A/C/O，半径R和θ基准为左水平线。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+        "question": "15-16期中-选6",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/ff56aae141a4111bcb401f84ba8439fb274497eb1f2cf7af496d8037adb3eb28.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/ff56aae141a4111bcb401f84ba8439fb274497eb1f2cf7af496d8037adb3eb28.jpg",
+        "sha256": "09bcd7d543502484372bf2e2eab86f9ae7d8a856a2f3cf610f8269022ede5fd9",
+        "size": [
+          307,
+          187
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/032-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+    "question": "15-16期中-填4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/9e58a8e54fc9e8ec2d052a78452dc771c8cc366d7429df60536e3b6d489b8872.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/9e58a8e54fc9e8ec2d052a78452dc771c8cc366d7429df60536e3b6d489b8872.jpg",
+    "sha256": "02156b31dc2f6d993f354a78c790774194ba275d409c1ebdc4364ed5851d15aa",
+    "size": [
+      242,
+      162
+    ],
+    "id": 33,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 12,
+    "bbox_1000": [
+      747,
+      143,
+      894,
+      212
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\9e58a8e54fc9e8ec2d052a78452dc771c8cc366d7429df60536e3b6d489b8872.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-033.png",
+    "source_crop_size": [
+      354,
+      234
+    ],
+    "page_preview": "page-2-012.png",
+    "method": "redrawn",
+    "new": "033.svg",
+    "check": "墙-弹簧k-物块m，F及x正向右，O在物块下。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+        "question": "15-16期中-填4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/9e58a8e54fc9e8ec2d052a78452dc771c8cc366d7429df60536e3b6d489b8872.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/9e58a8e54fc9e8ec2d052a78452dc771c8cc366d7429df60536e3b6d489b8872.jpg",
+        "sha256": "02156b31dc2f6d993f354a78c790774194ba275d409c1ebdc4364ed5851d15aa",
+        "size": [
+          242,
+          162
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/033.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+    "question": "15-16期中-问1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/8f9f5bc7d6a86ad6bae05668bc1d2af7e8b4998347b6d1b89fec1b9bfe0e545c.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/8f9f5bc7d6a86ad6bae05668bc1d2af7e8b4998347b6d1b89fec1b9bfe0e545c.jpg",
+    "sha256": "6c1c2e2af008528bc4b6a32d9702e836b0d4f1c2b13e288c9b302ffabd5261e7",
+    "size": [
+      178,
+      235
+    ],
+    "id": 34,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 12,
+    "bbox_1000": [
+      778,
+      369,
+      885,
+      469
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\8f9f5bc7d6a86ad6bae05668bc1d2af7e8b4998347b6d1b89fec1b9bfe0e545c.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-034.png",
+    "source_crop_size": [
+      257,
+      340
+    ],
+    "page_preview": "page-2-012.png",
+    "method": "native_extraction",
+    "new": "034-extracted.png",
+    "check": "圆锥O/H、l及θ相对竖直方向，不改旋转轴。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+        "question": "15-16期中-问1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/8f9f5bc7d6a86ad6bae05668bc1d2af7e8b4998347b6d1b89fec1b9bfe0e545c.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/8f9f5bc7d6a86ad6bae05668bc1d2af7e8b4998347b6d1b89fec1b9bfe0e545c.jpg",
+        "sha256": "6c1c2e2af008528bc4b6a32d9702e836b0d4f1c2b13e288c9b302ffabd5261e7",
+        "size": [
+          178,
+          235
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/034-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+    "question": "16-17期中-选3",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3c14cdef2edef4a306bd53b550b393db0c67015c559327f80e80c7095386f908.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/3c14cdef2edef4a306bd53b550b393db0c67015c559327f80e80c7095386f908.jpg",
+    "sha256": "beafede14d0b5f1243a15ab00c4a989cfa7765caf712ac01a769c36a51927b67",
+    "size": [
+      212,
+      120
+    ],
+    "id": 35,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 6,
+    "bbox_1000": [
+      700,
+      363,
+      828,
+      414
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\3c14cdef2edef4a306bd53b550b393db0c67015c559327f80e80c7095386f908.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-035.png",
+    "source_crop_size": [
+      308,
+      173
+    ],
+    "page_preview": "page-2-006.png",
+    "method": "redrawn",
+    "new": "035.svg",
+    "check": "F作用在A右上角，θ相对向右水平基准。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+        "question": "16-17期中-选3",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3c14cdef2edef4a306bd53b550b393db0c67015c559327f80e80c7095386f908.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/3c14cdef2edef4a306bd53b550b393db0c67015c559327f80e80c7095386f908.jpg",
+        "sha256": "beafede14d0b5f1243a15ab00c4a989cfa7765caf712ac01a769c36a51927b67",
+        "size": [
+          212,
+          120
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/035.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+    "question": "16-17期中-选5",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/7a232b7f9fb230d67bbd0350d8db07617580685717f09a4750bb0c37745fdfc8.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/7a232b7f9fb230d67bbd0350d8db07617580685717f09a4750bb0c37745fdfc8.jpg",
+    "sha256": "6b80e3eef91c0533047adbf109c4bb6205b0ee38c9e6e4fd83b900b49644f12d",
+    "size": [
+      360,
+      109
+    ],
+    "id": 36,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 6,
+    "bbox_1000": [
+      628,
+      556,
+      845,
+      602
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\7a232b7f9fb230d67bbd0350d8db07617580685717f09a4750bb0c37745fdfc8.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-036.png",
+    "source_crop_size": [
+      522,
+      156
+    ],
+    "page_preview": "page-2-006.png",
+    "method": "redrawn",
+    "new": "036.svg",
+    "check": "m1/m2由弹簧相连，左右F均向外。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+        "question": "16-17期中-选5",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/7a232b7f9fb230d67bbd0350d8db07617580685717f09a4750bb0c37745fdfc8.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/7a232b7f9fb230d67bbd0350d8db07617580685717f09a4750bb0c37745fdfc8.jpg",
+        "sha256": "6b80e3eef91c0533047adbf109c4bb6205b0ee38c9e6e4fd83b900b49644f12d",
+        "size": [
+          360,
+          109
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/036.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+    "question": "16-17期中-选6",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/0a565e13554592d5fb530a0b94c95e8119dab474677df5d5e4b9077d0e9e7ca2.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/0a565e13554592d5fb530a0b94c95e8119dab474677df5d5e4b9077d0e9e7ca2.jpg",
+    "sha256": "a0c36243be7ff0e70108adb3a14c8e287d793446f7d0bae596887ac5dedc0d75",
+    "size": [
+      337,
+      162
+    ],
+    "id": 37,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 6,
+    "bbox_1000": [
+      576,
+      671,
+      779,
+      740
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\0a565e13554592d5fb530a0b94c95e8119dab474677df5d5e4b9077d0e9e7ca2.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-037.png",
+    "source_crop_size": [
+      488,
+      235
+    ],
+    "page_preview": "page-2-006.png",
+    "method": "redrawn",
+    "new": "037.svg",
+    "check": "墙与弹簧连接M，小质量m自右向左以v入射。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+        "question": "16-17期中-选6",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/0a565e13554592d5fb530a0b94c95e8119dab474677df5d5e4b9077d0e9e7ca2.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/0a565e13554592d5fb530a0b94c95e8119dab474677df5d5e4b9077d0e9e7ca2.jpg",
+        "sha256": "a0c36243be7ff0e70108adb3a14c8e287d793446f7d0bae596887ac5dedc0d75",
+        "size": [
+          337,
+          162
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/037.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+    "question": "16-17期中-计1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/80d4086cdf4d8027646f779e4126a44897d92856ecfd1485e6d7ba7e5319c9a0.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/80d4086cdf4d8027646f779e4126a44897d92856ecfd1485e6d7ba7e5319c9a0.jpg",
+    "sha256": "e240d1f42777134d4a7bff6fabcb8f94a34e4a1f6ebad7aac13925471ac7526f",
+    "size": [
+      384,
+      151
+    ],
+    "id": 38,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 7,
+    "bbox_1000": [
+      663,
+      626,
+      895,
+      690
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\80d4086cdf4d8027646f779e4126a44897d92856ecfd1485e6d7ba7e5319c9a0.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-038.png",
+    "source_crop_size": [
+      558,
+      217
+    ],
+    "page_preview": "page-2-007.png",
+    "method": "redrawn",
+    "new": "038.svg",
+    "check": "F自左上向右下压A，A/B接触；给定36.9°相对水平基准。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+        "question": "16-17期中-计1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/80d4086cdf4d8027646f779e4126a44897d92856ecfd1485e6d7ba7e5319c9a0.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/80d4086cdf4d8027646f779e4126a44897d92856ecfd1485e6d7ba7e5319c9a0.jpg",
+        "sha256": "e240d1f42777134d4a7bff6fabcb8f94a34e4a1f6ebad7aac13925471ac7526f",
+        "size": [
+          384,
+          151
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/038.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+    "question": "18-19期中-选2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/bb6f9e94d5611c2067862350096063a62547bab764c861ed3e8f3e3938912a0d.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/bb6f9e94d5611c2067862350096063a62547bab764c861ed3e8f3e3938912a0d.jpg",
+    "sha256": "e4978a18aa56416a0fb462c2cfa8d28dcd05f6aa68af28534244ebea337f7f82",
+    "size": [
+      193,
+      276
+    ],
+    "id": 39,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 1,
+    "bbox_1000": [
+      794,
+      154,
+      910,
+      272
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\bb6f9e94d5611c2067862350096063a62547bab764c861ed3e8f3e3938912a0d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-039.png",
+    "source_crop_size": [
+      278,
+      401
+    ],
+    "page_preview": "page-2-001.png",
+    "method": "redrawn",
+    "new": "039.svg",
+    "check": "A/B对应两段弹簧，刚度kA/kB，m在底部。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+        "question": "18-19期中-选2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/bb6f9e94d5611c2067862350096063a62547bab764c861ed3e8f3e3938912a0d.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/bb6f9e94d5611c2067862350096063a62547bab764c861ed3e8f3e3938912a0d.jpg",
+        "sha256": "e4978a18aa56416a0fb462c2cfa8d28dcd05f6aa68af28534244ebea337f7f82",
+        "size": [
+          193,
+          276
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/039.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+    "question": "18-19期中-多选1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/7bbbc0f5b2c3a90ddd9a1a7ef6ccb4a6d0b821e611205051fc105e819b31304e.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/7bbbc0f5b2c3a90ddd9a1a7ef6ccb4a6d0b821e611205051fc105e819b31304e.jpg",
+    "sha256": "70428839d1ac02e407597cd6b899de43d9f3b1ec82b3d6690ae9277b4d65abde",
+    "size": [
+      360,
+      178
+    ],
+    "id": 40,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 1,
+    "bbox_1000": [
+      727,
+      866,
+      944,
+      942
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\7bbbc0f5b2c3a90ddd9a1a7ef6ccb4a6d0b821e611205051fc105e819b31304e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-040.png",
+    "source_crop_size": [
+      521,
+      258
+    ],
+    "page_preview": "page-2-001.png",
+    "method": "redrawn",
+    "new": "040.svg",
+    "check": "左壁A/m1、右B/m2，弹簧和上方约束绳均保留，无多余字母。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+        "question": "18-19期中-多选1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/7bbbc0f5b2c3a90ddd9a1a7ef6ccb4a6d0b821e611205051fc105e819b31304e.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/7bbbc0f5b2c3a90ddd9a1a7ef6ccb4a6d0b821e611205051fc105e819b31304e.jpg",
+        "sha256": "70428839d1ac02e407597cd6b899de43d9f3b1ec82b3d6690ae9277b4d65abde",
+        "size": [
+          360,
+          178
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/040.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+    "question": "18-19期中-填3",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/56fafdb0a88583d9d25a0096ddd5e7d0cd3d0daf60aabf9236eee67eb4c62508.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/56fafdb0a88583d9d25a0096ddd5e7d0cd3d0daf60aabf9236eee67eb4c62508.jpg",
+    "sha256": "51e832d05f1f0eea0f525966c689af0c59f491ddd5d799d5e0f2d838ed1fe4e6",
+    "size": [
+      365,
+      232
+    ],
+    "id": 41,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 2,
+    "bbox_1000": [
+      655,
+      391,
+      875,
+      489
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\56fafdb0a88583d9d25a0096ddd5e7d0cd3d0daf60aabf9236eee67eb4c62508.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-041.png",
+    "source_crop_size": [
+      527,
+      333
+    ],
+    "page_preview": "page-2-002.png",
+    "method": "redrawn",
+    "new": "041.svg",
+    "check": "定量折线F(0)=10N、F(10s)=0、F(20s)=-5N；轴F/N、t/s，虚线投影保留。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+        "question": "18-19期中-填3",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/56fafdb0a88583d9d25a0096ddd5e7d0cd3d0daf60aabf9236eee67eb4c62508.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/56fafdb0a88583d9d25a0096ddd5e7d0cd3d0daf60aabf9236eee67eb4c62508.jpg",
+        "sha256": "51e832d05f1f0eea0f525966c689af0c59f491ddd5d799d5e0f2d838ed1fe4e6",
+        "size": [
+          365,
+          232
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/041.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+    "question": "18-19期中-证1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/d0f033d31cd427636da35164e1444abc690b29095a65b965d7e7f407263c1489.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/d0f033d31cd427636da35164e1444abc690b29095a65b965d7e7f407263c1489.jpg",
+    "sha256": "4fbaa507b3682fa758abb040cd060f66e12b2d43eb51ea55ae0b5771a233c3e4",
+    "size": [
+      429,
+      162
+    ],
+    "id": 42,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 5,
+    "bbox_1000": [
+      647,
+      128,
+      905,
+      197
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\d0f033d31cd427636da35164e1444abc690b29095a65b965d7e7f407263c1489.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-042.png",
+    "source_crop_size": [
+      621,
+      234
+    ],
+    "page_preview": "page-2-005.png",
+    "method": "native_extraction",
+    "new": "042-extracted.png",
+    "check": "绳段a到b、va/vb、ds与f和α保留；不把任意曲线改成定量函数。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+        "question": "18-19期中-证1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/d0f033d31cd427636da35164e1444abc690b29095a65b965d7e7f407263c1489.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/d0f033d31cd427636da35164e1444abc690b29095a65b965d7e7f407263c1489.jpg",
+        "sha256": "4fbaa507b3682fa758abb040cd060f66e12b2d43eb51ea55ae0b5771a233c3e4",
+        "size": [
+          429,
+          162
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/042-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-选2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/7b9d11a45e471cf2792ac9f84fbcfe02511f3f8ecaa7e4ec827b2b9f49ee8c00.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/7b9d11a45e471cf2792ac9f84fbcfe02511f3f8ecaa7e4ec827b2b9f49ee8c00.jpg",
+    "sha256": "1fa314e20dabf41b650e858e960f3fc1ee31b20216a84041853dd4ba04180bc1",
+    "size": [
+      245,
+      212
+    ],
+    "id": 43,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 13,
+    "bbox_1000": [
+      769,
+      173,
+      917,
+      263
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\7b9d11a45e471cf2792ac9f84fbcfe02511f3f8ecaa7e4ec827b2b9f49ee8c00.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-043.png",
+    "source_crop_size": [
+      356,
+      305
+    ],
+    "page_preview": "page-3-013.png",
+    "method": "native_extraction",
+    "new": "043-extracted.png",
+    "check": "转盘O、A、R及ω；不新增转向箭头。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-选2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/7b9d11a45e471cf2792ac9f84fbcfe02511f3f8ecaa7e4ec827b2b9f49ee8c00.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/7b9d11a45e471cf2792ac9f84fbcfe02511f3f8ecaa7e4ec827b2b9f49ee8c00.jpg",
+        "sha256": "1fa314e20dabf41b650e858e960f3fc1ee31b20216a84041853dd4ba04180bc1",
+        "size": [
+          245,
+          212
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/043-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-选3",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/3bd4f29d8c2f37dda51156095b57dd66d9409a92d0b79eef048e57a918ce4839.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/3bd4f29d8c2f37dda51156095b57dd66d9409a92d0b79eef048e57a918ce4839.jpg",
+    "sha256": "978855fb9fd448a988dda0226e3e40eb8cf42a54cc235c19a5cfbd9d4cd40ae6",
+    "size": [
+      226,
+      118
+    ],
+    "id": 44,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 13,
+    "bbox_1000": [
+      757,
+      290,
+      894,
+      340
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\3bd4f29d8c2f37dda51156095b57dd66d9409a92d0b79eef048e57a918ce4839.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-044.png",
+    "source_crop_size": [
+      330,
+      170
+    ],
+    "page_preview": "page-3-013.png",
+    "method": "redrawn",
+    "new": "044.svg",
+    "check": "子弹v向右指向固定画面中的物块，水平地面保留。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-选3",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/3bd4f29d8c2f37dda51156095b57dd66d9409a92d0b79eef048e57a918ce4839.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/3bd4f29d8c2f37dda51156095b57dd66d9409a92d0b79eef048e57a918ce4839.jpg",
+        "sha256": "978855fb9fd448a988dda0226e3e40eb8cf42a54cc235c19a5cfbd9d4cd40ae6",
+        "size": [
+          226,
+          118
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/044.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-选4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/1b342101c7dc7a6767f7ac2bfcae6a13398b67215f3989d544d5caf5fa986b4b.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/1b342101c7dc7a6767f7ac2bfcae6a13398b67215f3989d544d5caf5fa986b4b.jpg",
+    "sha256": "c74adbbca6a7e38ef68196e23811237326b2dd1e44ab8d5d57d99d3db1b1fc6f",
+    "size": [
+      120,
+      209
+    ],
+    "id": 45,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 13,
+    "bbox_1000": [
+      821,
+      360,
+      894,
+      449
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\1b342101c7dc7a6767f7ac2bfcae6a13398b67215f3989d544d5caf5fa986b4b.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-045.png",
+    "source_crop_size": [
+      176,
+      302
+    ],
+    "page_preview": "page-3-013.png",
+    "method": "redrawn",
+    "new": "045.svg",
+    "check": "物块m在弹簧上方，h为间隔，不补初速度。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-选4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/1b342101c7dc7a6767f7ac2bfcae6a13398b67215f3989d544d5caf5fa986b4b.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/1b342101c7dc7a6767f7ac2bfcae6a13398b67215f3989d544d5caf5fa986b4b.jpg",
+        "sha256": "c74adbbca6a7e38ef68196e23811237326b2dd1e44ab8d5d57d99d3db1b1fc6f",
+        "size": [
+          120,
+          209
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/045.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-选5",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/784e6b04be0edb9085f44082736f9a226144f538091431443fd7b464ac474eb5.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/784e6b04be0edb9085f44082736f9a226144f538091431443fd7b464ac474eb5.jpg",
+    "sha256": "f999d768368f2b2f2192ef1ecf1c612b5b5865b897378e5de034fe6f79643bec",
+    "size": [
+      260,
+      104
+    ],
+    "id": 46,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 13,
+    "bbox_1000": [
+      727,
+      504,
+      884,
+      548
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\784e6b04be0edb9085f44082736f9a226144f538091431443fd7b464ac474eb5.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-046.png",
+    "source_crop_size": [
+      378,
+      150
+    ],
+    "page_preview": "page-3-013.png",
+    "method": "native_extraction",
+    "new": "046-extracted.png",
+    "check": "P向右碰撞M/Q弹簧系统；各标号与原图一致。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-选5",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/784e6b04be0edb9085f44082736f9a226144f538091431443fd7b464ac474eb5.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/784e6b04be0edb9085f44082736f9a226144f538091431443fd7b464ac474eb5.jpg",
+        "sha256": "f999d768368f2b2f2192ef1ecf1c612b5b5865b897378e5de034fe6f79643bec",
+        "size": [
+          260,
+          104
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/046-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-计3",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/400ed2aa5ae221602b9d99ea35d0c027c7a6123cded6358e00a4ea41ec9dc035.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/400ed2aa5ae221602b9d99ea35d0c027c7a6123cded6358e00a4ea41ec9dc035.jpg",
+    "sha256": "56415802a6571448ae274ac4d992c614586315400b961b0a5672670545f72cac",
+    "size": [
+      246,
+      257
+    ],
+    "id": 47,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      749,
+      332,
+      897,
+      442
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\400ed2aa5ae221602b9d99ea35d0c027c7a6123cded6358e00a4ea41ec9dc035.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-047.png",
+    "source_crop_size": [
+      356,
+      373
+    ],
+    "page_preview": "page-3-015.png",
+    "method": "native_extraction",
+    "new": "047-extracted.png",
+    "check": "双滑轮绳路、m1/m2，T上、F左；按源图保留连接。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-计3",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/400ed2aa5ae221602b9d99ea35d0c027c7a6123cded6358e00a4ea41ec9dc035.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/400ed2aa5ae221602b9d99ea35d0c027c7a6123cded6358e00a4ea41ec9dc035.jpg",
+        "sha256": "56415802a6571448ae274ac4d992c614586315400b961b0a5672670545f72cac",
+        "size": [
+          246,
+          257
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/047-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-证1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/76e73124721317da1ddde12121ec9c76ad37372eedbef5ff1cacf082c501864c.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/76e73124721317da1ddde12121ec9c76ad37372eedbef5ff1cacf082c501864c.jpg",
+    "sha256": "5f5a88fc44cb690dea40126c51d87a500da86b064e8534bea27c67e2a90f1eee",
+    "size": [
+      154,
+      234
+    ],
+    "id": 48,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 16,
+    "bbox_1000": [
+      806,
+      159,
+      899,
+      259
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\76e73124721317da1ddde12121ec9c76ad37372eedbef5ff1cacf082c501864c.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-048.png",
+    "source_crop_size": [
+      224,
+      340
+    ],
+    "page_preview": "page-3-016.png",
+    "method": "native_extraction",
+    "new": "048-extracted.png",
+    "check": "m与v0向左入射半圆槽；原生裁图可辨，不补数值半径。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-证1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/76e73124721317da1ddde12121ec9c76ad37372eedbef5ff1cacf082c501864c.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/76e73124721317da1ddde12121ec9c76ad37372eedbef5ff1cacf082c501864c.jpg",
+        "sha256": "5f5a88fc44cb690dea40126c51d87a500da86b064e8534bea27c67e2a90f1eee",
+        "size": [
+          154,
+          234
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/048-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-选2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/24736d590520311d5125286c3c8769818d5bc55a05138c4ebe7d768c62425bef.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/24736d590520311d5125286c3c8769818d5bc55a05138c4ebe7d768c62425bef.jpg",
+    "sha256": "86cbc1cd810eed75776cfbb524d012c1eb9a39f33ffe8083ae1b685e3d8c6b3d",
+    "size": [
+      418,
+      98
+    ],
+    "id": 49,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      645,
+      151,
+      897,
+      192
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\24736d590520311d5125286c3c8769818d5bc55a05138c4ebe7d768c62425bef.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-049.png",
+    "source_crop_size": [
+      606,
+      139
+    ],
+    "page_preview": "page-3-009.png",
+    "method": "redrawn",
+    "new": "049.svg",
+    "check": "B左A右、弹簧连接，F向右施于A，x正向右。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-选2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/24736d590520311d5125286c3c8769818d5bc55a05138c4ebe7d768c62425bef.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/24736d590520311d5125286c3c8769818d5bc55a05138c4ebe7d768c62425bef.jpg",
+        "sha256": "86cbc1cd810eed75776cfbb524d012c1eb9a39f33ffe8083ae1b685e3d8c6b3d",
+        "size": [
+          418,
+          98
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/049.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-选6",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/396ad64c9cc0e6d1a9188759a933bcb7a6b0ad44dd6081028d326607cf33a922.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/396ad64c9cc0e6d1a9188759a933bcb7a6b0ad44dd6081028d326607cf33a922.jpg",
+    "sha256": "806451baff7dcb3cd1cebdd86ea015a0607fb72bf8196a0d00493f738cdb2c4f",
+    "size": [
+      262,
+      109
+    ],
+    "id": 50,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      712,
+      533,
+      870,
+      580
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\396ad64c9cc0e6d1a9188759a933bcb7a6b0ad44dd6081028d326607cf33a922.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-050.png",
+    "source_crop_size": [
+      380,
+      159
+    ],
+    "page_preview": "page-3-009.png",
+    "method": "redrawn",
+    "new": "050.svg",
+    "check": "A上F右上，θ相对水平；不添加角度数值。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-选6",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/396ad64c9cc0e6d1a9188759a933bcb7a6b0ad44dd6081028d326607cf33a922.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/396ad64c9cc0e6d1a9188759a933bcb7a6b0ad44dd6081028d326607cf33a922.jpg",
+        "sha256": "806451baff7dcb3cd1cebdd86ea015a0607fb72bf8196a0d00493f738cdb2c4f",
+        "size": [
+          262,
+          109
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/050.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-选8",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/cc1f43c14fc66ec3a8e0d8b66640ab9080f5003d5a7901ff7a56b3b7ecee2891.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/cc1f43c14fc66ec3a8e0d8b66640ab9080f5003d5a7901ff7a56b3b7ecee2891.jpg",
+    "sha256": "42b07417f9ad3fe824b049a35795357b3f97eeb5fe41248b273f4d952ac07387",
+    "size": [
+      279,
+      87
+    ],
+    "id": 51,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      727,
+      678,
+      895,
+      715
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\cc1f43c14fc66ec3a8e0d8b66640ab9080f5003d5a7901ff7a56b3b7ecee2891.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-051.png",
+    "source_crop_size": [
+      404,
+      126
+    ],
+    "page_preview": "page-3-009.png",
+    "method": "redrawn",
+    "new": "051.svg",
+    "check": "两个球m1/m2、弹簧连接、两个F方向向外。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-选8",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/cc1f43c14fc66ec3a8e0d8b66640ab9080f5003d5a7901ff7a56b3b7ecee2891.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/cc1f43c14fc66ec3a8e0d8b66640ab9080f5003d5a7901ff7a56b3b7ecee2891.jpg",
+        "sha256": "42b07417f9ad3fe824b049a35795357b3f97eeb5fe41248b273f4d952ac07387",
+        "size": [
+          279,
+          87
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/051.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-填1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/ec260f2550a94d973f699bb6956304d96dc57f5ba0027227b86c1b25f504c6c0.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/ec260f2550a94d973f699bb6956304d96dc57f5ba0027227b86c1b25f504c6c0.jpg",
+    "sha256": "c3bc9631ca7384eadf36c421d9d28eb6086352cfeb98b74f5e650c38224fe67e",
+    "size": [
+      279,
+      162
+    ],
+    "id": 52,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      729,
+      419,
+      897,
+      488
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\ec260f2550a94d973f699bb6956304d96dc57f5ba0027227b86c1b25f504c6c0.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-052.png",
+    "source_crop_size": [
+      404,
+      235
+    ],
+    "page_preview": "page-3-010.png",
+    "method": "native_extraction",
+    "new": "052-extracted.png",
+    "check": "球面A顶点、B右上，θ相对竖直；保留本题原有比例。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-填1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/ec260f2550a94d973f699bb6956304d96dc57f5ba0027227b86c1b25f504c6c0.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/ec260f2550a94d973f699bb6956304d96dc57f5ba0027227b86c1b25f504c6c0.jpg",
+        "sha256": "c3bc9631ca7384eadf36c421d9d28eb6086352cfeb98b74f5e650c38224fe67e",
+        "size": [
+          279,
+          162
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/052-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-问2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/74dc1a4c5cfabe660f93a2d6b5dbd56dcb563ba726b7a90f315733150c30e60e.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/74dc1a4c5cfabe660f93a2d6b5dbd56dcb563ba726b7a90f315733150c30e60e.jpg",
+    "sha256": "19cb8ae9b6dedba90ba499dd1f24f738a011500b2cb7d48c11f69d01ac5c59ee",
+    "size": [
+      192,
+      201
+    ],
+    "id": 53,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 12,
+    "bbox_1000": [
+      784,
+      633,
+      900,
+      719
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\74dc1a4c5cfabe660f93a2d6b5dbd56dcb563ba726b7a90f315733150c30e60e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-053.png",
+    "source_crop_size": [
+      279,
+      292
+    ],
+    "page_preview": "page-3-012.png",
+    "method": "redrawn",
+    "new": "053.svg",
+    "check": "定滑轮左右挂A/B，绳路不交叉，无额外运动箭头。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-问2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/74dc1a4c5cfabe660f93a2d6b5dbd56dcb563ba726b7a90f315733150c30e60e.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/74dc1a4c5cfabe660f93a2d6b5dbd56dcb563ba726b7a90f315733150c30e60e.jpg",
+        "sha256": "19cb8ae9b6dedba90ba499dd1f24f738a011500b2cb7d48c11f69d01ac5c59ee",
+        "size": [
+          192,
+          201
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/053.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+    "question": "23-24期中-选4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/10c9fd05a2c763599c6e5a6c26b7ead0260917cd312e8bd707663174e12a6a00.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/10c9fd05a2c763599c6e5a6c26b7ead0260917cd312e8bd707663174e12a6a00.jpg",
+    "sha256": "0f9457b406ce1c4a2ab0d19adadf3272cfa1ecf5e6a37afcade0448d4c7013ec",
+    "size": [
+      340,
+      179
+    ],
+    "id": 54,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 5,
+    "bbox_1000": [
+      621,
+      444,
+      826,
+      520
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\10c9fd05a2c763599c6e5a6c26b7ead0260917cd312e8bd707663174e12a6a00.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-054.png",
+    "source_crop_size": [
+      493,
+      258
+    ],
+    "page_preview": "page-3-005.png",
+    "method": "native_extraction",
+    "new": "054-extracted.png",
+    "check": "卡车、斜面θ、斜面上的m；力箭头按原图保留。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+        "question": "23-24期中-选4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/10c9fd05a2c763599c6e5a6c26b7ead0260917cd312e8bd707663174e12a6a00.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/10c9fd05a2c763599c6e5a6c26b7ead0260917cd312e8bd707663174e12a6a00.jpg",
+        "sha256": "0f9457b406ce1c4a2ab0d19adadf3272cfa1ecf5e6a37afcade0448d4c7013ec",
+        "size": [
+          340,
+          179
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/054-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+    "question": "23-24期中-选5",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/805b560d0245c4b2cbe8e526b7ea3ec9e8829f4fd8f7f6d522eff9f1b9f822f5.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/805b560d0245c4b2cbe8e526b7ea3ec9e8829f4fd8f7f6d522eff9f1b9f822f5.jpg",
+    "sha256": "4685a51ac7e389158d2fecd32160463868e3e6bc9f8dc30401aa3bfbe0dffe12",
+    "size": [
+      196,
+      195
+    ],
+    "id": 55,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 5,
+    "bbox_1000": [
+      705,
+      565,
+      823,
+      649
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\805b560d0245c4b2cbe8e526b7ea3ec9e8829f4fd8f7f6d522eff9f1b9f822f5.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-055.png",
+    "source_crop_size": [
+      284,
+      286
+    ],
+    "page_preview": "page-3-005.png",
+    "method": "redrawn",
+    "new": "055.svg",
+    "check": "O为圆周下端，R从圆心向右上；x/y正方向保持。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+        "question": "23-24期中-选5",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/805b560d0245c4b2cbe8e526b7ea3ec9e8829f4fd8f7f6d522eff9f1b9f822f5.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/805b560d0245c4b2cbe8e526b7ea3ec9e8829f4fd8f7f6d522eff9f1b9f822f5.jpg",
+        "sha256": "4685a51ac7e389158d2fecd32160463868e3e6bc9f8dc30401aa3bfbe0dffe12",
+        "size": [
+          196,
+          195
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/055.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+    "question": "23-24期中-选7",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/9b958cff14f8d608f341ebc0cd7ad587343448ab024c7d8a27c9b47a77790204.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/9b958cff14f8d608f341ebc0cd7ad587343448ab024c7d8a27c9b47a77790204.jpg",
+    "sha256": "7b81f6dec2e8e0f8746071a686d0b5590c4533c6b637d89ebce9e1e112e71440",
+    "size": [
+      190,
+      143
+    ],
+    "id": 56,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 5,
+    "bbox_1000": [
+      724,
+      722,
+      838,
+      783
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\9b958cff14f8d608f341ebc0cd7ad587343448ab024c7d8a27c9b47a77790204.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-056.png",
+    "source_crop_size": [
+      274,
+      207
+    ],
+    "page_preview": "page-3-005.png",
+    "method": "native_extraction",
+    "new": "056-extracted.png",
+    "check": "动/定滑轮和A/B绳路；原生提取保持整条连接，不猜测绕线。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+        "question": "23-24期中-选7",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/9b958cff14f8d608f341ebc0cd7ad587343448ab024c7d8a27c9b47a77790204.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/9b958cff14f8d608f341ebc0cd7ad587343448ab024c7d8a27c9b47a77790204.jpg",
+        "sha256": "7b81f6dec2e8e0f8746071a686d0b5590c4533c6b637d89ebce9e1e112e71440",
+        "size": [
+          190,
+          143
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/056-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+    "question": "23-24期中-选8",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/adc2e9849279abc99adf94d9acc42c95ff9578df55d9da2b49b241ff2b9ce89d.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/adc2e9849279abc99adf94d9acc42c95ff9578df55d9da2b49b241ff2b9ce89d.jpg",
+    "sha256": "10656cdbc9fa5f518749ca3466cce78cbb705de6d545e85476993e7d00820376",
+    "size": [
+      242,
+      78
+    ],
+    "id": 57,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 5,
+    "bbox_1000": [
+      761,
+      828,
+      907,
+      862
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\adc2e9849279abc99adf94d9acc42c95ff9578df55d9da2b49b241ff2b9ce89d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-057.png",
+    "source_crop_size": [
+      351,
+      115
+    ],
+    "page_preview": "page-3-005.png",
+    "method": "redrawn",
+    "new": "057.svg",
+    "check": "m1/m2水平弹簧连接，未添加外力或墙。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+        "question": "23-24期中-选8",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/adc2e9849279abc99adf94d9acc42c95ff9578df55d9da2b49b241ff2b9ce89d.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/adc2e9849279abc99adf94d9acc42c95ff9578df55d9da2b49b241ff2b9ce89d.jpg",
+        "sha256": "10656cdbc9fa5f518749ca3466cce78cbb705de6d545e85476993e7d00820376",
+        "size": [
+          242,
+          78
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/057.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+    "question": "23-24期中-计2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/d3fb0b516228153e3d8656014ad885d30877a6099c1b1c6df0be4d645a107c98.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/d3fb0b516228153e3d8656014ad885d30877a6099c1b1c6df0be4d645a107c98.jpg",
+    "sha256": "13003f26590aae00f4d42a9d644a4698928f57a5cae8e08f4c2ee36256ecfdd7",
+    "size": [
+      445,
+      212
+    ],
+    "id": 58,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 7,
+    "bbox_1000": [
+      650,
+      116,
+      919,
+      206
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\d3fb0b516228153e3d8656014ad885d30877a6099c1b1c6df0be4d645a107c98.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-058.png",
+    "source_crop_size": [
+      647,
+      306
+    ],
+    "page_preview": "page-3-007.png",
+    "method": "native_extraction",
+    "new": "058-extracted.png",
+    "check": "下倾斜面上的m、底座M与A、θ；不添加速度或力。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+        "question": "23-24期中-计2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/d3fb0b516228153e3d8656014ad885d30877a6099c1b1c6df0be4d645a107c98.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/d3fb0b516228153e3d8656014ad885d30877a6099c1b1c6df0be4d645a107c98.jpg",
+        "sha256": "13003f26590aae00f4d42a9d644a4698928f57a5cae8e08f4c2ee36256ecfdd7",
+        "size": [
+          445,
+          212
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/058-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+    "question": "23-24期中-计4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/376a124fcf4a5ed333d1bc35569fd1d6b7710c5fc602c1747ef6f0315609b105.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/376a124fcf4a5ed333d1bc35569fd1d6b7710c5fc602c1747ef6f0315609b105.jpg",
+    "sha256": "a377d373811eb1be8d0620e0b54162731be06294c5e0003edb335945fbe08b05",
+    "size": [
+      157,
+      162
+    ],
+    "id": 59,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 7,
+    "bbox_1000": [
+      643,
+      634,
+      737,
+      703
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\376a124fcf4a5ed333d1bc35569fd1d6b7710c5fc602c1747ef6f0315609b105.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-059.png",
+    "source_crop_size": [
+      226,
+      234
+    ],
+    "page_preview": "page-3-007.png",
+    "method": "native_extraction",
+    "new": "059-extracted.png",
+    "check": "圆轨迹虚线、圆心O、长度l、M底部，m向右入射。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+        "question": "23-24期中-计4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/376a124fcf4a5ed333d1bc35569fd1d6b7710c5fc602c1747ef6f0315609b105.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/376a124fcf4a5ed333d1bc35569fd1d6b7710c5fc602c1747ef6f0315609b105.jpg",
+        "sha256": "a377d373811eb1be8d0620e0b54162731be06294c5e0003edb335945fbe08b05",
+        "size": [
+          157,
+          162
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/059-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+    "question": "24-25期中-计1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/5509a71f6e3f963660ffd055cdeb54e4f405dbf8a9cfdae8e0fb1e3922a984eb.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/5509a71f6e3f963660ffd055cdeb54e4f405dbf8a9cfdae8e0fb1e3922a984eb.jpg",
+    "sha256": "052889772db6ed99cae0188ad0c138fc96fcab35ac5a96dcb801d2c10b5a8908",
+    "size": [
+      273,
+      262
+    ],
+    "id": 60,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 2,
+    "bbox_1000": [
+      747,
+      256,
+      912,
+      368
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\5509a71f6e3f963660ffd055cdeb54e4f405dbf8a9cfdae8e0fb1e3922a984eb.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-060.png",
+    "source_crop_size": [
+      396,
+      380
+    ],
+    "page_preview": "page-3-002.png",
+    "method": "native_extraction",
+    "new": "060-extracted.png",
+    "check": "F/t图、F0、T/2、T与原曲线形状；题未给完整函数，采用原图提取，不擅自拟合为正弦或折线。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+        "question": "24-25期中-计1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/5509a71f6e3f963660ffd055cdeb54e4f405dbf8a9cfdae8e0fb1e3922a984eb.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/5509a71f6e3f963660ffd055cdeb54e4f405dbf8a9cfdae8e0fb1e3922a984eb.jpg",
+        "sha256": "052889772db6ed99cae0188ad0c138fc96fcab35ac5a96dcb801d2c10b5a8908",
+        "size": [
+          273,
+          262
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/060-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+    "question": "24-25期中-计2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/8dc1db3e241d6e8e94bf529ed55eea77f10970a85b033f05a14898e64546a062.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/8dc1db3e241d6e8e94bf529ed55eea77f10970a85b033f05a14898e64546a062.jpg",
+    "sha256": "73ef8dbcbf6f26c2c240a0f731a2e656587a63fb112c66fa421b52b38759e1de",
+    "size": [
+      326,
+      278
+    ],
+    "id": 61,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 2,
+    "bbox_1000": [
+      657,
+      609,
+      853,
+      728
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\8dc1db3e241d6e8e94bf529ed55eea77f10970a85b033f05a14898e64546a062.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-061.png",
+    "source_crop_size": [
+      470,
+      403
+    ],
+    "page_preview": "page-3-002.png",
+    "method": "native_extraction",
+    "new": "061-extracted.png",
+    "check": "坐标O/x/y、A/B和vA/vB及曲线；不以任意函数重建未知轨迹。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+        "question": "24-25期中-计2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/8dc1db3e241d6e8e94bf529ed55eea77f10970a85b033f05a14898e64546a062.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/8dc1db3e241d6e8e94bf529ed55eea77f10970a85b033f05a14898e64546a062.jpg",
+        "sha256": "73ef8dbcbf6f26c2c240a0f731a2e656587a63fb112c66fa421b52b38759e1de",
+        "size": [
+          326,
+          278
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/061-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+    "question": "24-25期中-计6",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/3f3ea74389a3f9d3f2367c2e395b92f718a5cc14a33221126e94b3b0e694ca49.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/3f3ea74389a3f9d3f2367c2e395b92f718a5cc14a33221126e94b3b0e694ca49.jpg",
+    "sha256": "90377603a470bbe766ec1576f7ea3171c44e0dd221099beb1ba4f2aa509947fb",
+    "size": [
+      400,
+      534
+    ],
+    "id": 62,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 4,
+    "bbox_1000": [
+      650,
+      186,
+      892,
+      414
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\3f3ea74389a3f9d3f2367c2e395b92f718a5cc14a33221126e94b3b0e694ca49.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-062.png",
+    "source_crop_size": [
+      580,
+      774
+    ],
+    "page_preview": "page-3-004.png",
+    "method": "retained_uncertain",
+    "check": "源PDF扫描仍有无法可靠辨认的细小字迹；不猜测轴/点名，保留原图，待更清晰来源。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+        "question": "24-25期中-计6",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/3f3ea74389a3f9d3f2367c2e395b92f718a5cc14a33221126e94b3b0e694ca49.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/3f3ea74389a3f9d3f2367c2e395b92f718a5cc14a33221126e94b3b0e694ca49.jpg",
+        "sha256": "90377603a470bbe766ec1576f7ea3171c44e0dd221099beb1ba4f2aa509947fb",
+        "size": [
+          400,
+          534
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+    "question": "19-20期末-简1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/17a73421ac0e3f518a0009a7cc68d4b885657e9e09988de171ef689a602cfe6f.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/17a73421ac0e3f518a0009a7cc68d4b885657e9e09988de171ef689a602cfe6f.jpg",
+    "sha256": "aefe3247ba69aeab92039074741fd756745da42012425cc0efa43d7a2151b082",
+    "size": [
+      414,
+      362
+    ],
+    "id": 63,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 36,
+    "bbox_1000": [
+      635,
+      435,
+      885,
+      589
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\17a73421ac0e3f518a0009a7cc68d4b885657e9e09988de171ef689a602cfe6f.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-063.png",
+    "source_crop_size": [
+      601,
+      523
+    ],
+    "page_preview": "page-3-036.png",
+    "method": "native_extraction",
+    "new": "063-extracted.png",
+    "check": "两个顶端滑轮、中央分支与θ、两侧m/2、右m；连接保持原像素。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+        "question": "19-20期末-简1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/17a73421ac0e3f518a0009a7cc68d4b885657e9e09988de171ef689a602cfe6f.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/17a73421ac0e3f518a0009a7cc68d4b885657e9e09988de171ef689a602cfe6f.jpg",
+        "sha256": "aefe3247ba69aeab92039074741fd756745da42012425cc0efa43d7a2151b082",
+        "size": [
+          414,
+          362
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/063-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+    "question": "未标年份-期末二-选1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/05fa80baa7775cf339b0a1d4073c1200d5db3271acc74053ae09f8b9cfab0bf9.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/05fa80baa7775cf339b0a1d4073c1200d5db3271acc74053ae09f8b9cfab0bf9.jpg",
+    "sha256": "53dde14047933dd8a2f77b9a2bc840be186ed358ad7030d11a5e77ccbeaf4fe3",
+    "size": [
+      368,
+      173
+    ],
+    "id": 64,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 50,
+    "bbox_1000": [
+      653,
+      143,
+      875,
+      217
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\05fa80baa7775cf339b0a1d4073c1200d5db3271acc74053ae09f8b9cfab0bf9.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-064.png",
+    "source_crop_size": [
+      532,
+      251
+    ],
+    "page_preview": "page-3-050.png",
+    "method": "native_extraction",
+    "new": "064-extracted.png",
+    "check": "人、绳、滑轮与船的几何连接；人物不是精确科学几何对象，保留清晰原图。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+        "question": "未标年份-期末二-选1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/05fa80baa7775cf339b0a1d4073c1200d5db3271acc74053ae09f8b9cfab0bf9.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/05fa80baa7775cf339b0a1d4073c1200d5db3271acc74053ae09f8b9cfab0bf9.jpg",
+        "sha256": "53dde14047933dd8a2f77b9a2bc840be186ed358ad7030d11a5e77ccbeaf4fe3",
+        "size": [
+          368,
+          173
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/064-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+    "question": "未标年份-期末二-选4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/980b9d9c36b565bc5c554c518f1a2dedd99fc78d6b5d7ca4b80f1c274a9418c4.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/980b9d9c36b565bc5c554c518f1a2dedd99fc78d6b5d7ca4b80f1c274a9418c4.jpg",
+    "sha256": "5d2ec6e744b7328edf00ad2c881aa65e8e5ac71632790ae7eeda33655a02d714",
+    "size": [
+      289,
+      209
+    ],
+    "id": 65,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 50,
+    "bbox_1000": [
+      695,
+      506,
+      870,
+      595
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\980b9d9c36b565bc5c554c518f1a2dedd99fc78d6b5d7ca4b80f1c274a9418c4.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-065.png",
+    "source_crop_size": [
+      419,
+      302
+    ],
+    "page_preview": "page-3-050.png",
+    "method": "native_extraction",
+    "new": "065-extracted.png",
+    "check": "半圆转动轴O/C、ω与P，不新增角速度值。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+        "question": "未标年份-期末二-选4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/980b9d9c36b565bc5c554c518f1a2dedd99fc78d6b5d7ca4b80f1c274a9418c4.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/980b9d9c36b565bc5c554c518f1a2dedd99fc78d6b5d7ca4b80f1c274a9418c4.jpg",
+        "sha256": "5d2ec6e744b7328edf00ad2c881aa65e8e5ac71632790ae7eeda33655a02d714",
+        "size": [
+          289,
+          209
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/065-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+    "question": "未标年份-期末二-选8",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/03ada846401794c626ad548c8a1095d96b51a271ae9a99aa230d750cc35c2d50.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/03ada846401794c626ad548c8a1095d96b51a271ae9a99aa230d750cc35c2d50.jpg",
+    "sha256": "a76625da0a2f3886b6976c3305b8c3d2c5d35a3a48e0af33594aabe571e52b05",
+    "size": [
+      309,
+      212
+    ],
+    "id": 66,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 51,
+    "bbox_1000": [
+      678,
+      67,
+      865,
+      158
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\03ada846401794c626ad548c8a1095d96b51a271ae9a99aa230d750cc35c2d50.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-066.png",
+    "source_crop_size": [
+      450,
+      309
+    ],
+    "page_preview": "page-3-051.png",
+    "method": "native_extraction",
+    "new": "066-extracted.png",
+    "check": "上方m与弯曲轨道M、接触地面；原题无定量轨道函数，保留原轮廓。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+        "question": "未标年份-期末二-选8",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/03ada846401794c626ad548c8a1095d96b51a271ae9a99aa230d750cc35c2d50.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/03ada846401794c626ad548c8a1095d96b51a271ae9a99aa230d750cc35c2d50.jpg",
+        "sha256": "a76625da0a2f3886b6976c3305b8c3d2c5d35a3a48e0af33594aabe571e52b05",
+        "size": [
+          309,
+          212
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/066-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_683.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_683.jpg",
+    "sha256": "58ba2bbb65cf4abd4115166a57f6fed86a60fc2cf2d37fa0978952a4ed044d16",
+    "size": [
+      629,
+      387
+    ],
+    "id": 67,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 28,
+    "bbox_1000": [
+      129,
+      401,
+      509,
+      567
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\94f033cd911a326408a984615c6f943502f3ca374c066cd4ba1d38cb7d77aff1.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-067.png",
+    "source_crop_size": [
+      941,
+      581
+    ],
+    "page_preview": "page-4-028.png",
+    "method": "native_extraction",
+    "new": "067-extracted.png",
+    "check": "A/B/C/D与小车滑轮连接，原生裁图清晰；没有补上未给力。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_683.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_683.jpg",
+        "sha256": "58ba2bbb65cf4abd4115166a57f6fed86a60fc2cf2d37fa0978952a4ed044d16",
+        "size": [
+          629,
+          387
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/067-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-1",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_364.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_364.jpg",
+    "sha256": "85df6f6c4af003c13a4a96d37fb97b860757a1f96d0411653852c99103f3cc7c",
+    "size": [
+      517,
+      407
+    ],
+    "id": 68,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 28,
+    "bbox_1000": [
+      566,
+      391,
+      878,
+      564
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\4f99c3c843c73bdfecea9ef570165a4236513883e37e855ad9f40a6a137a480b.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-068.png",
+    "source_crop_size": [
+      772,
+      605
+    ],
+    "page_preview": "page-4-028.png",
+    "method": "native_extraction",
+    "new": "068-extracted.png",
+    "check": "D/A/B受力的F、N1/N2、T、mg/Mg与坐标x/y、α；箭头清晰后直接提取，保持原符号。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-1",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_364.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_364.jpg",
+        "sha256": "85df6f6c4af003c13a4a96d37fb97b860757a1f96d0411653852c99103f3cc7c",
+        "size": [
+          517,
+          407
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/068-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_226.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_226.jpg",
+    "sha256": "93f0fd2792c88414205eac3a0bfb0930eefc3d85e41261bb87e900bcd7635a0c",
+    "size": [
+      279,
+      334
+    ],
+    "id": 69,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      228,
+      306,
+      396,
+      449
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\31b3d31ea859a982445cc7bdbfb71b20d65d9065a74d8ad2b7908c42053e8f43.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-069.png",
+    "source_crop_size": [
+      416,
+      500
+    ],
+    "page_preview": "page-4-029.png",
+    "method": "native_extraction",
+    "new": "069-extracted.png",
+    "check": "上定滑轮、下动滑轮、人m1与平台m2；保持绳路和支点。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_226.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_226.jpg",
+        "sha256": "93f0fd2792c88414205eac3a0bfb0930eefc3d85e41261bb87e900bcd7635a0c",
+        "size": [
+          279,
+          334
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/069-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_381.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_381.jpg",
+    "sha256": "f0f95ef0bd44d5e35f4b65b42a24e320f42962a041e3e4db41abb76e1a2174a3",
+    "size": [
+      215,
+      348
+    ],
+    "id": 70,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      495,
+      303,
+      625,
+      451
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\53b352cb074245a0a21c7d61b8d39a15b47b5b77b932a2fdd0d50c7d99bbf1ba.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-070.png",
+    "source_crop_size": [
+      322,
+      517
+    ],
+    "page_preview": "page-4-029.png",
+    "method": "native_extraction",
+    "new": "070-extracted.png",
+    "check": "人受T2向上、N向上、m1g向下与a向上；原标注保留。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_381.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_381.jpg",
+        "sha256": "f0f95ef0bd44d5e35f4b65b42a24e320f42962a041e3e4db41abb76e1a2174a3",
+        "size": [
+          215,
+          348
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/070-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-2",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_233.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_233.jpg",
+    "sha256": "1b4c7523f3d359722ebb80c5e90729dd2713ea777937414f972de1f332e21915",
+    "size": [
+      237,
+      282
+    ],
+    "id": 71,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      673,
+      311,
+      816,
+      431
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\33156dc86541d4efcdbbcc9ed6cb096db6d9b042cbb866d03abfec3a98368cfc.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-071.png",
+    "source_crop_size": [
+      354,
+      419
+    ],
+    "page_preview": "page-4-029.png",
+    "method": "redrawn",
+    "new": "071.svg",
+    "check": "横板两端T1/T2向上，N′与m2g向下；撇号保留。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-2",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_233.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_233.jpg",
+        "sha256": "1b4c7523f3d359722ebb80c5e90729dd2713ea777937414f972de1f332e21915",
+        "size": [
+          237,
+          282
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/071.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-3",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_630.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_630.jpg",
+    "sha256": "3f2dd50dea875aa2df70c40f6f8f6937ed832bea6683f99751e423e731d59ecb",
+    "size": [
+      221,
+      279
+    ],
+    "id": 72,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 30,
+    "bbox_1000": [
+      289,
+      115,
+      421,
+      234
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\86c3f8a8a1dc51a45f5d8715a7089579ec5f7d4be2dc7f7154a6752ca4cb4ffb.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-072.png",
+    "source_crop_size": [
+      327,
+      416
+    ],
+    "page_preview": "page-4-030.png",
+    "method": "native_extraction",
+    "new": "072-extracted.png",
+    "check": "圆锥h、θ与转轴ω、小球；图中文字可辨，保留原几何。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-3",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_630.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_630.jpg",
+        "sha256": "3f2dd50dea875aa2df70c40f6f8f6937ed832bea6683f99751e423e731d59ecb",
+        "size": [
+          221,
+          279
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/072-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-3",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.svg",
+    "path": "10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.svg",
+    "sha256": "804ca8145f1d025c708e1437c71bf4ef9d4c3091143af5a0ea4f9f4c69b50886",
+    "size": null,
+    "id": 73,
+    "method": "already_verified_svg",
+    "check": "首批已核验SVG；现有引用和图文件完整，保留不重复修改。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-3",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.svg",
+        "path": "10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.svg",
+        "sha256": "804ca8145f1d025c708e1437c71bf4ef9d4c3091143af5a0ea4f9f4c69b50886",
+        "size": null
+      }
+    ]
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-3",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.svg",
+    "path": "10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.svg",
+    "sha256": "b1ce9694479d49b430c2acb08df4b33904acbecc97f5fa27ba4dcce30bd4f4a1",
+    "size": null,
+    "id": 74,
+    "method": "already_verified_svg",
+    "check": "首批已核验SVG；现有引用和图文件完整，保留不重复修改。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-3",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.svg",
+        "path": "10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.svg",
+        "sha256": "b1ce9694479d49b430c2acb08df4b33904acbecc97f5fa27ba4dcce30bd4f4a1",
+        "size": null
+      }
+    ]
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_122.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_122.jpg",
+    "sha256": "ccaad5e05a82d982ff5d5723b6e4fcea3f1247b71a82a1c084ea424f933717ac",
+    "size": [
+      360,
+      510
+    ],
+    "id": 75,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 31,
+    "bbox_1000": [
+      265,
+      112,
+      482,
+      330
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\1cbc32fc7b2e1c54f4cf8641ed11ac7356293450235fc34237641f47b8b0a84e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-075.png",
+    "source_crop_size": [
+      537,
+      762
+    ],
+    "page_preview": "page-4-031.png",
+    "method": "native_extraction",
+    "new": "075-extracted.png",
+    "check": "旋转水银望远镜的星光、观察孔、水银与旋转台；原图剖面完整，文字可辨。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_122.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_122.jpg",
+        "sha256": "ccaad5e05a82d982ff5d5723b6e4fcea3f1247b71a82a1c084ea424f933717ac",
+        "size": [
+          360,
+          510
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/075-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-4",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_099.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_099.jpg",
+    "sha256": "55cbe80b4e3894a3b9cbade55b75fd682598d2d4050086dae7a8e5df8bd7185d",
+    "size": [
+      382,
+      429
+    ],
+    "id": 76,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 31,
+    "bbox_1000": [
+      546,
+      124,
+      776,
+      307
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\18cdfdf7c8dbf73297ee2e8d5f75560423f96bc69cb980d549a64aa2ca33a3d8.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-076.png",
+    "source_crop_size": [
+      570,
+      640
+    ],
+    "page_preview": "page-4-031.png",
+    "method": "native_extraction",
+    "new": "076-extracted.png",
+    "check": "旋转液面O/x/y、ω、微元N/dmg与θ；保持力的方向和液面形状。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-4",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_099.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_099.jpg",
+        "sha256": "55cbe80b4e3894a3b9cbade55b75fd682598d2d4050086dae7a8e5df8bd7185d",
+        "size": [
+          382,
+          429
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/076-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-8",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_987.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_987.jpg",
+    "sha256": "2517ad39b36482e563df506c1081da3a1979ae59757c3f128bc983bf7133abec",
+    "size": [
+      514,
+      295
+    ],
+    "id": 77,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 34,
+    "bbox_1000": [
+      596,
+      640,
+      907,
+      766
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\d742c34798cc442ce7ea661904ba0d8126215821cbcb2f3f0c5f35913b81d9e6.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-077.png",
+    "source_crop_size": [
+      770,
+      441
+    ],
+    "page_preview": "page-4-034.png",
+    "method": "native_extraction",
+    "new": "077-extracted.png",
+    "check": "m入射v1水平向右，碰斜面后v2向上、M向右；方向按原图保留。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-8",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_987.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_987.jpg",
+        "sha256": "2517ad39b36482e563df506c1081da3a1979ae59757c3f128bc983bf7133abec",
+        "size": [
+          514,
+          295
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/077-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-10",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_813.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_813.jpg",
+    "sha256": "a1680fe91e024b210ca75bbab83a27b3e3beb9ab3dd707d2eecd3ba3e023d173",
+    "size": [
+      387,
+      317
+    ],
+    "id": 78,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 36,
+    "bbox_1000": [
+      677,
+      101,
+      910,
+      236
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\adacab20d1694aea927c1d84bc50373bd6b0416d8f3100e8b34403b3a8ad003e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-078.png",
+    "source_crop_size": [
+      577,
+      472
+    ],
+    "page_preview": "page-4-036.png",
+    "method": "native_extraction",
+    "new": "078-extracted.png",
+    "check": "容器、虹吸管与h1/h2/h/dh尺寸端点；保留完整液面、管路及箭头。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-10",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_813.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_813.jpg",
+        "sha256": "a1680fe91e024b210ca75bbab83a27b3e3beb9ab3dd707d2eecd3ba3e023d173",
+        "size": [
+          387,
+          317
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/078-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-例题-2-13",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_085.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_085.jpg",
+    "sha256": "a88a3a8ca976fb744cffe8c7906ca6ec0effa9be2e3823b68eefcac43160ded8",
+    "size": [
+      601,
+      312
+    ],
+    "id": 79,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 37,
+    "bbox_1000": [
+      539,
+      768,
+      902,
+      901
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\15d1fb6786aaca9f53422687192848684a7de968a4b95e7fee4adc047e0821df.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-079.png",
+    "source_crop_size": [
+      899,
+      465
+    ],
+    "page_preview": "page-4-037.png",
+    "method": "native_extraction",
+    "new": "079-extracted.png",
+    "check": "m、弹簧、弯曲轨道及h，沿轨道v向上；不假设定量轨道函数。 原生像素提取，不放大插值、不改图中信息。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-例题-2-13",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_085.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_085.jpg",
+        "sha256": "a88a3a8ca976fb744cffe8c7906ca6ec0effa9be2e3823b68eefcac43160ded8",
+        "size": [
+          601,
+          312
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/079-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+    "question": "学习指导-第02章-习题-2-3",
+    "chapter": "02",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_338.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_338.jpg",
+    "sha256": "9eefcfeb425e1538e77f821d46ba0164ff45ef04b7aec6549138ddf0692a95c1",
+    "size": [
+      429,
+      173
+    ],
+    "id": 80,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 44,
+    "bbox_1000": [
+      643,
+      108,
+      902,
+      181
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\4a8cd540da321ee2e7843882d73a2ac44f82b8ec7e97c11d5612f94602daca8f.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-080.png",
+    "source_crop_size": [
+      642,
+      255
+    ],
+    "page_preview": "page-4-044.png",
+    "method": "redrawn",
+    "new": "080.svg",
+    "check": "左墙、m1/A与m2/B，k弹簧连接，保留贴地关系。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+        "question": "学习指导-第02章-习题-2-3",
+        "chapter": "02",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_338.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_338.jpg",
+        "sha256": "9eefcfeb425e1538e77f821d46ba0164ff45ef04b7aec6549138ddf0692a95c1",
+        "size": [
+          429,
+          173
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/080.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/04_习题四 质点运动的描述（四）.md",
+    "question": "2",
+    "chapter": "02",
+    "target": "_assets/04_习题四 质点运动的描述（四）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/04_习题四 质点运动的描述（四）/图2.png",
+    "sha256": "d62d44427a4c3675a59ad332c0f076523c11951630447ae144693f6d9f8400da",
+    "size": [
+      379,
+      179
+    ],
+    "id": 81,
+    "method": "reuse_redraw",
+    "new": "001.svg",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产001一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/04_习题四 质点运动的描述（四）.md",
+        "question": "2",
+        "chapter": "02",
+        "target": "_assets/04_习题四 质点运动的描述（四）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/04_习题四 质点运动的描述（四）/图2.png",
+        "sha256": "d62d44427a4c3675a59ad332c0f076523c11951630447ae144693f6d9f8400da",
+        "size": [
+          379,
+          179
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/001.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/04_习题四 质点运动的描述（四）.md",
+    "question": "3",
+    "chapter": "02",
+    "target": "_assets/04_习题四 质点运动的描述（四）/图3.png|220",
+    "path": "大学物理习题册（上）/_assets/04_习题四 质点运动的描述（四）/图3.png",
+    "sha256": "ed270c9de3142d692d68adde0c99d6cbfc5a19f20957f3d979b4f35e20120732",
+    "size": [
+      183,
+      204
+    ],
+    "id": 82,
+    "method": "reuse_redraw",
+    "new": "002.svg",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产002一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/04_习题四 质点运动的描述（四）.md",
+        "question": "3",
+        "chapter": "02",
+        "target": "_assets/04_习题四 质点运动的描述（四）/图3.png|220",
+        "path": "大学物理习题册（上）/_assets/04_习题四 质点运动的描述（四）/图3.png",
+        "sha256": "ed270c9de3142d692d68adde0c99d6cbfc5a19f20957f3d979b4f35e20120732",
+        "size": [
+          183,
+          204
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/002.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/04_习题四 质点运动的描述（四）.md",
+    "question": "5",
+    "chapter": "02",
+    "target": "_assets/04_习题四 质点运动的描述（四）/图5.png|220",
+    "path": "大学物理习题册（上）/_assets/04_习题四 质点运动的描述（四）/图5.png",
+    "sha256": "5c11ebf6409ae27f5d651f8aad38856c0f14928cb7f2b388adb5ed0ff680eda1",
+    "size": [
+      278,
+      259
+    ],
+    "id": 83,
+    "method": "reuse_redraw",
+    "new": "003.svg",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产003一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/04_习题四 质点运动的描述（四）.md",
+        "question": "5",
+        "chapter": "02",
+        "target": "_assets/04_习题四 质点运动的描述（四）/图5.png|220",
+        "path": "大学物理习题册（上）/_assets/04_习题四 质点运动的描述（四）/图5.png",
+        "sha256": "5c11ebf6409ae27f5d651f8aad38856c0f14928cb7f2b388adb5ed0ff680eda1",
+        "size": [
+          278,
+          259
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/003.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+    "question": "1",
+    "chapter": "02",
+    "target": "_assets/05_习题五 质点运动的描述（五）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/05_习题五 质点运动的描述（五）/图1.png",
+    "sha256": "188dd38514c3de2a10dd1db96c0d4ae16d167e7393438ad39665395b582a0581",
+    "size": [
+      287,
+      237
+    ],
+    "id": 84,
+    "method": "reuse_extraction",
+    "new": "004-extracted.png",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产004一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+        "question": "1",
+        "chapter": "02",
+        "target": "_assets/05_习题五 质点运动的描述（五）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/05_习题五 质点运动的描述（五）/图1.png",
+        "sha256": "188dd38514c3de2a10dd1db96c0d4ae16d167e7393438ad39665395b582a0581",
+        "size": [
+          287,
+          237
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/004-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+    "question": "2",
+    "chapter": "02",
+    "target": "_assets/05_习题五 质点运动的描述（五）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/05_习题五 质点运动的描述（五）/图2.png",
+    "sha256": "7b0600c9a1c64d7b449895d3c4dccd7486c3932408533a7fdbea26cac12f0637",
+    "size": [
+      356,
+      288
+    ],
+    "id": 85,
+    "method": "reuse_extraction",
+    "new": "005-extracted.png",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产005一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+        "question": "2",
+        "chapter": "02",
+        "target": "_assets/05_习题五 质点运动的描述（五）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/05_习题五 质点运动的描述（五）/图2.png",
+        "sha256": "7b0600c9a1c64d7b449895d3c4dccd7486c3932408533a7fdbea26cac12f0637",
+        "size": [
+          356,
+          288
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/005-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+    "question": "3",
+    "chapter": "02",
+    "target": "_assets/05_习题五 质点运动的描述（五）/图3.png|220",
+    "path": "大学物理习题册（上）/_assets/05_习题五 质点运动的描述（五）/图3.png",
+    "sha256": "f8efc7cbf681e90fc57c133640649c41c1d4ce72d0340756c6151f9bb8f18066",
+    "size": [
+      307,
+      214
+    ],
+    "id": 86,
+    "method": "reuse_redraw",
+    "new": "006.svg",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产006一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+        "question": "3",
+        "chapter": "02",
+        "target": "_assets/05_习题五 质点运动的描述（五）/图3.png|220",
+        "path": "大学物理习题册（上）/_assets/05_习题五 质点运动的描述（五）/图3.png",
+        "sha256": "f8efc7cbf681e90fc57c133640649c41c1d4ce72d0340756c6151f9bb8f18066",
+        "size": [
+          307,
+          214
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/006.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+    "question": "4",
+    "chapter": "02",
+    "target": "_assets/05_习题五 质点运动的描述（五）/图4.png|220",
+    "path": "大学物理习题册（上）/_assets/05_习题五 质点运动的描述（五）/图4.png",
+    "sha256": "005b5871c9f9e6804b5617e8ad890840cee6e0c9b27d2f1087e456de32e688ec",
+    "size": [
+      237,
+      322
+    ],
+    "id": 87,
+    "method": "reuse_redraw",
+    "new": "007.svg",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产007一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+        "question": "4",
+        "chapter": "02",
+        "target": "_assets/05_习题五 质点运动的描述（五）/图4.png|220",
+        "path": "大学物理习题册（上）/_assets/05_习题五 质点运动的描述（五）/图4.png",
+        "sha256": "005b5871c9f9e6804b5617e8ad890840cee6e0c9b27d2f1087e456de32e688ec",
+        "size": [
+          237,
+          322
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/007.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+    "question": "6",
+    "chapter": "02",
+    "target": "_assets/05_习题五 质点运动的描述（五）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/05_习题五 质点运动的描述（五）/图6.png",
+    "sha256": "603768f5a676595c28298bc6764a2023cf7e8c060466b0058c7fb8214cd55512",
+    "size": [
+      230,
+      197
+    ],
+    "id": 88,
+    "method": "reuse_redraw",
+    "new": "008.svg",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产008一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+        "question": "6",
+        "chapter": "02",
+        "target": "_assets/05_习题五 质点运动的描述（五）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/05_习题五 质点运动的描述（五）/图6.png",
+        "sha256": "603768f5a676595c28298bc6764a2023cf7e8c060466b0058c7fb8214cd55512",
+        "size": [
+          230,
+          197
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/008.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/06_习题六 能量守恒（一）.md",
+    "question": "4",
+    "chapter": "02",
+    "target": "_assets/06_习题六 能量守恒（一）/图4.png|220",
+    "path": "大学物理习题册（上）/_assets/06_习题六 能量守恒（一）/图4.png",
+    "sha256": "6605ecbf9fb3b35985b7ada0ebf313e11b8202760881b00fdf0f10b2d852b063",
+    "size": [
+      537,
+      330
+    ],
+    "id": 89,
+    "method": "reuse_extraction",
+    "new": "009-extracted.png",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产009一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/06_习题六 能量守恒（一）.md",
+        "question": "4",
+        "chapter": "02",
+        "target": "_assets/06_习题六 能量守恒（一）/图4.png|220",
+        "path": "大学物理习题册（上）/_assets/06_习题六 能量守恒（一）/图4.png",
+        "sha256": "6605ecbf9fb3b35985b7ada0ebf313e11b8202760881b00fdf0f10b2d852b063",
+        "size": [
+          537,
+          330
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/009-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/06_习题六 能量守恒（一）.md",
+    "question": "6",
+    "chapter": "02",
+    "target": "_assets/06_习题六 能量守恒（一）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/06_习题六 能量守恒（一）/图6.png",
+    "sha256": "c395fa33c48a22ab2263b7710d325a4677711091831bf5a76f92bb1b5155a228",
+    "size": [
+      462,
+      185
+    ],
+    "id": 90,
+    "method": "reuse_redraw",
+    "new": "010.svg",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产010一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/06_习题六 能量守恒（一）.md",
+        "question": "6",
+        "chapter": "02",
+        "target": "_assets/06_习题六 能量守恒（一）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/06_习题六 能量守恒（一）/图6.png",
+        "sha256": "c395fa33c48a22ab2263b7710d325a4677711091831bf5a76f92bb1b5155a228",
+        "size": [
+          462,
+          185
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/010.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/07_习题七 能量守恒（二）.md",
+    "question": "4",
+    "chapter": "02",
+    "target": "_assets/07_习题七 能量守恒（二）/图4.png|220",
+    "path": "大学物理习题册（上）/_assets/07_习题七 能量守恒（二）/图4.png",
+    "sha256": "93b46b61e8a29ae7b08466528de98a0038879e1f42e438f732d2a500c19bcbd0",
+    "size": [
+      280,
+      259
+    ],
+    "id": 91,
+    "method": "reuse_redraw",
+    "new": "011.svg",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产011一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/07_习题七 能量守恒（二）.md",
+        "question": "4",
+        "chapter": "02",
+        "target": "_assets/07_习题七 能量守恒（二）/图4.png|220",
+        "path": "大学物理习题册（上）/_assets/07_习题七 能量守恒（二）/图4.png",
+        "sha256": "93b46b61e8a29ae7b08466528de98a0038879e1f42e438f732d2a500c19bcbd0",
+        "size": [
+          280,
+          259
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/011.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/07_习题七 能量守恒（二）.md",
+    "question": "5",
+    "chapter": "02",
+    "target": "_assets/07_习题七 能量守恒（二）/图5.png|220",
+    "path": "大学物理习题册（上）/_assets/07_习题七 能量守恒（二）/图5.png",
+    "sha256": "2ede96727970a3610ca2b3cb68c76d53d1d170452dba094a84ae093a612900ef",
+    "size": [
+      367,
+      271
+    ],
+    "id": 92,
+    "method": "reuse_redraw",
+    "new": "012.svg",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产012一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/07_习题七 能量守恒（二）.md",
+        "question": "5",
+        "chapter": "02",
+        "target": "_assets/07_习题七 能量守恒（二）/图5.png|220",
+        "path": "大学物理习题册（上）/_assets/07_习题七 能量守恒（二）/图5.png",
+        "sha256": "2ede96727970a3610ca2b3cb68c76d53d1d170452dba094a84ae093a612900ef",
+        "size": [
+          367,
+          271
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/012.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/07_习题七 能量守恒（二）.md",
+    "question": "6",
+    "chapter": "02",
+    "target": "_assets/07_习题七 能量守恒（二）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/07_习题七 能量守恒（二）/图6.png",
+    "sha256": "c3ac0fdf69b8ea9c15c07306d543a7a3154f5644ac08b4c8ef356ba7efec564b",
+    "size": [
+      221,
+      263
+    ],
+    "id": 93,
+    "method": "reuse_redraw",
+    "new": "013.svg",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产013一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/07_习题七 能量守恒（二）.md",
+        "question": "6",
+        "chapter": "02",
+        "target": "_assets/07_习题七 能量守恒（二）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/07_习题七 能量守恒（二）/图6.png",
+        "sha256": "c3ac0fdf69b8ea9c15c07306d543a7a3154f5644ac08b4c8ef356ba7efec564b",
+        "size": [
+          221,
+          263
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/013.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+    "question": "1",
+    "chapter": "02",
+    "target": "_assets/08_习题八 动量守恒（一）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/08_习题八 动量守恒（一）/图1.png",
+    "sha256": "4cb4496a643dcb82deb5b4cf3b9f7583e72a0ba3a65dc8b49f6e10dd0215a078",
+    "size": [
+      253,
+      272
+    ],
+    "id": 94,
+    "method": "reuse_extraction",
+    "new": "014-extracted.png",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产014一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+        "question": "1",
+        "chapter": "02",
+        "target": "_assets/08_习题八 动量守恒（一）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/08_习题八 动量守恒（一）/图1.png",
+        "sha256": "4cb4496a643dcb82deb5b4cf3b9f7583e72a0ba3a65dc8b49f6e10dd0215a078",
+        "size": [
+          253,
+          272
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/014-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+    "question": "4",
+    "chapter": "02",
+    "target": "_assets/08_习题八 动量守恒（一）/图4.png|220",
+    "path": "大学物理习题册（上）/_assets/08_习题八 动量守恒（一）/图4.png",
+    "sha256": "5c8754c4b00578ffe4de524be17411dfb12348d50d3630fa4392d880a86f2ed5",
+    "size": [
+      365,
+      168
+    ],
+    "id": 95,
+    "method": "reuse_redraw",
+    "new": "015.svg",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产015一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+        "question": "4",
+        "chapter": "02",
+        "target": "_assets/08_习题八 动量守恒（一）/图4.png|220",
+        "path": "大学物理习题册（上）/_assets/08_习题八 动量守恒（一）/图4.png",
+        "sha256": "5c8754c4b00578ffe4de524be17411dfb12348d50d3630fa4392d880a86f2ed5",
+        "size": [
+          365,
+          168
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/015.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+    "question": "5",
+    "chapter": "02",
+    "target": "_assets/08_习题八 动量守恒（一）/图5.png|220",
+    "path": "大学物理习题册（上）/_assets/08_习题八 动量守恒（一）/图5.png",
+    "sha256": "32523a4dc65975979616fdff299c390bbcce6234b14dff125beb67979514a0c0",
+    "size": [
+      518,
+      279
+    ],
+    "id": 96,
+    "method": "reuse_extraction",
+    "new": "016-extracted.png",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产016一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+        "question": "5",
+        "chapter": "02",
+        "target": "_assets/08_习题八 动量守恒（一）/图5.png|220",
+        "path": "大学物理习题册（上）/_assets/08_习题八 动量守恒（一）/图5.png",
+        "sha256": "32523a4dc65975979616fdff299c390bbcce6234b14dff125beb67979514a0c0",
+        "size": [
+          518,
+          279
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/016-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+    "question": "6",
+    "chapter": "02",
+    "target": "_assets/08_习题八 动量守恒（一）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/08_习题八 动量守恒（一）/图6.png",
+    "sha256": "1f7faa9aab9458acc4003dbfe071a29a0ba16ab8e08c55e7ae089eb14e33f58b",
+    "size": [
+      445,
+      185
+    ],
+    "id": 97,
+    "method": "reuse_extraction",
+    "new": "017-extracted.png",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产017一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+        "question": "6",
+        "chapter": "02",
+        "target": "_assets/08_习题八 动量守恒（一）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/08_习题八 动量守恒（一）/图6.png",
+        "sha256": "1f7faa9aab9458acc4003dbfe071a29a0ba16ab8e08c55e7ae089eb14e33f58b",
+        "size": [
+          445,
+          185
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/017-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/09_习题九 动量守恒（二）.md",
+    "question": "2",
+    "chapter": "02",
+    "target": "_assets/09_习题九 动量守恒（二）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/09_习题九 动量守恒（二）/图2.png",
+    "sha256": "add7447516fc858f58da3270a509367feaddd4e6f343dcfef551b2b7c62ca90c",
+    "size": [
+      332,
+      402
+    ],
+    "id": 98,
+    "method": "reuse_extraction",
+    "new": "018-extracted.png",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产018一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/09_习题九 动量守恒（二）.md",
+        "question": "2",
+        "chapter": "02",
+        "target": "_assets/09_习题九 动量守恒（二）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/09_习题九 动量守恒（二）/图2.png",
+        "sha256": "add7447516fc858f58da3270a509367feaddd4e6f343dcfef551b2b7c62ca90c",
+        "size": [
+          332,
+          402
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/018-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/09_习题九 动量守恒（二）.md",
+    "question": "5",
+    "chapter": "02",
+    "target": "_assets/09_习题九 动量守恒（二）/图5.png|220",
+    "path": "大学物理习题册（上）/_assets/09_习题九 动量守恒（二）/图5.png",
+    "sha256": "c24d9a372126f2107caa1a085fdbced84078981e6ab8e5655a2e7716c8223412",
+    "size": [
+      420,
+      247
+    ],
+    "id": 99,
+    "method": "reuse_extraction",
+    "new": "019-extracted.png",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产019一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/09_习题九 动量守恒（二）.md",
+        "question": "5",
+        "chapter": "02",
+        "target": "_assets/09_习题九 动量守恒（二）/图5.png|220",
+        "path": "大学物理习题册（上）/_assets/09_习题九 动量守恒（二）/图5.png",
+        "sha256": "c24d9a372126f2107caa1a085fdbced84078981e6ab8e5655a2e7716c8223412",
+        "size": [
+          420,
+          247
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/019-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/09_习题九 动量守恒（二）.md",
+    "question": "6",
+    "chapter": "02",
+    "target": "_assets/09_习题九 动量守恒（二）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/09_习题九 动量守恒（二）/图6.png",
+    "sha256": "f34dd66b945a0979386180571469b82c526aa0091cc30873a7e2e2eff5e25f1d",
+    "size": [
+      250,
+      179
+    ],
+    "id": 100,
+    "method": "reuse_extraction",
+    "new": "020-extracted.png",
+    "check": "旧整理同一习题册图，对照源PDF相应页与资产020一致；复用已核验产物，保留显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/09_习题九 动量守恒（二）.md",
+        "question": "6",
+        "chapter": "02",
+        "target": "_assets/09_习题九 动量守恒（二）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/09_习题九 动量守恒（二）/图6.png",
+        "sha256": "f34dd66b945a0979386180571469b82c526aa0091cc30873a7e2e2eff5e25f1d",
+        "size": [
+          250,
+          179
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/02_动力学与守恒/020-extracted.png"
+  }
+]
