@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 100642,
-    "sha256": "19db2351e798f7932fa4a6dd4cfe8bb33a9d3cd4a185e2e4a0f8e73a43f8c996"
+    "bytes": 103561,
+    "sha256": "68684efb87f4aff6f6941d95aec5ee8f6cf99ebc14080656332c74d29a57debe"
   },
   {
     "path": "tools/verify_share.py",
@@ -336,13 +336,13 @@
   },
   {
     "path": "微积分/10_题库/2023-2024期末A_题面整理.md",
-    "bytes": 15894,
-    "sha256": "889c98872a46395be56857bd9d22368bc865692b7c905c52c3ddec3f933452e1"
+    "bytes": 15811,
+    "sha256": "aa52a897f718ba7c2b987001d9f0047f8d70ad89ada00ba944c27c5992882d6c"
   },
   {
     "path": "微积分/10_题库/2024-2025期末_题面整理.md",
-    "bytes": 14177,
-    "sha256": "c6375f9d0244cb65a917f22ca9ecd218d703313039a4642b971e08a9e2d7b1ef"
+    "bytes": 14133,
+    "sha256": "7a1948177fd567fff834e0ef44dd6bcde8747a5db51b7998efc9b00a6c7110fc"
   },
   {
     "path": "微积分/10_题库/_标签库.md",
@@ -500,6 +500,51 @@
     "sha256": "9b2eab13f5e586385421c1f18b7153600f013d40f9a84d14c3b4a62e9e42746f"
   },
   {
+    "path": "微积分/10_题库/images/redraw/directed-path.png",
+    "bytes": 24303,
+    "sha256": "67a7500f02c2d5f473856ba9572b136f092a02c3c1b39b2748926bb165710a24"
+  },
+  {
+    "path": "微积分/10_题库/images/redraw/directed-path.svg",
+    "bytes": 12018,
+    "sha256": "1ebede60ca50e43aa8f77c476eeb1fef13a1e1e1071d423660733258730f5171"
+  },
+  {
+    "path": "微积分/10_题库/images/redraw/generate.py",
+    "bytes": 3662,
+    "sha256": "7d49a8986b8c644bd1e1218ab8febbd86048401b9ac7de2f6d92921fb133285c"
+  },
+  {
+    "path": "微积分/10_题库/images/redraw/lower-hemisphere.png",
+    "bytes": 57277,
+    "sha256": "c63680974dbac4cd6be88ff12085cac734e3298238d6dfd47432aa2abc7e5436"
+  },
+  {
+    "path": "微积分/10_题库/images/redraw/lower-hemisphere.svg",
+    "bytes": 20819,
+    "sha256": "2489fbf215e18648f7f9565a7964ef2c0880e350060facf385a197d2166d05a4"
+  },
+  {
+    "path": "微积分/10_题库/images/redraw/mapping.json",
+    "bytes": 1402,
+    "sha256": "7aa10e9731a5a94279d2ed288d758bcea06c09ea20c1d51b98be130b8d8283d4"
+  },
+  {
+    "path": "微积分/10_题库/images/redraw/sphere-cylinder.png",
+    "bytes": 98893,
+    "sha256": "4d1d7890754d23e0a87c6177c790e50bb48388987616b5684b19b4b278fd15fd"
+  },
+  {
+    "path": "微积分/10_题库/images/redraw/sphere-cylinder.svg",
+    "bytes": 30464,
+    "sha256": "bab5b86cbc66dad57b2d1f192006fcda53f3e45d80398d37ad19cd83e70c45a3"
+  },
+  {
+    "path": "微积分/10_题库/images/redraw/verify.py",
+    "bytes": 1259,
+    "sha256": "35cc3bc96457f13ce88afe441719eb59ec4939e1cdb1e2495d7211734d94e192"
+  },
+  {
     "path": "微积分/10_题库/缺卷头期末P52-54_题面整理.md",
     "bytes": 13890,
     "sha256": "dcecf27199c94bb211d36d24e0f7e107161e18a58370618a2fd737457a3f96a1"
@@ -648,6 +693,41 @@
     "path": "微积分/40_派生视图/递进刷题跳转清单.md",
     "bytes": 24427,
     "sha256": "ca9a2cf8157a494f045ea16a69fb30009ce67e4d5d80402edbfa1302d71764c3"
+  },
+  {
+    "path": "微积分/40_派生视图/题图重绘_20261106/README.md",
+    "bytes": 1739,
+    "sha256": "fb2c2ea4ab22a63ad5b74a02a6a46fc8627d5c88345991273ae2fa749a272009"
+  },
+  {
+    "path": "微积分/40_派生视图/题图重绘_20261106/comparison.png",
+    "bytes": 412401,
+    "sha256": "e4944bd60eb1620edaea0cf8b3c3ca7b8f79b4f3208b5ae5b43bdd4246cb3645"
+  },
+  {
+    "path": "微积分/40_派生视图/题图重绘_20261106/directed-path-svg-render.png",
+    "bytes": 7340,
+    "sha256": "3f7735bcd5d7ad1bdb3e5019f6bfbc7a189abc8b199e307f968ec4432f293505"
+  },
+  {
+    "path": "微积分/40_派生视图/题图重绘_20261106/intake-rebind.txt",
+    "bytes": 150,
+    "sha256": "de6e098f563c4d688eacfaa709ccae4f25e070632f669e7fe012aa5a6fa5c0d3"
+  },
+  {
+    "path": "微积分/40_派生视图/题图重绘_20261106/lower-hemisphere-svg-render.png",
+    "bytes": 14408,
+    "sha256": "92ad196ef9b25554570ab559eda2a55affc6454e2803f62fe2e32b8724e9e743"
+  },
+  {
+    "path": "微积分/40_派生视图/题图重绘_20261106/sphere-cylinder-svg-render.png",
+    "bytes": 24064,
+    "sha256": "03140cf866db5810561da0e07eb78c8d9ddf4e0e4936a804d57b7a2ce8abf909"
+  },
+  {
+    "path": "微积分/40_派生视图/题图重绘_20261106/validation.json",
+    "bytes": 544,
+    "sha256": "b7d21b1774ef5784ed7bbaf346fa2857a81f167fc408aa9e0fbbca187c073556"
   },
   {
     "path": "微积分/90_缓存/s2-frequency-analysis.json",

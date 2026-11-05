@@ -1410,5 +1410,33 @@
       "物理/40_派生视图/大物上/上册逐章/01_运动学/validation.json"
     ],
     "validation": "物理/40_派生视图/大物上/上册逐章/01_运动学/validation.json"
+  },
+  "calculus_all_referenced_figures_20261106": {
+    "figures": 3,
+    "retained_qr": 1,
+    "files": [
+      "微积分/10_题库/2023-2024期末A_题面整理.md",
+      "微积分/10_题库/2024-2025期末_题面整理.md",
+      "微积分/10_题库/images/redraw/directed-path.png",
+      "微积分/10_题库/images/redraw/directed-path.svg",
+      "微积分/10_题库/images/redraw/generate.py",
+      "微积分/10_题库/images/redraw/lower-hemisphere.png",
+      "微积分/10_题库/images/redraw/lower-hemisphere.svg",
+      "微积分/10_题库/images/redraw/mapping.json",
+      "微积分/10_题库/images/redraw/sphere-cylinder.png",
+      "微积分/10_题库/images/redraw/sphere-cylinder.svg",
+      "微积分/10_题库/images/redraw/verify.py",
+      "微积分/40_派生视图/题图重绘_20261106/comparison.png",
+      "微积分/40_派生视图/题图重绘_20261106/directed-path-svg-render.png",
+      "微积分/40_派生视图/题图重绘_20261106/intake-rebind.txt",
+      "微积分/40_派生视图/题图重绘_20261106/lower-hemisphere-svg-render.png",
+      "微积分/40_派生视图/题图重绘_20261106/README.md",
+      "微积分/40_派生视图/题图重绘_20261106/sphere-cylinder-svg-render.png",
+      "微积分/40_派生视图/题图重绘_20261106/validation.json"
+    ],
+    "report": "微积分/40_派生视图/题图重绘_20261106/README.md",
+    "s1": "passed",
+    "intake": "passed",
+    "originals_retained": true
   }
 }

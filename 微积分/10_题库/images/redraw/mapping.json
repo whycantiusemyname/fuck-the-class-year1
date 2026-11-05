@@ -1,0 +1,29 @@
+[
+  {
+    "document": "10_题库/2023-2024期末A_题面整理.md",
+    "question": "23-24期末A-算6",
+    "original": "10_题库/images/06685941bc19e67247ca33204f262becaa6d3c6dc65eeffdd32c594bb4aeea5b.jpg",
+    "svg": "10_题库/images/redraw/lower-hemisphere.svg",
+    "png": "10_题库/images/redraw/lower-hemisphere.png",
+    "original_sha256": "44343538292eb59add580cf5d9bdbe6dacd91105350cfe33dfa3dfe073065449",
+    "reversible_reference_only": true
+  },
+  {
+    "document": "10_题库/2023-2024期末A_题面整理.md",
+    "question": "23-24期末A-算7",
+    "original": "10_题库/images/1cefcf1af995ad512737621e38ae0764c451497cf907719a3bc727da2346f38d.jpg",
+    "svg": "10_题库/images/redraw/sphere-cylinder.svg",
+    "png": "10_题库/images/redraw/sphere-cylinder.png",
+    "original_sha256": "b651c1c4b0c54ff7d66787f2e3624cf95c5bda7d4e7c991170975dd4b353f827",
+    "reversible_reference_only": true
+  },
+  {
+    "document": "10_题库/2024-2025期末_题面整理.md",
+    "question": "24-25期末-算6",
+    "original": "10_题库/images/8a05402b652afd259b666a25ae717c14741de09835c6b3d94823c83e9339ea81.jpg",
+    "svg": "10_题库/images/redraw/directed-path.svg",
+    "png": "10_题库/images/redraw/directed-path.png",
+    "original_sha256": "e25cbbe43d3fe858aa72be3a19295873a578e3b77ee4250a19d19c4fe3a69bb5",
+    "reversible_reference_only": true
+  }
+]
