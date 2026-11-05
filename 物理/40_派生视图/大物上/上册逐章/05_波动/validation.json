@@ -1,0 +1,111 @@
+{
+  "chapter": "05",
+  "name": "波动",
+  "status": "verified",
+  "unique_source_assets": 94,
+  "new_outputs": 36,
+  "changed_documents": [
+    "10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
+    "10_题库/习题册/大学物理习题册_20_波动（二）_题面整理.md",
+    "10_题库/习题册/大学物理习题册_21_波动（三）_题面整理.md",
+    "10_题库/习题册/大学物理习题册_22_波动（四）_题面整理.md",
+    "10_题库/历年真题/期末/2016-2017学年大学物理I期末题面整理.md",
+    "10_题库/历年真题/期末/2018-2019学年大学物理I期末题面整理.md",
+    "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+    "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+    "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+    "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+    "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "大学物理习题册（上）/19_习题十九 波动（一）.md",
+    "大学物理习题册（上）/20_习题二十 波动（二）.md",
+    "大学物理习题册（上）/21_习题二一 波动（三）.md",
+    "大学物理习题册（上）/22_习题二二 波动（四）.md"
+  ],
+  "intake_manifests": [
+    "90_缓存\\s1-intake\\2024-2025学年大学物理I期末_方向校正合并-1facabf9\\intake.json",
+    "90_缓存\\s1-intake\\2024-2025学年大学物理I期末_方向校正合并_补19-b9d23b2a\\intake.json",
+    "90_缓存\\s1-intake\\大学物理I历年试卷合集_2018-2024-97462fb7\\intake.json",
+    "90_缓存\\s1-intake\\扫描件_普通高等教育十一五规划教材配套教辅-f9c8e7b7\\intake.json"
+  ],
+  "s1": "自检：控制字符 0，LaTeX 异常 0，断链 0",
+  "intake_verify": [
+    {
+      "manifest": "90_缓存\\s1-intake\\2024-2025学年大学物理I期末_方向校正合并-1facabf9\\intake.json",
+      "status": "preexisting_unrelated_output_mismatch",
+      "unrelated_stale_outputs": [],
+      "preexisting_anchor_mismatches": [
+        "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md"
+      ],
+      "stderr": "题库输出锚点与 manifest 不一致：D:\\FuckTheClass\\物理\\10_题库\\历年真题\\期末\\2024-2025学年大学物理I期末题面整理.md",
+      "changed_output_hashes_and_anchors": "passed; unrelated records retained"
+    },
+    {
+      "manifest": "90_缓存\\s1-intake\\2024-2025学年大学物理I期末_方向校正合并_补19-b9d23b2a\\intake.json",
+      "status": "passed",
+      "stdout": "S1 intake manifest 验证通过"
+    },
+    {
+      "manifest": "90_缓存\\s1-intake\\大学物理I历年试卷合集_2018-2024-97462fb7\\intake.json",
+      "status": "passed",
+      "stdout": "S1 intake manifest 验证通过"
+    },
+    {
+      "manifest": "90_缓存\\s1-intake\\扫描件_普通高等教育十一五规划教材配套教辅-f9c8e7b7\\intake.json",
+      "status": "passed",
+      "stdout": "S1 intake manifest 验证通过"
+    }
+  ],
+  "originals_and_pdfs_unchanged": true,
+  "only_image_references_changed": true,
+  "source_page_review": true,
+  "actual_svg_render_and_320px_visual_review": true,
+  "report_links": "passed",
+  "share_verify": "passed; full hash/link/credential verification executed before commit",
+  "outputs": {
+    "10_题库/_assets/上册逐章/05_波动/001-extracted.png": "5558c057f26d2ef23218f882fe04941538c692ab1ad1fa7a36d37079259a9e6c",
+    "10_题库/_assets/上册逐章/05_波动/002-extracted.png": "e0ede4867e524cd785a5e94f234dac398a1a79f0359805cd527c79da83eddda6",
+    "10_题库/_assets/上册逐章/05_波动/003-extracted.png": "a8820b210ffd92c2eb073ca96e3bab942d5689d23eaa7f8811f6c3fa0e786dd6",
+    "10_题库/_assets/上册逐章/05_波动/004-extracted.png": "95eb63d63e1d5e2e370d95d1023a32d73a78d8cc91796c6ef2a604c34fcce600",
+    "10_题库/_assets/上册逐章/05_波动/005-extracted.png": "4950345083c23b04f55d5e79ec7324e59acd68fb344358d2a214a50242f51ecc",
+    "10_题库/_assets/上册逐章/05_波动/006-extracted.png": "1b8f8f0a35893bc743cc4916a43062b82907fc1a07c107e239a3fc417967bc8b",
+    "10_题库/_assets/上册逐章/05_波动/007-extracted.png": "a569558128318450764932b16358ff2721f326c414aa13649e15bbf159ecc199",
+    "10_题库/_assets/上册逐章/05_波动/008-extracted.png": "158445409808e7598c13d0aaca814e00bf5a4e138773862dea97735099c5361f",
+    "10_题库/_assets/上册逐章/05_波动/009-extracted.png": "2fa53a1bdab1d26d4d06fd229b1e789bd7f089bd3313336c17902fa41296c0a8",
+    "10_题库/_assets/上册逐章/05_波动/010-extracted.png": "503084728c128f85bf4b3086d47d68dc2b750e7ae503930b782de0df98dc5731",
+    "10_题库/_assets/上册逐章/05_波动/012.png": "25241c0eab66ff1880107f92b2e321046b1faa6cb1f3bdcb143740e073fca622",
+    "10_题库/_assets/上册逐章/05_波动/012.svg": "8268a5b697053cf1e95a248058aa55dacfd701a72ee728145859cad4507cac0f",
+    "10_题库/_assets/上册逐章/05_波动/013-extracted.png": "a568a6657a72f96e90bc9e64100373dcceb97db263b9dec756b692384ec1bc8c",
+    "10_题库/_assets/上册逐章/05_波动/014-extracted.png": "f42f7ca02cd5c631c2db43ac9967bab4c86ab41307543da12131e8e3e027db73",
+    "10_题库/_assets/上册逐章/05_波动/015-extracted.png": "07fb9170e09164ee6da7d3cb2097d3fe96c4a2f0b82e0d894705bdf91adb4325",
+    "10_题库/_assets/上册逐章/05_波动/016-extracted.png": "070d464d30f1bd606e060eb10b31ff3549393777692f5af2b567a5102209a983",
+    "10_题库/_assets/上册逐章/05_波动/017-extracted.png": "39d8fcdaa5d0a09fa24bd997b7f1f508d22ffcbde40056da8bb0585e2ef9e630",
+    "10_题库/_assets/上册逐章/05_波动/018-extracted.png": "61e1a74d9e4d616465b8332c2faa99ebc968e92d7a8ae9c6057823091b2cfcf5",
+    "10_题库/_assets/上册逐章/05_波动/019-extracted.png": "98670b34d652db57de99c49c3054c150940b078376c75df3dc836cd2c418dd5b",
+    "10_题库/_assets/上册逐章/05_波动/020-extracted.png": "0dca5cae7006d1d397e321507acc88000b0335bbd9f5098e46711259fab264b6",
+    "10_题库/_assets/上册逐章/05_波动/027-extracted.png": "29bf955a2b5ce1d52bdb8af8f8b9a264213dfee3f6a690215f1cfc284f65d695",
+    "10_题库/_assets/上册逐章/05_波动/028-extracted.png": "026b91b498ed17d54a0ff2bfaa4a0d276b1de9e4521a685de500a34f55434469",
+    "10_题库/_assets/上册逐章/05_波动/029.png": "fcae1c29069552799a6d8ad9cf2c3db012ce5cf524d1363c03122339b2e944eb",
+    "10_题库/_assets/上册逐章/05_波动/029.svg": "5b533f3fe70c89a5c431c02a26ccb95600d744193f24424eec44576caaddb0e8",
+    "10_题库/_assets/上册逐章/05_波动/030.png": "edaf63da483062e7501a6719f9160b794e71fd4476d7e1fc9f1a533b750a20cc",
+    "10_题库/_assets/上册逐章/05_波动/030.svg": "f6f0fb21db00c685cab1e0935e64d05aba99b3f887efe860b857f1ca96474120",
+    "10_题库/_assets/上册逐章/05_波动/031-extracted.png": "61d8ccf6ea47eddd3e411afaecaaa18fb4a41427c4459a24077704af3d3dcedc",
+    "10_题库/_assets/上册逐章/05_波动/032-extracted.png": "e12029e524cc77955d207ded0263dad4e162f77d8c7172875b1809c351aed33b",
+    "10_题库/_assets/上册逐章/05_波动/033.png": "25241c0eab66ff1880107f92b2e321046b1faa6cb1f3bdcb143740e073fca622",
+    "10_题库/_assets/上册逐章/05_波动/033.svg": "8268a5b697053cf1e95a248058aa55dacfd701a72ee728145859cad4507cac0f",
+    "10_题库/_assets/上册逐章/05_波动/037-extracted.png": "7fe8fab290b346d1ebb81e7a8c619d23703df4eeef601b376339e82c190c0471",
+    "10_题库/_assets/上册逐章/05_波动/038-extracted.png": "f3294d565f18d767b6e1fb1c51f538dae3662b8f7be698efb24941ba8ff16e1b",
+    "10_题库/_assets/上册逐章/05_波动/039-extracted.png": "318c0dcd1e33efdbf1eed68c38fc1a1e6c71395cb114411c6621e1e9f13ed552",
+    "10_题库/_assets/上册逐章/05_波动/040-extracted.png": "7e985a24fd5c64cccfc901f1f2d66036659f5501b7ace53751070346e8d2caaa",
+    "10_题库/_assets/上册逐章/05_波动/041-extracted.png": "739d10bcf3a82b85bbffa163b4c26816d78670278c626fad8127928de3aadf3d",
+    "10_题库/_assets/上册逐章/05_波动/044-extracted.png": "b5e2d6f4e16afa647bdfeb2bec2096e07bd5e34c349d9692eb150f4d6fc58eb7",
+    "10_题库/_assets/上册逐章/05_波动/046-extracted.png": "5e55c6c82b56a9ab9bd690b5071391fe5ea7d7dc09457d6c6dba458ff02366fa",
+    "10_题库/_assets/上册逐章/05_波动/047-extracted.png": "213769e89cc1c3f0224c34f288cc6284c93567646bd8e90c7c6ec5c233f24d65",
+    "10_题库/_assets/上册逐章/05_波动/048.png": "25241c0eab66ff1880107f92b2e321046b1faa6cb1f3bdcb143740e073fca622",
+    "10_题库/_assets/上册逐章/05_波动/048.svg": "8268a5b697053cf1e95a248058aa55dacfd701a72ee728145859cad4507cac0f",
+    "10_题库/_assets/上册逐章/05_波动/049-extracted.png": "abf4adef9a9cea26cb925866d1c1e4a6d778aaef7ffed04b44f4bdb854aeeab1",
+    "10_题库/_assets/上册逐章/05_波动/extract_from_pdf.py": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a",
+    "10_题库/_assets/上册逐章/05_波动/generate.py": "f45959f0272f90f823ceafd5ef76bb5f271699a832caf40c8e1b127a0e373ae4",
+    "10_题库/_assets/上册逐章/05_波动/mapping.json": "586bb0e86a4d9c4c4f158809284e12c741270dfef456963c9ca010f1ecb46aeb"
+  }
+}

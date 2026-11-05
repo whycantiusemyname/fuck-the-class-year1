@@ -1,0 +1,4162 @@
+[
+  {
+    "document": "10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
+    "question": "习题册-章节19-题1",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/习题册/ccc41403a76bb6e1e585007ac302cf30b05378a46c954f621ad98cdd031a67b1.jpg",
+    "path": "10_题库/_assets/习题册/ccc41403a76bb6e1e585007ac302cf30b05378a46c954f621ad98cdd031a67b1.jpg",
+    "sha256": "0c70065fd570d9a683f78744e52501b5fe6ed3aac47bc423e0909b7c29bcb4e1",
+    "size": [
+      381,
+      229
+    ],
+    "id": 1,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 20,
+    "bbox_1000": [
+      101,
+      366,
+      225,
+      474
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\ccc41403a76bb6e1e585007ac302cf30b05378a46c954f621ad98cdd031a67b1.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-001.png",
+    "source_crop_size": [
+      550,
+      328
+    ],
+    "page_preview": "page-1-020.png",
+    "method": "native_extraction",
+    "new": "001-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
+        "question": "习题册-章节19-题1",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/习题册/ccc41403a76bb6e1e585007ac302cf30b05378a46c954f621ad98cdd031a67b1.jpg",
+        "path": "10_题库/_assets/习题册/ccc41403a76bb6e1e585007ac302cf30b05378a46c954f621ad98cdd031a67b1.jpg",
+        "sha256": "0c70065fd570d9a683f78744e52501b5fe6ed3aac47bc423e0909b7c29bcb4e1",
+        "size": [
+          381,
+          229
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/001-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
+    "question": "习题册-章节19-题2",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/习题册/b5b575c79b5366f51b15b7fc8b297a6fe9e9f6d60cf4e3756d14d2c85933ab1c.jpg",
+    "path": "10_题库/_assets/习题册/b5b575c79b5366f51b15b7fc8b297a6fe9e9f6d60cf4e3756d14d2c85933ab1c.jpg",
+    "sha256": "a2287d10175ae652deff72a007fc02f2231195aca33b127c35cffbf80fa3bd08",
+    "size": [
+      493,
+      234
+    ],
+    "id": 2,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 20,
+    "bbox_1000": [
+      226,
+      367,
+      386,
+      478
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\b5b575c79b5366f51b15b7fc8b297a6fe9e9f6d60cf4e3756d14d2c85933ab1c.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-002.png",
+    "source_crop_size": [
+      709,
+      337
+    ],
+    "page_preview": "page-1-020.png",
+    "method": "native_extraction",
+    "new": "002-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
+        "question": "习题册-章节19-题2",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/习题册/b5b575c79b5366f51b15b7fc8b297a6fe9e9f6d60cf4e3756d14d2c85933ab1c.jpg",
+        "path": "10_题库/_assets/习题册/b5b575c79b5366f51b15b7fc8b297a6fe9e9f6d60cf4e3756d14d2c85933ab1c.jpg",
+        "sha256": "a2287d10175ae652deff72a007fc02f2231195aca33b127c35cffbf80fa3bd08",
+        "size": [
+          493,
+          234
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/002-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
+    "question": "习题册-章节19-题4",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/习题册/0ee27d26ec89beca5518f6375093612bbfd938cf939cfb7508ed653b6adaddf5.jpg",
+    "path": "10_题库/_assets/习题册/0ee27d26ec89beca5518f6375093612bbfd938cf939cfb7508ed653b6adaddf5.jpg",
+    "sha256": "a56adafee9e96bd8e43c7b02654b2275e1a600ddaf1db9d6fb91dd4b9ecbec1e",
+    "size": [
+      407,
+      217
+    ],
+    "id": 3,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 20,
+    "bbox_1000": [
+      94,
+      701,
+      226,
+      804
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\0ee27d26ec89beca5518f6375093612bbfd938cf939cfb7508ed653b6adaddf5.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-003.png",
+    "source_crop_size": [
+      585,
+      313
+    ],
+    "page_preview": "page-1-020.png",
+    "method": "native_extraction",
+    "new": "003-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
+        "question": "习题册-章节19-题4",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/习题册/0ee27d26ec89beca5518f6375093612bbfd938cf939cfb7508ed653b6adaddf5.jpg",
+        "path": "10_题库/_assets/习题册/0ee27d26ec89beca5518f6375093612bbfd938cf939cfb7508ed653b6adaddf5.jpg",
+        "sha256": "a56adafee9e96bd8e43c7b02654b2275e1a600ddaf1db9d6fb91dd4b9ecbec1e",
+        "size": [
+          407,
+          217
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/003-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
+    "question": "习题册-章节19-题5",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/习题册/61fae53c9548881185ddf3eff82c640f78601301d1b2a35df552ef4af80736b5.jpg",
+    "path": "10_题库/_assets/习题册/61fae53c9548881185ddf3eff82c640f78601301d1b2a35df552ef4af80736b5.jpg",
+    "sha256": "7bcec088141c6e6fb0b08eecc1912723a6fea40601b69e31a2405876496c4d35",
+    "size": [
+      523,
+      328
+    ],
+    "id": 4,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 20,
+    "bbox_1000": [
+      547,
+      255,
+      717,
+      411
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\61fae53c9548881185ddf3eff82c640f78601301d1b2a35df552ef4af80736b5.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-004.png",
+    "source_crop_size": [
+      753,
+      473
+    ],
+    "page_preview": "page-1-020.png",
+    "method": "native_extraction",
+    "new": "004-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
+        "question": "习题册-章节19-题5",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/习题册/61fae53c9548881185ddf3eff82c640f78601301d1b2a35df552ef4af80736b5.jpg",
+        "path": "10_题库/_assets/习题册/61fae53c9548881185ddf3eff82c640f78601301d1b2a35df552ef4af80736b5.jpg",
+        "sha256": "7bcec088141c6e6fb0b08eecc1912723a6fea40601b69e31a2405876496c4d35",
+        "size": [
+          523,
+          328
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/004-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
+    "question": "习题册-章节19-题6",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/习题册/28b2b60669e8dcc2436b9e377cd846a1eafaebaa06932c726a8c14ae9b384365.jpg",
+    "path": "10_题库/_assets/习题册/28b2b60669e8dcc2436b9e377cd846a1eafaebaa06932c726a8c14ae9b384365.jpg",
+    "sha256": "b003fd1f57298fc3469b0625d4f6cf2259baeba3af65fe1d95c66931797d53ae",
+    "size": [
+      509,
+      240
+    ],
+    "id": 5,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 20,
+    "bbox_1000": [
+      551,
+      697,
+      716,
+      810
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\28b2b60669e8dcc2436b9e377cd846a1eafaebaa06932c726a8c14ae9b384365.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-005.png",
+    "source_crop_size": [
+      731,
+      343
+    ],
+    "page_preview": "page-1-020.png",
+    "method": "native_extraction",
+    "new": "005-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
+        "question": "习题册-章节19-题6",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/习题册/28b2b60669e8dcc2436b9e377cd846a1eafaebaa06932c726a8c14ae9b384365.jpg",
+        "path": "10_题库/_assets/习题册/28b2b60669e8dcc2436b9e377cd846a1eafaebaa06932c726a8c14ae9b384365.jpg",
+        "sha256": "b003fd1f57298fc3469b0625d4f6cf2259baeba3af65fe1d95c66931797d53ae",
+        "size": [
+          509,
+          240
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/005-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_20_波动（二）_题面整理.md",
+    "question": "习题册-章节20-题5",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/习题册/d25dc0ca3e70f96d02e7369878a1362999685383aa59da8f9cf608637e51bb24.jpg",
+    "path": "10_题库/_assets/习题册/d25dc0ca3e70f96d02e7369878a1362999685383aa59da8f9cf608637e51bb24.jpg",
+    "sha256": "24beaf8092b1dcfa5f3d766346a6c223b0fd2dd5dfcfe4171bc9829399a7a17b",
+    "size": [
+      518,
+      254
+    ],
+    "id": 6,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 21,
+    "bbox_1000": [
+      568,
+      169,
+      736,
+      289
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\d25dc0ca3e70f96d02e7369878a1362999685383aa59da8f9cf608637e51bb24.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-006.png",
+    "source_crop_size": [
+      744,
+      365
+    ],
+    "page_preview": "page-1-021.png",
+    "method": "native_extraction",
+    "new": "006-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_20_波动（二）_题面整理.md",
+        "question": "习题册-章节20-题5",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/习题册/d25dc0ca3e70f96d02e7369878a1362999685383aa59da8f9cf608637e51bb24.jpg",
+        "path": "10_题库/_assets/习题册/d25dc0ca3e70f96d02e7369878a1362999685383aa59da8f9cf608637e51bb24.jpg",
+        "sha256": "24beaf8092b1dcfa5f3d766346a6c223b0fd2dd5dfcfe4171bc9829399a7a17b",
+        "size": [
+          518,
+          254
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/006-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_20_波动（二）_题面整理.md",
+    "question": "习题册-章节20-题6",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/习题册/7533bfd4cc6aa43554045a68b8db03ace342859ed04f3f379facae799f3b765a.jpg",
+    "path": "10_题库/_assets/习题册/7533bfd4cc6aa43554045a68b8db03ace342859ed04f3f379facae799f3b765a.jpg",
+    "sha256": "e3e8d9566d54ba15ad2c59de310584eeb55c07f2172cc1b107bb9fa6aeed0476",
+    "size": [
+      520,
+      182
+    ],
+    "id": 7,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 21,
+    "bbox_1000": [
+      548,
+      708,
+      717,
+      794
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\7533bfd4cc6aa43554045a68b8db03ace342859ed04f3f379facae799f3b765a.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-007.png",
+    "source_crop_size": [
+      749,
+      262
+    ],
+    "page_preview": "page-1-021.png",
+    "method": "native_extraction",
+    "new": "007-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_20_波动（二）_题面整理.md",
+        "question": "习题册-章节20-题6",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/习题册/7533bfd4cc6aa43554045a68b8db03ace342859ed04f3f379facae799f3b765a.jpg",
+        "path": "10_题库/_assets/习题册/7533bfd4cc6aa43554045a68b8db03ace342859ed04f3f379facae799f3b765a.jpg",
+        "sha256": "e3e8d9566d54ba15ad2c59de310584eeb55c07f2172cc1b107bb9fa6aeed0476",
+        "size": [
+          520,
+          182
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/007-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_21_波动（三）_题面整理.md",
+    "question": "习题册-章节21-题1",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/习题册/b05367dbd99c7c32425ec6c36e578719f2e1aef5c417bafcbddbd285932d6acd.jpg",
+    "path": "10_题库/_assets/习题册/b05367dbd99c7c32425ec6c36e578719f2e1aef5c417bafcbddbd285932d6acd.jpg",
+    "sha256": "3cedb15fbc06e187237e28a325c69f0c3d9c1adb0062af2465cc7fd8af47cc82",
+    "size": [
+      476,
+      282
+    ],
+    "id": 8,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 22,
+    "bbox_1000": [
+      133,
+      400,
+      288,
+      534
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\b05367dbd99c7c32425ec6c36e578719f2e1aef5c417bafcbddbd285932d6acd.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-008.png",
+    "source_crop_size": [
+      686,
+      406
+    ],
+    "page_preview": "page-1-022.png",
+    "method": "native_extraction",
+    "new": "008-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_21_波动（三）_题面整理.md",
+        "question": "习题册-章节21-题1",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/习题册/b05367dbd99c7c32425ec6c36e578719f2e1aef5c417bafcbddbd285932d6acd.jpg",
+        "path": "10_题库/_assets/习题册/b05367dbd99c7c32425ec6c36e578719f2e1aef5c417bafcbddbd285932d6acd.jpg",
+        "sha256": "3cedb15fbc06e187237e28a325c69f0c3d9c1adb0062af2465cc7fd8af47cc82",
+        "size": [
+          476,
+          282
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/008-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_21_波动（三）_题面整理.md",
+    "question": "习题册-章节21-题6",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/习题册/48f512ac1f17260e023cbd742d72b8a69ed13ef4175b4b6263dfc999e338018e.jpg",
+    "path": "10_题库/_assets/习题册/48f512ac1f17260e023cbd742d72b8a69ed13ef4175b4b6263dfc999e338018e.jpg",
+    "sha256": "2ff81210f95953d8bb3050cda3beee6c60fcc1bf63482621ad5f638650ded469",
+    "size": [
+      495,
+      298
+    ],
+    "id": 9,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 22,
+    "bbox_1000": [
+      535,
+      683,
+      696,
+      825
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\48f512ac1f17260e023cbd742d72b8a69ed13ef4175b4b6263dfc999e338018e.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-009.png",
+    "source_crop_size": [
+      713,
+      430
+    ],
+    "page_preview": "page-1-022.png",
+    "method": "native_extraction",
+    "new": "009-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_21_波动（三）_题面整理.md",
+        "question": "习题册-章节21-题6",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/习题册/48f512ac1f17260e023cbd742d72b8a69ed13ef4175b4b6263dfc999e338018e.jpg",
+        "path": "10_题库/_assets/习题册/48f512ac1f17260e023cbd742d72b8a69ed13ef4175b4b6263dfc999e338018e.jpg",
+        "sha256": "2ff81210f95953d8bb3050cda3beee6c60fcc1bf63482621ad5f638650ded469",
+        "size": [
+          495,
+          298
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/009-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_22_波动（四）_题面整理.md",
+    "question": "习题册-章节22-题1",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/习题册/181eeda720b1207a26821545acb928f7681b9f9ee02bd3a6f800dbd0d3aa6dd9.jpg",
+    "path": "10_题库/_assets/习题册/181eeda720b1207a26821545acb928f7681b9f9ee02bd3a6f800dbd0d3aa6dd9.jpg",
+    "sha256": "df259873c83121edac0f7d0eecfe7d2900f4b092ed51ce3b47ae2bd74cacd5c2",
+    "size": [
+      453,
+      253
+    ],
+    "id": 10,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 23,
+    "bbox_1000": [
+      88,
+      273,
+      236,
+      394
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\181eeda720b1207a26821545acb928f7681b9f9ee02bd3a6f800dbd0d3aa6dd9.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-010.png",
+    "source_crop_size": [
+      655,
+      367
+    ],
+    "page_preview": "page-1-023.png",
+    "method": "native_extraction",
+    "new": "010-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_22_波动（四）_题面整理.md",
+        "question": "习题册-章节22-题1",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/习题册/181eeda720b1207a26821545acb928f7681b9f9ee02bd3a6f800dbd0d3aa6dd9.jpg",
+        "path": "10_题库/_assets/习题册/181eeda720b1207a26821545acb928f7681b9f9ee02bd3a6f800dbd0d3aa6dd9.jpg",
+        "sha256": "df259873c83121edac0f7d0eecfe7d2900f4b092ed51ce3b47ae2bd74cacd5c2",
+        "size": [
+          453,
+          253
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/010-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2016-2017学年大学物理I期末题面整理.md",
+    "question": "16-17期末-选2",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/79d0af64d1804f0a26814b126bb7d6eca62cfa8ec387e10220d92572e04f1854.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/79d0af64d1804f0a26814b126bb7d6eca62cfa8ec387e10220d92572e04f1854.jpg",
+    "sha256": "b4b712d17c1d8f9c7309994d46a17d5691a7779475ff980dfe25707553d75e04",
+    "size": [
+      363,
+      145
+    ],
+    "id": 11,
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2016-2017学年大学物理I期末题面整理.md",
+        "question": "16-17期末-选2",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/79d0af64d1804f0a26814b126bb7d6eca62cfa8ec387e10220d92572e04f1854.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/79d0af64d1804f0a26814b126bb7d6eca62cfa8ec387e10220d92572e04f1854.jpg",
+        "sha256": "b4b712d17c1d8f9c7309994d46a17d5691a7779475ff980dfe25707553d75e04",
+        "size": [
+          363,
+          145
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/2016-2017学年大学物理I期末题面整理.md",
+    "question": "16-17期末-计2",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3b7a1e246e7c6a9f9c5bf7a5e3347588c8c2c7170a6d1c220ed83b41bd029846.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/3b7a1e246e7c6a9f9c5bf7a5e3347588c8c2c7170a6d1c220ed83b41bd029846.jpg",
+    "sha256": "8120afe9a73ed9f8144bd794656d61840fa6fa78779ea14dee7b6cf08151c5eb",
+    "size": [
+      279,
+      109
+    ],
+    "id": 12,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 43,
+    "bbox_1000": [
+      692,
+      730,
+      860,
+      776
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\3b7a1e246e7c6a9f9c5bf7a5e3347588c8c2c7170a6d1c220ed83b41bd029846.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-012.png",
+    "source_crop_size": [
+      404,
+      156
+    ],
+    "page_preview": "page-2-043.png",
+    "method": "redrawn",
+    "new": "012.svg",
+    "check": "B在A左侧、x正向右、u箭头向左，未标注未知距离或速度大小。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2016-2017学年大学物理I期末题面整理.md",
+        "question": "16-17期末-计2",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3b7a1e246e7c6a9f9c5bf7a5e3347588c8c2c7170a6d1c220ed83b41bd029846.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/3b7a1e246e7c6a9f9c5bf7a5e3347588c8c2c7170a6d1c220ed83b41bd029846.jpg",
+        "sha256": "8120afe9a73ed9f8144bd794656d61840fa6fa78779ea14dee7b6cf08151c5eb",
+        "size": [
+          279,
+          109
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/012.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2018-2019学年大学物理I期末题面整理.md",
+    "question": "18-19期末-选1",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/c7caf6f0c7ac6db94a001305b76f74cf5a73d0a1288f33bbeb9341c9b645e678.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/c7caf6f0c7ac6db94a001305b76f74cf5a73d0a1288f33bbeb9341c9b645e678.jpg",
+    "sha256": "4cbb9c8796c1685726eabbbd86d8e8448c9cb740c037e0e1d2215f1f03a7dd41",
+    "size": [
+      401,
+      179
+    ],
+    "id": 13,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 38,
+    "bbox_1000": [
+      652,
+      151,
+      894,
+      227
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\c7caf6f0c7ac6db94a001305b76f74cf5a73d0a1288f33bbeb9341c9b645e678.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-013.png",
+    "source_crop_size": [
+      581,
+      258
+    ],
+    "page_preview": "page-2-038.png",
+    "method": "native_extraction",
+    "new": "013-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2018-2019学年大学物理I期末题面整理.md",
+        "question": "18-19期末-选1",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/c7caf6f0c7ac6db94a001305b76f74cf5a73d0a1288f33bbeb9341c9b645e678.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/c7caf6f0c7ac6db94a001305b76f74cf5a73d0a1288f33bbeb9341c9b645e678.jpg",
+        "sha256": "4cbb9c8796c1685726eabbbd86d8e8448c9cb740c037e0e1d2215f1f03a7dd41",
+        "size": [
+          401,
+          179
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/013-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2018-2019学年大学物理I期末题面整理.md",
+    "question": "18-19期末-计1",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3c725e3a642c9b0b5b672464543f73acd8b11e3531bc14b5763515444dee40f2.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/3c725e3a642c9b0b5b672464543f73acd8b11e3531bc14b5763515444dee40f2.jpg",
+    "sha256": "81bf3264ee889f5a92a3804e1b7a8f95f3a49537305e4c03b057bb6db5b9dc93",
+    "size": [
+      440,
+      182
+    ],
+    "id": 14,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 39,
+    "bbox_1000": [
+      655,
+      617,
+      921,
+      694
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\3c725e3a642c9b0b5b672464543f73acd8b11e3531bc14b5763515444dee40f2.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-014.png",
+    "source_crop_size": [
+      640,
+      262
+    ],
+    "page_preview": "page-2-039.png",
+    "method": "native_extraction",
+    "new": "014-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2018-2019学年大学物理I期末题面整理.md",
+        "question": "18-19期末-计1",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3c725e3a642c9b0b5b672464543f73acd8b11e3531bc14b5763515444dee40f2.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/3c725e3a642c9b0b5b672464543f73acd8b11e3531bc14b5763515444dee40f2.jpg",
+        "sha256": "81bf3264ee889f5a92a3804e1b7a8f95f3a49537305e4c03b057bb6db5b9dc93",
+        "size": [
+          440,
+          182
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/014-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+    "question": "19-20期末-选3",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3a7494c0b4b3727ad20db2ab27410daec77125929051ba315c05b179e4ef9891.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/3a7494c0b4b3727ad20db2ab27410daec77125929051ba315c05b179e4ef9891.jpg",
+    "sha256": "654749253fab11bed488f699f4b84ef5044463b404ea7c0db7d817b9ba6f542d",
+    "size": [
+      278,
+      190
+    ],
+    "id": 15,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 32,
+    "bbox_1000": [
+      574,
+      455,
+      742,
+      536
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\3a7494c0b4b3727ad20db2ab27410daec77125929051ba315c05b179e4ef9891.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-015.png",
+    "source_crop_size": [
+      404,
+      275
+    ],
+    "page_preview": "page-2-032.png",
+    "method": "native_extraction",
+    "new": "015-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+        "question": "19-20期末-选3",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3a7494c0b4b3727ad20db2ab27410daec77125929051ba315c05b179e4ef9891.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/3a7494c0b4b3727ad20db2ab27410daec77125929051ba315c05b179e4ef9891.jpg",
+        "sha256": "654749253fab11bed488f699f4b84ef5044463b404ea7c0db7d817b9ba6f542d",
+        "size": [
+          278,
+          190
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/015-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+    "question": "19-20期末-选3",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/8553f66d2e0032e5e43b838bc178968f8fe385b241983c72b6bf03f4050846f1.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/8553f66d2e0032e5e43b838bc178968f8fe385b241983c72b6bf03f4050846f1.jpg",
+    "sha256": "a3571afc5484c9bdcb4bd4860ad53bc260252d83ac0b085b301e2b42a02d9624",
+    "size": [
+      554,
+      298
+    ],
+    "id": 16,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 32,
+    "bbox_1000": [
+      178,
+      424,
+      512,
+      551
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\8553f66d2e0032e5e43b838bc178968f8fe385b241983c72b6bf03f4050846f1.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-016.png",
+    "source_crop_size": [
+      804,
+      432
+    ],
+    "page_preview": "page-2-032.png",
+    "method": "native_extraction",
+    "new": "016-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+        "question": "19-20期末-选3",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/8553f66d2e0032e5e43b838bc178968f8fe385b241983c72b6bf03f4050846f1.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/8553f66d2e0032e5e43b838bc178968f8fe385b241983c72b6bf03f4050846f1.jpg",
+        "sha256": "a3571afc5484c9bdcb4bd4860ad53bc260252d83ac0b085b301e2b42a02d9624",
+        "size": [
+          554,
+          298
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/016-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+    "question": "20-21期末-计1",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/1a37c8085fa21f2dd0a11058b0eeaa672d7818716d815db6a47327a31b93bd6e.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/1a37c8085fa21f2dd0a11058b0eeaa672d7818716d815db6a47327a31b93bd6e.jpg",
+    "sha256": "2b739b6abcda1c6c7d4fdaf4d6806d19ab9ea15c6a00bf9f1d2bbad9188a0c1d",
+    "size": [
+      168,
+      198
+    ],
+    "id": 17,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 28,
+    "bbox_1000": [
+      764,
+      332,
+      865,
+      417
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\1a37c8085fa21f2dd0a11058b0eeaa672d7818716d815db6a47327a31b93bd6e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-017.png",
+    "source_crop_size": [
+      243,
+      289
+    ],
+    "page_preview": "page-2-028.png",
+    "method": "native_extraction",
+    "new": "017-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+        "question": "20-21期末-计1",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/1a37c8085fa21f2dd0a11058b0eeaa672d7818716d815db6a47327a31b93bd6e.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/1a37c8085fa21f2dd0a11058b0eeaa672d7818716d815db6a47327a31b93bd6e.jpg",
+        "sha256": "2b739b6abcda1c6c7d4fdaf4d6806d19ab9ea15c6a00bf9f1d2bbad9188a0c1d",
+        "size": [
+          168,
+          198
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/017-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+    "question": "20-21期末-计2",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3fe6bd0a6e4f4a9a47084496419123a948c4225df4b9996e3006a985ba25f409.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/3fe6bd0a6e4f4a9a47084496419123a948c4225df4b9996e3006a985ba25f409.jpg",
+    "sha256": "260b9ca4c0052738f0118cc4348d7463f2212af82087ccf1aac8e8cbd6d92bf6",
+    "size": [
+      284,
+      154
+    ],
+    "id": 18,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 28,
+    "bbox_1000": [
+      710,
+      637,
+      882,
+      702
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\3fe6bd0a6e4f4a9a47084496419123a948c4225df4b9996e3006a985ba25f409.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-018.png",
+    "source_crop_size": [
+      414,
+      221
+    ],
+    "page_preview": "page-2-028.png",
+    "method": "native_extraction",
+    "new": "018-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+        "question": "20-21期末-计2",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/3fe6bd0a6e4f4a9a47084496419123a948c4225df4b9996e3006a985ba25f409.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/3fe6bd0a6e4f4a9a47084496419123a948c4225df4b9996e3006a985ba25f409.jpg",
+        "sha256": "260b9ca4c0052738f0118cc4348d7463f2212af82087ccf1aac8e8cbd6d92bf6",
+        "size": [
+          284,
+          154
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/018-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+    "question": "20-21期末-析1",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/08355bdf34d0afc8024440b7c31160eb9968dfeeeafd40550ed6196575c2bdd2.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/08355bdf34d0afc8024440b7c31160eb9968dfeeeafd40550ed6196575c2bdd2.jpg",
+    "sha256": "b3593274fb7ec67ed26c1631431cefb7dad54080e75b880bee5849290ef14a62",
+    "size": [
+      304,
+      231
+    ],
+    "id": 19,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 30,
+    "bbox_1000": [
+      697,
+      105,
+      880,
+      204
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\08355bdf34d0afc8024440b7c31160eb9968dfeeeafd40550ed6196575c2bdd2.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-019.png",
+    "source_crop_size": [
+      440,
+      336
+    ],
+    "page_preview": "page-2-030.png",
+    "method": "native_extraction",
+    "new": "019-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+        "question": "20-21期末-析1",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/08355bdf34d0afc8024440b7c31160eb9968dfeeeafd40550ed6196575c2bdd2.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/08355bdf34d0afc8024440b7c31160eb9968dfeeeafd40550ed6196575c2bdd2.jpg",
+        "sha256": "b3593274fb7ec67ed26c1631431cefb7dad54080e75b880bee5849290ef14a62",
+        "size": [
+          304,
+          231
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/019-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+    "question": "22-23期末-选2",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/8a33403acaa6c9e6b991c02e3d5d4bc914e53991a4e703091ccc2b370db1d93f.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/8a33403acaa6c9e6b991c02e3d5d4bc914e53991a4e703091ccc2b370db1d93f.jpg",
+    "sha256": "5e1d388eb4754e25615e4fe681915d9718ff27802844a0f74fa97e6ccd683fdc",
+    "size": [
+      212,
+      162
+    ],
+    "id": 20,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 23,
+    "bbox_1000": [
+      737,
+      198,
+      865,
+      267
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\8a33403acaa6c9e6b991c02e3d5d4bc914e53991a4e703091ccc2b370db1d93f.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-020.png",
+    "source_crop_size": [
+      308,
+      234
+    ],
+    "page_preview": "page-2-023.png",
+    "method": "native_extraction",
+    "new": "020-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+        "question": "22-23期末-选2",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/8a33403acaa6c9e6b991c02e3d5d4bc914e53991a4e703091ccc2b370db1d93f.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/8a33403acaa6c9e6b991c02e3d5d4bc914e53991a4e703091ccc2b370db1d93f.jpg",
+        "sha256": "5e1d388eb4754e25615e4fe681915d9718ff27802844a0f74fa97e6ccd683fdc",
+        "size": [
+          212,
+          162
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/020-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+    "question": "22-23期末-选4",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+    "sha256": "de52f641f64e26dd5a2b328bbd014de193b17cedb5fef34e8dfd6df5bb397a62",
+    "size": [
+      404,
+      462
+    ],
+    "id": 21,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 23,
+    "bbox_1000": [
+      707,
+      322,
+      951,
+      519
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-021.png",
+    "source_crop_size": [
+      587,
+      669
+    ],
+    "page_preview": "page-2-023.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+        "question": "22-23期末-选3",
+        "chapter": "04",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+        "sha256": "de52f641f64e26dd5a2b328bbd014de193b17cedb5fef34e8dfd6df5bb397a62",
+        "size": [
+          404,
+          462
+        ]
+      },
+      {
+        "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+        "question": "22-23期末-选4",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+        "sha256": "de52f641f64e26dd5a2b328bbd014de193b17cedb5fef34e8dfd6df5bb397a62",
+        "size": [
+          404,
+          462
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+    "question": "22-23期末-选5",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/8a6f7b42ddc09472a06c5c03a2b379b6f419809df8cecbcb0edd3a08cda75ead.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/8a6f7b42ddc09472a06c5c03a2b379b6f419809df8cecbcb0edd3a08cda75ead.jpg",
+    "sha256": "f6f2fdc241d4caff408d960bbb632823ec9fd6381ec4a275eb109f4c53583b13",
+    "size": [
+      328,
+      225
+    ],
+    "id": 22,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 23,
+    "bbox_1000": [
+      672,
+      524,
+      870,
+      620
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\8a6f7b42ddc09472a06c5c03a2b379b6f419809df8cecbcb0edd3a08cda75ead.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-022.png",
+    "source_crop_size": [
+      476,
+      326
+    ],
+    "page_preview": "page-2-023.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+        "question": "22-23期末-选5",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/8a6f7b42ddc09472a06c5c03a2b379b6f419809df8cecbcb0edd3a08cda75ead.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/8a6f7b42ddc09472a06c5c03a2b379b6f419809df8cecbcb0edd3a08cda75ead.jpg",
+        "sha256": "f6f2fdc241d4caff408d960bbb632823ec9fd6381ec4a275eb109f4c53583b13",
+        "size": [
+          328,
+          225
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+    "question": "22-23期末-选5",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/9d98fc0b1bf187b8b4fd5477843b02f3a26957639dfbb701921de4c496e02055.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/9d98fc0b1bf187b8b4fd5477843b02f3a26957639dfbb701921de4c496e02055.jpg",
+    "sha256": "96a107019ba7efa4d646c25b21e8289e178f0c9d1c2870a0d8a4e173658a294a",
+    "size": [
+      309,
+      134
+    ],
+    "id": 23,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 23,
+    "bbox_1000": [
+      166,
+      521,
+      352,
+      579
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\9d98fc0b1bf187b8b4fd5477843b02f3a26957639dfbb701921de4c496e02055.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-023.png",
+    "source_crop_size": [
+      448,
+      197
+    ],
+    "page_preview": "page-2-023.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+        "question": "22-23期末-选5",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/9d98fc0b1bf187b8b4fd5477843b02f3a26957639dfbb701921de4c496e02055.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/9d98fc0b1bf187b8b4fd5477843b02f3a26957639dfbb701921de4c496e02055.jpg",
+        "sha256": "96a107019ba7efa4d646c25b21e8289e178f0c9d1c2870a0d8a4e173658a294a",
+        "size": [
+          309,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+    "question": "22-23期末-选5",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/dd8b3240cbed2bc66b2bf6d92ac13ff4fa29550ffe9578a28c4159a250dd65de.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/dd8b3240cbed2bc66b2bf6d92ac13ff4fa29550ffe9578a28c4159a250dd65de.jpg",
+    "sha256": "d44bf0ae585fb7e7201f642fc10fbe96c5aa4cd9ef0fb5b0af05aaea12958e48",
+    "size": [
+      318,
+      142
+    ],
+    "id": 24,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 23,
+    "bbox_1000": [
+      403,
+      518,
+      594,
+      579
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\dd8b3240cbed2bc66b2bf6d92ac13ff4fa29550ffe9578a28c4159a250dd65de.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-024.png",
+    "source_crop_size": [
+      459,
+      207
+    ],
+    "page_preview": "page-2-023.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+        "question": "22-23期末-选5",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/dd8b3240cbed2bc66b2bf6d92ac13ff4fa29550ffe9578a28c4159a250dd65de.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/dd8b3240cbed2bc66b2bf6d92ac13ff4fa29550ffe9578a28c4159a250dd65de.jpg",
+        "sha256": "d44bf0ae585fb7e7201f642fc10fbe96c5aa4cd9ef0fb5b0af05aaea12958e48",
+        "size": [
+          318,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+    "question": "22-23期末-选5",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/32904d8cc10d08da3f67b23b6766ceaf500d1830e13943d3b59acdfbafb96f4e.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/32904d8cc10d08da3f67b23b6766ceaf500d1830e13943d3b59acdfbafb96f4e.jpg",
+    "sha256": "e6c282ffec75432935dd8a2c1b383e05612370cf96062b9af07cdf045fd13f1e",
+    "size": [
+      309,
+      142
+    ],
+    "id": 25,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 23,
+    "bbox_1000": [
+      166,
+      593,
+      352,
+      653
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\32904d8cc10d08da3f67b23b6766ceaf500d1830e13943d3b59acdfbafb96f4e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-025.png",
+    "source_crop_size": [
+      448,
+      204
+    ],
+    "page_preview": "page-2-023.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+        "question": "22-23期末-选5",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/32904d8cc10d08da3f67b23b6766ceaf500d1830e13943d3b59acdfbafb96f4e.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/32904d8cc10d08da3f67b23b6766ceaf500d1830e13943d3b59acdfbafb96f4e.jpg",
+        "sha256": "e6c282ffec75432935dd8a2c1b383e05612370cf96062b9af07cdf045fd13f1e",
+        "size": [
+          309,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+    "question": "22-23期末-选5",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/301a6841b1588605b1b02cef09a83b351a4e5e52bc505757fbf4962724d820a5.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/301a6841b1588605b1b02cef09a83b351a4e5e52bc505757fbf4962724d820a5.jpg",
+    "sha256": "75a56e19814fff05f343c262dc3a1e47339c5d009cd169e26a2533d15134451c",
+    "size": [
+      321,
+      148
+    ],
+    "id": 26,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 23,
+    "bbox_1000": [
+      403,
+      592,
+      596,
+      655
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\301a6841b1588605b1b02cef09a83b351a4e5e52bc505757fbf4962724d820a5.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-026.png",
+    "source_crop_size": [
+      464,
+      214
+    ],
+    "page_preview": "page-2-023.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
+        "question": "22-23期末-选5",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/301a6841b1588605b1b02cef09a83b351a4e5e52bc505757fbf4962724d820a5.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/301a6841b1588605b1b02cef09a83b351a4e5e52bc505757fbf4962724d820a5.jpg",
+        "sha256": "75a56e19814fff05f343c262dc3a1e47339c5d009cd169e26a2533d15134451c",
+        "size": [
+          321,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "question": "23-24期末-选15",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/53ad0eb67c5b98a7cb02c89fe55f908e7363e1729adcd3a3eabcb6e22c2db1ad.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/53ad0eb67c5b98a7cb02c89fe55f908e7363e1729adcd3a3eabcb6e22c2db1ad.jpg",
+    "sha256": "460a3f3ff15ca4f4dd43e5525b097edbf8728dbffa85c7f7b536713cc4085655",
+    "size": [
+      237,
+      167
+    ],
+    "id": 27,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 20,
+    "bbox_1000": [
+      665,
+      544,
+      808,
+      615
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\53ad0eb67c5b98a7cb02c89fe55f908e7363e1729adcd3a3eabcb6e22c2db1ad.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-027.png",
+    "source_crop_size": [
+      344,
+      241
+    ],
+    "page_preview": "page-2-020.png",
+    "method": "native_extraction",
+    "new": "027-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+        "question": "23-24期末-选15",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/53ad0eb67c5b98a7cb02c89fe55f908e7363e1729adcd3a3eabcb6e22c2db1ad.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/53ad0eb67c5b98a7cb02c89fe55f908e7363e1729adcd3a3eabcb6e22c2db1ad.jpg",
+        "sha256": "460a3f3ff15ca4f4dd43e5525b097edbf8728dbffa85c7f7b536713cc4085655",
+        "size": [
+          237,
+          167
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/027-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "question": "23-24期末-填4",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/a756dd85272d11f51a8e1b950567cd81acc906dc816711dff81b768935aa3de9.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/a756dd85272d11f51a8e1b950567cd81acc906dc816711dff81b768935aa3de9.jpg",
+    "sha256": "4ae209d829b38c679553cc29aaeb645deaf3fc56860974a0d0b359d5ed42cc32",
+    "size": [
+      329,
+      303
+    ],
+    "id": 28,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 21,
+    "bbox_1000": [
+      705,
+      218,
+      904,
+      348
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\a756dd85272d11f51a8e1b950567cd81acc906dc816711dff81b768935aa3de9.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-028.png",
+    "source_crop_size": [
+      479,
+      441
+    ],
+    "page_preview": "page-2-021.png",
+    "method": "native_extraction",
+    "new": "028-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+        "question": "23-24期末-填4",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/a756dd85272d11f51a8e1b950567cd81acc906dc816711dff81b768935aa3de9.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/a756dd85272d11f51a8e1b950567cd81acc906dc816711dff81b768935aa3de9.jpg",
+        "sha256": "4ae209d829b38c679553cc29aaeb645deaf3fc56860974a0d0b359d5ed42cc32",
+        "size": [
+          329,
+          303
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/028-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+    "question": "23-24期末-计1",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/9079e1beb1c3847404c88868a8f37480e516676167aa3ff0570a2fc53d9f5e42.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/9079e1beb1c3847404c88868a8f37480e516676167aa3ff0570a2fc53d9f5e42.jpg",
+    "sha256": "db4acfa0c0a665ff5c719ed3489789e1721793a9a0ba94d8504bb8311b5f464b",
+    "size": [
+      298,
+      214
+    ],
+    "id": 29,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 21,
+    "bbox_1000": [
+      694,
+      385,
+      873,
+      476
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\9079e1beb1c3847404c88868a8f37480e516676167aa3ff0570a2fc53d9f5e42.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-029.png",
+    "source_crop_size": [
+      431,
+      309
+    ],
+    "page_preview": "page-2-021.png",
+    "method": "redrawn",
+    "new": "029.svg",
+    "check": "定量029：y/cm、t/s，幅度2，初态过零向上，2s向下过零、4s向上过零；函数2sin(πt/2)逐项断言。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+        "question": "23-24期末-计1",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/9079e1beb1c3847404c88868a8f37480e516676167aa3ff0570a2fc53d9f5e42.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/9079e1beb1c3847404c88868a8f37480e516676167aa3ff0570a2fc53d9f5e42.jpg",
+        "sha256": "db4acfa0c0a665ff5c719ed3489789e1721793a9a0ba94d8504bb8311b5f464b",
+        "size": [
+          298,
+          214
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/029.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+    "question": "24-25期末-选2",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/2024-2025期末截图/779c79f3e58916a8cb4f6c6a916b9bf4c3c4519be4e5a272459ce1e34624308d.jpg",
+    "path": "10_题库/_assets/2024-2025期末截图/779c79f3e58916a8cb4f6c6a916b9bf4c3c4519be4e5a272459ce1e34624308d.jpg",
+    "sha256": "e7e629b6519fe383a3311546be749d21f9e3bdbd54088c77ec189885746b6d13",
+    "size": [
+      379,
+      276
+    ],
+    "id": 30,
+    "source_pdf": "90_缓存\\扫描整理\\2024-2025期末\\2024-2025学年大学物理I期末_方向校正合并.pdf",
+    "pdf_page": 2,
+    "bbox_1000": [
+      684,
+      174,
+      792,
+      347
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\51a54e3a-a3bd-4a95-9173-b3b2eb575a41_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\images\\779c79f3e58916a8cb4f6c6a916b9bf4c3c4519be4e5a272459ce1e34624308d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-030.png",
+    "source_crop_size": [
+      298,
+      217
+    ],
+    "page_preview": "page-3-002.png",
+    "method": "redrawn",
+    "new": "030.svg",
+    "check": "S1/S2到P两条传播箭头、r1/r2与点名保留；几何夹角和距离仅为布局。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+        "question": "24-25期末-选2",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/2024-2025期末截图/779c79f3e58916a8cb4f6c6a916b9bf4c3c4519be4e5a272459ce1e34624308d.jpg",
+        "path": "10_题库/_assets/2024-2025期末截图/779c79f3e58916a8cb4f6c6a916b9bf4c3c4519be4e5a272459ce1e34624308d.jpg",
+        "sha256": "e7e629b6519fe383a3311546be749d21f9e3bdbd54088c77ec189885746b6d13",
+        "size": [
+          379,
+          276
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/030.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+    "question": "24-25期末-选4",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/2024-2025期末截图/16be46a3834d4e42097532e21e240b5c9fc4851c73a95143f3bf2a68b0586e02.jpg",
+    "path": "10_题库/_assets/2024-2025期末截图/16be46a3834d4e42097532e21e240b5c9fc4851c73a95143f3bf2a68b0586e02.jpg",
+    "sha256": "2488326c0548be4a2dda808df779e61c4227585c21e8a0ec5520950a8d96eb3f",
+    "size": [
+      595,
+      395
+    ],
+    "id": 31,
+    "source_pdf": "90_缓存\\扫描整理\\2024-2025期末\\2024-2025学年大学物理I期末_方向校正合并.pdf",
+    "pdf_page": 4,
+    "bbox_1000": [
+      585,
+      224,
+      755,
+      471
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\51a54e3a-a3bd-4a95-9173-b3b2eb575a41_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\images\\16be46a3834d4e42097532e21e240b5c9fc4851c73a95143f3bf2a68b0586e02.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-031.png",
+    "source_crop_size": [
+      469,
+      311
+    ],
+    "page_preview": "page-3-004.png",
+    "method": "native_extraction",
+    "new": "031-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+        "question": "24-25期末-选4",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/2024-2025期末截图/16be46a3834d4e42097532e21e240b5c9fc4851c73a95143f3bf2a68b0586e02.jpg",
+        "path": "10_题库/_assets/2024-2025期末截图/16be46a3834d4e42097532e21e240b5c9fc4851c73a95143f3bf2a68b0586e02.jpg",
+        "sha256": "2488326c0548be4a2dda808df779e61c4227585c21e8a0ec5520950a8d96eb3f",
+        "size": [
+          595,
+          395
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/031-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+    "question": "24-25期末-选10",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/2024-2025期末截图/7c91888448a8a521cf02a0810da3b76b918311ebd29fe0df326d4e724eab826d.jpg",
+    "path": "10_题库/_assets/2024-2025期末截图/7c91888448a8a521cf02a0810da3b76b918311ebd29fe0df326d4e724eab826d.jpg",
+    "sha256": "79e80768ff721b3d11efb281bc13a7819f5cd60e9f1c7d4f1ea42a6407beaaa8",
+    "size": [
+      889,
+      487
+    ],
+    "id": 32,
+    "source_pdf": "90_缓存\\扫描整理\\2024-2025期末\\2024-2025学年大学物理I期末_方向校正合并.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      538,
+      220,
+      792,
+      526
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\51a54e3a-a3bd-4a95-9173-b3b2eb575a41_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\images\\7c91888448a8a521cf02a0810da3b76b918311ebd29fe0df326d4e724eab826d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-032.png",
+    "source_crop_size": [
+      701,
+      385
+    ],
+    "page_preview": "page-3-010.png",
+    "method": "native_extraction",
+    "new": "032-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+        "question": "24-25期末-选10",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/2024-2025期末截图/7c91888448a8a521cf02a0810da3b76b918311ebd29fe0df326d4e724eab826d.jpg",
+        "path": "10_题库/_assets/2024-2025期末截图/7c91888448a8a521cf02a0810da3b76b918311ebd29fe0df326d4e724eab826d.jpg",
+        "sha256": "79e80768ff721b3d11efb281bc13a7819f5cd60e9f1c7d4f1ea42a6407beaaa8",
+        "size": [
+          889,
+          487
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/032-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+    "question": "24-25期末-计2",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/2024-2025期末截图/b02ab72c19518b9009f4fce9814ee738684951f03a86bdb695ac6498fc7d57f3.jpg",
+    "path": "10_题库/_assets/2024-2025期末截图/b02ab72c19518b9009f4fce9814ee738684951f03a86bdb695ac6498fc7d57f3.jpg",
+    "sha256": "f613c7ce41da0759f52f66f8d6b4c9393606724edce864de7d2aa8141840d4d9",
+    "size": [
+      395,
+      149
+    ],
+    "id": 33,
+    "source_pdf": "90_缓存\\扫描整理\\2024-2025期末\\2024-2025学年大学物理I期末_方向校正合并.pdf",
+    "pdf_page": 16,
+    "bbox_1000": [
+      696,
+      282,
+      808,
+      375
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\51a54e3a-a3bd-4a95-9173-b3b2eb575a41_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\2024-2025期末方向校正合并\\results\\p0001-0020\\extracted\\images\\b02ab72c19518b9009f4fce9814ee738684951f03a86bdb695ac6498fc7d57f3.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-033.png",
+    "source_crop_size": [
+      309,
+      117
+    ],
+    "page_preview": "page-3-016.png",
+    "method": "redrawn",
+    "new": "033.svg",
+    "check": "B在A左侧、x正向右、u箭头向左，未标注未知距离或速度大小。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
+        "question": "24-25期末-计2",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/2024-2025期末截图/b02ab72c19518b9009f4fce9814ee738684951f03a86bdb695ac6498fc7d57f3.jpg",
+        "path": "10_题库/_assets/2024-2025期末截图/b02ab72c19518b9009f4fce9814ee738684951f03a86bdb695ac6498fc7d57f3.jpg",
+        "sha256": "f613c7ce41da0759f52f66f8d6b4c9393606724edce864de7d2aa8141840d4d9",
+        "size": [
+          395,
+          149
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/033.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
+    "question": "未标年份-期末一-选8",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/f9747342e5209e5c8225e9fab57622e1d0b5df96e20772c587bc9a51f6bd067d.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/f9747342e5209e5c8225e9fab57622e1d0b5df96e20772c587bc9a51f6bd067d.jpg",
+    "sha256": "1adef3fc7976b392ed2a555488e9dd51786e984ce6db15b241147a81a8291511",
+    "size": [
+      295,
+      164
+    ],
+    "id": 34,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 47,
+    "bbox_1000": [
+      687,
+      175,
+      865,
+      246
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\f9747342e5209e5c8225e9fab57622e1d0b5df96e20772c587bc9a51f6bd067d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-034.png",
+    "source_crop_size": [
+      428,
+      242
+    ],
+    "page_preview": "page-3-047.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
+        "question": "未标年份-期末一-选8",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/f9747342e5209e5c8225e9fab57622e1d0b5df96e20772c587bc9a51f6bd067d.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/f9747342e5209e5c8225e9fab57622e1d0b5df96e20772c587bc9a51f6bd067d.jpg",
+        "sha256": "1adef3fc7976b392ed2a555488e9dd51786e984ce6db15b241147a81a8291511",
+        "size": [
+          295,
+          164
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
+    "question": "未标年份-期末一-计1",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/0d1f3426d04ef66129ef356f8ddc71f9fd0cc795687dda0279357e12709890d4.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/0d1f3426d04ef66129ef356f8ddc71f9fd0cc795687dda0279357e12709890d4.jpg",
+    "sha256": "0c6c6b40ae8f8c3aad2711582bb3603ea15ab51d99c9c3aa7440c0cf46dfdc7e",
+    "size": [
+      321,
+      201
+    ],
+    "id": 35,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 48,
+    "bbox_1000": [
+      697,
+      279,
+      890,
+      365
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\0d1f3426d04ef66129ef356f8ddc71f9fd0cc795687dda0279357e12709890d4.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-035.png",
+    "source_crop_size": [
+      464,
+      292
+    ],
+    "page_preview": "page-3-048.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
+        "question": "未标年份-期末一-计1",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/0d1f3426d04ef66129ef356f8ddc71f9fd0cc795687dda0279357e12709890d4.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/0d1f3426d04ef66129ef356f8ddc71f9fd0cc795687dda0279357e12709890d4.jpg",
+        "sha256": "0c6c6b40ae8f8c3aad2711582bb3603ea15ab51d99c9c3aa7440c0cf46dfdc7e",
+        "size": [
+          321,
+          201
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+    "question": "未标年份-期末二-选14",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/f956cebd3144b49d516ce5306a400ee35781051badafa8693eba6c571da4ec22.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/f956cebd3144b49d516ce5306a400ee35781051badafa8693eba6c571da4ec22.jpg",
+    "sha256": "04afcf840b1d9a6adf5da5eddca3c6082a98455b3bac07864250d2635d28dc79",
+    "size": [
+      451,
+      237
+    ],
+    "id": 36,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 51,
+    "bbox_1000": [
+      596,
+      601,
+      868,
+      702
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\f956cebd3144b49d516ce5306a400ee35781051badafa8693eba6c571da4ec22.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-036.png",
+    "source_crop_size": [
+      654,
+      343
+    ],
+    "page_preview": "page-3-051.png",
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+        "question": "未标年份-期末二-选14",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/f956cebd3144b49d516ce5306a400ee35781051badafa8693eba6c571da4ec22.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/f956cebd3144b49d516ce5306a400ee35781051badafa8693eba6c571da4ec22.jpg",
+        "sha256": "04afcf840b1d9a6adf5da5eddca3c6082a98455b3bac07864250d2635d28dc79",
+        "size": [
+          451,
+          237
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-例题-5-3",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_060.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_060.jpg",
+    "sha256": "932a7e685f11f88c7fd1208dfaa573b0cf0600d1b9348e3f93558e9fa5df354b",
+    "size": [
+      557,
+      251
+    ],
+    "id": 37,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 93,
+    "bbox_1000": [
+      235,
+      644,
+      571,
+      751
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\0f8f6e4d5fbbb882bb2aa67175ddd206dfc30dd3131795a823e1ed0be91d9b1f.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-037.png",
+    "source_crop_size": [
+      832,
+      374
+    ],
+    "page_preview": "page-4-093.png",
+    "method": "native_extraction",
+    "new": "037-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-例题-5-3",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_060.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_060.jpg",
+        "sha256": "932a7e685f11f88c7fd1208dfaa573b0cf0600d1b9348e3f93558e9fa5df354b",
+        "size": [
+          557,
+          251
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/037-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-例题-5-3",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_888.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_888.jpg",
+    "sha256": "faf78d643fe228769faa15de8ce0c527a84fa8536be80e4952c6b0db7b9fedcf",
+    "size": [
+      326,
+      254
+    ],
+    "id": 38,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 93,
+    "bbox_1000": [
+      608,
+      645,
+      805,
+      753
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\c1823fed4266eb26ecb78d4231844485f0bb5657970c25c0a8d21c82dd6d9b52.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-038.png",
+    "source_crop_size": [
+      488,
+      377
+    ],
+    "page_preview": "page-4-093.png",
+    "method": "native_extraction",
+    "new": "038-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-例题-5-3",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_888.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_888.jpg",
+        "sha256": "faf78d643fe228769faa15de8ce0c527a84fa8536be80e4952c6b0db7b9fedcf",
+        "size": [
+          326,
+          254
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/038-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-例题-5-6",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_1071.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_1071.jpg",
+    "sha256": "29139693f2c1dd21380d24045c119b669fe4494abfe8542a5dda48c8d0c1766a",
+    "size": [
+      578,
+      259
+    ],
+    "id": 39,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 95,
+    "bbox_1000": [
+      157,
+      791,
+      507,
+      902
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\eb91a8a90e5c4759b8b2ae87829abad52f83ee3df8fde4d237d99e95f30d920d.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-039.png",
+    "source_crop_size": [
+      867,
+      388
+    ],
+    "page_preview": "page-4-095.png",
+    "method": "native_extraction",
+    "new": "039-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-例题-5-6",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_1071.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_1071.jpg",
+        "sha256": "29139693f2c1dd21380d24045c119b669fe4494abfe8542a5dda48c8d0c1766a",
+        "size": [
+          578,
+          259
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/039-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-例题-5-6",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_827.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_827.jpg",
+    "sha256": "cfabefc42527ab41e3640102ab353812af83a7ff55b06bd0e9c6311e72780363",
+    "size": [
+      470,
+      206
+    ],
+    "id": 40,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 95,
+    "bbox_1000": [
+      589,
+      816,
+      873,
+      904
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\b26c0ea8f6f057bf6ed47cbc6e47f0494d7eb317cbff2d5cbbc7c5c231e7bd93.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-040.png",
+    "source_crop_size": [
+      703,
+      307
+    ],
+    "page_preview": "page-4-095.png",
+    "method": "native_extraction",
+    "new": "040-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-例题-5-6",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_827.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_827.jpg",
+        "sha256": "cfabefc42527ab41e3640102ab353812af83a7ff55b06bd0e9c6311e72780363",
+        "size": [
+          470,
+          206
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/040-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-例题-5-7",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_972.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_972.jpg",
+    "sha256": "a44b4a52e3bdb442efd93341ce609372d5eac9432dbf19670f45951259331a91",
+    "size": [
+      551,
+      312
+    ],
+    "id": 41,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 96,
+    "bbox_1000": [
+      573,
+      439,
+      905,
+      573
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\d2c377b4e2158f4355fb07f088008beb425f4ed79c346b4c5b8f14c816404762.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-041.png",
+    "source_crop_size": [
+      822,
+      469
+    ],
+    "page_preview": "page-4-096.png",
+    "method": "native_extraction",
+    "new": "041-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-例题-5-7",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_972.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_972.jpg",
+        "sha256": "a44b4a52e3bdb442efd93341ce609372d5eac9432dbf19670f45951259331a91",
+        "size": [
+          551,
+          312
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/041-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-思考题-5-10",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/重绘_上册_批01/05-wave-5-10-a.svg",
+    "path": "10_题库/_assets/重绘_上册_批01/05-wave-5-10-a.svg",
+    "sha256": "6ee7259da74fbb8eef654c373771919ae52aa2e7784acc788bb890a0cfc38e18",
+    "size": null,
+    "id": 42,
+    "method": "already_verified_svg",
+    "check": "首批已核验SVG，保持引用。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-思考题-5-10",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/重绘_上册_批01/05-wave-5-10-a.svg",
+        "path": "10_题库/_assets/重绘_上册_批01/05-wave-5-10-a.svg",
+        "sha256": "6ee7259da74fbb8eef654c373771919ae52aa2e7784acc788bb890a0cfc38e18",
+        "size": null
+      }
+    ]
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-思考题-5-10",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/重绘_上册_批01/06-wave-5-10-b.svg",
+    "path": "10_题库/_assets/重绘_上册_批01/06-wave-5-10-b.svg",
+    "sha256": "b13b1d2f0ec35c432d6226d5f1758038a00afe76ac6132225396902aa8ad94b1",
+    "size": null,
+    "id": 43,
+    "method": "already_verified_svg",
+    "check": "首批已核验SVG，保持引用。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-思考题-5-10",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/重绘_上册_批01/06-wave-5-10-b.svg",
+        "path": "10_题库/_assets/重绘_上册_批01/06-wave-5-10-b.svg",
+        "sha256": "b13b1d2f0ec35c432d6226d5f1758038a00afe76ac6132225396902aa8ad94b1",
+        "size": null
+      }
+    ]
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-思考题-5-11",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_1091.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_1091.jpg",
+    "sha256": "018b0dfbe2f4c055006fbac5f73fff71a4402a04a3a9f5bc1270e52165f930c0",
+    "size": [
+      518,
+      228
+    ],
+    "id": 44,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 102,
+    "bbox_1000": [
+      600,
+      287,
+      912,
+      385
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\f00038622ca2d2f8c4f75b21d799a21c12037cf47e390a0680aa4f1e2f5449c7.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-044.png",
+    "source_crop_size": [
+      773,
+      342
+    ],
+    "page_preview": "page-4-102.png",
+    "method": "native_extraction",
+    "new": "044-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-思考题-5-11",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_1091.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_1091.jpg",
+        "sha256": "018b0dfbe2f4c055006fbac5f73fff71a4402a04a3a9f5bc1270e52165f930c0",
+        "size": [
+          518,
+          228
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/044-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-思考题-5-13",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/重绘_上册_批01/07-wave-5-13.svg",
+    "path": "10_题库/_assets/重绘_上册_批01/07-wave-5-13.svg",
+    "sha256": "86bc877ed2cc809d149e5e9682237cad846e7d38c16560225f051cdb98b5ee6b",
+    "size": null,
+    "id": 45,
+    "method": "already_verified_svg",
+    "check": "首批已核验SVG，保持引用。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-思考题-5-13",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/重绘_上册_批01/07-wave-5-13.svg",
+        "path": "10_题库/_assets/重绘_上册_批01/07-wave-5-13.svg",
+        "sha256": "86bc877ed2cc809d149e5e9682237cad846e7d38c16560225f051cdb98b5ee6b",
+        "size": null
+      }
+    ]
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-思考题-5-15",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_004.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_004.jpg",
+    "sha256": "20a0024f9ef0a7418658cdbade48f9a07a7d3d377e230381e3213ac68c287661",
+    "size": [
+      507,
+      226
+    ],
+    "id": 46,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 103,
+    "bbox_1000": [
+      107,
+      223,
+      413,
+      319
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\013781f4a0136ed31c52ca0c6879d3bddf090b7d1c1473adb6bb164498c64758.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-046.png",
+    "source_crop_size": [
+      758,
+      336
+    ],
+    "page_preview": "page-4-103.png",
+    "method": "native_extraction",
+    "new": "046-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-思考题-5-15",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_004.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_004.jpg",
+        "sha256": "20a0024f9ef0a7418658cdbade48f9a07a7d3d377e230381e3213ac68c287661",
+        "size": [
+          507,
+          226
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/046-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-习题-5-3",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_810.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_810.jpg",
+    "sha256": "7879bf02f7deb1700dca8dfb9b763af9a81973a90d26dbacd1e90c7070803835",
+    "size": [
+      421,
+      226
+    ],
+    "id": 47,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 106,
+    "bbox_1000": [
+      658,
+      211,
+      912,
+      307
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\ac6d0a86346a6ed5fb4fd15ee89a375e7ee9bedf3e84a10fe8ef45bb36c411d2.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-047.png",
+    "source_crop_size": [
+      630,
+      336
+    ],
+    "page_preview": "page-4-106.png",
+    "method": "native_extraction",
+    "new": "047-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-习题-5-3",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_810.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_810.jpg",
+        "sha256": "7879bf02f7deb1700dca8dfb9b763af9a81973a90d26dbacd1e90c7070803835",
+        "size": [
+          421,
+          226
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/047-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-习题-5-4",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_1132.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_1132.jpg",
+    "sha256": "8e83f7fdb81d4c3fe307438c74c93741dda1827c3a8d2245813c7d8bb257703b",
+    "size": [
+      348,
+      106
+    ],
+    "id": 48,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 107,
+    "bbox_1000": [
+      107,
+      105,
+      317,
+      151
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\f99f89628ca68b3d9052bcb477d9574337d861c8650d0339da7b9a38b2fa3ab4.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-048.png",
+    "source_crop_size": [
+      520,
+      161
+    ],
+    "page_preview": "page-4-107.png",
+    "method": "redrawn",
+    "new": "048.svg",
+    "check": "B在A左侧、x正向右、u箭头向左，未标注未知距离或速度大小。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-习题-5-4",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_1132.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_1132.jpg",
+        "sha256": "8e83f7fdb81d4c3fe307438c74c93741dda1827c3a8d2245813c7d8bb257703b",
+        "size": [
+          348,
+          106
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/048.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-习题-5-5",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_1099.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_1099.jpg",
+    "sha256": "2686e63bb416a4420c9d8a395842b35257b6d81a71ea9825b48625ff4220e355",
+    "size": [
+      376,
+      254
+    ],
+    "id": 49,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 107,
+    "bbox_1000": [
+      675,
+      343,
+      902,
+      451
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\f2059d8401d8bb390800733cbc978662ff9b1b01a19e356c16ebcde7ea850823.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-049.png",
+    "source_crop_size": [
+      562,
+      378
+    ],
+    "page_preview": "page-4-107.png",
+    "method": "native_extraction",
+    "new": "049-extracted.png",
+    "check": "回查原PDF裁图，保留坐标单位、原有点名、传播箭头与波峰/波谷/过零相位；不拟合未给定的周期、振幅或比例，保留复合图全部子图。原生提取不插值放大。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-习题-5-5",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_1099.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_1099.jpg",
+        "sha256": "2686e63bb416a4420c9d8a395842b35257b6d81a71ea9825b48625ff4220e355",
+        "size": [
+          376,
+          254
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/049-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+    "question": "学习指导-第05章-习题-5-6",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/重绘_上册_批01/08-wave-5-6.svg",
+    "path": "10_题库/_assets/重绘_上册_批01/08-wave-5-6.svg",
+    "sha256": "84fd6613e325b583326e7c74ebae485f2b4916d87b860a83a7c2c0f843af7ed8",
+    "size": null,
+    "id": 50,
+    "method": "already_verified_svg",
+    "check": "首批已核验SVG，保持引用。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
+        "question": "学习指导-第05章-习题-5-6",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/重绘_上册_批01/08-wave-5-6.svg",
+        "path": "10_题库/_assets/重绘_上册_批01/08-wave-5-6.svg",
+        "sha256": "84fd6613e325b583326e7c74ebae485f2b4916d87b860a83a7c2c0f843af7ed8",
+        "size": null
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-227",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/c7908efe9f80cafa62637c18453b6cae11b55aacd5f33ce95c30ea3b7a7d8804.jpg",
+    "path": "10_题库/_assets/清华题库/c7908efe9f80cafa62637c18453b6cae11b55aacd5f33ce95c30ea3b7a7d8804.jpg",
+    "sha256": "98510b9a9e1715483845f0eee716c221915d7acf4d7ba0601d1e1842b3ee72d9",
+    "size": [
+      476,
+      295
+    ],
+    "id": 51,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 18,
+    "bbox_1000": [
+      152,
+      523,
+      440,
+      649
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\c7908efe9f80cafa62637c18453b6cae11b55aacd5f33ce95c30ea3b7a7d8804.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-051.png",
+    "source_crop_size": [
+      687,
+      425
+    ],
+    "page_preview": "page-5-018.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-227",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/c7908efe9f80cafa62637c18453b6cae11b55aacd5f33ce95c30ea3b7a7d8804.jpg",
+        "path": "10_题库/_assets/清华题库/c7908efe9f80cafa62637c18453b6cae11b55aacd5f33ce95c30ea3b7a7d8804.jpg",
+        "sha256": "98510b9a9e1715483845f0eee716c221915d7acf4d7ba0601d1e1842b3ee72d9",
+        "size": [
+          476,
+          295
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-227",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/d9223264820e64a29dc4d6639cc637965adb0777c1222bdf04ddabe5863d3041.jpg",
+    "path": "10_题库/_assets/清华题库/d9223264820e64a29dc4d6639cc637965adb0777c1222bdf04ddabe5863d3041.jpg",
+    "sha256": "4a84ad58222eed31883697d2f5884abf633f39d8ecc0532fe0abffc1f5410ce8",
+    "size": [
+      481,
+      309
+    ],
+    "id": 52,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 18,
+    "bbox_1000": [
+      529,
+      521,
+      820,
+      653
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\d9223264820e64a29dc4d6639cc637965adb0777c1222bdf04ddabe5863d3041.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-052.png",
+    "source_crop_size": [
+      694,
+      446
+    ],
+    "page_preview": "page-5-018.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-227",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/d9223264820e64a29dc4d6639cc637965adb0777c1222bdf04ddabe5863d3041.jpg",
+        "path": "10_题库/_assets/清华题库/d9223264820e64a29dc4d6639cc637965adb0777c1222bdf04ddabe5863d3041.jpg",
+        "sha256": "4a84ad58222eed31883697d2f5884abf633f39d8ecc0532fe0abffc1f5410ce8",
+        "size": [
+          481,
+          309
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-227",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/3980dc741bb93b0120ebe89810cf60478a556c78161aafe413aa17d5faaeafb4.jpg",
+    "path": "10_题库/_assets/清华题库/3980dc741bb93b0120ebe89810cf60478a556c78161aafe413aa17d5faaeafb4.jpg",
+    "sha256": "2ec7408c17b643fba15e0d479bfc0c6267dac778f37fa787ece3858f00479da5",
+    "size": [
+      479,
+      301
+    ],
+    "id": 53,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 18,
+    "bbox_1000": [
+      152,
+      659,
+      442,
+      788
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\3980dc741bb93b0120ebe89810cf60478a556c78161aafe413aa17d5faaeafb4.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-053.png",
+    "source_crop_size": [
+      692,
+      435
+    ],
+    "page_preview": "page-5-018.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-227",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/3980dc741bb93b0120ebe89810cf60478a556c78161aafe413aa17d5faaeafb4.jpg",
+        "path": "10_题库/_assets/清华题库/3980dc741bb93b0120ebe89810cf60478a556c78161aafe413aa17d5faaeafb4.jpg",
+        "sha256": "2ec7408c17b643fba15e0d479bfc0c6267dac778f37fa787ece3858f00479da5",
+        "size": [
+          479,
+          301
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-227",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/aae7f27fc8ff070313c1dfeaa27df9b5a2790910e7c1d6cb1919bd1f91b86316.jpg",
+    "path": "10_题库/_assets/清华题库/aae7f27fc8ff070313c1dfeaa27df9b5a2790910e7c1d6cb1919bd1f91b86316.jpg",
+    "sha256": "e417029075d454b51bbfb560224fda751a60eef698da38639f631659ef641689",
+    "size": [
+      479,
+      296
+    ],
+    "id": 54,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 18,
+    "bbox_1000": [
+      532,
+      659,
+      821,
+      785
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\aae7f27fc8ff070313c1dfeaa27df9b5a2790910e7c1d6cb1919bd1f91b86316.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-054.png",
+    "source_crop_size": [
+      689,
+      425
+    ],
+    "page_preview": "page-5-018.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-227",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/aae7f27fc8ff070313c1dfeaa27df9b5a2790910e7c1d6cb1919bd1f91b86316.jpg",
+        "path": "10_题库/_assets/清华题库/aae7f27fc8ff070313c1dfeaa27df9b5a2790910e7c1d6cb1919bd1f91b86316.jpg",
+        "sha256": "e417029075d454b51bbfb560224fda751a60eef698da38639f631659ef641689",
+        "size": [
+          479,
+          296
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-228",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/bb25343191c8e7e59bd70fedb1f908b4e27694cea54edde03dfb1ec2c04150d4.jpg",
+    "path": "10_题库/_assets/清华题库/bb25343191c8e7e59bd70fedb1f908b4e27694cea54edde03dfb1ec2c04150d4.jpg",
+    "sha256": "71345280b56d819e12d858ac466dbc83cda31e2ae84e0baac6869832e7d8caf0",
+    "size": [
+      459,
+      337
+    ],
+    "id": 55,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 19,
+    "bbox_1000": [
+      354,
+      122,
+      631,
+      266
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\bb25343191c8e7e59bd70fedb1f908b4e27694cea54edde03dfb1ec2c04150d4.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-055.png",
+    "source_crop_size": [
+      661,
+      486
+    ],
+    "page_preview": "page-5-019.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-228",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/bb25343191c8e7e59bd70fedb1f908b4e27694cea54edde03dfb1ec2c04150d4.jpg",
+        "path": "10_题库/_assets/清华题库/bb25343191c8e7e59bd70fedb1f908b4e27694cea54edde03dfb1ec2c04150d4.jpg",
+        "sha256": "71345280b56d819e12d858ac466dbc83cda31e2ae84e0baac6869832e7d8caf0",
+        "size": [
+          459,
+          337
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-234",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/308caa748b45bab3988f6e7e6f3f518b5d564e6ce80f84513b977d4973908ba8.jpg",
+    "path": "10_题库/_assets/清华题库/308caa748b45bab3988f6e7e6f3f518b5d564e6ce80f84513b977d4973908ba8.jpg",
+    "sha256": "b7e41a33f4ef7ec7849befb6a055858137782065cc8d186721210b2746fc91bf",
+    "size": [
+      454,
+      340
+    ],
+    "id": 56,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 20,
+    "bbox_1000": [
+      357,
+      193,
+      631,
+      338
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\308caa748b45bab3988f6e7e6f3f518b5d564e6ce80f84513b977d4973908ba8.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-056.png",
+    "source_crop_size": [
+      653,
+      490
+    ],
+    "page_preview": "page-5-020.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-234",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/308caa748b45bab3988f6e7e6f3f518b5d564e6ce80f84513b977d4973908ba8.jpg",
+        "path": "10_题库/_assets/清华题库/308caa748b45bab3988f6e7e6f3f518b5d564e6ce80f84513b977d4973908ba8.jpg",
+        "sha256": "b7e41a33f4ef7ec7849befb6a055858137782065cc8d186721210b2746fc91bf",
+        "size": [
+          454,
+          340
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-235",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/fe4153ae41a20c5ff193ac430a6f83815fc4763331b6b2714ca4c4dfc99cd2ab.jpg",
+    "path": "10_题库/_assets/清华题库/fe4153ae41a20c5ff193ac430a6f83815fc4763331b6b2714ca4c4dfc99cd2ab.jpg",
+    "sha256": "e34b642960f9cb1c092ed13c2373aa4223cfa4db9862754ee95d78737d5fc41a",
+    "size": [
+      443,
+      315
+    ],
+    "id": 57,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 20,
+    "bbox_1000": [
+      364,
+      461,
+      631,
+      595
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\fe4153ae41a20c5ff193ac430a6f83815fc4763331b6b2714ca4c4dfc99cd2ab.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-057.png",
+    "source_crop_size": [
+      637,
+      452
+    ],
+    "page_preview": "page-5-020.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-235",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/fe4153ae41a20c5ff193ac430a6f83815fc4763331b6b2714ca4c4dfc99cd2ab.jpg",
+        "path": "10_题库/_assets/清华题库/fe4153ae41a20c5ff193ac430a6f83815fc4763331b6b2714ca4c4dfc99cd2ab.jpg",
+        "sha256": "e34b642960f9cb1c092ed13c2373aa4223cfa4db9862754ee95d78737d5fc41a",
+        "size": [
+          443,
+          315
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-238",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/17b57bb9acde074164e7920f8d85dcc1e224bf76879b2eda664b6f0e854b0c8d.jpg",
+    "path": "10_题库/_assets/清华题库/17b57bb9acde074164e7920f8d85dcc1e224bf76879b2eda664b6f0e854b0c8d.jpg",
+    "sha256": "977dc6c03c9af8c1b79f32756239c78b20933451643942487c10ca83c70ed40a",
+    "size": [
+      446,
+      312
+    ],
+    "id": 58,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 21,
+    "bbox_1000": [
+      364,
+      218,
+      633,
+      351
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\17b57bb9acde074164e7920f8d85dcc1e224bf76879b2eda664b6f0e854b0c8d.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-058.png",
+    "source_crop_size": [
+      642,
+      449
+    ],
+    "page_preview": "page-5-021.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-238",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/17b57bb9acde074164e7920f8d85dcc1e224bf76879b2eda664b6f0e854b0c8d.jpg",
+        "path": "10_题库/_assets/清华题库/17b57bb9acde074164e7920f8d85dcc1e224bf76879b2eda664b6f0e854b0c8d.jpg",
+        "sha256": "977dc6c03c9af8c1b79f32756239c78b20933451643942487c10ca83c70ed40a",
+        "size": [
+          446,
+          312
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-239",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/d919e7790d5dcaf68ad02285ece31c84353ed8b7733d39e0e3a2da0c686d206d.jpg",
+    "path": "10_题库/_assets/清华题库/d919e7790d5dcaf68ad02285ece31c84353ed8b7733d39e0e3a2da0c686d206d.jpg",
+    "sha256": "d56ba0e7834af653182b0ba12f032cb9576edd83e076d7aa6d35e91c31b6ace9",
+    "size": [
+      315,
+      162
+    ],
+    "id": 59,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 21,
+    "bbox_1000": [
+      403,
+      491,
+      593,
+      560
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\d919e7790d5dcaf68ad02285ece31c84353ed8b7733d39e0e3a2da0c686d206d.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-059.png",
+    "source_crop_size": [
+      454,
+      233
+    ],
+    "page_preview": "page-5-021.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-239",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/d919e7790d5dcaf68ad02285ece31c84353ed8b7733d39e0e3a2da0c686d206d.jpg",
+        "path": "10_题库/_assets/清华题库/d919e7790d5dcaf68ad02285ece31c84353ed8b7733d39e0e3a2da0c686d206d.jpg",
+        "sha256": "d56ba0e7834af653182b0ba12f032cb9576edd83e076d7aa6d35e91c31b6ace9",
+        "size": [
+          315,
+          162
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-240",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/8f0aa7aae9b38cbcbced62fb8335bbd098ac93929bee153a9d0133be4131cf57.jpg",
+    "path": "10_题库/_assets/清华题库/8f0aa7aae9b38cbcbced62fb8335bbd098ac93929bee153a9d0133be4131cf57.jpg",
+    "sha256": "6b8c218f73aab4a7921b82729097628104313c1625d39de301d2226d0e67c7ed",
+    "size": [
+      312,
+      145
+    ],
+    "id": 60,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 21,
+    "bbox_1000": [
+      403,
+      743,
+      591,
+      804
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\8f0aa7aae9b38cbcbced62fb8335bbd098ac93929bee153a9d0133be4131cf57.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-060.png",
+    "source_crop_size": [
+      449,
+      206
+    ],
+    "page_preview": "page-5-021.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-240",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/8f0aa7aae9b38cbcbced62fb8335bbd098ac93929bee153a9d0133be4131cf57.jpg",
+        "path": "10_题库/_assets/清华题库/8f0aa7aae9b38cbcbced62fb8335bbd098ac93929bee153a9d0133be4131cf57.jpg",
+        "sha256": "6b8c218f73aab4a7921b82729097628104313c1625d39de301d2226d0e67c7ed",
+        "size": [
+          312,
+          145
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-241",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/09585fd18e98fc4770956260bee862b0e1e30a123ea8d1d8624c40d2894c0c2c.jpg",
+    "path": "10_题库/_assets/清华题库/09585fd18e98fc4770956260bee862b0e1e30a123ea8d1d8624c40d2894c0c2c.jpg",
+    "sha256": "0a640e690486ffe90639f24062ac1f80b7243a5767d1dc20f2da3d104edcda84",
+    "size": [
+      476,
+      301
+    ],
+    "id": 61,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 22,
+    "bbox_1000": [
+      354,
+      193,
+      642,
+      322
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\09585fd18e98fc4770956260bee862b0e1e30a123ea8d1d8624c40d2894c0c2c.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-061.png",
+    "source_crop_size": [
+      687,
+      436
+    ],
+    "page_preview": "page-5-022.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-241",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/09585fd18e98fc4770956260bee862b0e1e30a123ea8d1d8624c40d2894c0c2c.jpg",
+        "path": "10_题库/_assets/清华题库/09585fd18e98fc4770956260bee862b0e1e30a123ea8d1d8624c40d2894c0c2c.jpg",
+        "sha256": "0a640e690486ffe90639f24062ac1f80b7243a5767d1dc20f2da3d104edcda84",
+        "size": [
+          476,
+          301
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-242",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/16f0c7d3fdd76222b1b932696136008bd4bb8053e861bc01aa0f78eda999b3b0.jpg",
+    "path": "10_题库/_assets/清华题库/16f0c7d3fdd76222b1b932696136008bd4bb8053e861bc01aa0f78eda999b3b0.jpg",
+    "sha256": "dcc7030409ed1b9e6b28191a42affae068762f037cafba2c934fc26fcb435dd7",
+    "size": [
+      418,
+      284
+    ],
+    "id": 62,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 22,
+    "bbox_1000": [
+      366,
+      488,
+      618,
+      609
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\16f0c7d3fdd76222b1b932696136008bd4bb8053e861bc01aa0f78eda999b3b0.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-062.png",
+    "source_crop_size": [
+      601,
+      408
+    ],
+    "page_preview": "page-5-022.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-242",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/16f0c7d3fdd76222b1b932696136008bd4bb8053e861bc01aa0f78eda999b3b0.jpg",
+        "path": "10_题库/_assets/清华题库/16f0c7d3fdd76222b1b932696136008bd4bb8053e861bc01aa0f78eda999b3b0.jpg",
+        "sha256": "dcc7030409ed1b9e6b28191a42affae068762f037cafba2c934fc26fcb435dd7",
+        "size": [
+          418,
+          284
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-243",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/591ebaeacb27cc2af80c7aef45a19556a71471bb67f4f2c96705cb9c850ca492.jpg",
+    "path": "10_题库/_assets/清华题库/591ebaeacb27cc2af80c7aef45a19556a71471bb67f4f2c96705cb9c850ca492.jpg",
+    "sha256": "3264e781f70cbcfed7cd8f2dc73b1da9c973c361dfeba601d10c1d5f21736d29",
+    "size": [
+      421,
+      290
+    ],
+    "id": 63,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 22,
+    "bbox_1000": [
+      364,
+      763,
+      618,
+      887
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\591ebaeacb27cc2af80c7aef45a19556a71471bb67f4f2c96705cb9c850ca492.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-063.png",
+    "source_crop_size": [
+      606,
+      419
+    ],
+    "page_preview": "page-5-022.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-243",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/591ebaeacb27cc2af80c7aef45a19556a71471bb67f4f2c96705cb9c850ca492.jpg",
+        "path": "10_题库/_assets/清华题库/591ebaeacb27cc2af80c7aef45a19556a71471bb67f4f2c96705cb9c850ca492.jpg",
+        "sha256": "3264e781f70cbcfed7cd8f2dc73b1da9c973c361dfeba601d10c1d5f21736d29",
+        "size": [
+          421,
+          290
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-244",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/86f364babae2806b206bb1342e30d7a6458240a6508523af3aadbcd512d7341c.jpg",
+    "path": "10_题库/_assets/清华题库/86f364babae2806b206bb1342e30d7a6458240a6508523af3aadbcd512d7341c.jpg",
+    "sha256": "dab4298e22576caa6de3cc32554987bc6149761dd2dafe0fac97ddcf376e5901",
+    "size": [
+      456,
+      332
+    ],
+    "id": 64,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 23,
+    "bbox_1000": [
+      354,
+      221,
+      630,
+      362
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\86f364babae2806b206bb1342e30d7a6458240a6508523af3aadbcd512d7341c.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-064.png",
+    "source_crop_size": [
+      659,
+      476
+    ],
+    "page_preview": "page-5-023.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-244",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/86f364babae2806b206bb1342e30d7a6458240a6508523af3aadbcd512d7341c.jpg",
+        "path": "10_题库/_assets/清华题库/86f364babae2806b206bb1342e30d7a6458240a6508523af3aadbcd512d7341c.jpg",
+        "sha256": "dab4298e22576caa6de3cc32554987bc6149761dd2dafe0fac97ddcf376e5901",
+        "size": [
+          456,
+          332
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-246",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/58c986dbb53a96fe29cb32588feff7a473c685a425fa4d066c770f9300e401d5.jpg",
+    "path": "10_题库/_assets/清华题库/58c986dbb53a96fe29cb32588feff7a473c685a425fa4d066c770f9300e401d5.jpg",
+    "sha256": "bbe8fd737170d2d5ab379e2f471490492a428e2209ce7d698a00ec99f56f05b1",
+    "size": [
+      459,
+      335
+    ],
+    "id": 65,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 23,
+    "bbox_1000": [
+      354,
+      643,
+      631,
+      785
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\58c986dbb53a96fe29cb32588feff7a473c685a425fa4d066c770f9300e401d5.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-065.png",
+    "source_crop_size": [
+      661,
+      479
+    ],
+    "page_preview": "page-5-023.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-246",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/58c986dbb53a96fe29cb32588feff7a473c685a425fa4d066c770f9300e401d5.jpg",
+        "path": "10_题库/_assets/清华题库/58c986dbb53a96fe29cb32588feff7a473c685a425fa4d066c770f9300e401d5.jpg",
+        "sha256": "bbe8fd737170d2d5ab379e2f471490492a428e2209ce7d698a00ec99f56f05b1",
+        "size": [
+          459,
+          335
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-248",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/c208384e229cd6fb4858df93c8cad654c85ff881bac6548890a477baf58a94a7.jpg",
+    "path": "10_题库/_assets/清华题库/c208384e229cd6fb4858df93c8cad654c85ff881bac6548890a477baf58a94a7.jpg",
+    "sha256": "fdb36c41d0b7b400c5d400ef8af350689b1ea449eaae4e1277daba3a720dd81a",
+    "size": [
+      428,
+      312
+    ],
+    "id": 66,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 24,
+    "bbox_1000": [
+      354,
+      329,
+      613,
+      462
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\c208384e229cd6fb4858df93c8cad654c85ff881bac6548890a477baf58a94a7.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-066.png",
+    "source_crop_size": [
+      618,
+      449
+    ],
+    "page_preview": "page-5-024.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-248",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/c208384e229cd6fb4858df93c8cad654c85ff881bac6548890a477baf58a94a7.jpg",
+        "path": "10_题库/_assets/清华题库/c208384e229cd6fb4858df93c8cad654c85ff881bac6548890a477baf58a94a7.jpg",
+        "sha256": "fdb36c41d0b7b400c5d400ef8af350689b1ea449eaae4e1277daba3a720dd81a",
+        "size": [
+          428,
+          312
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-252",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/f7a447e8f1ecaf87e929b0c5affbb7ca4b1040620926c86ebc3949773e4052cf.jpg",
+    "path": "10_题库/_assets/清华题库/f7a447e8f1ecaf87e929b0c5affbb7ca4b1040620926c86ebc3949773e4052cf.jpg",
+    "sha256": "34bcd70a381a3b264f1b934a8d0bb0105f98b149e0ff09862cc143ddbe7ef957",
+    "size": [
+      446,
+      312
+    ],
+    "id": 67,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 25,
+    "bbox_1000": [
+      364,
+      208,
+      633,
+      341
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\f7a447e8f1ecaf87e929b0c5affbb7ca4b1040620926c86ebc3949773e4052cf.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-067.png",
+    "source_crop_size": [
+      642,
+      449
+    ],
+    "page_preview": "page-5-025.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-252",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/f7a447e8f1ecaf87e929b0c5affbb7ca4b1040620926c86ebc3949773e4052cf.jpg",
+        "path": "10_题库/_assets/清华题库/f7a447e8f1ecaf87e929b0c5affbb7ca4b1040620926c86ebc3949773e4052cf.jpg",
+        "sha256": "34bcd70a381a3b264f1b934a8d0bb0105f98b149e0ff09862cc143ddbe7ef957",
+        "size": [
+          446,
+          312
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-253",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/1f6312d970b85a7b5a8325d7f654775bb41a1a57edb4bc4292a9a7f2fb32ca96.jpg",
+    "path": "10_题库/_assets/清华题库/1f6312d970b85a7b5a8325d7f654775bb41a1a57edb4bc4292a9a7f2fb32ca96.jpg",
+    "sha256": "27b326881c48fad7c807471c813690232b09465b13bdb6e5d9c0d092858b25be",
+    "size": [
+      284,
+      92
+    ],
+    "id": 68,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 25,
+    "bbox_1000": [
+      413,
+      538,
+      584,
+      577
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\1f6312d970b85a7b5a8325d7f654775bb41a1a57edb4bc4292a9a7f2fb32ca96.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-068.png",
+    "source_crop_size": [
+      408,
+      133
+    ],
+    "page_preview": "page-5-025.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-253",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/1f6312d970b85a7b5a8325d7f654775bb41a1a57edb4bc4292a9a7f2fb32ca96.jpg",
+        "path": "10_题库/_assets/清华题库/1f6312d970b85a7b5a8325d7f654775bb41a1a57edb4bc4292a9a7f2fb32ca96.jpg",
+        "sha256": "27b326881c48fad7c807471c813690232b09465b13bdb6e5d9c0d092858b25be",
+        "size": [
+          284,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-254",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/483beb02bf70b78debbea9f12af20bd391e316fc1d2975ec87569a15f755ffa6.jpg",
+    "path": "10_题库/_assets/清华题库/483beb02bf70b78debbea9f12af20bd391e316fc1d2975ec87569a15f755ffa6.jpg",
+    "sha256": "e4cb980174f0bce5e5ce04101dad8aa6f3835342576b8c8bbb41ce03621ea2d3",
+    "size": [
+      284,
+      106
+    ],
+    "id": 69,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 25,
+    "bbox_1000": [
+      413,
+      747,
+      584,
+      793
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\483beb02bf70b78debbea9f12af20bd391e316fc1d2975ec87569a15f755ffa6.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-069.png",
+    "source_crop_size": [
+      408,
+      156
+    ],
+    "page_preview": "page-5-025.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-254",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/483beb02bf70b78debbea9f12af20bd391e316fc1d2975ec87569a15f755ffa6.jpg",
+        "path": "10_题库/_assets/清华题库/483beb02bf70b78debbea9f12af20bd391e316fc1d2975ec87569a15f755ffa6.jpg",
+        "sha256": "e4cb980174f0bce5e5ce04101dad8aa6f3835342576b8c8bbb41ce03621ea2d3",
+        "size": [
+          284,
+          106
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-255",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/e08c80636c16e60c2485424e524c2e94cdac3ff280bab13dcea2ee1637f2f209.jpg",
+    "path": "10_题库/_assets/清华题库/e08c80636c16e60c2485424e524c2e94cdac3ff280bab13dcea2ee1637f2f209.jpg",
+    "sha256": "f49dd7ee1485e32bca97101c3fe9a7839e6701eeb2a8bee458b1f8966dab3d2b",
+    "size": [
+      290,
+      121
+    ],
+    "id": 70,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 26,
+    "bbox_1000": [
+      401,
+      161,
+      576,
+      212
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\e08c80636c16e60c2485424e524c2e94cdac3ff280bab13dcea2ee1637f2f209.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-070.png",
+    "source_crop_size": [
+      418,
+      172
+    ],
+    "page_preview": "page-5-026.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-255",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/e08c80636c16e60c2485424e524c2e94cdac3ff280bab13dcea2ee1637f2f209.jpg",
+        "path": "10_题库/_assets/清华题库/e08c80636c16e60c2485424e524c2e94cdac3ff280bab13dcea2ee1637f2f209.jpg",
+        "sha256": "f49dd7ee1485e32bca97101c3fe9a7839e6701eeb2a8bee458b1f8966dab3d2b",
+        "size": [
+          290,
+          121
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-268",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/1048849325d43f7ad086d4d0213137c4f7571de48b8d2ae1b46e651a6dae5c77.jpg",
+    "path": "10_题库/_assets/清华题库/1048849325d43f7ad086d4d0213137c4f7571de48b8d2ae1b46e651a6dae5c77.jpg",
+    "sha256": "05c8708167556fba48c6ef0db8ea8268e7501411319c5e99cb5e504729d33acb",
+    "size": [
+      265,
+      143
+    ],
+    "id": 71,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 27,
+    "bbox_1000": [
+      416,
+      837,
+      576,
+      897
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\1048849325d43f7ad086d4d0213137c4f7571de48b8d2ae1b46e651a6dae5c77.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-071.png",
+    "source_crop_size": [
+      382,
+      203
+    ],
+    "page_preview": "page-5-027.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-268",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/1048849325d43f7ad086d4d0213137c4f7571de48b8d2ae1b46e651a6dae5c77.jpg",
+        "path": "10_题库/_assets/清华题库/1048849325d43f7ad086d4d0213137c4f7571de48b8d2ae1b46e651a6dae5c77.jpg",
+        "sha256": "05c8708167556fba48c6ef0db8ea8268e7501411319c5e99cb5e504729d33acb",
+        "size": [
+          265,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-269",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/3717c14a3264f1f1542b3e9b1c09060cd954aa74f4e1d821e73c565f3703dcf3.jpg",
+    "path": "10_题库/_assets/清华题库/3717c14a3264f1f1542b3e9b1c09060cd954aa74f4e1d821e73c565f3703dcf3.jpg",
+    "sha256": "f3211d2989531474abb06b190a5ee085d751d1b527fa401b725d209d4e7af3d2",
+    "size": [
+      265,
+      142
+    ],
+    "id": 72,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 28,
+    "bbox_1000": [
+      416,
+      203,
+      576,
+      263
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\3717c14a3264f1f1542b3e9b1c09060cd954aa74f4e1d821e73c565f3703dcf3.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-072.png",
+    "source_crop_size": [
+      382,
+      203
+    ],
+    "page_preview": "page-5-028.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-269",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/3717c14a3264f1f1542b3e9b1c09060cd954aa74f4e1d821e73c565f3703dcf3.jpg",
+        "path": "10_题库/_assets/清华题库/3717c14a3264f1f1542b3e9b1c09060cd954aa74f4e1d821e73c565f3703dcf3.jpg",
+        "sha256": "f3211d2989531474abb06b190a5ee085d751d1b527fa401b725d209d4e7af3d2",
+        "size": [
+          265,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-276",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/52afb226bd8fc47107554ee644fa4d7ada48af3df105fe295ed4fd335eb99a42.jpg",
+    "path": "10_题库/_assets/清华题库/52afb226bd8fc47107554ee644fa4d7ada48af3df105fe295ed4fd335eb99a42.jpg",
+    "sha256": "1203a7dfe79a25906c8e7408457eb3281613aaadad90518a104c46a8ef535601",
+    "size": [
+      421,
+      278
+    ],
+    "id": 73,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      364,
+      149,
+      618,
+      268
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\52afb226bd8fc47107554ee644fa4d7ada48af3df105fe295ed4fd335eb99a42.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-073.png",
+    "source_crop_size": [
+      606,
+      402
+    ],
+    "page_preview": "page-5-029.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-276",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/52afb226bd8fc47107554ee644fa4d7ada48af3df105fe295ed4fd335eb99a42.jpg",
+        "path": "10_题库/_assets/清华题库/52afb226bd8fc47107554ee644fa4d7ada48af3df105fe295ed4fd335eb99a42.jpg",
+        "sha256": "1203a7dfe79a25906c8e7408457eb3281613aaadad90518a104c46a8ef535601",
+        "size": [
+          421,
+          278
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-278",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/5fa93666a56e590b07256045dcf55d844220e6caa2555bb62bed3e38f44deb69.jpg",
+    "path": "10_题库/_assets/清华题库/5fa93666a56e590b07256045dcf55d844220e6caa2555bb62bed3e38f44deb69.jpg",
+    "sha256": "458b23c8ee5193ab298754900cc824aa9598b287583fdd6cb59afaf710c24dd4",
+    "size": [
+      284,
+      118
+    ],
+    "id": 74,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      406,
+      483,
+      578,
+      533
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\5fa93666a56e590b07256045dcf55d844220e6caa2555bb62bed3e38f44deb69.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-074.png",
+    "source_crop_size": [
+      411,
+      169
+    ],
+    "page_preview": "page-5-029.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-278",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/5fa93666a56e590b07256045dcf55d844220e6caa2555bb62bed3e38f44deb69.jpg",
+        "path": "10_题库/_assets/清华题库/5fa93666a56e590b07256045dcf55d844220e6caa2555bb62bed3e38f44deb69.jpg",
+        "sha256": "458b23c8ee5193ab298754900cc824aa9598b287583fdd6cb59afaf710c24dd4",
+        "size": [
+          284,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-279",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/01eedcb4122825ee066f58d74499651aec70e03192fe264a1a7a86b4c7b48cf6.jpg",
+    "path": "10_题库/_assets/清华题库/01eedcb4122825ee066f58d74499651aec70e03192fe264a1a7a86b4c7b48cf6.jpg",
+    "sha256": "04bcb1f8caa8c5acfcaceb61c05ca66fa79d67348774459afb14e73eb2ee6a86",
+    "size": [
+      287,
+      151
+    ],
+    "id": 75,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 29,
+    "bbox_1000": [
+      406,
+      670,
+      579,
+      734
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\01eedcb4122825ee066f58d74499651aec70e03192fe264a1a7a86b4c7b48cf6.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-075.png",
+    "source_crop_size": [
+      413,
+      216
+    ],
+    "page_preview": "page-5-029.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-279",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/01eedcb4122825ee066f58d74499651aec70e03192fe264a1a7a86b4c7b48cf6.jpg",
+        "path": "10_题库/_assets/清华题库/01eedcb4122825ee066f58d74499651aec70e03192fe264a1a7a86b4c7b48cf6.jpg",
+        "sha256": "04bcb1f8caa8c5acfcaceb61c05ca66fa79d67348774459afb14e73eb2ee6a86",
+        "size": [
+          287,
+          151
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-281",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/23cedba5e2815092194a75ce3c716eb1fbfa1df289fe5bf994f72e3de8573fd3.jpg",
+    "path": "10_题库/_assets/清华题库/23cedba5e2815092194a75ce3c716eb1fbfa1df289fe5bf994f72e3de8573fd3.jpg",
+    "sha256": "ab922d7ab1c649d1d161eb5b49f55dbc45a5cb9876611db9331c12d976cf3ec0",
+    "size": [
+      420,
+      296
+    ],
+    "id": 76,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 30,
+    "bbox_1000": [
+      363,
+      167,
+      616,
+      293
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\23cedba5e2815092194a75ce3c716eb1fbfa1df289fe5bf994f72e3de8573fd3.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-076.png",
+    "source_crop_size": [
+      603,
+      425
+    ],
+    "page_preview": "page-5-030.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-281",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/23cedba5e2815092194a75ce3c716eb1fbfa1df289fe5bf994f72e3de8573fd3.jpg",
+        "path": "10_题库/_assets/清华题库/23cedba5e2815092194a75ce3c716eb1fbfa1df289fe5bf994f72e3de8573fd3.jpg",
+        "sha256": "ab922d7ab1c649d1d161eb5b49f55dbc45a5cb9876611db9331c12d976cf3ec0",
+        "size": [
+          420,
+          296
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-283",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/daf1110803c842c3d39bc71c2bb08ee7b9520c4198f1bde9a45f4bbcdfb0fd86.jpg",
+    "path": "10_题库/_assets/清华题库/daf1110803c842c3d39bc71c2bb08ee7b9520c4198f1bde9a45f4bbcdfb0fd86.jpg",
+    "sha256": "380f392a8be4972f89b054728523b659c1b32fc3740d6742c1d1ab267564fa0a",
+    "size": [
+      431,
+      315
+    ],
+    "id": 77,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 30,
+    "bbox_1000": [
+      354,
+      500,
+      615,
+      634
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\daf1110803c842c3d39bc71c2bb08ee7b9520c4198f1bde9a45f4bbcdfb0fd86.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-077.png",
+    "source_crop_size": [
+      623,
+      453
+    ],
+    "page_preview": "page-5-030.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-283",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/daf1110803c842c3d39bc71c2bb08ee7b9520c4198f1bde9a45f4bbcdfb0fd86.jpg",
+        "path": "10_题库/_assets/清华题库/daf1110803c842c3d39bc71c2bb08ee7b9520c4198f1bde9a45f4bbcdfb0fd86.jpg",
+        "sha256": "380f392a8be4972f89b054728523b659c1b32fc3740d6742c1d1ab267564fa0a",
+        "size": [
+          431,
+          315
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-284",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/5591c718705e0cd1298943e870bf0f5d24903f1f6a0528872e1d09d741b664fa.jpg",
+    "path": "10_题库/_assets/清华题库/5591c718705e0cd1298943e870bf0f5d24903f1f6a0528872e1d09d741b664fa.jpg",
+    "sha256": "08ce375c97cfbd3e71852d7767044fd16f2e3b9b3d84351ea7ef41a59c322a85",
+    "size": [
+      445,
+      290
+    ],
+    "id": 78,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 30,
+    "bbox_1000": [
+      361,
+      739,
+      630,
+      863
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\5591c718705e0cd1298943e870bf0f5d24903f1f6a0528872e1d09d741b664fa.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-078.png",
+    "source_crop_size": [
+      642,
+      419
+    ],
+    "page_preview": "page-5-030.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-284",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/5591c718705e0cd1298943e870bf0f5d24903f1f6a0528872e1d09d741b664fa.jpg",
+        "path": "10_题库/_assets/清华题库/5591c718705e0cd1298943e870bf0f5d24903f1f6a0528872e1d09d741b664fa.jpg",
+        "sha256": "08ce375c97cfbd3e71852d7767044fd16f2e3b9b3d84351ea7ef41a59c322a85",
+        "size": [
+          445,
+          290
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-286",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/cc5358d0c6ac8e1f6ee76980392685e07de5e80f64fcbe31c6b071f979dbdcc4.jpg",
+    "path": "10_题库/_assets/清华题库/cc5358d0c6ac8e1f6ee76980392685e07de5e80f64fcbe31c6b071f979dbdcc4.jpg",
+    "sha256": "5634a8fcc84a43dd5825d7ce6934aa235f58cabde9309916e3087c42c025839a",
+    "size": [
+      287,
+      145
+    ],
+    "id": 79,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 31,
+    "bbox_1000": [
+      406,
+      282,
+      579,
+      344
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\cc5358d0c6ac8e1f6ee76980392685e07de5e80f64fcbe31c6b071f979dbdcc4.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-079.png",
+    "source_crop_size": [
+      413,
+      210
+    ],
+    "page_preview": "page-5-031.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-286",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/cc5358d0c6ac8e1f6ee76980392685e07de5e80f64fcbe31c6b071f979dbdcc4.jpg",
+        "path": "10_题库/_assets/清华题库/cc5358d0c6ac8e1f6ee76980392685e07de5e80f64fcbe31c6b071f979dbdcc4.jpg",
+        "sha256": "5634a8fcc84a43dd5825d7ce6934aa235f58cabde9309916e3087c42c025839a",
+        "size": [
+          287,
+          145
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-300",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/49459ebc40cc63a8443c4b9ad8564e116aa20a7630ec32930bc6a485f0707c29.jpg",
+    "path": "10_题库/_assets/清华题库/49459ebc40cc63a8443c4b9ad8564e116aa20a7630ec32930bc6a485f0707c29.jpg",
+    "sha256": "eb85a3be1dbfc722f0cd45a2df249e293c97c020f01ed65322c8c9dcfe58ac9f",
+    "size": [
+      421,
+      273
+    ],
+    "id": 80,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 33,
+    "bbox_1000": [
+      364,
+      563,
+      618,
+      680
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\49459ebc40cc63a8443c4b9ad8564e116aa20a7630ec32930bc6a485f0707c29.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-080.png",
+    "source_crop_size": [
+      606,
+      395
+    ],
+    "page_preview": "page-5-033.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-300",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/49459ebc40cc63a8443c4b9ad8564e116aa20a7630ec32930bc6a485f0707c29.jpg",
+        "path": "10_题库/_assets/清华题库/49459ebc40cc63a8443c4b9ad8564e116aa20a7630ec32930bc6a485f0707c29.jpg",
+        "sha256": "eb85a3be1dbfc722f0cd45a2df249e293c97c020f01ed65322c8c9dcfe58ac9f",
+        "size": [
+          421,
+          273
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-301",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/004c0a93780e82f4bdb05627711a49db06f91eb65ec703477322f7b788945f62.jpg",
+    "path": "10_题库/_assets/清华题库/004c0a93780e82f4bdb05627711a49db06f91eb65ec703477322f7b788945f62.jpg",
+    "sha256": "e68476514393d3815f66bf124c3f3181b72d349302c6ff9577cd381746ac473d",
+    "size": [
+      421,
+      254
+    ],
+    "id": 81,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 33,
+    "bbox_1000": [
+      364,
+      784,
+      618,
+      892
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\004c0a93780e82f4bdb05627711a49db06f91eb65ec703477322f7b788945f62.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-081.png",
+    "source_crop_size": [
+      606,
+      364
+    ],
+    "page_preview": "page-5-033.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-301",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/004c0a93780e82f4bdb05627711a49db06f91eb65ec703477322f7b788945f62.jpg",
+        "path": "10_题库/_assets/清华题库/004c0a93780e82f4bdb05627711a49db06f91eb65ec703477322f7b788945f62.jpg",
+        "sha256": "e68476514393d3815f66bf124c3f3181b72d349302c6ff9577cd381746ac473d",
+        "size": [
+          421,
+          254
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-303",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/1b6883b7cc0d1fd48928aa353dea9b41088b04b2b90438eef066bb3e92f6f039.jpg",
+    "path": "10_题库/_assets/清华题库/1b6883b7cc0d1fd48928aa353dea9b41088b04b2b90438eef066bb3e92f6f039.jpg",
+    "sha256": "576c0b9c65b3c5c1848b1cee5ef12ba55fefc8a898404036a4256374e1ce3b89",
+    "size": [
+      428,
+      318
+    ],
+    "id": 82,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 34,
+    "bbox_1000": [
+      354,
+      265,
+      613,
+      400
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\1b6883b7cc0d1fd48928aa353dea9b41088b04b2b90438eef066bb3e92f6f039.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-082.png",
+    "source_crop_size": [
+      618,
+      456
+    ],
+    "page_preview": "page-5-034.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-303",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/1b6883b7cc0d1fd48928aa353dea9b41088b04b2b90438eef066bb3e92f6f039.jpg",
+        "path": "10_题库/_assets/清华题库/1b6883b7cc0d1fd48928aa353dea9b41088b04b2b90438eef066bb3e92f6f039.jpg",
+        "sha256": "576c0b9c65b3c5c1848b1cee5ef12ba55fefc8a898404036a4256374e1ce3b89",
+        "size": [
+          428,
+          318
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-305",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/fdd5cca8bc90a1b56218798ba2d421d64adc2fc8bd64ae2d277514cfab3aef72.jpg",
+    "path": "10_题库/_assets/清华题库/fdd5cca8bc90a1b56218798ba2d421d64adc2fc8bd64ae2d277514cfab3aef72.jpg",
+    "sha256": "9cabc709c97fe1aeda5cfa78deaec48903cd4101f54ef4d12ee167007ffce09b",
+    "size": [
+      446,
+      304
+    ],
+    "id": 83,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 34,
+    "bbox_1000": [
+      364,
+      612,
+      633,
+      741
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\fdd5cca8bc90a1b56218798ba2d421d64adc2fc8bd64ae2d277514cfab3aef72.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-083.png",
+    "source_crop_size": [
+      642,
+      436
+    ],
+    "page_preview": "page-5-034.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-305",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/fdd5cca8bc90a1b56218798ba2d421d64adc2fc8bd64ae2d277514cfab3aef72.jpg",
+        "path": "10_题库/_assets/清华题库/fdd5cca8bc90a1b56218798ba2d421d64adc2fc8bd64ae2d277514cfab3aef72.jpg",
+        "sha256": "9cabc709c97fe1aeda5cfa78deaec48903cd4101f54ef4d12ee167007ffce09b",
+        "size": [
+          446,
+          304
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-306",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/1fd8b091b4a0f995ab530b73a6262281fc2e247d1be2345bb663502337330a63.jpg",
+    "path": "10_题库/_assets/清华题库/1fd8b091b4a0f995ab530b73a6262281fc2e247d1be2345bb663502337330a63.jpg",
+    "sha256": "7ceee9a68958e4d8dd4846f4891b43b2971b96db4845d6cccf443218a5626fb0",
+    "size": [
+      268,
+      137
+    ],
+    "id": 84,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 35,
+    "bbox_1000": [
+      416,
+      117,
+      578,
+      175
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\1fd8b091b4a0f995ab530b73a6262281fc2e247d1be2345bb663502337330a63.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-084.png",
+    "source_crop_size": [
+      387,
+      196
+    ],
+    "page_preview": "page-5-035.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-306",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/1fd8b091b4a0f995ab530b73a6262281fc2e247d1be2345bb663502337330a63.jpg",
+        "path": "10_题库/_assets/清华题库/1fd8b091b4a0f995ab530b73a6262281fc2e247d1be2345bb663502337330a63.jpg",
+        "sha256": "7ceee9a68958e4d8dd4846f4891b43b2971b96db4845d6cccf443218a5626fb0",
+        "size": [
+          268,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+    "question": "清华题库-波动-308",
+    "chapter": "05",
+    "target": "物理/10_题库/_assets/清华题库/16a23ab8d2d2fc6ba46f1e6fcc1ee143081d74aa554421d8cc9b98351e0bd4e2.jpg",
+    "path": "10_题库/_assets/清华题库/16a23ab8d2d2fc6ba46f1e6fcc1ee143081d74aa554421d8cc9b98351e0bd4e2.jpg",
+    "sha256": "38b67f1ac0daa0120436b120f69970160149d4b1c0759431d4c0ba6a50c8be86",
+    "size": [
+      273,
+      215
+    ],
+    "id": 85,
+    "source_pdf": "90_缓存\\清华题库章节拆分\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "pdf_page": 35,
+    "bbox_1000": [
+      415,
+      413,
+      579,
+      505
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\00cca336-a393-4eca-9305-e8962fad0be3_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\清华题库_相对论_机械振动_机械波_光学_题目页p031-p083\\results\\p0001-0053\\extracted\\images\\16a23ab8d2d2fc6ba46f1e6fcc1ee143081d74aa554421d8cc9b98351e0bd4e2.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-085.png",
+    "source_crop_size": [
+      391,
+      311
+    ],
+    "page_preview": "page-5-035.png",
+    "method": "retained_clear",
+    "check": "清华题库原图的点名、坐标、箭头和投影可辨；无需转换，黑白仍有几何/线形区分。",
+    "references": [
+      {
+        "document": "10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
+        "question": "清华题库-波动-308",
+        "chapter": "05",
+        "target": "物理/10_题库/_assets/清华题库/16a23ab8d2d2fc6ba46f1e6fcc1ee143081d74aa554421d8cc9b98351e0bd4e2.jpg",
+        "path": "10_题库/_assets/清华题库/16a23ab8d2d2fc6ba46f1e6fcc1ee143081d74aa554421d8cc9b98351e0bd4e2.jpg",
+        "sha256": "38b67f1ac0daa0120436b120f69970160149d4b1c0759431d4c0ba6a50c8be86",
+        "size": [
+          273,
+          215
+        ]
+      }
+    ]
+  },
+  {
+    "document": "大学物理习题册（上）/19_习题十九 波动（一）.md",
+    "question": "2",
+    "chapter": "05",
+    "target": "_assets/19_习题十九 波动（一）/图1_2.png|220",
+    "path": "大学物理习题册（上）/_assets/19_习题十九 波动（一）/图1_2.png",
+    "sha256": "b4293ff8daac94df4bbcb6076c5a6c116d5cc3c6b4f5d6adfdbc02a69733692a",
+    "size": [
+      1050,
+      276
+    ],
+    "id": 86,
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/19_习题十九 波动（一）.md",
+        "question": "2",
+        "chapter": "05",
+        "target": "_assets/19_习题十九 波动（一）/图1_2.png|220",
+        "path": "大学物理习题册（上）/_assets/19_习题十九 波动（一）/图1_2.png",
+        "sha256": "b4293ff8daac94df4bbcb6076c5a6c116d5cc3c6b4f5d6adfdbc02a69733692a",
+        "size": [
+          1050,
+          276
+        ]
+      }
+    ]
+  },
+  {
+    "document": "大学物理习题册（上）/19_习题十九 波动（一）.md",
+    "question": "4",
+    "chapter": "05",
+    "target": "_assets/19_习题十九 波动（一）/图4.png|220",
+    "path": "大学物理习题册（上）/_assets/19_习题十九 波动（一）/图4.png",
+    "sha256": "349541dd0d0af35daedd6b59ab4d71fe51af1fb7d8bb49fc1fecbcd8e1729c01",
+    "size": [
+      628,
+      399
+    ],
+    "id": 87,
+    "method": "reuse_extraction",
+    "new": "004-extracted.png",
+    "check": "与同一习题册对应题004核对；保留题号及原文，复用其原PDF裁图。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/19_习题十九 波动（一）.md",
+        "question": "4",
+        "chapter": "05",
+        "target": "_assets/19_习题十九 波动（一）/图4.png|220",
+        "path": "大学物理习题册（上）/_assets/19_习题十九 波动（一）/图4.png",
+        "sha256": "349541dd0d0af35daedd6b59ab4d71fe51af1fb7d8bb49fc1fecbcd8e1729c01",
+        "size": [
+          628,
+          399
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/004-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/19_习题十九 波动（一）.md",
+    "question": "5",
+    "chapter": "05",
+    "target": "_assets/19_习题十九 波动（一）/图5.png|220",
+    "path": "大学物理习题册（上）/_assets/19_习题十九 波动（一）/图5.png",
+    "sha256": "04cd4f8b66145f02d2300e3af99b78cb5c1527434f3b4604ec7f06945a5b60bb",
+    "size": [
+      506,
+      247
+    ],
+    "id": 88,
+    "method": "reuse_extraction",
+    "new": "003-extracted.png",
+    "check": "与同一习题册对应题003核对；保留题号及原文，复用其原PDF裁图。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/19_习题十九 波动（一）.md",
+        "question": "5",
+        "chapter": "05",
+        "target": "_assets/19_习题十九 波动（一）/图5.png|220",
+        "path": "大学物理习题册（上）/_assets/19_习题十九 波动（一）/图5.png",
+        "sha256": "04cd4f8b66145f02d2300e3af99b78cb5c1527434f3b4604ec7f06945a5b60bb",
+        "size": [
+          506,
+          247
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/003-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/19_习题十九 波动（一）.md",
+    "question": "6",
+    "chapter": "05",
+    "target": "_assets/19_习题十九 波动（一）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/19_习题十九 波动（一）/图6.png",
+    "sha256": "10ee4a854a8fcb242159864f2bf895f202621d96b028ba050aa71bd2d2a08760",
+    "size": [
+      593,
+      273
+    ],
+    "id": 89,
+    "method": "reuse_extraction",
+    "new": "005-extracted.png",
+    "check": "与同一习题册对应题005核对；保留题号及原文，复用其原PDF裁图。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/19_习题十九 波动（一）.md",
+        "question": "6",
+        "chapter": "05",
+        "target": "_assets/19_习题十九 波动（一）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/19_习题十九 波动（一）/图6.png",
+        "sha256": "10ee4a854a8fcb242159864f2bf895f202621d96b028ba050aa71bd2d2a08760",
+        "size": [
+          593,
+          273
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/005-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/20_习题二十 波动（二）.md",
+    "question": "5",
+    "chapter": "05",
+    "target": "_assets/20_习题二十 波动（二）/图5.png|220",
+    "path": "大学物理习题册（上）/_assets/20_习题二十 波动（二）/图5.png",
+    "sha256": "91b3068d1421a501ee45703af6c13fc5e0f120510d22a2f5f7ceaaf9bd995ec8",
+    "size": [
+      641,
+      267
+    ],
+    "id": 90,
+    "method": "reuse_extraction",
+    "new": "006-extracted.png",
+    "check": "与同一习题册对应题006核对；保留题号及原文，复用其原PDF裁图。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/20_习题二十 波动（二）.md",
+        "question": "5",
+        "chapter": "05",
+        "target": "_assets/20_习题二十 波动（二）/图5.png|220",
+        "path": "大学物理习题册（上）/_assets/20_习题二十 波动（二）/图5.png",
+        "sha256": "91b3068d1421a501ee45703af6c13fc5e0f120510d22a2f5f7ceaaf9bd995ec8",
+        "size": [
+          641,
+          267
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/006-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/20_习题二十 波动（二）.md",
+    "question": "6",
+    "chapter": "05",
+    "target": "_assets/20_习题二十 波动（二）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/20_习题二十 波动（二）/图6.png",
+    "sha256": "56d1f40ae558b3982363f965643c90e13018c6f2a51a4a6366e46b196985befa",
+    "size": [
+      590,
+      234
+    ],
+    "id": 91,
+    "method": "reuse_extraction",
+    "new": "007-extracted.png",
+    "check": "与同一习题册对应题007核对；保留题号及原文，复用其原PDF裁图。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/20_习题二十 波动（二）.md",
+        "question": "6",
+        "chapter": "05",
+        "target": "_assets/20_习题二十 波动（二）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/20_习题二十 波动（二）/图6.png",
+        "sha256": "56d1f40ae558b3982363f965643c90e13018c6f2a51a4a6366e46b196985befa",
+        "size": [
+          590,
+          234
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/007-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/21_习题二一 波动（三）.md",
+    "question": "1",
+    "chapter": "05",
+    "target": "_assets/21_习题二一 波动（三）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/21_习题二一 波动（三）/图1.png",
+    "sha256": "00dcef48a4d6a5ad596703efa503183db61091898ff16dd7011ee262628ef896",
+    "size": [
+      650,
+      450
+    ],
+    "id": 92,
+    "method": "retained_uncertain",
+    "check": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/21_习题二一 波动（三）.md",
+        "question": "1",
+        "chapter": "05",
+        "target": "_assets/21_习题二一 波动（三）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/21_习题二一 波动（三）/图1.png",
+        "sha256": "00dcef48a4d6a5ad596703efa503183db61091898ff16dd7011ee262628ef896",
+        "size": [
+          650,
+          450
+        ]
+      }
+    ]
+  },
+  {
+    "document": "大学物理习题册（上）/21_习题二一 波动（三）.md",
+    "question": "6",
+    "chapter": "05",
+    "target": "_assets/21_习题二一 波动（三）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/21_习题二一 波动（三）/图6.png",
+    "sha256": "7e4b380e029d0e1542bf694ebe63510b37fa1102f4ac9870cd618fae65cc99d3",
+    "size": [
+      1025,
+      625
+    ],
+    "id": 93,
+    "method": "reuse_extraction",
+    "new": "009-extracted.png",
+    "check": "与同一习题册对应题009核对；保留题号及原文，复用其原PDF裁图。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/21_习题二一 波动（三）.md",
+        "question": "6",
+        "chapter": "05",
+        "target": "_assets/21_习题二一 波动（三）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/21_习题二一 波动（三）/图6.png",
+        "sha256": "7e4b380e029d0e1542bf694ebe63510b37fa1102f4ac9870cd618fae65cc99d3",
+        "size": [
+          1025,
+          625
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/009-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/22_习题二二 波动（四）.md",
+    "question": "1",
+    "chapter": "05",
+    "target": "_assets/22_习题二二 波动（四）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/22_习题二二 波动（四）/图1.png",
+    "sha256": "a015e8e2ff2ccb155489ddab0336998f8723f8f3f28d21dde4237da484719d73",
+    "size": [
+      521,
+      304
+    ],
+    "id": 94,
+    "method": "reuse_extraction",
+    "new": "010-extracted.png",
+    "check": "与同一习题册对应题010核对；保留题号及原文，复用其原PDF裁图。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/22_习题二二 波动（四）.md",
+        "question": "1",
+        "chapter": "05",
+        "target": "_assets/22_习题二二 波动（四）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/22_习题二二 波动（四）/图1.png",
+        "sha256": "a015e8e2ff2ccb155489ddab0336998f8723f8f3f28d21dde4237da484719d73",
+        "size": [
+          521,
+          304
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/05_波动/010-extracted.png"
+  }
+]

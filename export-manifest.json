@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 151408,
-    "sha256": "a565b7f3e6f4b614408e13b1bf2683b9daf6189dfcc88302771b6333f2c18ca6"
+    "bytes": 163702,
+    "sha256": "c5895827d0d4b85836bdb5777cce38aea7033fc30ee50903f8bc72b0589dc680"
   },
   {
     "path": "tools/verify_share.py",
@@ -2515,6 +2515,226 @@
     "sha256": "cc1ad7ce74fd7b23119eadb9a576abcdcb3eba5e72fbd431a6e3afc603941aa8"
   },
   {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/001-extracted.png",
+    "bytes": 26751,
+    "sha256": "5558c057f26d2ef23218f882fe04941538c692ab1ad1fa7a36d37079259a9e6c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/002-extracted.png",
+    "bytes": 22513,
+    "sha256": "e0ede4867e524cd785a5e94f234dac398a1a79f0359805cd527c79da83eddda6"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/003-extracted.png",
+    "bytes": 24953,
+    "sha256": "a8820b210ffd92c2eb073ca96e3bab942d5689d23eaa7f8811f6c3fa0e786dd6"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/004-extracted.png",
+    "bytes": 32999,
+    "sha256": "95eb63d63e1d5e2e370d95d1023a32d73a78d8cc91796c6ef2a604c34fcce600"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/005-extracted.png",
+    "bytes": 28525,
+    "sha256": "4950345083c23b04f55d5e79ec7324e59acd68fb344358d2a214a50242f51ecc"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/006-extracted.png",
+    "bytes": 49002,
+    "sha256": "1b8f8f0a35893bc743cc4916a43062b82907fc1a07c107e239a3fc417967bc8b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/007-extracted.png",
+    "bytes": 10544,
+    "sha256": "a569558128318450764932b16358ff2721f326c414aa13649e15bbf159ecc199"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/008-extracted.png",
+    "bytes": 14040,
+    "sha256": "158445409808e7598c13d0aaca814e00bf5a4e138773862dea97735099c5361f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/009-extracted.png",
+    "bytes": 16570,
+    "sha256": "2fa53a1bdab1d26d4d06fd229b1e789bd7f089bd3313336c17902fa41296c0a8"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/010-extracted.png",
+    "bytes": 30870,
+    "sha256": "503084728c128f85bf4b3086d47d68dc2b750e7ae503930b782de0df98dc5731"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/012.png",
+    "bytes": 9827,
+    "sha256": "25241c0eab66ff1880107f92b2e321046b1faa6cb1f3bdcb143740e073fca622"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/012.svg",
+    "bytes": 5764,
+    "sha256": "8268a5b697053cf1e95a248058aa55dacfd701a72ee728145859cad4507cac0f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/013-extracted.png",
+    "bytes": 78551,
+    "sha256": "a568a6657a72f96e90bc9e64100373dcceb97db263b9dec756b692384ec1bc8c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/014-extracted.png",
+    "bytes": 77464,
+    "sha256": "f42f7ca02cd5c631c2db43ac9967bab4c86ab41307543da12131e8e3e027db73"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/015-extracted.png",
+    "bytes": 56189,
+    "sha256": "07fb9170e09164ee6da7d3cb2097d3fe96c4a2f0b82e0d894705bdf91adb4325"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/016-extracted.png",
+    "bytes": 214957,
+    "sha256": "070d464d30f1bd606e060eb10b31ff3549393777692f5af2b567a5102209a983"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/017-extracted.png",
+    "bytes": 42705,
+    "sha256": "39d8fcdaa5d0a09fa24bd997b7f1f508d22ffcbde40056da8bb0585e2ef9e630"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/018-extracted.png",
+    "bytes": 38922,
+    "sha256": "61e1a74d9e4d616465b8332c2faa99ebc968e92d7a8ae9c6057823091b2cfcf5"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/019-extracted.png",
+    "bytes": 112869,
+    "sha256": "98670b34d652db57de99c49c3054c150940b078376c75df3dc836cd2c418dd5b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/020-extracted.png",
+    "bytes": 36797,
+    "sha256": "0dca5cae7006d1d397e321507acc88000b0335bbd9f5098e46711259fab264b6"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/027-extracted.png",
+    "bytes": 44680,
+    "sha256": "29bf955a2b5ce1d52bdb8af8f8b9a264213dfee3f6a690215f1cfc284f65d695"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/028-extracted.png",
+    "bytes": 102562,
+    "sha256": "026b91b498ed17d54a0ff2bfaa4a0d276b1de9e4521a685de500a34f55434469"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/029.png",
+    "bytes": 46167,
+    "sha256": "fcae1c29069552799a6d8ad9cf2c3db012ce5cf524d1363c03122339b2e944eb"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/029.svg",
+    "bytes": 10853,
+    "sha256": "5b533f3fe70c89a5c431c02a26ccb95600d744193f24424eec44576caaddb0e8"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/030.png",
+    "bytes": 26491,
+    "sha256": "edaf63da483062e7501a6719f9160b794e71fd4476d7e1fc9f1a533b750a20cc"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/030.svg",
+    "bytes": 7330,
+    "sha256": "f6f0fb21db00c685cab1e0935e64d05aba99b3f887efe860b857f1ca96474120"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/031-extracted.png",
+    "bytes": 43823,
+    "sha256": "61d8ccf6ea47eddd3e411afaecaaa18fb4a41427c4459a24077704af3d3dcedc"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/032-extracted.png",
+    "bytes": 51784,
+    "sha256": "e12029e524cc77955d207ded0263dad4e162f77d8c7172875b1809c351aed33b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/033.png",
+    "bytes": 9827,
+    "sha256": "25241c0eab66ff1880107f92b2e321046b1faa6cb1f3bdcb143740e073fca622"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/033.svg",
+    "bytes": 5764,
+    "sha256": "8268a5b697053cf1e95a248058aa55dacfd701a72ee728145859cad4507cac0f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/037-extracted.png",
+    "bytes": 85633,
+    "sha256": "7fe8fab290b346d1ebb81e7a8c619d23703df4eeef601b376339e82c190c0471"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/038-extracted.png",
+    "bytes": 70099,
+    "sha256": "f3294d565f18d767b6e1fb1c51f538dae3662b8f7be698efb24941ba8ff16e1b"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/039-extracted.png",
+    "bytes": 90952,
+    "sha256": "318c0dcd1e33efdbf1eed68c38fc1a1e6c71395cb114411c6621e1e9f13ed552"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/040-extracted.png",
+    "bytes": 40613,
+    "sha256": "7e985a24fd5c64cccfc901f1f2d66036659f5501b7ace53751070346e8d2caaa"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/041-extracted.png",
+    "bytes": 73970,
+    "sha256": "739d10bcf3a82b85bbffa163b4c26816d78670278c626fad8127928de3aadf3d"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/044-extracted.png",
+    "bytes": 63837,
+    "sha256": "b5e2d6f4e16afa647bdfeb2bec2096e07bd5e34c349d9692eb150f4d6fc58eb7"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/046-extracted.png",
+    "bytes": 53904,
+    "sha256": "5e55c6c82b56a9ab9bd690b5071391fe5ea7d7dc09457d6c6dba458ff02366fa"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/047-extracted.png",
+    "bytes": 59478,
+    "sha256": "213769e89cc1c3f0224c34f288cc6284c93567646bd8e90c7c6ec5c233f24d65"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/048.png",
+    "bytes": 9827,
+    "sha256": "25241c0eab66ff1880107f92b2e321046b1faa6cb1f3bdcb143740e073fca622"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/048.svg",
+    "bytes": 5764,
+    "sha256": "8268a5b697053cf1e95a248058aa55dacfd701a72ee728145859cad4507cac0f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/049-extracted.png",
+    "bytes": 51840,
+    "sha256": "abf4adef9a9cea26cb925866d1c1e4a6d778aaef7ffed04b44f4bdb854aeeab1"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/extract_from_pdf.py",
+    "bytes": 1378,
+    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/generate.py",
+    "bytes": 1691,
+    "sha256": "f45959f0272f90f823ceafd5ef76bb5f271699a832caf40c8e1b127a0e373ae4"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/05_波动/mapping.json",
+    "bytes": 190435,
+    "sha256": "586bb0e86a4d9c4c4f158809284e12c741270dfef456963c9ca010f1ecb46aeb"
+  },
+  {
     "path": "物理/10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
     "bytes": 10165,
     "sha256": "3af9b8c8227990fea3d54357ad9c07f1694fbce566a4d816bdd9766cd2037fe6"
@@ -4736,23 +4956,23 @@
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
-    "bytes": 3729,
-    "sha256": "907ad91fc4183f9471bdb841f79b72d4014075beece7e329a601550c6384d657"
+    "bytes": 3539,
+    "sha256": "3b1ce767e0377b1474ad10b7e3327b23fa5f3f433f8713c1a633991dc720b4d0"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_20_波动（二）_题面整理.md",
-    "bytes": 3484,
-    "sha256": "de28de9fdda8250a9a5074356277915e88a69b26219993fc70e69d4decedf8ba"
+    "bytes": 3408,
+    "sha256": "7c207899310f880ae06f27cf3ff8b303f39a145573d37e60badc8e656c11f8f3"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_21_波动（三）_题面整理.md",
-    "bytes": 4054,
-    "sha256": "3f098f657d5308f53a127d14e177b37e335f6632e78d9502aa99b92a5f59c45e"
+    "bytes": 3978,
+    "sha256": "642378b6de3aaed8c375ab1566736cfffedc9136c93b87624a6540b3353d16b0"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_22_波动（四）_题面整理.md",
-    "bytes": 3166,
-    "sha256": "b51dbe72c2e13560fe8d8e158abb17dbd81e379ebc5ce284fff7e3ff886b963f"
+    "bytes": 3128,
+    "sha256": "ab1b48a0edfa078df84f360083aa87551c3bf6f057df0730b149a6c8af73e5ba"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_23_光的偏振（一）_题面整理.md",
@@ -4841,38 +5061,38 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/2016-2017学年大学物理I期末题面整理.md",
-    "bytes": 13721,
-    "sha256": "df9bede5666bc1a6107a7336f8adbdb816dee8dc071490b96653ba278d597b5d"
+    "bytes": 13654,
+    "sha256": "cd1343b0fcb6a180221873e7e19375012d335d41db71fba3728b7576135ef556"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2018-2019学年大学物理I期末题面整理.md",
-    "bytes": 10493,
-    "sha256": "103cf4b35ea3a62570da01a23477b26b1fd350615f62d5c3f28bb2fe6b8f1b39"
+    "bytes": 10379,
+    "sha256": "97f4ea3e2b59872341d67364f951d2c2273ae33d41827805a4fe9c4d9da99509"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
-    "bytes": 13287,
-    "sha256": "2e04d543d4101ec93665bd3a7839446fd1ca411591b30ddabac92a303db012b2"
+    "bytes": 13173,
+    "sha256": "9c9597c6120f8ddd96ec44b11023d57a600e071bf9ef74876d73ac1e4ba4dbd1"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
-    "bytes": 12637,
-    "sha256": "9e4819223f27dd8482e9421c24be0b4296f015df0263dec999cca64f2936a3f4"
+    "bytes": 12466,
+    "sha256": "79a53d051731fec24c6a9af52da661ed38a4823a4b5032021e1f80782c2a2ce8"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
-    "bytes": 14667,
-    "sha256": "d67cc7e0ad3a1ed71bcba8b09e9958a70493a739f83211fdb9ba531c200a9b5e"
+    "bytes": 14610,
+    "sha256": "5b13f1e823b4b66a851073b7b6db9fd1acf6128f138321a5f9b99a9ce6826177"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
-    "bytes": 16465,
-    "sha256": "03b96118e909d187726ffcf538b4d1e3b67be2a3dab4405b94630a10cb1212e2"
+    "bytes": 16284,
+    "sha256": "8dfe349c8e0c628860675c9b776470bd08e70db1235e47c99e25a07c026673bd"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
-    "bytes": 13363,
-    "sha256": "0e3a5f7777448f270e9548a2d561166a477d4e1c268b3dd012228ee5bdd09b44"
+    "bytes": 13143,
+    "sha256": "425c9552944a8bbb4f2a0950c58b80175d0f43b7e06d5e186a288c6cb80563df"
   },
   {
     "path": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
@@ -4906,8 +5126,8 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
-    "bytes": 33202,
-    "sha256": "dd6a6b3069632c76d0c628e0fa4fc25e9e4e3823f17086fdd3a0d58b942beb08"
+    "bytes": 33278,
+    "sha256": "8005f272a190ce16098a1e18de0bf0cbd248caaeff9931295221d20777b07bf9"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
@@ -6443,6 +6663,466 @@
     "path": "物理/40_派生视图/大物上/上册逐章/04_振动/validation.json",
     "bytes": 9259,
     "sha256": "1621250f4b46c3689bfb352db80d9317eca71a57f759a9f5aec95240454ed9ef"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/README.md",
+    "bytes": 52307,
+    "sha256": "ceb6271fb7424bf464cbefaa92da54d19776c46cb5daf93e5b65836fd8005e9b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-01.png",
+    "bytes": 440752,
+    "sha256": "9d065d3fc9d0cdace049fd055aaf77704471140e8666737f755c3754f587f311"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-02.png",
+    "bytes": 672520,
+    "sha256": "153bf74720c616e42c555cd2dccc165fc454d7d64ab9c2cb2591070824491e1f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-03.png",
+    "bytes": 589430,
+    "sha256": "bf6cc64e094f4616245160a05548e1b7d54084bbac95b8e13e97d70bbb244a28"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-04.png",
+    "bytes": 555210,
+    "sha256": "794236ef910d8288b95e4a475b0c64477b481075693f627bd2695957b199a807"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-05.png",
+    "bytes": 426750,
+    "sha256": "d949f303d90382cbf4236a319856f218202c947d0158e79de1e809600c6a0a83"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-06.png",
+    "bytes": 93214,
+    "sha256": "15a6cfd32503ef87dc90fe6f2a3631e792d01a83b5f3dca2d07778059351e095"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/reading-320px.png",
+    "bytes": 734446,
+    "sha256": "b016c493c274dd2a20b0eac57d8f8e38b63e2346c5277e9e0c9fea8d8920343a"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/reading-part-1.png",
+    "bytes": 261101,
+    "sha256": "ca6cf1c773dc69c18cdcd793b2ae09c7648f34eb1bc38b28a63a73759024274f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/reading-part-2.png",
+    "bytes": 328877,
+    "sha256": "8673a3c9138aa471c378c5d30cbf363212bcc45b9caf438201862d6b64dde32e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/reading-part-3.png",
+    "bytes": 145096,
+    "sha256": "6dfe3807278562386101c82c33f85bfeec4738ed99d3bf84427d1ab963ca85e4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-001.png",
+    "bytes": 26751,
+    "sha256": "5558c057f26d2ef23218f882fe04941538c692ab1ad1fa7a36d37079259a9e6c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-002.png",
+    "bytes": 22513,
+    "sha256": "e0ede4867e524cd785a5e94f234dac398a1a79f0359805cd527c79da83eddda6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-003.png",
+    "bytes": 24953,
+    "sha256": "a8820b210ffd92c2eb073ca96e3bab942d5689d23eaa7f8811f6c3fa0e786dd6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-004.png",
+    "bytes": 32999,
+    "sha256": "95eb63d63e1d5e2e370d95d1023a32d73a78d8cc91796c6ef2a604c34fcce600"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-005.png",
+    "bytes": 28525,
+    "sha256": "4950345083c23b04f55d5e79ec7324e59acd68fb344358d2a214a50242f51ecc"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-006.png",
+    "bytes": 49002,
+    "sha256": "1b8f8f0a35893bc743cc4916a43062b82907fc1a07c107e239a3fc417967bc8b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-007.png",
+    "bytes": 10544,
+    "sha256": "a569558128318450764932b16358ff2721f326c414aa13649e15bbf159ecc199"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-008.png",
+    "bytes": 14040,
+    "sha256": "158445409808e7598c13d0aaca814e00bf5a4e138773862dea97735099c5361f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-009.png",
+    "bytes": 16570,
+    "sha256": "2fa53a1bdab1d26d4d06fd229b1e789bd7f089bd3313336c17902fa41296c0a8"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-010.png",
+    "bytes": 30870,
+    "sha256": "503084728c128f85bf4b3086d47d68dc2b750e7ae503930b782de0df98dc5731"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-012.png",
+    "bytes": 21458,
+    "sha256": "790bdd0f1253ce465e0d770ac13fda5ba6d2a53a2525ef8bd93f1666658018c1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-013.png",
+    "bytes": 78551,
+    "sha256": "a568a6657a72f96e90bc9e64100373dcceb97db263b9dec756b692384ec1bc8c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-014.png",
+    "bytes": 77464,
+    "sha256": "f42f7ca02cd5c631c2db43ac9967bab4c86ab41307543da12131e8e3e027db73"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-015.png",
+    "bytes": 56189,
+    "sha256": "07fb9170e09164ee6da7d3cb2097d3fe96c4a2f0b82e0d894705bdf91adb4325"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-016.png",
+    "bytes": 214957,
+    "sha256": "070d464d30f1bd606e060eb10b31ff3549393777692f5af2b567a5102209a983"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-017.png",
+    "bytes": 42705,
+    "sha256": "39d8fcdaa5d0a09fa24bd997b7f1f508d22ffcbde40056da8bb0585e2ef9e630"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-018.png",
+    "bytes": 38922,
+    "sha256": "61e1a74d9e4d616465b8332c2faa99ebc968e92d7a8ae9c6057823091b2cfcf5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-019.png",
+    "bytes": 112869,
+    "sha256": "98670b34d652db57de99c49c3054c150940b078376c75df3dc836cd2c418dd5b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-020.png",
+    "bytes": 36797,
+    "sha256": "0dca5cae7006d1d397e321507acc88000b0335bbd9f5098e46711259fab264b6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-021.png",
+    "bytes": 201868,
+    "sha256": "8eb0705daf4e1fd40d621c6535418497ff88cecdca660c46568d549e478ab5ff"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-022.png",
+    "bytes": 81813,
+    "sha256": "ca9147e3beede5ec968fb446b7f787144ac3d3bc5e892fc413d3438d56a1af7c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-023.png",
+    "bytes": 49212,
+    "sha256": "b840bc6befb4342a9ccedcc2fa6096a64e8a3a18c137d74dbcc9913cd42732be"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-024.png",
+    "bytes": 51807,
+    "sha256": "510e4d32bd8821bd582bacc4543393cc878931cbe29fe2c6a7eab4add6d92577"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-025.png",
+    "bytes": 48215,
+    "sha256": "76f9e99348cc053bee82959e8d6314bb20932c720b0131854c7e6431247bc8e6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-026.png",
+    "bytes": 50045,
+    "sha256": "97078557c57b0eed82bd3ed9bbed5f4af3c46de68c71d68b82c1874d34f07b9f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-027.png",
+    "bytes": 44680,
+    "sha256": "29bf955a2b5ce1d52bdb8af8f8b9a264213dfee3f6a690215f1cfc284f65d695"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-028.png",
+    "bytes": 102562,
+    "sha256": "026b91b498ed17d54a0ff2bfaa4a0d276b1de9e4521a685de500a34f55434469"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-029.png",
+    "bytes": 55909,
+    "sha256": "a3bba43d22db5f3ab90e7cc20db5cd32b550011a65bb82ca363bdf9167989149"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-030.png",
+    "bytes": 19469,
+    "sha256": "cc1bb3ad01717bc5baf156bf5d21428b2b59cdb725f62671ab5359234fc8ce58"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-031.png",
+    "bytes": 43823,
+    "sha256": "61d8ccf6ea47eddd3e411afaecaaa18fb4a41427c4459a24077704af3d3dcedc"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-032.png",
+    "bytes": 51784,
+    "sha256": "e12029e524cc77955d207ded0263dad4e162f77d8c7172875b1809c351aed33b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-033.png",
+    "bytes": 10647,
+    "sha256": "9f4f274a7141efeb13f4cbf5d43a233ae144808d4f361b95ebf58ba9d2488f19"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-034.png",
+    "bytes": 52529,
+    "sha256": "0da36d5a6aed5ab3d2667b7c8d2b134518094beeb646c82bd8a17dce8b8bd078"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-035.png",
+    "bytes": 72332,
+    "sha256": "563c85ee53fbbde5cdc802f740cc90fc6805e77151b4a5aeccbf8430e1a83e57"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-036.png",
+    "bytes": 71368,
+    "sha256": "a680a44d9fe9267212fe26590baf65fb5f3f27584e44ac276da39b76e7a32346"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-037.png",
+    "bytes": 85633,
+    "sha256": "7fe8fab290b346d1ebb81e7a8c619d23703df4eeef601b376339e82c190c0471"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-038.png",
+    "bytes": 70099,
+    "sha256": "f3294d565f18d767b6e1fb1c51f538dae3662b8f7be698efb24941ba8ff16e1b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-039.png",
+    "bytes": 90952,
+    "sha256": "318c0dcd1e33efdbf1eed68c38fc1a1e6c71395cb114411c6621e1e9f13ed552"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-040.png",
+    "bytes": 40613,
+    "sha256": "7e985a24fd5c64cccfc901f1f2d66036659f5501b7ace53751070346e8d2caaa"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-041.png",
+    "bytes": 73970,
+    "sha256": "739d10bcf3a82b85bbffa163b4c26816d78670278c626fad8127928de3aadf3d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-044.png",
+    "bytes": 63837,
+    "sha256": "b5e2d6f4e16afa647bdfeb2bec2096e07bd5e34c349d9692eb150f4d6fc58eb7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-046.png",
+    "bytes": 53904,
+    "sha256": "5e55c6c82b56a9ab9bd690b5071391fe5ea7d7dc09457d6c6dba458ff02366fa"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-047.png",
+    "bytes": 59478,
+    "sha256": "213769e89cc1c3f0224c34f288cc6284c93567646bd8e90c7c6ec5c233f24d65"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-048.png",
+    "bytes": 17690,
+    "sha256": "a81e7e17b4ac5623bb891e5e16105777179622ec811ddc340e9a73a63d21646a"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-049.png",
+    "bytes": 51840,
+    "sha256": "abf4adef9a9cea26cb925866d1c1e4a6d778aaef7ffed04b44f4bdb854aeeab1"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-051.png",
+    "bytes": 25303,
+    "sha256": "6a29e0022dbfef404dc2d854dabb69eb2176c4e565ce7b7e8c04dd53107bf664"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-052.png",
+    "bytes": 25845,
+    "sha256": "eff7a07131c9b6dce1c32b443dd9587ef508cc03ef370f8797eb05c2fdd97d59"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-053.png",
+    "bytes": 24437,
+    "sha256": "eaca7287c43e68ae7d95ebd92e8f0f692268926017da0d79def93e07a98ea049"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-054.png",
+    "bytes": 25393,
+    "sha256": "36cc098215a10e0d4d85f57aff64b68ba977a1205506182a14c5d646604e5e91"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-055.png",
+    "bytes": 26128,
+    "sha256": "1eaafc5b48a19560385f393ca205f73527d598dfa082e6350ccf42a4e14c6c4e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-056.png",
+    "bytes": 24732,
+    "sha256": "bce21f8a638cc57141cc5e23655a1ee9b6197bf22baad7d208bc0afb0d22e94a"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-057.png",
+    "bytes": 26455,
+    "sha256": "091d6a34ed9a13a0ba768c5a1a872b5d7b5746c7fe6cbeca961d8e1763591c2f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-058.png",
+    "bytes": 25177,
+    "sha256": "40b3541d60107fa5b2212fb75b313d9bc86f9c5c3919788343e3d4de83dbf9a6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-059.png",
+    "bytes": 10815,
+    "sha256": "6489e663e398f8f241368aaa9dc2015cf0036c9c0e4027ded3e3354171a920c4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-060.png",
+    "bytes": 13125,
+    "sha256": "9dd2d48e4b207c23fb2d6690ea22f85dcbb25391212257067670f615633c55b7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-061.png",
+    "bytes": 33802,
+    "sha256": "49b6639a5d3774496d3fb66cac8f28a1abd3d8738ec4efbd0239acd487f87359"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-062.png",
+    "bytes": 22163,
+    "sha256": "a36dd3273f238ad3d842eb1aff949ad5578e9104c141e0ec93c8b9d0692cba74"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-063.png",
+    "bytes": 22930,
+    "sha256": "ed6bf167bf2c3a275dc670b4bd9c66f0116a11c8b3f0e984ae0dfd730e67f399"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-064.png",
+    "bytes": 26738,
+    "sha256": "7d3a77d350c3fd8d88b6e2bba15f14574dc66d11a4a61d64a2061d3dcde6b189"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-065.png",
+    "bytes": 28329,
+    "sha256": "f74536a4813796e191cfc724fc3246b278397217c1d9d12f104d6bb05001095b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-066.png",
+    "bytes": 30625,
+    "sha256": "cf48062e31c0fa62d0b07168af3bcfd7bd56d2163aca16ee324b21917aea055e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-067.png",
+    "bytes": 23000,
+    "sha256": "b2f45ddc5ba9ce5d6e479993f859340bb61f2171be76041eaeef809016cbe9f8"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-068.png",
+    "bytes": 6988,
+    "sha256": "ba40d947835b787971f74fcca0edaa44cae6d63760e7a1d73984e91bde010779"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-069.png",
+    "bytes": 7893,
+    "sha256": "00487bce925af26a3ec3373118be685b46acee115422b2d402cfcbc2ee89676e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-070.png",
+    "bytes": 7378,
+    "sha256": "da1e7e3b9592b0553d6861162743977908360eb4fc9dc4a3e193ed7cb160b464"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-071.png",
+    "bytes": 11664,
+    "sha256": "252139f1767123a8cf7447c84b3957576528d9f94a88fd6f1af617100066a171"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-072.png",
+    "bytes": 11676,
+    "sha256": "5788e92ea1a4b924de70eb8c3e92cda16daf870547d7e3969e1d944be383fa4f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-073.png",
+    "bytes": 26915,
+    "sha256": "b659d2f77ef84f8727838c7ffc9160061ee324b00a3056e96c52e8e3715fefc4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-074.png",
+    "bytes": 8215,
+    "sha256": "2ad43306aced8c9ec40a64a1151f9c81e46406dfbc28f41fcf20045c40b488b7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-075.png",
+    "bytes": 8395,
+    "sha256": "dde0e40e026c635ab26e69ef62c17a40ebc399df8479f66c9b343c28033874bf"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-076.png",
+    "bytes": 28037,
+    "sha256": "917f17e054d04c8f1eb8966f12a6f2744203ed1cbdc4f271ef8fdfd618358018"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-077.png",
+    "bytes": 28288,
+    "sha256": "0e10f629784af5583f99b5c4f94cd5ca4cf298452bc2aca6ce84c1117f762862"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-078.png",
+    "bytes": 33195,
+    "sha256": "da5be958ed6e601a2315cca7881942b429a6b9695e0694aa100ca2fc0fff4c0f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-079.png",
+    "bytes": 7813,
+    "sha256": "605c8cfef75dd09ea00578f1d7e70c6704acde5b6bd5919727d4c12d78d4700e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-080.png",
+    "bytes": 27631,
+    "sha256": "c3118542e728a67e5c78b2195f75ea9902b5cab332878cd39d128ef908eb3f79"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-081.png",
+    "bytes": 37340,
+    "sha256": "f13b158c14c6a0655e9a14c683796af214adbe53f52e15024c410f14c7cca376"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-082.png",
+    "bytes": 29643,
+    "sha256": "a0a201b53064d9fc44f88332d1c3fa869f127346eade9c33f2a776571240f35f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-083.png",
+    "bytes": 23249,
+    "sha256": "0691c265a0dab17035e402d55d1878b9c982dd1922992542ec84cf2a80f2697b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-084.png",
+    "bytes": 10282,
+    "sha256": "9a415572e4a7f308c2916afd7d1cec56f6a1f2ea781aac3dcd8f3da2a6fc22d4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-085.png",
+    "bytes": 19841,
+    "sha256": "0c979760400ad5a83c4fc4a5d2c115211040eb06aab0f080c32f541fbb9c5e80"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/validation.json",
+    "bytes": 9337,
+    "sha256": "eb7a1314e3b27db07fd861ebca0cdae724a6eff79de298aaf374e3938063d279"
   },
   {
     "path": "物理/40_派生视图/大物上/今年期末复用高可能题单.md",
@@ -10041,23 +10721,23 @@
   },
   {
     "path": "物理/大学物理习题册（上）/19_习题十九 波动（一）.md",
-    "bytes": 2602,
-    "sha256": "8386888058fdfcf7cf73a4d11aae59cb9dd3b2b0e39acb4052445997c19f3ff3"
+    "bytes": 2653,
+    "sha256": "02e3c1e61211d663d5da11a315f73080552666d85166d0ba3a23ef496b22761f"
   },
   {
     "path": "物理/大学物理习题册（上）/20_习题二十 波动（二）.md",
-    "bytes": 2586,
-    "sha256": "d78197fa95f849bb6107ce74b020a53649fdaefdb0bdfe05852bec7b182f4f32"
+    "bytes": 2620,
+    "sha256": "aef98a2c348fe0917e300fb83f6b8a8b3d94f88ff80b2d2c9b146ef9dab4ba24"
   },
   {
     "path": "物理/大学物理习题册（上）/21_习题二一 波动（三）.md",
-    "bytes": 3203,
-    "sha256": "2ad94715ea670de5c4abbed505f87df3bdee9ef0f0a85d15f6dce74e7fbeacd7"
+    "bytes": 3220,
+    "sha256": "1c0993ecf1918762d3a6054c97ff2192fa955d0e26a1b1aeb7c786e436501dbc"
   },
   {
     "path": "物理/大学物理习题册（上）/22_习题二二 波动（四）.md",
-    "bytes": 2453,
-    "sha256": "0f2aa265b3ba3625f53a6d462eaedece5e4f5874b03f6622cfe4317d5c82554f"
+    "bytes": 2470,
+    "sha256": "89be0e204786eb56aea6830648b0e56747709a16f7bd5191228d59201726da14"
   },
   {
     "path": "物理/大学物理习题册（上）/23_习题二十三 光的偏振（一）.md",
