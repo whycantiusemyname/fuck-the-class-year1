@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "source_sha256": "163e41f39e8da610b91858c4f05e27a7b1bd7bed66c3ed8d890cc7aae55f42b8",
+  "final_markdown_sha256": "655c8488fd7d26e56bf6a917ff9d6315b68a147656d74e962faa392dbd332456",
+  "completion_sha256": "5cd22d77cb7b2c733e2c0e56f7a2781e2294d4400a2b4e3397a4b3ffc00d8252",
+  "intake_sha256": "f9a58a4312874b82609932ce3c1315f6cadd7e791eaa1c6d7299a9f2ce448270",
+  "source_pages": 14,
+  "segment_coverage": "1/1",
+  "repaired_merge_equal": true,
+  "mineru_image_refs_preserved": 20,
+  "source_items": 48,
+  "new_questions": 39,
+  "duplicate_mappings": 9,
+  "known_source_caveats": [
+    "A4: left supply value absent in source",
+    "C3: source circuit at right scan edge",
+    "A7 and B14: source answers not adjudicated"
+  ],
+  "question_forms": {
+    "填空题": 29,
+    "选择题": 4,
+    "综合题": 2,
+    "简答题": 4
+  },
+  "ocr_status": {
+    "已对照 PDF 复核": 37,
+    "待复核": 2
+  },
+  "controlled_tags": 40,
+  "tag_counts_and_unique_themes": "passed",
+  "control_characters": 0,
+  "latex_issues": 0,
+  "broken_links": 0,
+  "s2_regeneration_required": true
+}

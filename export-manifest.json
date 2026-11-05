@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 80684,
-    "sha256": "2f5f2dc0fd7c2d4949cd595a9a2412ab4948a1cf0c3c32ee6e0b26b021e7608e"
+    "bytes": 87434,
+    "sha256": "d13af06169644df16465e6a5021c30466a09308b9d7e684e5430c5029f96ac3c"
   },
   {
     "path": "tools/verify_share.py",
@@ -8076,8 +8076,8 @@
   },
   {
     "path": "电路分析/10_题库/_标签库.md",
-    "bytes": 6770,
-    "sha256": "6b04e396a1eb60b2443e445a28c2b7d39182f1e10aca6eff2d067a6cddc832c9"
+    "bytes": 7104,
+    "sha256": "85f32315f2c96507c720eab1a87d61d890927ef6b54aec195885f4aa870aa0fb"
   },
   {
     "path": "电路分析/10_题库/assets/ch6_amp_p212_fig_e6_3.png",
@@ -8418,6 +8418,166 @@
     "path": "电路分析/10_题库/assets/simulation/sim-6-6641f4f03a5f.png",
     "bytes": 50322,
     "sha256": "6641f4f03a5f73503e18cf49a5a5faf076f15dd937bb6036fd4250f44aff8e94"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/97e8d7c74250bd246764d4f2ccd8ef25f7fb43f95ce2e9f69c51c2c0cadd67db.jpg",
+    "bytes": 14394,
+    "sha256": "44876b92f41995351bc6e0d6fc3177417adfd4c08c4d3269aaeb97abc30c2686"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/A4.png",
+    "bytes": 71289,
+    "sha256": "30e731c3c34d2e9d4cc751749a969e5340f8914a0315e86559c225500729fa93"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/A7.png",
+    "bytes": 62634,
+    "sha256": "11b6dc712ac2c5865427ed49d7609658accf8e8708357729b1a686177c247451"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/A9.png",
+    "bytes": 192624,
+    "sha256": "d6407cd0b2484eab7f16d239f3da95ececf060cefa50b530f99f366c5c72d3c5"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/B19.png",
+    "bytes": 195975,
+    "sha256": "1cf6dd4ddbe0bdd213965700a32b67c5fdd2f0c11d1163fb078005c071c7ec60"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/B20.png",
+    "bytes": 69399,
+    "sha256": "aaba5bfc884ef637647e8b2ef247cde2dc2f432a97fba00938cb1119892d2770"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/B21.png",
+    "bytes": 80838,
+    "sha256": "71c8176a6b6d3448981dcc8827348c0725dec2f04533ab122b6bf747df9a230a"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/C1.png",
+    "bytes": 66005,
+    "sha256": "7d88644ae8afc29ffab98a1c1aab4c0c018198967b0d91cc791cf7a527322f6b"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/C12.png",
+    "bytes": 57662,
+    "sha256": "9320c5442a15815d71688b6f82d49c885ec884c6282c2fc4fb4948ac270ab6ff"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/C13.png",
+    "bytes": 96923,
+    "sha256": "6689e81d599fc9c15dd39218c3e999a8fd5da822c51eaeac37efc3c404bc77d9"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/C14.png",
+    "bytes": 64060,
+    "sha256": "d2378d137e6ca1f25bf8626040a07080235d605e4ba6a75879d7c86b3e52b1ae"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/C15.png",
+    "bytes": 134953,
+    "sha256": "cf3aa4c6bd40239b34e68b8a2caee199e4d7d2ae8eb801953bca3b7282875b0f"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/C2.png",
+    "bytes": 85027,
+    "sha256": "710f5868fae6d507b4f4547c0a68c0766b83615d2769d985510ed82de136c4e4"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/C3.png",
+    "bytes": 162473,
+    "sha256": "b66e8ccb382ab4499d25c5b60ac6d32d2e686bd129f1e15324709cbd1d9bdb49"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/C5.png",
+    "bytes": 71253,
+    "sha256": "d2909f83a0b020e058039f9c15e1f8b277f2a47b8d756fff963819c3438c58b4"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/C9.png",
+    "bytes": 49409,
+    "sha256": "d7d7bd2522dfeeb575e14f18809a9596318055d4962c8f1288f796c8bd79a472"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-01.png",
+    "bytes": 433528,
+    "sha256": "34aad775b98925059ada67d580ac2c7ec759ad6f8ff98d3e779ddadc2a362821"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-02.png",
+    "bytes": 263252,
+    "sha256": "345c150aadd2b4734ac654a9c7526b13529d1f97a8fd4d5c7c98e24002ad7440"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-03.png",
+    "bytes": 517201,
+    "sha256": "97ad7caa3792a234743cc2da7502ec233fd8160d5f5f3e9269637fa02feff7db"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-04.png",
+    "bytes": 484036,
+    "sha256": "29afd4d1b81254aadfd9767d7c00b09248922b70785b740b1bfc2e1261043297"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-05.png",
+    "bytes": 400696,
+    "sha256": "80b3011e775256c09a9b4d76161f6fc45276f3d2adcb13efee553f0045d57ac8"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-06.png",
+    "bytes": 250330,
+    "sha256": "352e766387ab3e60d92fef72294c890da4d1dd6664c7be1fdf211f6d9b2b8c6a"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-07.png",
+    "bytes": 184299,
+    "sha256": "dfb8f8f9bc08a2da79f7e2648178de2e9c701336d26ae8ba7392f82e7f2611ce"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-08.png",
+    "bytes": 71630,
+    "sha256": "b754f39d705298faf2fad1a9d4b0c75c04dbff3ed9530291cd8bddf919decb87"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-09.png",
+    "bytes": 459350,
+    "sha256": "4c6bab008525ae3faf89528c8fda0462720c75421c29dac2556c9484b3b12603"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-10.png",
+    "bytes": 405418,
+    "sha256": "f8c18e348824831f52998d7e7eaadb33d8a8b0bc92bc78c4bd1270db59b6fba7"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-11.png",
+    "bytes": 304547,
+    "sha256": "6ffacb68377b4b27b86792d804c35ccb8cc73ca4b7722b78c8e725058ab22d22"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-12.png",
+    "bytes": 615370,
+    "sha256": "f6afe4f82fab9fd248e1ef1f78fa6ce449149758c60759f2d35251bd1e97304a"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-13.png",
+    "bytes": 474287,
+    "sha256": "88d094efd359dc8afdcc0332472c5f81b9ad5b99fd503b7f2e87c23c460f6254"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/page-14.png",
+    "bytes": 218749,
+    "sha256": "a9e6df08aba11400bbf47b2d8c9d0ad8dc8f032ee2613c1acffa8801e03c6507"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/source.pdf",
+    "bytes": 9849758,
+    "sha256": "163e41f39e8da610b91858c4f05e27a7b1bd7bed66c3ed8d890cc7aae55f42b8"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/strict-verification-20261106.json",
+    "bytes": 1140,
+    "sha256": "8c9db67590cc6fcdf1f8f0c76aed99b1cdd89bec4f7b538f0e185ed793cf1ee2"
   },
   {
     "path": "电路分析/10_题库/仿真作业1_题面整理.md",
@@ -9615,6 +9775,16 @@
     "sha256": "81d95ba21f9edbaee5770df9889f3682610c88e67703f0f66023a4b23df78249"
   },
   {
+    "path": "电路分析/10_题库/电子线路期末复习_复习要求与来源.md",
+    "bytes": 12351,
+    "sha256": "0b72688b2d0adf2bc9850d91a2e821654588c1f43f2ac52012cc17bf63ede143"
+  },
+  {
+    "path": "电路分析/10_题库/电子线路期末复习_题面整理.md",
+    "bytes": 18333,
+    "sha256": "6a3c44d48e03c9b81374665cdf776bfd41e3739cf69ee581a32efc6f76bfecbf"
+  },
+  {
     "path": "电路分析/10_题库/第6章课后习题_题面整理.md",
     "bytes": 43864,
     "sha256": "f910fe30195e22166fd578357a07ec0f75c3c698dc8fec61f9c0b218fdc97b12"
@@ -9823,6 +9993,111 @@
     "path": "电路分析/40_派生视图/考频矩阵.md",
     "bytes": 30649,
     "sha256": "bd0bb2a531aef283724c2e5cb2d40badd87e05c9238cd9695024f01e22aab5ed"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/01c695fa3fbad29fabbe499e9643ae21cf8d50d186d24f9fa5c7a7a9e36475f5.jpg",
+    "bytes": 28730,
+    "sha256": "2f951d50fcbe164d766ed14b90fa86a5485eb4cbfa7cc8619fb8b718997734d1"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/092ad38f0cadf36b091b2d56e73a6fb86035267e29bfd4bea56e726b3c9da6c7.jpg",
+    "bytes": 54402,
+    "sha256": "97d0d49f4e90194cb3b836e682eb982dd847a12218a75d9a07dacbb576238cb4"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/0a641c57a40ed1fc6751de7f66c4fef292eafa76343e240b139cfb1b09e1e425.jpg",
+    "bytes": 18342,
+    "sha256": "bcd0cd43cba0187df0b76a3afb666b18ac46ddb33827c033ac81e170a3bc9332"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/139890a1240e37bfe6b00cab2dc00213d4b784587632d269b07b86ca89c2a271.jpg",
+    "bytes": 22118,
+    "sha256": "5cf8a7216679c94125aee5259d305ac77bc17764232dabff8e1f3f94981785b4"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/16fe823cce1bc0d2cddefd1771b483ed7a43f56703b6b446ec67dde4cbfa3176.jpg",
+    "bytes": 13096,
+    "sha256": "18d63b2c480afe2ba5e4ea6dbb3f720ca76fe36ca596e8cddaaf82cc0f968aed"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/1b0cf3def5dba254c0a333b2d2a8d8d692a2746fc3859f6cbd58572e3337cff2.jpg",
+    "bytes": 25841,
+    "sha256": "bc4c1ab592cf7ac6e5e6026908843c4eb4bd964baaa6187b742651709fafe630"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/23fd3daa261a30aa69436426311e89b33fa5e4161853180e8eb2fc2438b8a98f.jpg",
+    "bytes": 28259,
+    "sha256": "9b98d7cff42a8340980c296d096c459b302afd138a47bfc93023244a18ce0b9c"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/2c253578da5e29db8915f5180402295007ace4457827bbc65c8fe7020fc2fc6a.jpg",
+    "bytes": 17092,
+    "sha256": "e1fef7523e714dd0ff0a50f02699e0e246ceacc4557c5a30904d0daf729267ea"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/4cbca3f20cfb9a0f85a48a7c61e54a37fad70f0806cded1f9ad311b083452307.jpg",
+    "bytes": 12061,
+    "sha256": "a0b8388e6a74d581e03fc2617257b906823c63928f179065cc89f63c3e916b11"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/6fe0c0a616c1c3f1f83cca5a03cdc01d365bdc764c625bf67dc630381074d3c2.jpg",
+    "bytes": 18841,
+    "sha256": "ba930ca37b29222434f040d6704d20955e6780d56c7b8f9d76c5b1cbeabd69fd"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/7510b0d0607a96452ed6b1d10b8f4f566b4a89ecebab5e0587954751ad1c094b.jpg",
+    "bytes": 27049,
+    "sha256": "e239aac9ce00474e96e14bdb0fbf149059e2b296fc862cf696a3c3fd8d9e9ffa"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/97e8d7c74250bd246764d4f2ccd8ef25f7fb43f95ce2e9f69c51c2c0cadd67db.jpg",
+    "bytes": 14394,
+    "sha256": "44876b92f41995351bc6e0d6fc3177417adfd4c08c4d3269aaeb97abc30c2686"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/a4e608b3dea66d07509340f6f561389bf11bf964aef48a77936f0d6c270666fa.jpg",
+    "bytes": 24734,
+    "sha256": "96401b2cff09696f760155e0edcd9323ded1121cb6295f97b2ebaf088742a172"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/a8f402d84144612bad4826ee25dd758e99c9db181b48cbd5e701e683050d2ca4.jpg",
+    "bytes": 15880,
+    "sha256": "41c17ee02948c155b0b872617dab662d33f5393e519eaa9292c31efaa8c01bb3"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/baeca8b715dba4fc048b9a90e1e02a3942993db04b57f0789bae6edfbd66ad9b.jpg",
+    "bytes": 23669,
+    "sha256": "e0125a1c66d89765abd27ef9367b1c37c997f38e6dcb4e4faddd1f3664a35298"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/ce911b50ba737d5dd94e036c5d56d595cf1e7fe9c70cb9d12f28db8a5ec1bd7f.jpg",
+    "bytes": 21522,
+    "sha256": "05354520b1c6a0d74e5d42aeb57715876efac375dcb15724c0c331656970ee91"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/e64dfad462e0bf5253853eb7f6498069d48e58e2af287d028fd905e0b5492de4.jpg",
+    "bytes": 20367,
+    "sha256": "df84e346534d3da7b1d09b69ebf2f4e9c95697854afe355303ad88fb0aa3e736"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/ebc3054ffa4b83bf7337f9febb9da0d84e00ff4f7f110289b83d8f5fff214c76.jpg",
+    "bytes": 23245,
+    "sha256": "a7d5e17ff3dea19ffb9593d9cead9c659111cd7259c7130e15d7b8b7293b4ab5"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/f296317b3fcc2b09b800ae8b3eef981be8cabc4f01bb6c62bdb5d6280a453513.jpg",
+    "bytes": 24392,
+    "sha256": "c9821717e1c72ec8976b1eccb8d27f652a24b054608b1506c15230c2bbb0ca9e"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/fd3c24f3c6eb4773fbc94a80bca5e3177e072b7e0b92739ed61ac440ffc69c17.jpg",
+    "bytes": 25783,
+    "sha256": "a5cc2fa5068478dd3bfd490b6a99dbc5944714970d513ee9acfa98f1144aed66"
+  },
+  {
+    "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/夸克扫描王_电子线路期末复习.md",
+    "bytes": 11885,
+    "sha256": "655c8488fd7d26e56bf6a917ff9d6315b68a147656d74e962faa392dbd332456"
   },
   {
     "path": "电路分析/90_缓存/s2-frequency-analysis.json",
