@@ -1,0 +1,58 @@
+{
+  "chapter": "15",
+  "name": "偏振",
+  "status": "verified",
+  "unique_source_assets": 18,
+  "new_outputs": 13,
+  "changed_documents": [
+    "10_题库/习题册/大学物理习题册_23_光的偏振（一）_题面整理.md",
+    "10_题库/习题册/大学物理习题册_24_光的偏振（二）_题面整理.md",
+    "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+    "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+    "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+    "大学物理习题册（上）/23_习题二十三 光的偏振（一）.md",
+    "大学物理习题册（上）/24_习题二十四 光的偏振（二）.md"
+  ],
+  "intake_manifests": [
+    "90_缓存\\s1-intake\\大学物理I历年试卷合集_2018-2024-97462fb7\\intake.json",
+    "90_缓存\\s1-intake\\扫描件_普通高等教育十一五规划教材配套教辅-f9c8e7b7\\intake.json"
+  ],
+  "s1": "自检：控制字符 0，LaTeX 异常 0，断链 0",
+  "intake_verify": [
+    {
+      "manifest": "90_缓存\\s1-intake\\大学物理I历年试卷合集_2018-2024-97462fb7\\intake.json",
+      "status": "passed",
+      "stdout": "S1 intake manifest 验证通过"
+    },
+    {
+      "manifest": "90_缓存\\s1-intake\\扫描件_普通高等教育十一五规划教材配套教辅-f9c8e7b7\\intake.json",
+      "status": "passed",
+      "stdout": "S1 intake manifest 验证通过"
+    }
+  ],
+  "originals_and_pdfs_unchanged": true,
+  "only_image_references_changed": true,
+  "source_page_review": true,
+  "actual_svg_render_and_320px_visual_review": true,
+  "report_links": "passed",
+  "share_verify": "passed; full hash/link/credential verification executed before commit",
+  "outputs": {
+    "10_题库/_assets/上册逐章/15_偏振/001-extracted.png": "1065eaf33a2c53f734e6dd95b86269638f4c284c58ec7ca255a4b6d6795911dc",
+    "10_题库/_assets/上册逐章/15_偏振/002-extracted.png": "e984bc6ce98ae12dbc17a98f03f7546bd942488bd569acc44e0c405e92a1eaf7",
+    "10_题库/_assets/上册逐章/15_偏振/003-extracted.png": "34d5afdf22dd3a5c4c6342f9a5e95cdc036fd56697fe2253e2b3fab570151a1a",
+    "10_题库/_assets/上册逐章/15_偏振/004.png": "c82e1cb5265c384c3014f8ec8b02aaea770dfae1b71c2d3bc51536cea3caf235",
+    "10_题库/_assets/上册逐章/15_偏振/004.svg": "45e0a83213667c00726a55c93614435426a2ded4db808f67d4e35a7a420845b4",
+    "10_题库/_assets/上册逐章/15_偏振/005-extracted.png": "b29a17cb558a3c4d53ab35f1c9faf89ff24866b13b0de4ba4e7cb448c919732f",
+    "10_题库/_assets/上册逐章/15_偏振/006-extracted.png": "2d0385200e0ff29aa1fd437e95a420a105e0e2508698d17b7794e790bc9e2169",
+    "10_题库/_assets/上册逐章/15_偏振/007-extracted.png": "e16b6d79a08eb1d3937c646e3b1f0e13a894df9855612b26d5c9a7f02d5d56c6",
+    "10_题库/_assets/上册逐章/15_偏振/008-extracted.png": "ec480f805baef908c1357c3b79cf986384b8357534c6f651dcb199fb1cd9ae28",
+    "10_题库/_assets/上册逐章/15_偏振/009-extracted.png": "f4555618eb04cf3dfaa9803d8905400180eade40135dfc7df2c25ae5ec9bb17f",
+    "10_题库/_assets/上册逐章/15_偏振/010-extracted.png": "ba04178003960ee989d063db7f21e560b76d67fbe87d5b65d06721b313e1bced",
+    "10_题库/_assets/上册逐章/15_偏振/011-extracted.png": "7062dcbb485a40608b5846fd189ac905057a1825e7893c2b7041964b07ee6a13",
+    "10_题库/_assets/上册逐章/15_偏振/012-extracted.png": "764f5b18a5b48bd2880c8a453589dc23037fc161ecb94cad5d3a0fc748bc534c",
+    "10_题库/_assets/上册逐章/15_偏振/013-extracted.png": "52254222be0daffd2ded0d3d3d3c7c0b953ae839220d98c1dbc1f7512caed5ee",
+    "10_题库/_assets/上册逐章/15_偏振/extract_from_pdf.py": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a",
+    "10_题库/_assets/上册逐章/15_偏振/generate.py": "7173311564a9f7727bc89e6dda9dcb49f28443fc8169a8aa7a2465a1dcea9129",
+    "10_题库/_assets/上册逐章/15_偏振/mapping.json": "af3c3b88ebb19a3b6235827098cd7b9a9166b81da1c9cd83046cfc0cb90cd82e"
+  }
+}

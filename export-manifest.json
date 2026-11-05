@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 178260,
-    "sha256": "dc158f5532618866b4b43d297f7c48a4ce595aaaaecf07246815eaafdc94a4f0"
+    "bytes": 182118,
+    "sha256": "b12842403cae17311fd68304794fbd8681f9491b802d4b1a52b54a66877eb4b8"
   },
   {
     "path": "tools/verify_share.py",
@@ -3055,6 +3055,91 @@
     "sha256": "e42aa8bd3c46a0aaa1ab9134b26cca78f6b42fc65e88ed30f1d91016d036364d"
   },
   {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/001-extracted.png",
+    "bytes": 33505,
+    "sha256": "1065eaf33a2c53f734e6dd95b86269638f4c284c58ec7ca255a4b6d6795911dc"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/002-extracted.png",
+    "bytes": 31426,
+    "sha256": "e984bc6ce98ae12dbc17a98f03f7546bd942488bd569acc44e0c405e92a1eaf7"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/003-extracted.png",
+    "bytes": 21658,
+    "sha256": "34d5afdf22dd3a5c4c6342f9a5e95cdc036fd56697fe2253e2b3fab570151a1a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/004.png",
+    "bytes": 43425,
+    "sha256": "c82e1cb5265c384c3014f8ec8b02aaea770dfae1b71c2d3bc51536cea3caf235"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/004.svg",
+    "bytes": 7643,
+    "sha256": "45e0a83213667c00726a55c93614435426a2ded4db808f67d4e35a7a420845b4"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/005-extracted.png",
+    "bytes": 55625,
+    "sha256": "b29a17cb558a3c4d53ab35f1c9faf89ff24866b13b0de4ba4e7cb448c919732f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/006-extracted.png",
+    "bytes": 46551,
+    "sha256": "2d0385200e0ff29aa1fd437e95a420a105e0e2508698d17b7794e790bc9e2169"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/007-extracted.png",
+    "bytes": 52611,
+    "sha256": "e16b6d79a08eb1d3937c646e3b1f0e13a894df9855612b26d5c9a7f02d5d56c6"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/008-extracted.png",
+    "bytes": 73339,
+    "sha256": "ec480f805baef908c1357c3b79cf986384b8357534c6f651dcb199fb1cd9ae28"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/009-extracted.png",
+    "bytes": 59486,
+    "sha256": "f4555618eb04cf3dfaa9803d8905400180eade40135dfc7df2c25ae5ec9bb17f"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/010-extracted.png",
+    "bytes": 60482,
+    "sha256": "ba04178003960ee989d063db7f21e560b76d67fbe87d5b65d06721b313e1bced"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/011-extracted.png",
+    "bytes": 154426,
+    "sha256": "7062dcbb485a40608b5846fd189ac905057a1825e7893c2b7041964b07ee6a13"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/012-extracted.png",
+    "bytes": 125236,
+    "sha256": "764f5b18a5b48bd2880c8a453589dc23037fc161ecb94cad5d3a0fc748bc534c"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/013-extracted.png",
+    "bytes": 163210,
+    "sha256": "52254222be0daffd2ded0d3d3d3c7c0b953ae839220d98c1dbc1f7512caed5ee"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/extract_from_pdf.py",
+    "bytes": 1378,
+    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/generate.py",
+    "bytes": 902,
+    "sha256": "7173311564a9f7727bc89e6dda9dcb49f28443fc8169a8aa7a2465a1dcea9129"
+  },
+  {
+    "path": "物理/10_题库/_assets/上册逐章/15_偏振/mapping.json",
+    "bytes": 34669,
+    "sha256": "af3c3b88ebb19a3b6235827098cd7b9a9166b81da1c9cd83046cfc0cb90cd82e"
+  },
+  {
     "path": "物理/10_题库/_assets/习题册/08bec4702a2377a9388bd572db909496150151fafa315d5d4c61e9f8307d4317.jpg",
     "bytes": 10165,
     "sha256": "3af9b8c8227990fea3d54357ad9c07f1694fbce566a4d816bdd9766cd2037fe6"
@@ -5296,13 +5381,13 @@
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_23_光的偏振（一）_题面整理.md",
-    "bytes": 3463,
-    "sha256": "17573e5b246784ff6ef7772c10479c7a09e7b364d098931df167850452903782"
+    "bytes": 3387,
+    "sha256": "728b1cce90924be0d8f558dac88af012cbb350f710a63c8f2c9a3078ce6d4611"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_24_光的偏振（二）_题面整理.md",
-    "bytes": 4357,
-    "sha256": "6fcb36791888f2672537493a261ace17e9896608d2fae72e804d7949dd56125f"
+    "bytes": 4233,
+    "sha256": "3e090611726caa583cb2e13c55baf524a8133235459b35d56754360f6bc5d3b6"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_25_光的干涉（一）_题面整理.md",
@@ -5396,8 +5481,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
-    "bytes": 12295,
-    "sha256": "96ef4f2d7a30df6b98f6f4ca21cf25675908e0970eba1092d8f746c3fb2c742d"
+    "bytes": 12238,
+    "sha256": "d136458e4834f252dfc215112e50c4711fc05a02e8aceca3a98d6ecb6a61b0dc"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
@@ -5421,8 +5506,8 @@
   },
   {
     "path": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
-    "bytes": 15209,
-    "sha256": "8df18d10f415db577d8bf1a3deeb1ec846b85afb0ab7c01a2d7d3ad12890a679"
+    "bytes": 15152,
+    "sha256": "5b7976511bf5713600e77973f5ca0281329280a88b7cc2fbb3017513e4f219e9"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第01章_运动学_题面整理.md",
@@ -5491,8 +5576,8 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
-    "bytes": 17867,
-    "sha256": "318c3bddee2b892e4c8e8eed32b65cde7bd168e032146855e4fe1c1bf5bdef40"
+    "bytes": 17920,
+    "sha256": "265ffef27a4b9dd9ec65d5f2ac1492f7882726434accb4595ba4f733c4116b34"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第16章_早期量子理论_题面整理.md",
@@ -7883,6 +7968,111 @@
     "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/validation.json",
     "bytes": 4135,
     "sha256": "18b0a36116d7c7469e31d5cd7d58c2d24e5baaffaa72f8a43b9913be0750cec4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/README.md",
+    "bytes": 14197,
+    "sha256": "31f0a18d1aedb562fa6b06e0e0a21d3faead79f1af3267c6868da66fb437ac2d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/comparison-01.png",
+    "bytes": 534795,
+    "sha256": "df44fc62598575686a60446bbf1faf6c472f0d2b8c037f2f78a44896baa611b4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/comparison-02.png",
+    "bytes": 497449,
+    "sha256": "3212b38fca62441be846e178e48dfdbf840972a9854efc1bb12f8d1cf0a899cf"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/comparison-03.png",
+    "bytes": 105793,
+    "sha256": "6d3c941e8b6cd311212efb06e79e21c46db0023d0e6b6a050b156628d9f223ef"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/reading-320px.png",
+    "bytes": 343863,
+    "sha256": "a381e4ec1212633a2021b3c376891edfdd3b6c02ad61ddd88161f7134cb61c87"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-001.png",
+    "bytes": 33505,
+    "sha256": "1065eaf33a2c53f734e6dd95b86269638f4c284c58ec7ca255a4b6d6795911dc"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-002.png",
+    "bytes": 31426,
+    "sha256": "e984bc6ce98ae12dbc17a98f03f7546bd942488bd569acc44e0c405e92a1eaf7"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-003.png",
+    "bytes": 21658,
+    "sha256": "34d5afdf22dd3a5c4c6342f9a5e95cdc036fd56697fe2253e2b3fab570151a1a"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-004.png",
+    "bytes": 22288,
+    "sha256": "1e84581972d5ea18caeea076b41626a8b4b195bdb8a8c96c0a74cfaa400c45ca"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-005.png",
+    "bytes": 55625,
+    "sha256": "b29a17cb558a3c4d53ab35f1c9faf89ff24866b13b0de4ba4e7cb448c919732f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-006.png",
+    "bytes": 46551,
+    "sha256": "2d0385200e0ff29aa1fd437e95a420a105e0e2508698d17b7794e790bc9e2169"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-007.png",
+    "bytes": 52611,
+    "sha256": "e16b6d79a08eb1d3937c646e3b1f0e13a894df9855612b26d5c9a7f02d5d56c6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-008.png",
+    "bytes": 73339,
+    "sha256": "ec480f805baef908c1357c3b79cf986384b8357534c6f651dcb199fb1cd9ae28"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-009.png",
+    "bytes": 59486,
+    "sha256": "f4555618eb04cf3dfaa9803d8905400180eade40135dfc7df2c25ae5ec9bb17f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-010.png",
+    "bytes": 60482,
+    "sha256": "ba04178003960ee989d063db7f21e560b76d67fbe87d5b65d06721b313e1bced"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-011.png",
+    "bytes": 154426,
+    "sha256": "7062dcbb485a40608b5846fd189ac905057a1825e7893c2b7041964b07ee6a13"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-012.png",
+    "bytes": 125236,
+    "sha256": "764f5b18a5b48bd2880c8a453589dc23037fc161ecb94cad5d3a0fc748bc534c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-013.png",
+    "bytes": 163210,
+    "sha256": "52254222be0daffd2ded0d3d3d3c7c0b953ae839220d98c1dbc1f7512caed5ee"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/validation.json",
+    "bytes": 4039,
+    "sha256": "7dedb43c32e329221b6349389a0d4dfb482695c1e90d8872281bf78cad60e019"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/全册覆盖.json",
+    "bytes": 13940,
+    "sha256": "b320f3fa9c157af946825ba937cf2305777ad24d62cd55aaa744c3c548a6fe23"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/全册覆盖.md",
+    "bytes": 7126,
+    "sha256": "0fac395dbdbf91a3f906dab87d5daa2fd6a4ab2265f16d803536859d2c691463"
   },
   {
     "path": "物理/40_派生视图/大物上/今年期末复用高可能题单.md",
@@ -11501,13 +11691,13 @@
   },
   {
     "path": "物理/大学物理习题册（上）/23_习题二十三 光的偏振（一）.md",
-    "bytes": 2608,
-    "sha256": "c46f3f6bcb6c52bd6a28d0dd939f2dfc0b5adff1bb57eb21d0e39e0aef99ca80"
+    "bytes": 2624,
+    "sha256": "0c89875b2d8902fcd64b2f574316bfe1da5d0c2ad6289c3fabf878b77736af52"
   },
   {
     "path": "物理/大学物理习题册（上）/24_习题二十四 光的偏振（二）.md",
-    "bytes": 3333,
-    "sha256": "2e91ed010c7d738064bee8c76a4a26b63a094af5b73e78472fb6b24a36199c4b"
+    "bytes": 3347,
+    "sha256": "732bdd2f6cf03292e257aae1db5356c7259eb116ca9e6efbe393c59c313db511"
   },
   {
     "path": "物理/大学物理习题册（上）/25_习题二十五 光的干涉（一）.md",

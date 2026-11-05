@@ -1,0 +1,344 @@
+{
+  "scope_documents": 119,
+  "original_references": 427,
+  "original_unique_hashes": 425,
+  "chapter_review_entries": 426,
+  "changed_documents": 75,
+  "new_svg": 90,
+  "native_png": 162,
+  "replaced_references": 318,
+  "all_originals_and_pdfs_unchanged": true,
+  "all_edits_only_image_references": true,
+  "chapters": [
+    {
+      "chapter": "01",
+      "name": "运动学",
+      "assets": 10,
+      "methods": {
+        "redrawn": 7,
+        "reuse_redraw": 3
+      },
+      "svg": 7,
+      "native_png": 0,
+      "changed_references": 10,
+      "report": "40_派生视图/大物上/上册逐章/01_运动学",
+      "commit": "2b84241c4481f9a476652836a7759987e0e03be3"
+    },
+    {
+      "chapter": "02",
+      "name": "动力学与守恒",
+      "assets": 100,
+      "methods": {
+        "redrawn": 36,
+        "native_extraction": 40,
+        "retained_annotation": 1,
+        "retained_uncertain": 1,
+        "already_verified_svg": 2,
+        "reuse_redraw": 11,
+        "reuse_extraction": 9
+      },
+      "svg": 36,
+      "native_png": 40,
+      "changed_references": 96,
+      "report": "40_派生视图/大物上/上册逐章/02_动力学与守恒",
+      "commit": "bac6fe1665630e3167f37f5f53c878de66e5f47f"
+    },
+    {
+      "chapter": "03",
+      "name": "角动量与刚体",
+      "assets": 51,
+      "methods": {
+        "native_extraction": 25,
+        "redrawn": 16,
+        "retained_clear": 2,
+        "retained_uncertain": 3,
+        "reuse_extraction": 4,
+        "reuse_redraw": 1
+      },
+      "svg": 16,
+      "native_png": 25,
+      "changed_references": 46,
+      "report": "40_派生视图/大物上/上册逐章/03_角动量与刚体",
+      "commit": "92064705fbfed9666bebd662fe66eec980d05d38"
+    },
+    {
+      "chapter": "04",
+      "name": "振动",
+      "assets": 70,
+      "methods": {
+        "redrawn": 16,
+        "native_extraction": 17,
+        "reuse_redraw": 13,
+        "retained_uncertain": 2,
+        "already_verified_svg": 2,
+        "retained_clear": 19,
+        "reuse_extraction": 1
+      },
+      "svg": 16,
+      "native_png": 17,
+      "changed_references": 47,
+      "report": "40_派生视图/大物上/上册逐章/04_振动",
+      "commit": "9418b6470358782c9121a81221a54def351887df"
+    },
+    {
+      "chapter": "05",
+      "name": "波动",
+      "assets": 94,
+      "methods": {
+        "native_extraction": 31,
+        "retained_uncertain": 12,
+        "redrawn": 5,
+        "already_verified_svg": 4,
+        "retained_clear": 35,
+        "reuse_extraction": 7
+      },
+      "svg": 5,
+      "native_png": 31,
+      "changed_references": 43,
+      "report": "40_派生视图/大物上/上册逐章/05_波动",
+      "commit": "8684862b9d60d796b475d4a3ed253f397742cca7"
+    },
+    {
+      "chapter": "06",
+      "name": "相对论",
+      "assets": 4,
+      "methods": {
+        "native_extraction": 3,
+        "redrawn": 1
+      },
+      "svg": 1,
+      "native_png": 3,
+      "changed_references": 4,
+      "report": "40_派生视图/大物上/上册逐章/06_相对论",
+      "commit": "0c5d59f3eb59eafcb127aba391a9327bcf8d2ab3"
+    },
+    {
+      "chapter": "13",
+      "name": "干涉",
+      "assets": 64,
+      "methods": {
+        "native_extraction": 29,
+        "redrawn": 7,
+        "retained_uncertain": 7,
+        "retained_clear": 12,
+        "reuse_extraction": 6,
+        "reuse_redraw": 3
+      },
+      "svg": 7,
+      "native_png": 29,
+      "changed_references": 45,
+      "report": "40_派生视图/大物上/上册逐章/13_干涉",
+      "commit": "58e0393d024b8af4dfff7606db3eb653ea42f31f"
+    },
+    {
+      "chapter": "14",
+      "name": "衍射",
+      "assets": 15,
+      "methods": {
+        "native_extraction": 5,
+        "redrawn": 1,
+        "retained_clear": 6,
+        "reuse_extraction": 2,
+        "reuse_redraw": 1
+      },
+      "svg": 1,
+      "native_png": 5,
+      "changed_references": 9,
+      "report": "40_派生视图/大物上/上册逐章/14_衍射",
+      "commit": "51d386788bd9a54eca73e1f0b746ca962105d29e"
+    },
+    {
+      "chapter": "15",
+      "name": "偏振",
+      "assets": 18,
+      "methods": {
+        "native_extraction": 12,
+        "redrawn": 1,
+        "reuse_extraction": 4,
+        "reuse_redraw": 1
+      },
+      "svg": 1,
+      "native_png": 12,
+      "changed_references": 18,
+      "report": "40_派生视图/大物上/上册逐章/15_偏振",
+      "commit": "本次偏振章提交"
+    }
+  ],
+  "uncertain_retained": [
+    {
+      "chapter": "02",
+      "id": 62,
+      "question": "24-25期中-计6",
+      "path": "10_题库/_assets/期中试卷_2020-2025/3f3ea74389a3f9d3f2367c2e395b92f718a5cc14a33221126e94b3b0e694ca49.jpg",
+      "reason": "源PDF扫描仍有无法可靠辨认的细小字迹；不猜测轴/点名，保留原图，待更清晰来源。"
+    },
+    {
+      "chapter": "03",
+      "id": 28,
+      "question": "24-25期中-选6",
+      "path": "10_题库/_assets/期中试卷_2020-2025/0e10def54b747083dc602eed806c58c9c68c33efacd9d2ae7d7cba03b3ac489c.jpg",
+      "reason": "源扫描仍含不可靠的细小标记或相邻题图边界；保留原图，不猜测轴/字母或拆分归属。"
+    },
+    {
+      "chapter": "03",
+      "id": 29,
+      "question": "24-25期中-计4",
+      "path": "10_题库/_assets/期中试卷_2020-2025/199ab07268cfcdea5925ae360810f4d409ccbcbe9f92d407786cbeb92ad85cf8.jpg",
+      "reason": "源扫描仍含不可靠的细小标记或相邻题图边界；保留原图，不猜测轴/字母或拆分归属。"
+    },
+    {
+      "chapter": "03",
+      "id": 30,
+      "question": "24-25期中-计5",
+      "path": "10_题库/_assets/期中试卷_2020-2025/92f0ce36a40a87a44f573ccab044c787a11613304607831d4352d0b49809ff2b.jpg",
+      "reason": "源扫描仍含不可靠的细小标记或相邻题图边界；保留原图，不猜测轴/字母或拆分归属。"
+    },
+    {
+      "chapter": "04",
+      "id": 19,
+      "question": "22-23期末-选3",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+      "reason": "源扫描有手写叠加或刻度边界歧义；保留原图，不补函数或拆分题目归属。"
+    },
+    {
+      "chapter": "04",
+      "id": 25,
+      "question": "未标年份-期末二-选10",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/14310921d5668c06e338a8e6634672c7ba94c65c7e5aaa90809b924639ef0b8b.jpg",
+      "reason": "源扫描有手写叠加或刻度边界歧义；保留原图，不补函数或拆分题目归属。"
+    },
+    {
+      "chapter": "05",
+      "id": 11,
+      "question": "16-17期末-选2",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/79d0af64d1804f0a26814b126bb7d6eca62cfa8ec387e10220d92572e04f1854.jpg",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "05",
+      "id": 21,
+      "question": "22-23期末-选4",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/5dcdda5ee64be65c6d29612043efcdbe7f7f765e832c3d56d9cffe961fe13e8d.jpg",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "05",
+      "id": 22,
+      "question": "22-23期末-选5",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/8a6f7b42ddc09472a06c5c03a2b379b6f419809df8cecbcb0edd3a08cda75ead.jpg",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "05",
+      "id": 23,
+      "question": "22-23期末-选5",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/9d98fc0b1bf187b8b4fd5477843b02f3a26957639dfbb701921de4c496e02055.jpg",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "05",
+      "id": 24,
+      "question": "22-23期末-选5",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/dd8b3240cbed2bc66b2bf6d92ac13ff4fa29550ffe9578a28c4159a250dd65de.jpg",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "05",
+      "id": 25,
+      "question": "22-23期末-选5",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/32904d8cc10d08da3f67b23b6766ceaf500d1830e13943d3b59acdfbafb96f4e.jpg",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "05",
+      "id": 26,
+      "question": "22-23期末-选5",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/301a6841b1588605b1b02cef09a83b351a4e5e52bc505757fbf4962724d820a5.jpg",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "05",
+      "id": 34,
+      "question": "未标年份-期末一-选8",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/f9747342e5209e5c8225e9fab57622e1d0b5df96e20772c587bc9a51f6bd067d.jpg",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "05",
+      "id": 35,
+      "question": "未标年份-期末一-计1",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/0d1f3426d04ef66129ef356f8ddc71f9fd0cc795687dda0279357e12709890d4.jpg",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "05",
+      "id": 36,
+      "question": "未标年份-期末二-选14",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/f956cebd3144b49d516ce5306a400ee35781051badafa8693eba6c571da4ec22.jpg",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "05",
+      "id": 86,
+      "question": "2",
+      "path": "大学物理习题册（上）/_assets/19_习题十九 波动（一）/图1_2.png",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "05",
+      "id": 92,
+      "question": "1",
+      "path": "大学物理习题册（上）/_assets/21_习题二一 波动（三）/图1.png",
+      "reason": "保留原图：来源尚未完整定位、手写批注叠加，或旧资产包含多图/公式题面边界；不把批注当给定量，也不删题面文字。"
+    },
+    {
+      "chapter": "13",
+      "id": 15,
+      "question": "习题册-章节28-题6",
+      "path": "10_题库/_assets/习题册/ce2175b89f4e14d12e7458f64dfacff483dd507887a3f452900f873ee8644ec3.jpg",
+      "reason": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。"
+    },
+    {
+      "chapter": "13",
+      "id": 22,
+      "question": "24-25期末-计4",
+      "path": "10_题库/_assets/2024-2025期末截图/f6d529dd8428adbcf5a7c57f04e60e27a2a44cd98236ae65f15d0d0a94316eb3.jpg",
+      "reason": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。"
+    },
+    {
+      "chapter": "13",
+      "id": 23,
+      "question": "未标年份-期末二-选15",
+      "path": "10_题库/_assets/历年试卷合集_2018-2024/e5b7c8c39c2a9d986e85f0a4861eb0a2437543907f0fb1eb21d3c396c9772606.jpg",
+      "reason": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。"
+    },
+    {
+      "chapter": "13",
+      "id": 56,
+      "question": "3",
+      "path": "大学物理习题册（上）/_assets/26_习题二十六 光的干涉（二）/图3_4.png",
+      "reason": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。"
+    },
+    {
+      "chapter": "13",
+      "id": 57,
+      "question": "2",
+      "path": "大学物理习题册（上）/_assets/27_习题二十七 光的干涉（三）/图2.png",
+      "reason": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。"
+    },
+    {
+      "chapter": "13",
+      "id": 62,
+      "question": "2",
+      "path": "大学物理习题册（上）/_assets/28_习题二十八 光的干涉（四）/图2.png",
+      "reason": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。"
+    },
+    {
+      "chapter": "13",
+      "id": 64,
+      "question": "6",
+      "path": "大学物理习题册（上）/_assets/28_习题二十八 光的干涉（四）/图6.png",
+      "reason": "保留原图：细小暗环标号难辨、复合图边界、已有手写标记或邻近文字混入；不猜改折射率、环级次或删掉文字说明。"
+    }
+  ]
+}

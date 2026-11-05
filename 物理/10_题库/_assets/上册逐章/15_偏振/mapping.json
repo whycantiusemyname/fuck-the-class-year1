@@ -1,0 +1,781 @@
+[
+  {
+    "document": "10_题库/习题册/大学物理习题册_23_光的偏振（一）_题面整理.md",
+    "question": "习题册-章节23-题2",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/习题册/86dad9abdcb297c5a318560dfb662a950ca3abdb0aa016f3b93a61397517dc0f.jpg",
+    "path": "10_题库/_assets/习题册/86dad9abdcb297c5a318560dfb662a950ca3abdb0aa016f3b93a61397517dc0f.jpg",
+    "sha256": "7fe7d162a4540c6c71035e543838793f0a378b1c107cc9746d843ac2cd639d2b",
+    "size": [
+      332,
+      209
+    ],
+    "id": 1,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 24,
+    "bbox_1000": [
+      367,
+      424,
+      475,
+      523
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\86dad9abdcb297c5a318560dfb662a950ca3abdb0aa016f3b93a61397517dc0f.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-001.png",
+    "source_crop_size": [
+      478,
+      301
+    ],
+    "page_preview": "page-1-024.png",
+    "method": "native_extraction",
+    "new": "001-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_23_光的偏振（一）_题面整理.md",
+        "question": "习题册-章节23-题2",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/习题册/86dad9abdcb297c5a318560dfb662a950ca3abdb0aa016f3b93a61397517dc0f.jpg",
+        "path": "10_题库/_assets/习题册/86dad9abdcb297c5a318560dfb662a950ca3abdb0aa016f3b93a61397517dc0f.jpg",
+        "sha256": "7fe7d162a4540c6c71035e543838793f0a378b1c107cc9746d843ac2cd639d2b",
+        "size": [
+          332,
+          209
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/001-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_23_光的偏振（一）_题面整理.md",
+    "question": "习题册-章节23-题3",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/习题册/2fdf56d9388faf8fb035e1c249252411b35a3c50d96d8e104029cc4adf7efbaa.jpg",
+    "path": "10_题库/_assets/习题册/2fdf56d9388faf8fb035e1c249252411b35a3c50d96d8e104029cc4adf7efbaa.jpg",
+    "sha256": "e862cde1d95df96e4e2ebe5a8a5dbdd51bdfaee811e78d495511b2769736bc2b",
+    "size": [
+      356,
+      251
+    ],
+    "id": 2,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 24,
+    "bbox_1000": [
+      357,
+      603,
+      473,
+      722
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\2fdf56d9388faf8fb035e1c249252411b35a3c50d96d8e104029cc4adf7efbaa.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-002.png",
+    "source_crop_size": [
+      514,
+      362
+    ],
+    "page_preview": "page-1-024.png",
+    "method": "native_extraction",
+    "new": "002-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_23_光的偏振（一）_题面整理.md",
+        "question": "习题册-章节23-题3",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/习题册/2fdf56d9388faf8fb035e1c249252411b35a3c50d96d8e104029cc4adf7efbaa.jpg",
+        "path": "10_题库/_assets/习题册/2fdf56d9388faf8fb035e1c249252411b35a3c50d96d8e104029cc4adf7efbaa.jpg",
+        "sha256": "e862cde1d95df96e4e2ebe5a8a5dbdd51bdfaee811e78d495511b2769736bc2b",
+        "size": [
+          356,
+          251
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/002-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_24_光的偏振（二）_题面整理.md",
+    "question": "习题册-章节24-题2",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/习题册/eec43191a1ace19ee2ca8771f5cb817b90b90995b8b2a485c51a752d9d91aec9.jpg",
+    "path": "10_题库/_assets/习题册/eec43191a1ace19ee2ca8771f5cb817b90b90995b8b2a485c51a752d9d91aec9.jpg",
+    "sha256": "93f671ec4bc6455fca0ac34f2821c123eee7f5765c1becc267c8901debfeedef",
+    "size": [
+      268,
+      301
+    ],
+    "id": 3,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 25,
+    "bbox_1000": [
+      383,
+      417,
+      470,
+      560
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\eec43191a1ace19ee2ca8771f5cb817b90b90995b8b2a485c51a752d9d91aec9.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-003.png",
+    "source_crop_size": [
+      386,
+      434
+    ],
+    "page_preview": "page-1-025.png",
+    "method": "native_extraction",
+    "new": "003-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_24_光的偏振（二）_题面整理.md",
+        "question": "习题册-章节24-题2",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/习题册/eec43191a1ace19ee2ca8771f5cb817b90b90995b8b2a485c51a752d9d91aec9.jpg",
+        "path": "10_题库/_assets/习题册/eec43191a1ace19ee2ca8771f5cb817b90b90995b8b2a485c51a752d9d91aec9.jpg",
+        "sha256": "93f671ec4bc6455fca0ac34f2821c123eee7f5765c1becc267c8901debfeedef",
+        "size": [
+          268,
+          301
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/003-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_24_光的偏振（二）_题面整理.md",
+    "question": "习题册-章节24-题6",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/习题册/29f2083432b6b0928bea914d7f530dd9ee10d4b8cb9f1509ed5d0d5a9cd35731.jpg",
+    "path": "10_题库/_assets/习题册/29f2083432b6b0928bea914d7f530dd9ee10d4b8cb9f1509ed5d0d5a9cd35731.jpg",
+    "sha256": "d6a1ff01a0433cb9992d4af30e6bb898a88a369a475d1058e8aa5aed3f3dd78a",
+    "size": [
+      387,
+      231
+    ],
+    "id": 4,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 25,
+    "bbox_1000": [
+      811,
+      265,
+      937,
+      375
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\29f2083432b6b0928bea914d7f530dd9ee10d4b8cb9f1509ed5d0d5a9cd35731.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-004.png",
+    "source_crop_size": [
+      559,
+      334
+    ],
+    "page_preview": "page-1-025.png",
+    "method": "redrawn",
+    "new": "004.svg",
+    "check": "E在上、P1居中、P2水平向右；角A为E与P2夹角、α为P1与P2夹角，矢量E箭头保留；不把内部绘图角标为题目给定值。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_24_光的偏振（二）_题面整理.md",
+        "question": "习题册-章节24-题6",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/习题册/29f2083432b6b0928bea914d7f530dd9ee10d4b8cb9f1509ed5d0d5a9cd35731.jpg",
+        "path": "10_题库/_assets/习题册/29f2083432b6b0928bea914d7f530dd9ee10d4b8cb9f1509ed5d0d5a9cd35731.jpg",
+        "sha256": "d6a1ff01a0433cb9992d4af30e6bb898a88a369a475d1058e8aa5aed3f3dd78a",
+        "size": [
+          387,
+          231
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/004.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_24_光的偏振（二）_题面整理.md",
+    "question": "习题册-章节24-题7",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/习题册/29523c4b6c804c1959eda35a32183df79f1268b0b22b3b914a9337f83902644a.jpg",
+    "path": "10_题库/_assets/习题册/29523c4b6c804c1959eda35a32183df79f1268b0b22b3b914a9337f83902644a.jpg",
+    "sha256": "b282cfac2276d45f0734e25a5e41abb72d320bf556efda9fda925c302ee1d115",
+    "size": [
+      465,
+      215
+    ],
+    "id": 5,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 25,
+    "bbox_1000": [
+      767,
+      657,
+      918,
+      759
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\29523c4b6c804c1959eda35a32183df79f1268b0b22b3b914a9337f83902644a.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-005.png",
+    "source_crop_size": [
+      669,
+      310
+    ],
+    "page_preview": "page-1-025.png",
+    "method": "native_extraction",
+    "new": "005-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_24_光的偏振（二）_题面整理.md",
+        "question": "习题册-章节24-题7",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/习题册/29523c4b6c804c1959eda35a32183df79f1268b0b22b3b914a9337f83902644a.jpg",
+        "path": "10_题库/_assets/习题册/29523c4b6c804c1959eda35a32183df79f1268b0b22b3b914a9337f83902644a.jpg",
+        "sha256": "b282cfac2276d45f0734e25a5e41abb72d320bf556efda9fda925c302ee1d115",
+        "size": [
+          465,
+          215
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/005-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+    "question": "20-21期末-填6",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/235ef93245dbbb1735e29ffef2440447049f66686ecfe0b4477384937b34c3ab.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/235ef93245dbbb1735e29ffef2440447049f66686ecfe0b4477384937b34c3ab.jpg",
+    "sha256": "b3e2ef3b916fe7d1d9e5328967fb5eafea79c2d1832633ee8f90a766a714e55c",
+    "size": [
+      179,
+      193
+    ],
+    "id": 6,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 28,
+    "bbox_1000": [
+      722,
+      243,
+      830,
+      325
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\235ef93245dbbb1735e29ffef2440447049f66686ecfe0b4477384937b34c3ab.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-006.png",
+    "source_crop_size": [
+      260,
+      279
+    ],
+    "page_preview": "page-2-028.png",
+    "method": "native_extraction",
+    "new": "006-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
+        "question": "20-21期末-填6",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/235ef93245dbbb1735e29ffef2440447049f66686ecfe0b4477384937b34c3ab.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/235ef93245dbbb1735e29ffef2440447049f66686ecfe0b4477384937b34c3ab.jpg",
+        "sha256": "b3e2ef3b916fe7d1d9e5328967fb5eafea79c2d1832633ee8f90a766a714e55c",
+        "size": [
+          179,
+          193
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/006-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+    "question": "未标年份-期末二-选18",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/4b24848d2f76fd1e18cc7530f2ff7d8740a87a760dc5f5e2fc6ffc7850a9ac39.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/4b24848d2f76fd1e18cc7530f2ff7d8740a87a760dc5f5e2fc6ffc7850a9ac39.jpg",
+    "sha256": "fbe55c5ef0ec1c282be02b2afc9b899bec9d7e8d4d85157c150d0cd953ae1ef3",
+    "size": [
+      317,
+      184
+    ],
+    "id": 7,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 52,
+    "bbox_1000": [
+      635,
+      181,
+      826,
+      260
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\4b24848d2f76fd1e18cc7530f2ff7d8740a87a760dc5f5e2fc6ffc7850a9ac39.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-007.png",
+    "source_crop_size": [
+      458,
+      268
+    ],
+    "page_preview": "page-2-052.png",
+    "method": "native_extraction",
+    "new": "007-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+        "question": "未标年份-期末二-选18",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/4b24848d2f76fd1e18cc7530f2ff7d8740a87a760dc5f5e2fc6ffc7850a9ac39.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/4b24848d2f76fd1e18cc7530f2ff7d8740a87a760dc5f5e2fc6ffc7850a9ac39.jpg",
+        "sha256": "fbe55c5ef0ec1c282be02b2afc9b899bec9d7e8d4d85157c150d0cd953ae1ef3",
+        "size": [
+          317,
+          184
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/007-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+    "question": "学习指导-第15章-思考题-15-9",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_942.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_942.jpg",
+    "sha256": "deef458ea8412df3c5e5dbe6da16a6a4a984300e7a1a284b0d5fa61965cbf295",
+    "size": [
+      462,
+      268
+    ],
+    "id": 8,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 313,
+    "bbox_1000": [
+      95,
+      681,
+      374,
+      795
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\ce766dbcf1c043b8dd9e729545447d4116286d11b32659b84026a8baebeb210e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-008.png",
+    "source_crop_size": [
+      691,
+      399
+    ],
+    "page_preview": "page-3-313.png",
+    "method": "native_extraction",
+    "new": "008-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+        "question": "学习指导-第15章-思考题-15-9",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_942.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_942.jpg",
+        "sha256": "deef458ea8412df3c5e5dbe6da16a6a4a984300e7a1a284b0d5fa61965cbf295",
+        "size": [
+          462,
+          268
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/008-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+    "question": "学习指导-第15章-思考题-15-10",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_1026.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_1026.jpg",
+    "sha256": "d8f5f7a2623cceed1cde64c37ff73db8b7770083cf1adaf381e1496a60c14b45",
+    "size": [
+      360,
+      301
+    ],
+    "id": 9,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 314,
+    "bbox_1000": [
+      697,
+      103,
+      914,
+      231
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\dee3da6888661b3ca109ece6b335b215f94483e4e2d1b3e9a711065062f16cb9.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-009.png",
+    "source_crop_size": [
+      538,
+      448
+    ],
+    "page_preview": "page-3-314.png",
+    "method": "native_extraction",
+    "new": "009-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+        "question": "学习指导-第15章-思考题-15-10",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_1026.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_1026.jpg",
+        "sha256": "d8f5f7a2623cceed1cde64c37ff73db8b7770083cf1adaf381e1496a60c14b45",
+        "size": [
+          360,
+          301
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/009-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+    "question": "学习指导-第15章-习题-15-1",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_208.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_208.jpg",
+    "sha256": "965d7849fa88102ea8dfea10a233fa639209da07c9970cd78526126a04c0f06c",
+    "size": [
+      423,
+      309
+    ],
+    "id": 10,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 314,
+    "bbox_1000": [
+      137,
+      756,
+      393,
+      888
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\29e32f556edddf87d50ca12e9cc5b935695deb55071affbdd44d75ca45c36602.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-010.png",
+    "source_crop_size": [
+      634,
+      461
+    ],
+    "page_preview": "page-3-314.png",
+    "method": "native_extraction",
+    "new": "010-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+        "question": "学习指导-第15章-习题-15-1",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_208.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_208.jpg",
+        "sha256": "965d7849fa88102ea8dfea10a233fa639209da07c9970cd78526126a04c0f06c",
+        "size": [
+          423,
+          309
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/010-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+    "question": "学习指导-第15章-习题-15-7",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_643.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_643.jpg",
+    "sha256": "846f3ed6510ab14ef2eddce1b39b57dd9e7ae0483b7df9c98ace002bee761f70",
+    "size": [
+      781,
+      312
+    ],
+    "id": 11,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 317,
+    "bbox_1000": [
+      270,
+      599,
+      742,
+      732
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\8da5b020ce6654decabce9a4a043bca3b74e8f8138512a8e127429f4944307c8.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-011.png",
+    "source_crop_size": [
+      1170,
+      465
+    ],
+    "page_preview": "page-3-317.png",
+    "method": "native_extraction",
+    "new": "011-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+        "question": "学习指导-第15章-习题-15-7",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_643.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_643.jpg",
+        "sha256": "846f3ed6510ab14ef2eddce1b39b57dd9e7ae0483b7df9c98ace002bee761f70",
+        "size": [
+          781,
+          312
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/011-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+    "question": "学习指导-第15章-习题-15-7",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_113.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_113.jpg",
+    "sha256": "7d3f6568f7116acdf4c6fb740b4083a2b0e14e91a4d89a2b2bde3aae23a70a6b",
+    "size": [
+      592,
+      359
+    ],
+    "id": 12,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 317,
+    "bbox_1000": [
+      110,
+      99,
+      468,
+      253
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\18494acac63894ed351e2e3f6ab75b0e41bfc6b4b49d228392f85ec41566aa3c.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-012.png",
+    "source_crop_size": [
+      887,
+      539
+    ],
+    "page_preview": "page-3-317.png",
+    "method": "native_extraction",
+    "new": "012-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+        "question": "学习指导-第15章-习题-15-7",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_113.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_113.jpg",
+        "sha256": "7d3f6568f7116acdf4c6fb740b4083a2b0e14e91a4d89a2b2bde3aae23a70a6b",
+        "size": [
+          592,
+          359
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/012-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+    "question": "学习指导-第15章-习题-15-10",
+    "chapter": "15",
+    "target": "物理/10_题库/_assets/学习指导/p0181-0360_984.jpg",
+    "path": "10_题库/_assets/学习指导/p0181-0360_984.jpg",
+    "sha256": "fabf832de6fc811836b2674e87c05b16ec1cd86e15acfa43b8be70747451d19a",
+    "size": [
+      826,
+      376
+    ],
+    "id": 13,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 318,
+    "bbox_1000": [
+      260,
+      398,
+      759,
+      558
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\95095e80-fa73-4a89-af1a-e5622d1de690_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0181-0360\\extracted\\images\\d6248b348295187eddf3564f07132a93f84befa0811a50f6745314b967ca0279.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-013.png",
+    "source_crop_size": [
+      1236,
+      559
+    ],
+    "page_preview": "page-3-318.png",
+    "method": "native_extraction",
+    "new": "013-extracted.png",
+    "check": "原PDF原生提取，保留偏振用点/短线而非颜色，核对法线、入射/反射/折射方向、i0/i1/i2、n1/n2及光轴或转动ω；原有48°/60°/15°只在其原图保留，未推广到其他示意。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
+        "question": "学习指导-第15章-习题-15-10",
+        "chapter": "15",
+        "target": "物理/10_题库/_assets/学习指导/p0181-0360_984.jpg",
+        "path": "10_题库/_assets/学习指导/p0181-0360_984.jpg",
+        "sha256": "fabf832de6fc811836b2674e87c05b16ec1cd86e15acfa43b8be70747451d19a",
+        "size": [
+          826,
+          376
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/013-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/23_习题二十三 光的偏振（一）.md",
+    "question": "2",
+    "chapter": "15",
+    "target": "_assets/23_习题二十三 光的偏振（一）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/23_习题二十三 光的偏振（一）/图2.png",
+    "sha256": "7d3271ea8e07c4a972b705d414c88591fa715e698d2512a33a4622cffc089948",
+    "size": [
+      353,
+      228
+    ],
+    "id": 14,
+    "method": "reuse_extraction",
+    "new": "001-extracted.png",
+    "check": "同一习题册对应题，偏振点/短线、光轴、界面和角标核对后复用产物。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/23_习题二十三 光的偏振（一）.md",
+        "question": "2",
+        "chapter": "15",
+        "target": "_assets/23_习题二十三 光的偏振（一）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/23_习题二十三 光的偏振（一）/图2.png",
+        "sha256": "7d3271ea8e07c4a972b705d414c88591fa715e698d2512a33a4622cffc089948",
+        "size": [
+          353,
+          228
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/001-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/23_习题二十三 光的偏振（一）.md",
+    "question": "3",
+    "chapter": "15",
+    "target": "_assets/23_习题二十三 光的偏振（一）/图3.png|220",
+    "path": "大学物理习题册（上）/_assets/23_习题二十三 光的偏振（一）/图3.png",
+    "sha256": "7cd61663b65061153abd9748e11f6e531d192a3bb2c0462f68e3ea09b3833bdb",
+    "size": [
+      367,
+      250
+    ],
+    "id": 15,
+    "method": "reuse_extraction",
+    "new": "002-extracted.png",
+    "check": "同一习题册对应题，偏振点/短线、光轴、界面和角标核对后复用产物。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/23_习题二十三 光的偏振（一）.md",
+        "question": "3",
+        "chapter": "15",
+        "target": "_assets/23_习题二十三 光的偏振（一）/图3.png|220",
+        "path": "大学物理习题册（上）/_assets/23_习题二十三 光的偏振（一）/图3.png",
+        "sha256": "7cd61663b65061153abd9748e11f6e531d192a3bb2c0462f68e3ea09b3833bdb",
+        "size": [
+          367,
+          250
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/002-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/24_习题二十四 光的偏振（二）.md",
+    "question": "2",
+    "chapter": "15",
+    "target": "_assets/24_习题二十四 光的偏振（二）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/24_习题二十四 光的偏振（二）/图2.png",
+    "sha256": "9cd8114b6aea996aaac2d4de292ba0fd7214741f64e6e8195f0e46b37865af1e",
+    "size": [
+      336,
+      378
+    ],
+    "id": 16,
+    "method": "reuse_extraction",
+    "new": "003-extracted.png",
+    "check": "同一习题册对应题，偏振点/短线、光轴、界面和角标核对后复用产物。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/24_习题二十四 光的偏振（二）.md",
+        "question": "2",
+        "chapter": "15",
+        "target": "_assets/24_习题二十四 光的偏振（二）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/24_习题二十四 光的偏振（二）/图2.png",
+        "sha256": "9cd8114b6aea996aaac2d4de292ba0fd7214741f64e6e8195f0e46b37865af1e",
+        "size": [
+          336,
+          378
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/003-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/24_习题二十四 光的偏振（二）.md",
+    "question": "6",
+    "chapter": "15",
+    "target": "_assets/24_习题二十四 光的偏振（二）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/24_习题二十四 光的偏振（二）/图6.png",
+    "sha256": "7b21e813e015ef4d9c0f5192a71ddfe72763cf9345566955bb2cbc335c14275f",
+    "size": [
+      441,
+      283
+    ],
+    "id": 17,
+    "method": "reuse_redraw",
+    "new": "004.svg",
+    "check": "同一习题册对应题，偏振点/短线、光轴、界面和角标核对后复用产物。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/24_习题二十四 光的偏振（二）.md",
+        "question": "6",
+        "chapter": "15",
+        "target": "_assets/24_习题二十四 光的偏振（二）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/24_习题二十四 光的偏振（二）/图6.png",
+        "sha256": "7b21e813e015ef4d9c0f5192a71ddfe72763cf9345566955bb2cbc335c14275f",
+        "size": [
+          441,
+          283
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/004.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/24_习题二十四 光的偏振（二）.md",
+    "question": "7",
+    "chapter": "15",
+    "target": "_assets/24_习题二十四 光的偏振（二）/图7.png|220",
+    "path": "大学物理习题册（上）/_assets/24_习题二十四 光的偏振（二）/图7.png",
+    "sha256": "b421c07588bd5525c7dff20e59fcc1a5def3d10255ed9a68c52a86cdd7479280",
+    "size": [
+      531,
+      290
+    ],
+    "id": 18,
+    "method": "reuse_extraction",
+    "new": "005-extracted.png",
+    "check": "同一习题册对应题，偏振点/短线、光轴、界面和角标核对后复用产物。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/24_习题二十四 光的偏振（二）.md",
+        "question": "7",
+        "chapter": "15",
+        "target": "_assets/24_习题二十四 光的偏振（二）/图7.png|220",
+        "path": "大学物理习题册（上）/_assets/24_习题二十四 光的偏振（二）/图7.png",
+        "sha256": "b421c07588bd5525c7dff20e59fcc1a5def3d10255ed9a68c52a86cdd7479280",
+        "size": [
+          531,
+          290
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/15_偏振/005-extracted.png"
+  }
+]
