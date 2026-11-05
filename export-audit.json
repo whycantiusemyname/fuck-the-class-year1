@@ -1,6 +1,6 @@
 {
-  "files": 2041,
-  "MiB": 978.08,
+  "files": 2065,
+  "MiB": 978.51,
   "retained_cache_files": 699,
   "preexisting_unresolved_links": [],
   "excluded_private_dependencies": [
@@ -1098,8 +1098,8 @@
     "pages": 14,
     "new_questions": 39,
     "duplicate_mappings": 9,
-    "ocr_verified": 37,
-    "ocr_needs_review": 2,
+    "ocr_verified": 35,
+    "ocr_needs_review": 4,
     "completion_and_intake_verified_in_source_workspace": true,
     "certificates_edited_manually": false,
     "runtime_cache_exported": false,
@@ -1192,5 +1192,49 @@
     "source_pages_render_identical": 16,
     "readonly_sources_verified": 42,
     "s2": "not regenerated"
+  },
+  "electronic_review_redraw_20261106": {
+    "矢量图数量": 21,
+    "已逐图查看": true,
+    "运放内部穿线检查": "通过",
+    "需复核题号": [
+      "A4",
+      "A7",
+      "C3",
+      "C14"
+    ],
+    "原PDF与认证转换未修改": true,
+    "S1入库已重新绑定": true,
+    "上传工作脚本": false,
+    "上传重绘PNG": false,
+    "同步文件": [
+      "电路分析/10_题库/电子线路期末复习_题面整理.md",
+      "电路分析/10_题库/电子线路期末复习_复习要求与来源.md",
+      "电路分析/10_题库/电子线路期末复习_电路图重绘说明.md",
+      "电路分析/10_题库/assets/电子线路期末复习/strict-verification-20261106.json",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/重绘核对记录.md",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/A4.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/A7.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/A9-wave.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/A9.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/B19-a.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/B19-b.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/B20.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/B21.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/C1.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/C12.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/C13.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/C14.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/C15.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/C2.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/C3.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/C4.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/C5.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/C8.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/C9.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/OP-symbol.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/OP-transfer.svg",
+      "电路分析/10_题库/assets/电子线路期末复习/redrawn/redraw-ledger.json"
+    ]
   }
 }

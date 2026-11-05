@@ -3,7 +3,7 @@
   "source_sha256": "163e41f39e8da610b91858c4f05e27a7b1bd7bed66c3ed8d890cc7aae55f42b8",
   "final_markdown_sha256": "655c8488fd7d26e56bf6a917ff9d6315b68a147656d74e962faa392dbd332456",
   "completion_sha256": "5cd22d77cb7b2c733e2c0e56f7a2781e2294d4400a2b4e3397a4b3ffc00d8252",
-  "intake_sha256": "f9a58a4312874b82609932ce3c1315f6cadd7e791eaa1c6d7299a9f2ce448270",
+  "intake_sha256": "20f75ce36d3a011bca26311029edb617da7803983db537efdd7c676b1220285b",
   "source_pages": 14,
   "segment_coverage": "1/1",
   "repaired_merge_equal": true,
@@ -12,9 +12,11 @@
   "new_questions": 39,
   "duplicate_mappings": 9,
   "known_source_caveats": [
-    "A4: left supply value absent in source",
-    "C3: source circuit at right scan edge",
-    "A7 and B14: source answers not adjudicated"
+    "A4：原电源值缺失",
+    "A7：输入二极管极性按题意重建，待复核",
+    "C3：候选反馈接法，待复核",
+    "C14：电阻角色图文冲突，待复核",
+    "A7 与 B14：原参考答案未作裁决"
   ],
   "question_forms": {
     "填空题": 29,
@@ -23,13 +25,15 @@
     "简答题": 4
   },
   "ocr_status": {
-    "已对照 PDF 复核": 37,
-    "待复核": 2
+    "已对照 PDF 复核": 35,
+    "待复核": 4
   },
   "controlled_tags": 40,
   "tag_counts_and_unique_themes": "passed",
   "control_characters": 0,
   "latex_issues": 0,
   "broken_links": 0,
-  "s2_regeneration_required": true
+  "s2_regeneration_required": true,
+  "redrawn_svg_count": 21,
+  "redraw_visual_review": "21 张已逐图检查，运放内部穿线检查通过，重建假设另列中文说明"
 }

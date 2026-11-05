@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 88796,
-    "sha256": "7cf12b36724869ff112bdc111af45005c7eb0362393e89b5983e61a84e0a3403"
+    "bytes": 90207,
+    "sha256": "02f5d3036108e51a6d9bd30fa5f008da8736150e194b991702660ace83329ef6"
   },
   {
     "path": "tools/verify_share.py",
@@ -8620,14 +8620,129 @@
     "sha256": "a9e6df08aba11400bbf47b2d8c9d0ad8dc8f032ee2613c1acffa8801e03c6507"
   },
   {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/A4.svg",
+    "bytes": 22008,
+    "sha256": "fb92e99366a38930d686895df1eef304cd7e327f60464bea20e8c973578a6005"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/A7.svg",
+    "bytes": 24686,
+    "sha256": "15ed7fdcc4366e0e62dc4e530d44757af8aced79ab59ae454819ae02fd784c7f"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/A9-wave.svg",
+    "bytes": 23078,
+    "sha256": "8b5609d7e52547e45f5a61d100d545860f5fe54e360779d8580271be79e1f9a2"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/A9.svg",
+    "bytes": 27113,
+    "sha256": "117326dd002e16bded669a14fcbb56cb9930bd4d9c7ae7c55f70cad18ab5f379"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/B19-a.svg",
+    "bytes": 24715,
+    "sha256": "6c28c38eed62c88d5fc2ce895ab6cf2404825e3d385fcb8c782fbf3692fcc914"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/B19-b.svg",
+    "bytes": 23413,
+    "sha256": "1412ceff2380f4e02872930b4411be3a759c892f10badf775381f1dc3087a1ee"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/B20.svg",
+    "bytes": 26646,
+    "sha256": "5f08092ede88c2dd844c285db7950be13fcab510c525daa57126d6e1158153ab"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/B21.svg",
+    "bytes": 22981,
+    "sha256": "18eb5d74ee4278852c9e81dbc8184ce1153048f12e5a1e129733508d0472979b"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/C1.svg",
+    "bytes": 18270,
+    "sha256": "01e72a2373428f675719f1fe90def9bb84395b00674393601d95697fd1f653df"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/C12.svg",
+    "bytes": 12574,
+    "sha256": "24e662a239bdc05ce140dd596a68fb9dd344454d3be370d369ef4abea6321b33"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/C13.svg",
+    "bytes": 17621,
+    "sha256": "14b724a0ec1040678c6bd4e9d48deedbc12f9589688283bce1a4e20007aace2d"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/C14.svg",
+    "bytes": 13102,
+    "sha256": "f2c4819902f178a3b9570e1deed769185b410ffc133e5f687efda9bd22b074e6"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/C15.svg",
+    "bytes": 14255,
+    "sha256": "7a58c04b170f3e12dc4b1970049a042d1d07e281eaa029f280d5c725d6064c29"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/C2.svg",
+    "bytes": 12378,
+    "sha256": "760a25c8e1daefa7c639ade9c4f410d7d101f9f3661d9a7b5e327633df01b959"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/C3.svg",
+    "bytes": 37449,
+    "sha256": "30edd24c2278956aadd5ef5f2ec4e8865075dbe5c4ef971bbff293b4d50cf8c1"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/C4.svg",
+    "bytes": 14784,
+    "sha256": "41707cdb0c32d1f46b649c4844a2f26f4c5c6e8a32f3207beccfcce0fbab9396"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/C5.svg",
+    "bytes": 19253,
+    "sha256": "c76cb43c3c817c77cb3bb1d4a7ec8adcd9fa48d6dfdb62f2ccabc415303c969d"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/C8.svg",
+    "bytes": 22981,
+    "sha256": "5dfcaca83c9fdc7cade089d210bca3ade11e3ed21bbcb40c42b2954c70d4fd41"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/C9.svg",
+    "bytes": 24568,
+    "sha256": "4ce463dff437db184002a28cf480e5ad636a9bcd739000628f9e4cef138eda9f"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/OP-symbol.svg",
+    "bytes": 11064,
+    "sha256": "8a735ef25a88d63df28e4efa377d667e3308a58eb445f4252523ef9a30f08555"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/OP-transfer.svg",
+    "bytes": 8009,
+    "sha256": "10d75e8a1bfab4c9d9bcd9a00b36db08a399738ae4f8d2d9ca1131bae2f71389"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/redraw-ledger.json",
+    "bytes": 27052,
+    "sha256": "34a34c87dbb175fe0846c7ac9daf453a029be84bc1ccc9af8c0c41dad4b7bcfe"
+  },
+  {
+    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/重绘核对记录.md",
+    "bytes": 898,
+    "sha256": "b8615ec2d58d558b48b4a7df610963fbed8cc1ce5c98a3a5eb4b46d525a9f923"
+  },
+  {
     "path": "电路分析/10_题库/assets/电子线路期末复习/source.pdf",
     "bytes": 9849758,
     "sha256": "163e41f39e8da610b91858c4f05e27a7b1bd7bed66c3ed8d890cc7aae55f42b8"
   },
   {
     "path": "电路分析/10_题库/assets/电子线路期末复习/strict-verification-20261106.json",
-    "bytes": 1140,
-    "sha256": "8c9db67590cc6fcdf1f8f0c76aed99b1cdd89bec4f7b538f0e185ed793cf1ee2"
+    "bytes": 1380,
+    "sha256": "7ea1248d66be2ebd8017d8f6bdbf956696aaf29a19d5d04d83d322b957741320"
   },
   {
     "path": "电路分析/10_题库/仿真作业1_题面整理.md",
@@ -9826,13 +9941,18 @@
   },
   {
     "path": "电路分析/10_题库/电子线路期末复习_复习要求与来源.md",
-    "bytes": 12351,
-    "sha256": "0b72688b2d0adf2bc9850d91a2e821654588c1f43f2ac52012cc17bf63ede143"
+    "bytes": 12470,
+    "sha256": "7ca5c40c2c0ee66ee08725b5374b5d7faac4b775f662e6c60167d395dd48020b"
+  },
+  {
+    "path": "电路分析/10_题库/电子线路期末复习_电路图重绘说明.md",
+    "bytes": 8587,
+    "sha256": "0c937f1ea26101cf8c0ad55af062de3844bcf5def843977f279e53dd7479296e"
   },
   {
     "path": "电路分析/10_题库/电子线路期末复习_题面整理.md",
-    "bytes": 18333,
-    "sha256": "6a3c44d48e03c9b81374665cdf776bfd41e3739cf69ee581a32efc6f76bfecbf"
+    "bytes": 19895,
+    "sha256": "bcd5de031523d02b8bc4bec26a83f28e8e4d05898fe099c891f1bbcff5112c7d"
   },
   {
     "path": "电路分析/10_题库/第5章课后习题_覆盖核查.md",
