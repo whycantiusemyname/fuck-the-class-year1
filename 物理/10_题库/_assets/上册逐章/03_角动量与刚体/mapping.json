@@ -1,0 +1,2362 @@
+[
+  {
+    "document": "10_题库/习题册/大学物理习题册_10_角动量守恒一_题面整理.md",
+    "question": "习题册-章节10-题1",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/习题册/b794051d67e64cc80c2da1c4b97e417d67107c239a94bcd205aaa1cdf32b0820.jpg",
+    "path": "10_题库/_assets/习题册/b794051d67e64cc80c2da1c4b97e417d67107c239a94bcd205aaa1cdf32b0820.jpg",
+    "sha256": "759682bacef5ea76dedb956037b461ed828ac327b0c64d0eec0cdcbe320fe486",
+    "size": [
+      406,
+      140
+    ],
+    "id": 1,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 11,
+    "bbox_1000": [
+      345,
+      281,
+      477,
+      347
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\b794051d67e64cc80c2da1c4b97e417d67107c239a94bcd205aaa1cdf32b0820.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-001.png",
+    "source_crop_size": [
+      585,
+      201
+    ],
+    "page_preview": "page-1-011.png",
+    "method": "native_extraction",
+    "new": "001-extracted.png",
+    "check": "椭圆A/B、RA/RB和中心点，未引入数值偏心率。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_10_角动量守恒一_题面整理.md",
+        "question": "习题册-章节10-题1",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/习题册/b794051d67e64cc80c2da1c4b97e417d67107c239a94bcd205aaa1cdf32b0820.jpg",
+        "path": "10_题库/_assets/习题册/b794051d67e64cc80c2da1c4b97e417d67107c239a94bcd205aaa1cdf32b0820.jpg",
+        "sha256": "759682bacef5ea76dedb956037b461ed828ac327b0c64d0eec0cdcbe320fe486",
+        "size": [
+          406,
+          140
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/001-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_10_角动量守恒一_题面整理.md",
+    "question": "习题册-章节10-题6",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/习题册/f73a2775fdac99dd10da3578d606acaa91d7bdd4cbc90d50438e4ca9cf8a3ca5.jpg",
+    "path": "10_题库/_assets/习题册/f73a2775fdac99dd10da3578d606acaa91d7bdd4cbc90d50438e4ca9cf8a3ca5.jpg",
+    "sha256": "67f6f1c3f450758e327f2f823276972ac04ba52c9e93c05dbf3531a95b981c76",
+    "size": [
+      317,
+      209
+    ],
+    "id": 2,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 11,
+    "bbox_1000": [
+      545,
+      247,
+      648,
+      346
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\f73a2775fdac99dd10da3578d606acaa91d7bdd4cbc90d50438e4ca9cf8a3ca5.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-002.png",
+    "source_crop_size": [
+      456,
+      301
+    ],
+    "page_preview": "page-1-011.png",
+    "method": "native_extraction",
+    "new": "002-extracted.png",
+    "check": "转角弹簧的水平l、竖直l0、v0向右与末态v右上；保持原图标注。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_10_角动量守恒一_题面整理.md",
+        "question": "习题册-章节10-题6",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/习题册/f73a2775fdac99dd10da3578d606acaa91d7bdd4cbc90d50438e4ca9cf8a3ca5.jpg",
+        "path": "10_题库/_assets/习题册/f73a2775fdac99dd10da3578d606acaa91d7bdd4cbc90d50438e4ca9cf8a3ca5.jpg",
+        "sha256": "67f6f1c3f450758e327f2f823276972ac04ba52c9e93c05dbf3531a95b981c76",
+        "size": [
+          317,
+          209
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/002-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_10_角动量守恒一_题面整理.md",
+    "question": "习题册-章节10-题7",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/习题册/298d75c338a5bb3c837e87d4c6e2b32f5c0cdaebc86e8c55d8d6fe870640905b.jpg",
+    "path": "10_题库/_assets/习题册/298d75c338a5bb3c837e87d4c6e2b32f5c0cdaebc86e8c55d8d6fe870640905b.jpg",
+    "sha256": "69e37e7163cd1c50c99a58447e2f09bdd880bd341fa88424f4ed2c119ca1f26e",
+    "size": [
+      434,
+      184
+    ],
+    "id": 3,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 11,
+    "bbox_1000": [
+      792,
+      629,
+      933,
+      716
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\298d75c338a5bb3c837e87d4c6e2b32f5c0cdaebc86e8c55d8d6fe870640905b.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-003.png",
+    "source_crop_size": [
+      625,
+      264
+    ],
+    "page_preview": "page-1-011.png",
+    "method": "native_extraction",
+    "new": "003-extracted.png",
+    "check": "圆M/O/R，A上质点m以v0向右，C/O′/θ与末态v右下。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_10_角动量守恒一_题面整理.md",
+        "question": "习题册-章节10-题7",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/习题册/298d75c338a5bb3c837e87d4c6e2b32f5c0cdaebc86e8c55d8d6fe870640905b.jpg",
+        "path": "10_题库/_assets/习题册/298d75c338a5bb3c837e87d4c6e2b32f5c0cdaebc86e8c55d8d6fe870640905b.jpg",
+        "sha256": "69e37e7163cd1c50c99a58447e2f09bdd880bd341fa88424f4ed2c119ca1f26e",
+        "size": [
+          434,
+          184
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/003-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_11_角动量守恒（二）_题面整理.md",
+    "question": "习题册-章节11-题2",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/习题册/0f4032424386dc3a97eeb3fba82d2c4363dfd1fb0041afc7329570756b2f3167.jpg",
+    "path": "10_题库/_assets/习题册/0f4032424386dc3a97eeb3fba82d2c4363dfd1fb0041afc7329570756b2f3167.jpg",
+    "sha256": "a13a224f40b50215f777d6111b87f6f982043175516b0a8533c5f87b836c5649",
+    "size": [
+      340,
+      237
+    ],
+    "id": 4,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 12,
+    "bbox_1000": [
+      359,
+      523,
+      469,
+      636
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\0f4032424386dc3a97eeb3fba82d2c4363dfd1fb0041afc7329570756b2f3167.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-004.png",
+    "source_crop_size": [
+      488,
+      343
+    ],
+    "page_preview": "page-1-012.png",
+    "method": "redrawn",
+    "new": "004.svg",
+    "check": "A/B两固定滑轮；左挂M，右绳端受F向下。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_11_角动量守恒（二）_题面整理.md",
+        "question": "习题册-章节11-题2",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/习题册/0f4032424386dc3a97eeb3fba82d2c4363dfd1fb0041afc7329570756b2f3167.jpg",
+        "path": "10_题库/_assets/习题册/0f4032424386dc3a97eeb3fba82d2c4363dfd1fb0041afc7329570756b2f3167.jpg",
+        "sha256": "a13a224f40b50215f777d6111b87f6f982043175516b0a8533c5f87b836c5649",
+        "size": [
+          340,
+          237
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/004.svg"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_11_角动量守恒（二）_题面整理.md",
+    "question": "习题册-章节11-题6",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/习题册/19c8864032e57d883c7cffd4b17a4ee0e0e5290e2a87e1d17770060d3012d2ca.jpg",
+    "path": "10_题库/_assets/习题册/19c8864032e57d883c7cffd4b17a4ee0e0e5290e2a87e1d17770060d3012d2ca.jpg",
+    "sha256": "e874a2533b25322e95e48dc03602a3f1ad43a903784cd363a247beadeca047a5",
+    "size": [
+      295,
+      284
+    ],
+    "id": 5,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 12,
+    "bbox_1000": [
+      824,
+      641,
+      920,
+      776
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\19c8864032e57d883c7cffd4b17a4ee0e0e5290e2a87e1d17770060d3012d2ca.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-005.png",
+    "source_crop_size": [
+      425,
+      410
+    ],
+    "page_preview": "page-1-012.png",
+    "method": "native_extraction",
+    "new": "005-extracted.png",
+    "check": "两轮M1/M2与R/r，皮带与右端悬物m的完整连接保留。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_11_角动量守恒（二）_题面整理.md",
+        "question": "习题册-章节11-题6",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/习题册/19c8864032e57d883c7cffd4b17a4ee0e0e5290e2a87e1d17770060d3012d2ca.jpg",
+        "path": "10_题库/_assets/习题册/19c8864032e57d883c7cffd4b17a4ee0e0e5290e2a87e1d17770060d3012d2ca.jpg",
+        "sha256": "e874a2533b25322e95e48dc03602a3f1ad43a903784cd363a247beadeca047a5",
+        "size": [
+          295,
+          284
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/005-extracted.png"
+  },
+  {
+    "document": "10_题库/习题册/大学物理习题册_12_角动量守恒（三）_题面整理.md",
+    "question": "习题册-章节12-题2",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/习题册/de7ef44fd6baedc0ed769b40bd167b944ee7ce7be60c8641cf4b063b36eb6bf4.jpg",
+    "path": "10_题库/_assets/习题册/de7ef44fd6baedc0ed769b40bd167b944ee7ce7be60c8641cf4b063b36eb6bf4.jpg",
+    "sha256": "b73dad3bd06c4d862d59d74f72926fbb9500ebd2113fd69e0709ff3486393575",
+    "size": [
+      404,
+      184
+    ],
+    "id": 6,
+    "source_pdf": "00_原材料\\习题册\\大学物理习题册（上）.pdf",
+    "pdf_page": 13,
+    "bbox_1000": [
+      305,
+      468,
+      437,
+      555
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\ecbe1945-3a40-455b-806a-a260694b4043_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理习题册（上）\\results\\p0001-0032\\extracted\\images\\de7ef44fd6baedc0ed769b40bd167b944ee7ce7be60c8641cf4b063b36eb6bf4.jpg",
+    "extraction": "pdf_region_288dpi",
+    "source_crop": "source-006.png",
+    "source_crop_size": [
+      585,
+      264
+    ],
+    "page_preview": "page-1-013.png",
+    "method": "retained_clear",
+    "check": "本图已有清晰的人工整理示意；原有v/2与v、O及杆图可读，按排除已清楚图的规则保留。旧版含题面文字，不裁掉或擅自移除。",
+    "references": [
+      {
+        "document": "10_题库/习题册/大学物理习题册_12_角动量守恒（三）_题面整理.md",
+        "question": "习题册-章节12-题2",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/习题册/de7ef44fd6baedc0ed769b40bd167b944ee7ce7be60c8641cf4b063b36eb6bf4.jpg",
+        "path": "10_题库/_assets/习题册/de7ef44fd6baedc0ed769b40bd167b944ee7ce7be60c8641cf4b063b36eb6bf4.jpg",
+        "sha256": "b73dad3bd06c4d862d59d74f72926fbb9500ebd2113fd69e0709ff3486393575",
+        "size": [
+          404,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选15",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/043780e762fa85e9091c4465e7868f4dddf14eec88217b7b4b1a264041b16132.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/043780e762fa85e9091c4465e7868f4dddf14eec88217b7b4b1a264041b16132.jpg",
+    "sha256": "77e9e9714afb74c8b48bf63f162df675d19e17cc6ef3fabe349ccd8ecc92816d",
+    "size": [
+      267,
+      179
+    ],
+    "id": 7,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 16,
+    "bbox_1000": [
+      702,
+      476,
+      863,
+      552
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\043780e762fa85e9091c4465e7868f4dddf14eec88217b7b4b1a264041b16132.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-007.png",
+    "source_crop_size": [
+      386,
+      257
+    ],
+    "page_preview": "page-2-016.png",
+    "method": "redrawn",
+    "new": "007.svg",
+    "check": "桌洞O至桌上物块距离R；绳端速度v竖直向下。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选15",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/043780e762fa85e9091c4465e7868f4dddf14eec88217b7b4b1a264041b16132.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/043780e762fa85e9091c4465e7868f4dddf14eec88217b7b4b1a264041b16132.jpg",
+        "sha256": "77e9e9714afb74c8b48bf63f162df675d19e17cc6ef3fabe349ccd8ecc92816d",
+        "size": [
+          267,
+          179
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/007.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选16",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/b8a6e2fcb663ec7dca0b3a655249fc5be8c7b8d4606214e054505de1135e29b1.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/b8a6e2fcb663ec7dca0b3a655249fc5be8c7b8d4606214e054505de1135e29b1.jpg",
+    "sha256": "2dc4e7291d2f492f169b2d3c74a7ea381ae041961dab17caa8f7883f7b780b13",
+    "size": [
+      229,
+      162
+    ],
+    "id": 8,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 16,
+    "bbox_1000": [
+      757,
+      573,
+      895,
+      642
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\b8a6e2fcb663ec7dca0b3a655249fc5be8c7b8d4606214e054505de1135e29b1.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-008.png",
+    "source_crop_size": [
+      331,
+      234
+    ],
+    "page_preview": "page-2-016.png",
+    "method": "native_extraction",
+    "new": "008-extracted.png",
+    "check": "A/B两定滑轮，右F向下，左挂物；不添加原图未标质量。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选16",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/b8a6e2fcb663ec7dca0b3a655249fc5be8c7b8d4606214e054505de1135e29b1.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/b8a6e2fcb663ec7dca0b3a655249fc5be8c7b8d4606214e054505de1135e29b1.jpg",
+        "sha256": "2dc4e7291d2f492f169b2d3c74a7ea381ae041961dab17caa8f7883f7b780b13",
+        "size": [
+          229,
+          162
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/008-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-选18",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/f1984682d026269b0cf94c8d98c211cdac3d43132f3c447fa7b179b8f160af89.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/f1984682d026269b0cf94c8d98c211cdac3d43132f3c447fa7b179b8f160af89.jpg",
+    "sha256": "385ad72104f2f8d31e5cded7e04a2744fd3b6998f1a7d9bdf1ae272a32ee7848",
+    "size": [
+      293,
+      171
+    ],
+    "id": 9,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 16,
+    "bbox_1000": [
+      719,
+      831,
+      895,
+      903
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\f1984682d026269b0cf94c8d98c211cdac3d43132f3c447fa7b179b8f160af89.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-009.png",
+    "source_crop_size": [
+      422,
+      244
+    ],
+    "page_preview": "page-2-016.png",
+    "method": "native_extraction",
+    "new": "009-extracted.png",
+    "check": "细杆中央转轴O，d左右对称，原图10cm及总长l尺寸保留。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-选18",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/f1984682d026269b0cf94c8d98c211cdac3d43132f3c447fa7b179b8f160af89.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/f1984682d026269b0cf94c8d98c211cdac3d43132f3c447fa7b179b8f160af89.jpg",
+        "sha256": "385ad72104f2f8d31e5cded7e04a2744fd3b6998f1a7d9bdf1ae272a32ee7848",
+        "size": [
+          293,
+          171
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/009-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+    "question": "11-12期中-计2",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/96cf36ceb69be748f481cdc811680fa17bb28b5f1acf4918a6f3c240dab1ffa3.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/96cf36ceb69be748f481cdc811680fa17bb28b5f1acf4918a6f3c240dab1ffa3.jpg",
+    "sha256": "cc544b8ca4c58ab388a375370429839aa11fabb192da650dffaf9190fb0ee504",
+    "size": [
+      282,
+      265
+    ],
+    "id": 10,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 18,
+    "bbox_1000": [
+      727,
+      131,
+      897,
+      244
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\96cf36ceb69be748f481cdc811680fa17bb28b5f1acf4918a6f3c240dab1ffa3.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-010.png",
+    "source_crop_size": [
+      409,
+      384
+    ],
+    "page_preview": "page-2-018.png",
+    "method": "native_extraction",
+    "new": "010-extracted.png",
+    "check": "转盘O、A、B、R/R/2、ω与v/2v的方向按原像素保留。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+        "question": "11-12期中-计2",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/96cf36ceb69be748f481cdc811680fa17bb28b5f1acf4918a6f3c240dab1ffa3.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/96cf36ceb69be748f481cdc811680fa17bb28b5f1acf4918a6f3c240dab1ffa3.jpg",
+        "sha256": "cc544b8ca4c58ab388a375370429839aa11fabb192da650dffaf9190fb0ee504",
+        "size": [
+          282,
+          265
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/010-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+    "question": "15-16期中-问2",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/ba2efb8e5206cc1e6d2513a6243baac85f5f0bd087ef775a27b0ad3850a05b30.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/ba2efb8e5206cc1e6d2513a6243baac85f5f0bd087ef775a27b0ad3850a05b30.jpg",
+    "sha256": "7cd9073dd1b8e400d4f3e762791b09ade69a1aaf550ec3f10ea3ba660ffa8149",
+    "size": [
+      337,
+      129
+    ],
+    "id": 11,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 12,
+    "bbox_1000": [
+      692,
+      693,
+      895,
+      747
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\ba2efb8e5206cc1e6d2513a6243baac85f5f0bd087ef775a27b0ad3850a05b30.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-011.png",
+    "source_crop_size": [
+      488,
+      184
+    ],
+    "page_preview": "page-2-012.png",
+    "method": "native_extraction",
+    "new": "011-extracted.png",
+    "check": "O处桌洞、细绳下垂箭头与桌上块；不补R或未知力。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+        "question": "15-16期中-问2",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/ba2efb8e5206cc1e6d2513a6243baac85f5f0bd087ef775a27b0ad3850a05b30.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/ba2efb8e5206cc1e6d2513a6243baac85f5f0bd087ef775a27b0ad3850a05b30.jpg",
+        "sha256": "7cd9073dd1b8e400d4f3e762791b09ade69a1aaf550ec3f10ea3ba660ffa8149",
+        "size": [
+          337,
+          129
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/011-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+    "question": "15-16期中-证3",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/2673a6f9e0202aeb9df0eaaeaa264e21270817d0a1424a9f4fb09dad02a5572c.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/2673a6f9e0202aeb9df0eaaeaa264e21270817d0a1424a9f4fb09dad02a5572c.jpg",
+    "sha256": "b5214d5759de7a993b4c70e6f44b679d327006c32654e0a1334c0c635a784a77",
+    "size": [
+      228,
+      189
+    ],
+    "id": 12,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 14,
+    "bbox_1000": [
+      732,
+      139,
+      870,
+      219
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\2673a6f9e0202aeb9df0eaaeaa264e21270817d0a1424a9f4fb09dad02a5572c.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-012.png",
+    "source_crop_size": [
+      332,
+      272
+    ],
+    "page_preview": "page-2-014.png",
+    "method": "native_extraction",
+    "new": "012-extracted.png",
+    "check": "左壁铰接杆、接触圆轮A/B及质量半径，保留轮间接触关系。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+        "question": "15-16期中-证3",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/2673a6f9e0202aeb9df0eaaeaa264e21270817d0a1424a9f4fb09dad02a5572c.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/2673a6f9e0202aeb9df0eaaeaa264e21270817d0a1424a9f4fb09dad02a5572c.jpg",
+        "sha256": "b5214d5759de7a993b4c70e6f44b679d327006c32654e0a1334c0c635a784a77",
+        "size": [
+          228,
+          189
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/012-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+    "question": "15-16期中-问4",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/18dfb09358f42a9c8ece5c5312da0eb470fdc03ccf85feb044400fb8fc3fd690.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/18dfb09358f42a9c8ece5c5312da0eb470fdc03ccf85feb044400fb8fc3fd690.jpg",
+    "sha256": "4aaa584519d332f97789dab547b670343df8cbe726f915ce040c128af5a9f21d",
+    "size": [
+      220,
+      293
+    ],
+    "id": 13,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 14,
+    "bbox_1000": [
+      722,
+      626,
+      855,
+      751
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\18dfb09358f42a9c8ece5c5312da0eb470fdc03ccf85feb044400fb8fc3fd690.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-013.png",
+    "source_crop_size": [
+      320,
+      424
+    ],
+    "page_preview": "page-2-014.png",
+    "method": "native_extraction",
+    "new": "013-extracted.png",
+    "check": "圆M、O/R、A在顶部，入射v0及α相对水平，不更换角度基准。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+        "question": "15-16期中-问4",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/18dfb09358f42a9c8ece5c5312da0eb470fdc03ccf85feb044400fb8fc3fd690.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/18dfb09358f42a9c8ece5c5312da0eb470fdc03ccf85feb044400fb8fc3fd690.jpg",
+        "sha256": "4aaa584519d332f97789dab547b670343df8cbe726f915ce040c128af5a9f21d",
+        "size": [
+          220,
+          293
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/013-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+    "question": "16-17期中-选7",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/d3ab3474aef8ab87a39e98da179de1e841137b2baf56bcc6546d0bc2f7e50da6.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/d3ab3474aef8ab87a39e98da179de1e841137b2baf56bcc6546d0bc2f7e50da6.jpg",
+    "sha256": "20232f88f0cb1d3d97d521f28b68804bda89186427ac861fe12e1eb4176ce8a7",
+    "size": [
+      162,
+      195
+    ],
+    "id": 14,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 6,
+    "bbox_1000": [
+      715,
+      824,
+      813,
+      907
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\d3ab3474aef8ab87a39e98da179de1e841137b2baf56bcc6546d0bc2f7e50da6.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-014.png",
+    "source_crop_size": [
+      236,
+      282
+    ],
+    "page_preview": "page-2-006.png",
+    "method": "redrawn",
+    "new": "014.svg",
+    "check": "顶端O固定杆，小球自左向右碰杆；未添加碰后方向。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+        "question": "16-17期中-选7",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/d3ab3474aef8ab87a39e98da179de1e841137b2baf56bcc6546d0bc2f7e50da6.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/d3ab3474aef8ab87a39e98da179de1e841137b2baf56bcc6546d0bc2f7e50da6.jpg",
+        "sha256": "20232f88f0cb1d3d97d521f28b68804bda89186427ac861fe12e1eb4176ce8a7",
+        "size": [
+          162,
+          195
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/014.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+    "question": "18-19期中-填2",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/e8c9a236578c59d50a3c7b77024125fd5c059e7e40116dc15ef159e73dd087ea.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/e8c9a236578c59d50a3c7b77024125fd5c059e7e40116dc15ef159e73dd087ea.jpg",
+    "sha256": "418bd01089d1e1f12a44549c0bf1be16736e498551f3f6ca77d7b345d31d5870",
+    "size": [
+      599,
+      323
+    ],
+    "id": 15,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 2,
+    "bbox_1000": [
+      552,
+      237,
+      914,
+      375
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\e8c9a236578c59d50a3c7b77024125fd5c059e7e40116dc15ef159e73dd087ea.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-015.png",
+    "source_crop_size": [
+      868,
+      468
+    ],
+    "page_preview": "page-2-002.png",
+    "method": "native_extraction",
+    "new": "015-extracted.png",
+    "check": "卫星椭圆和地心O、R，A1/A2、l1/l2保持原图，不将椭圆改为同心圆。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+        "question": "18-19期中-填2",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/e8c9a236578c59d50a3c7b77024125fd5c059e7e40116dc15ef159e73dd087ea.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/e8c9a236578c59d50a3c7b77024125fd5c059e7e40116dc15ef159e73dd087ea.jpg",
+        "sha256": "418bd01089d1e1f12a44549c0bf1be16736e498551f3f6ca77d7b345d31d5870",
+        "size": [
+          599,
+          323
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/015-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+    "question": "18-19期中-计1",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/d061d8c727b236d1f34286223f234ac69b5355190db9e61167f19552d974a6d0.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/d061d8c727b236d1f34286223f234ac69b5355190db9e61167f19552d974a6d0.jpg",
+    "sha256": "cff1634d1f7ba097852520203ba86fba4eb41d003919d0f1612aa28c59adf1e1",
+    "size": [
+      181,
+      209
+    ],
+    "id": 16,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 2,
+    "bbox_1000": [
+      769,
+      623,
+      878,
+      712
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\d061d8c727b236d1f34286223f234ac69b5355190db9e61167f19552d974a6d0.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-016.png",
+    "source_crop_size": [
+      261,
+      302
+    ],
+    "page_preview": "page-2-002.png",
+    "method": "redrawn",
+    "new": "016.svg",
+    "check": "同轴A/B和rA/rB；两条切线fA/fB均向下，切点对应内外半径。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+        "question": "18-19期中-计1",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/d061d8c727b236d1f34286223f234ac69b5355190db9e61167f19552d974a6d0.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/d061d8c727b236d1f34286223f234ac69b5355190db9e61167f19552d974a6d0.jpg",
+        "sha256": "cff1634d1f7ba097852520203ba86fba4eb41d003919d0f1612aa28c59adf1e1",
+        "size": [
+          181,
+          209
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/016.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-选6",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/4960e31e14a21a703bbd0a215770512cbd152c03b565c0afec19bf1284353d5b.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/4960e31e14a21a703bbd0a215770512cbd152c03b565c0afec19bf1284353d5b.jpg",
+    "sha256": "7935bbbceb5d2a34c91e1c53269336f70b6f43c6d8a137fe9f10d9ae44a46f9d",
+    "size": [
+      237,
+      132
+    ],
+    "id": 17,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 13,
+    "bbox_1000": [
+      752,
+      612,
+      895,
+      668
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\4960e31e14a21a703bbd0a215770512cbd152c03b565c0afec19bf1284353d5b.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-017.png",
+    "source_crop_size": [
+      344,
+      190
+    ],
+    "page_preview": "page-3-013.png",
+    "method": "redrawn",
+    "new": "017.svg",
+    "check": "O处绳穿桌洞、R至桌上物块，v向下；图与来源一致。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-选6",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/4960e31e14a21a703bbd0a215770512cbd152c03b565c0afec19bf1284353d5b.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/4960e31e14a21a703bbd0a215770512cbd152c03b565c0afec19bf1284353d5b.jpg",
+        "sha256": "7935bbbceb5d2a34c91e1c53269336f70b6f43c6d8a137fe9f10d9ae44a46f9d",
+        "size": [
+          237,
+          132
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/017.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-选8",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/039cb4d321ffaabf93905b6a5c3d630f2826a43f33793af547581e8fce3b3487.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/039cb4d321ffaabf93905b6a5c3d630f2826a43f33793af547581e8fce3b3487.jpg",
+    "sha256": "cbf23be147e43185dafb36491b6ddb9390206aadd53e791438a6716cc1217ca1",
+    "size": [
+      265,
+      181
+    ],
+    "id": 18,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 13,
+    "bbox_1000": [
+      734,
+      784,
+      894,
+      862
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\039cb4d321ffaabf93905b6a5c3d630f2826a43f33793af547581e8fce3b3487.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-018.png",
+    "source_crop_size": [
+      385,
+      265
+    ],
+    "page_preview": "page-3-013.png",
+    "method": "native_extraction",
+    "new": "018-extracted.png",
+    "check": "两定滑轮A/B、左M与右F向下；本题图独立提取。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-选8",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/039cb4d321ffaabf93905b6a5c3d630f2826a43f33793af547581e8fce3b3487.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/039cb4d321ffaabf93905b6a5c3d630f2826a43f33793af547581e8fce3b3487.jpg",
+        "sha256": "cbf23be147e43185dafb36491b6ddb9390206aadd53e791438a6716cc1217ca1",
+        "size": [
+          265,
+          181
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/018-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-选12",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/228deb2e29e16af494aab4a14849b5d4dff73061a7759ffa9b7b6655dfb8954a.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/228deb2e29e16af494aab4a14849b5d4dff73061a7759ffa9b7b6655dfb8954a.jpg",
+    "sha256": "ec9fc86f9a9d8253c22f25a7d96be47c35362a883fc739b5cdaef3156e9be25c",
+    "size": [
+      143,
+      171
+    ],
+    "id": 19,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 14,
+    "bbox_1000": [
+      811,
+      332,
+      897,
+      405
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\228deb2e29e16af494aab4a14849b5d4dff73061a7759ffa9b7b6655dfb8954a.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-019.png",
+    "source_crop_size": [
+      207,
+      248
+    ],
+    "page_preview": "page-3-014.png",
+    "method": "redrawn",
+    "new": "019.svg",
+    "check": "竖直杆O铰接，小球向右碰撞。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-选12",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/228deb2e29e16af494aab4a14849b5d4dff73061a7759ffa9b7b6655dfb8954a.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/228deb2e29e16af494aab4a14849b5d4dff73061a7759ffa9b7b6655dfb8954a.jpg",
+        "sha256": "ec9fc86f9a9d8253c22f25a7d96be47c35362a883fc739b5cdaef3156e9be25c",
+        "size": [
+          143,
+          171
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/019.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-填2",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/bd406cfc637e393fe26190b9386c985f6724a8495a7cfd4a00c75f0e1da17e8f.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/bd406cfc637e393fe26190b9386c985f6724a8495a7cfd4a00c75f0e1da17e8f.jpg",
+    "sha256": "16b69cd7b9be079d649d7f181014c225389cd4f6208edab4bda266c1fa40ae78",
+    "size": [
+      298,
+      201
+    ],
+    "id": 20,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 14,
+    "bbox_1000": [
+      714,
+      536,
+      906,
+      634
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\bd406cfc637e393fe26190b9386c985f6724a8495a7cfd4a00c75f0e1da17e8f.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-020.png",
+    "source_crop_size": [
+      433,
+      292
+    ],
+    "page_preview": "page-3-014.png",
+    "original_bbox_1000": [
+      717,
+      539,
+      897,
+      625
+    ],
+    "method": "native_extraction",
+    "new": "020-extracted.png",
+    "check": "O/x/y、r至P、v向左下、F右上与两处30°；原生裁图保持角度关系。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-填2",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/bd406cfc637e393fe26190b9386c985f6724a8495a7cfd4a00c75f0e1da17e8f.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/bd406cfc637e393fe26190b9386c985f6724a8495a7cfd4a00c75f0e1da17e8f.jpg",
+        "sha256": "16b69cd7b9be079d649d7f181014c225389cd4f6208edab4bda266c1fa40ae78",
+        "size": [
+          298,
+          201
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/020-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+    "question": "20-21期中-计4",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/4ead90fef2a2a1c37648fe99b3711c8d18a3b6987159a3e6ddcf2059e88ae313.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/4ead90fef2a2a1c37648fe99b3711c8d18a3b6987159a3e6ddcf2059e88ae313.jpg",
+    "sha256": "7c5602cbbf962e2d8d22a3ac1cced0789a35335c4de760f1ba6cdd7e2292db58",
+    "size": [
+      354,
+      137
+    ],
+    "id": 21,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 15,
+    "bbox_1000": [
+      707,
+      659,
+      921,
+      718
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\4ead90fef2a2a1c37648fe99b3711c8d18a3b6987159a3e6ddcf2059e88ae313.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-021.png",
+    "source_crop_size": [
+      515,
+      200
+    ],
+    "page_preview": "page-3-015.png",
+    "method": "redrawn",
+    "new": "021.svg",
+    "check": "m,l标杆、中心O、右侧入射v向上；未加入未知角度或距离。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+        "question": "20-21期中-计4",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/4ead90fef2a2a1c37648fe99b3711c8d18a3b6987159a3e6ddcf2059e88ae313.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/4ead90fef2a2a1c37648fe99b3711c8d18a3b6987159a3e6ddcf2059e88ae313.jpg",
+        "sha256": "7c5602cbbf962e2d8d22a3ac1cced0789a35335c4de760f1ba6cdd7e2292db58",
+        "size": [
+          354,
+          137
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/021.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-选5",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/087477c2601d0446a9bff66b8a8b2103db98a11bc8c0e0a5f64bdc68d3a80f4f.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/087477c2601d0446a9bff66b8a8b2103db98a11bc8c0e0a5f64bdc68d3a80f4f.jpg",
+    "sha256": "eee6aad40359152081d2242e8751df4c0af4a32003d34de6e4f469855432dd48",
+    "size": [
+      285,
+      190
+    ],
+    "id": 22,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 9,
+    "bbox_1000": [
+      734,
+      338,
+      905,
+      419
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\087477c2601d0446a9bff66b8a8b2103db98a11bc8c0e0a5f64bdc68d3a80f4f.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-022.png",
+    "source_crop_size": [
+      412,
+      275
+    ],
+    "page_preview": "page-3-009.png",
+    "method": "redrawn",
+    "new": "022.svg",
+    "check": "两球相对中心O对称，d在左右，l为整杆长，轴竖直虚线。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-选5",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/087477c2601d0446a9bff66b8a8b2103db98a11bc8c0e0a5f64bdc68d3a80f4f.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/087477c2601d0446a9bff66b8a8b2103db98a11bc8c0e0a5f64bdc68d3a80f4f.jpg",
+        "sha256": "eee6aad40359152081d2242e8751df4c0af4a32003d34de6e4f469855432dd48",
+        "size": [
+          285,
+          190
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/022.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-选14",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/2bbf94de0165a9b00082891e9cbe10669c6c53bf018bb9643fd7eab5af095f5f.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/2bbf94de0165a9b00082891e9cbe10669c6c53bf018bb9643fd7eab5af095f5f.jpg",
+    "sha256": "f2ae74dd2ccd4c3586246a9827762ee5731e998eabb35bc54b39b075f3f415fe",
+    "size": [
+      148,
+      171
+    ],
+    "id": 23,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 10,
+    "bbox_1000": [
+      806,
+      241,
+      895,
+      313
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\2bbf94de0165a9b00082891e9cbe10669c6c53bf018bb9643fd7eab5af095f5f.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-023.png",
+    "source_crop_size": [
+      214,
+      244
+    ],
+    "page_preview": "page-3-010.png",
+    "method": "redrawn",
+    "new": "023.svg",
+    "check": "上O铰接杆，左球向右；支点与方向不变。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-选14",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/2bbf94de0165a9b00082891e9cbe10669c6c53bf018bb9643fd7eab5af095f5f.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/2bbf94de0165a9b00082891e9cbe10669c6c53bf018bb9643fd7eab5af095f5f.jpg",
+        "sha256": "f2ae74dd2ccd4c3586246a9827762ee5731e998eabb35bc54b39b075f3f415fe",
+        "size": [
+          148,
+          171
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/023.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-计2",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/53ab953f56e6eb79607c8efc03a3c830c0b0362220dc1a5d1eb6e0b8071ade35.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/53ab953f56e6eb79607c8efc03a3c830c0b0362220dc1a5d1eb6e0b8071ade35.jpg",
+    "sha256": "e7decdf55fbc41718e18d0c278ec2cea7b04a07ba4ea93c84ad58090e8028e6a",
+    "size": [
+      325,
+      151
+    ],
+    "id": 24,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 11,
+    "bbox_1000": [
+      726,
+      140,
+      922,
+      204
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\53ab953f56e6eb79607c8efc03a3c830c0b0362220dc1a5d1eb6e0b8071ade35.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-024.png",
+    "source_crop_size": [
+      471,
+      217
+    ],
+    "page_preview": "page-3-011.png",
+    "method": "native_extraction",
+    "new": "024-extracted.png",
+    "check": "同轴轮A/B/C、角速度ωA与离合连接，保留三维透视。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-计2",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/53ab953f56e6eb79607c8efc03a3c830c0b0362220dc1a5d1eb6e0b8071ade35.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/53ab953f56e6eb79607c8efc03a3c830c0b0362220dc1a5d1eb6e0b8071ade35.jpg",
+        "sha256": "e7decdf55fbc41718e18d0c278ec2cea7b04a07ba4ea93c84ad58090e8028e6a",
+        "size": [
+          325,
+          151
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/024-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+    "question": "22-23期中-计3",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/7b518f2648a2601b9971981e0de403337195ff8fc0f2af9db74989e8fa644fe5.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/7b518f2648a2601b9971981e0de403337195ff8fc0f2af9db74989e8fa644fe5.jpg",
+    "sha256": "d8a26a902156997ea9da4ad125e76cffbcbe0d403466cb52562365f09c73afd0",
+    "size": [
+      248,
+      248
+    ],
+    "id": 25,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 11,
+    "bbox_1000": [
+      744,
+      538,
+      894,
+      644
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\7b518f2648a2601b9971981e0de403337195ff8fc0f2af9db74989e8fa644fe5.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-025.png",
+    "source_crop_size": [
+      361,
+      360
+    ],
+    "page_preview": "page-3-011.png",
+    "method": "native_extraction",
+    "new": "025-extracted.png",
+    "check": "M1/M2双轮、R/r、m悬挂与皮带接触，原图完整。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+        "question": "22-23期中-计3",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/7b518f2648a2601b9971981e0de403337195ff8fc0f2af9db74989e8fa644fe5.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/7b518f2648a2601b9971981e0de403337195ff8fc0f2af9db74989e8fa644fe5.jpg",
+        "sha256": "d8a26a902156997ea9da4ad125e76cffbcbe0d403466cb52562365f09c73afd0",
+        "size": [
+          248,
+          248
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/025-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+    "question": "23-24期中-计5",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/35007276554e2ecac4a4a0ab1d3df584938e27c8d77609eb5e2c825d5027e94f.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/35007276554e2ecac4a4a0ab1d3df584938e27c8d77609eb5e2c825d5027e94f.jpg",
+    "sha256": "3b03186abe4f30d8175b96a11c371f572ed22ff298058b761a678a7ce1ea626e",
+    "size": [
+      145,
+      220
+    ],
+    "id": 26,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 8,
+    "bbox_1000": [
+      815,
+      77,
+      902,
+      171
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\35007276554e2ecac4a4a0ab1d3df584938e27c8d77609eb5e2c825d5027e94f.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-026.png",
+    "source_crop_size": [
+      209,
+      319
+    ],
+    "page_preview": "page-3-008.png",
+    "method": "redrawn",
+    "new": "026.svg",
+    "check": "O圆轮内半径r；绳自内轮右切点悬挂m，顺时针箭头保留。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+        "question": "23-24期中-计5",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/35007276554e2ecac4a4a0ab1d3df584938e27c8d77609eb5e2c825d5027e94f.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/35007276554e2ecac4a4a0ab1d3df584938e27c8d77609eb5e2c825d5027e94f.jpg",
+        "sha256": "3b03186abe4f30d8175b96a11c371f572ed22ff298058b761a678a7ce1ea626e",
+        "size": [
+          145,
+          220
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/026.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+    "question": "23-24期中-计6",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/a08f21dfe830d01855af729afdcafda36be13bc2bfdb8dd9a2ec526b44f2c25e.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/a08f21dfe830d01855af729afdcafda36be13bc2bfdb8dd9a2ec526b44f2c25e.jpg",
+    "sha256": "3beccda3834e834601e59d028fb1ef22898a4fde683509bc6e32108035dc9e13",
+    "size": [
+      368,
+      165
+    ],
+    "id": 27,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 8,
+    "bbox_1000": [
+      547,
+      338,
+      769,
+      409
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\a08f21dfe830d01855af729afdcafda36be13bc2bfdb8dd9a2ec526b44f2c25e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-027.png",
+    "source_crop_size": [
+      532,
+      241
+    ],
+    "page_preview": "page-3-008.png",
+    "method": "native_extraction",
+    "new": "027-extracted.png",
+    "check": "A/B/C与ωA同轴连接，保留本题来源图。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+        "question": "23-24期中-计6",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/a08f21dfe830d01855af729afdcafda36be13bc2bfdb8dd9a2ec526b44f2c25e.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/a08f21dfe830d01855af729afdcafda36be13bc2bfdb8dd9a2ec526b44f2c25e.jpg",
+        "sha256": "3beccda3834e834601e59d028fb1ef22898a4fde683509bc6e32108035dc9e13",
+        "size": [
+          368,
+          165
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/027-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+    "question": "24-25期中-选6",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/0e10def54b747083dc602eed806c58c9c68c33efacd9d2ae7d7cba03b3ac489c.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/0e10def54b747083dc602eed806c58c9c68c33efacd9d2ae7d7cba03b3ac489c.jpg",
+    "sha256": "75050f24e1c847674e981533b32dd405688cb4b9b6aad20c093f1c2d0dc59146",
+    "size": [
+      271,
+      401
+    ],
+    "id": 28,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 1,
+    "bbox_1000": [
+      734,
+      557,
+      897,
+      728
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\0e10def54b747083dc602eed806c58c9c68c33efacd9d2ae7d7cba03b3ac489c.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-028.png",
+    "source_crop_size": [
+      392,
+      581
+    ],
+    "page_preview": "page-3-001.png",
+    "method": "retained_uncertain",
+    "check": "源扫描仍含不可靠的细小标记或相邻题图边界；保留原图，不猜测轴/字母或拆分归属。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+        "question": "24-25期中-选6",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/0e10def54b747083dc602eed806c58c9c68c33efacd9d2ae7d7cba03b3ac489c.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/0e10def54b747083dc602eed806c58c9c68c33efacd9d2ae7d7cba03b3ac489c.jpg",
+        "sha256": "75050f24e1c847674e981533b32dd405688cb4b9b6aad20c093f1c2d0dc59146",
+        "size": [
+          271,
+          401
+        ]
+      },
+      {
+        "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+        "question": "24-25期中-选7",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/0e10def54b747083dc602eed806c58c9c68c33efacd9d2ae7d7cba03b3ac489c.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/0e10def54b747083dc602eed806c58c9c68c33efacd9d2ae7d7cba03b3ac489c.jpg",
+        "sha256": "75050f24e1c847674e981533b32dd405688cb4b9b6aad20c093f1c2d0dc59146",
+        "size": [
+          271,
+          401
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+    "question": "24-25期中-计4",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/199ab07268cfcdea5925ae360810f4d409ccbcbe9f92d407786cbeb92ad85cf8.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/199ab07268cfcdea5925ae360810f4d409ccbcbe9f92d407786cbeb92ad85cf8.jpg",
+    "sha256": "d0fc6c7c9eab734d4e4a4837eb3e72d4296fea3f04e0b9ce58d75b2741e57d77",
+    "size": [
+      187,
+      323
+    ],
+    "id": 29,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 3,
+    "bbox_1000": [
+      717,
+      332,
+      830,
+      470
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\199ab07268cfcdea5925ae360810f4d409ccbcbe9f92d407786cbeb92ad85cf8.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-029.png",
+    "source_crop_size": [
+      272,
+      469
+    ],
+    "page_preview": "page-3-003.png",
+    "method": "retained_uncertain",
+    "check": "源扫描仍含不可靠的细小标记或相邻题图边界；保留原图，不猜测轴/字母或拆分归属。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+        "question": "24-25期中-计4",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/199ab07268cfcdea5925ae360810f4d409ccbcbe9f92d407786cbeb92ad85cf8.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/199ab07268cfcdea5925ae360810f4d409ccbcbe9f92d407786cbeb92ad85cf8.jpg",
+        "sha256": "d0fc6c7c9eab734d4e4a4837eb3e72d4296fea3f04e0b9ce58d75b2741e57d77",
+        "size": [
+          187,
+          323
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+    "question": "24-25期中-计5",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/期中试卷_2020-2025/92f0ce36a40a87a44f573ccab044c787a11613304607831d4352d0b49809ff2b.jpg",
+    "path": "10_题库/_assets/期中试卷_2020-2025/92f0ce36a40a87a44f573ccab044c787a11613304607831d4352d0b49809ff2b.jpg",
+    "sha256": "8b7fcd7aed0936995b64e491f0643f6416be9927a203bd9c95e6bd8f06c529de",
+    "size": [
+      401,
+      207
+    ],
+    "id": 30,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I试卷_2024-2025.pdf",
+    "pdf_page": 3,
+    "bbox_1000": [
+      643,
+      611,
+      885,
+      699
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\266c6bd3-e7c5-407b-a404-736cf75088b9_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I试卷_2024-2025\\results\\p0001-0016\\extracted\\images\\92f0ce36a40a87a44f573ccab044c787a11613304607831d4352d0b49809ff2b.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-030.png",
+    "source_crop_size": [
+      582,
+      299
+    ],
+    "page_preview": "page-3-003.png",
+    "method": "retained_uncertain",
+    "check": "源扫描仍含不可靠的细小标记或相邻题图边界；保留原图，不猜测轴/字母或拆分归属。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+        "question": "24-25期中-计5",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/期中试卷_2020-2025/92f0ce36a40a87a44f573ccab044c787a11613304607831d4352d0b49809ff2b.jpg",
+        "path": "10_题库/_assets/期中试卷_2020-2025/92f0ce36a40a87a44f573ccab044c787a11613304607831d4352d0b49809ff2b.jpg",
+        "sha256": "8b7fcd7aed0936995b64e491f0643f6416be9927a203bd9c95e6bd8f06c529de",
+        "size": [
+          401,
+          207
+        ]
+      }
+    ]
+  },
+  {
+    "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+    "question": "19-20期末-选2",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/6c687c9225367c1873001cac96b1326eabdd1db3575d86f9b63c2578419d8f77.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/6c687c9225367c1873001cac96b1326eabdd1db3575d86f9b63c2578419d8f77.jpg",
+    "sha256": "98ad20422646e248cfdfc543920f70542c9781644829649542ac4deed2bd1fe8",
+    "size": [
+      412,
+      251
+    ],
+    "id": 31,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 32,
+    "bbox_1000": [
+      578,
+      212,
+      826,
+      319
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\6c687c9225367c1873001cac96b1326eabdd1db3575d86f9b63c2578419d8f77.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-031.png",
+    "source_crop_size": [
+      596,
+      364
+    ],
+    "page_preview": "page-3-032.png",
+    "method": "redrawn",
+    "new": "031.svg",
+    "check": "圆M及O，左右两m沿同一直线相向入射；入射线不强行通过圆心。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+        "question": "19-20期末-选2",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/6c687c9225367c1873001cac96b1326eabdd1db3575d86f9b63c2578419d8f77.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/6c687c9225367c1873001cac96b1326eabdd1db3575d86f9b63c2578419d8f77.jpg",
+        "sha256": "98ad20422646e248cfdfc543920f70542c9781644829649542ac4deed2bd1fe8",
+        "size": [
+          412,
+          251
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/031.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+    "question": "19-20期末-计1",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/0fc5521219a75979543dbaf18353c0c777f5e6bb836bc1f215c4d9258d48bc6a.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/0fc5521219a75979543dbaf18353c0c777f5e6bb836bc1f215c4d9258d48bc6a.jpg",
+    "sha256": "8db2fd95996c6c19253b92d79a404bd43180ed21df2ef4f8cde43e0caeb579b6",
+    "size": [
+      392,
+      367
+    ],
+    "id": 32,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 33,
+    "bbox_1000": [
+      665,
+      567,
+      902,
+      724
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\0fc5521219a75979543dbaf18353c0c777f5e6bb836bc1f215c4d9258d48bc6a.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-032.png",
+    "source_crop_size": [
+      570,
+      533
+    ],
+    "page_preview": "page-3-033.png",
+    "method": "native_extraction",
+    "new": "032-extracted.png",
+    "check": "轮M/r、链条、a向下与s竖直尺度；原生像素保留链路。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+        "question": "19-20期末-计1",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/0fc5521219a75979543dbaf18353c0c777f5e6bb836bc1f215c4d9258d48bc6a.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/0fc5521219a75979543dbaf18353c0c777f5e6bb836bc1f215c4d9258d48bc6a.jpg",
+        "sha256": "8db2fd95996c6c19253b92d79a404bd43180ed21df2ef4f8cde43e0caeb579b6",
+        "size": [
+          392,
+          367
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/032-extracted.png"
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
+    "question": "未标年份-期末一-选5",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/9a5c42a819020db9b4d0adb82996708e86ef1f52d597d5324c73d6ef56e5c04e.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/9a5c42a819020db9b4d0adb82996708e86ef1f52d597d5324c73d6ef56e5c04e.jpg",
+    "sha256": "b31a3ca590410a7f3eb85050116fcf073b3d5830c2f4e9eb7583fccb056bdbe9",
+    "size": [
+      151,
+      173
+    ],
+    "id": 33,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 46,
+    "bbox_1000": [
+      752,
+      778,
+      843,
+      852
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\9a5c42a819020db9b4d0adb82996708e86ef1f52d597d5324c73d6ef56e5c04e.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-033.png",
+    "source_crop_size": [
+      219,
+      251
+    ],
+    "page_preview": "page-3-046.png",
+    "method": "redrawn",
+    "new": "033.svg",
+    "check": "O上支点、竖直杆、左球向右。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
+        "question": "未标年份-期末一-选5",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/9a5c42a819020db9b4d0adb82996708e86ef1f52d597d5324c73d6ef56e5c04e.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/9a5c42a819020db9b4d0adb82996708e86ef1f52d597d5324c73d6ef56e5c04e.jpg",
+        "sha256": "b31a3ca590410a7f3eb85050116fcf073b3d5830c2f4e9eb7583fccb056bdbe9",
+        "size": [
+          151,
+          173
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/033.svg"
+  },
+  {
+    "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+    "question": "未标年份-期末二-计4",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/6109a79d369d91d52c935e71e479b0f4ed650af4f61dea2f4c8c2ba9c798a710.jpg",
+    "path": "10_题库/_assets/历年试卷合集_2018-2024/6109a79d369d91d52c935e71e479b0f4ed650af4f61dea2f4c8c2ba9c798a710.jpg",
+    "sha256": "03cab159ac1e76d71ea0fa091053d388891462909ae7c67c2ce2ffefeb795520",
+    "size": [
+      409,
+      282
+    ],
+    "id": 34,
+    "source_pdf": "00_原材料\\历年试卷\\大学物理I历年试卷合集_2018-2024.pdf",
+    "pdf_page": 54,
+    "bbox_1000": [
+      628,
+      77,
+      887,
+      209
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\39035af2-50a2-4130-b595-3b39ccbf657c_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\大学物理I历年试卷合集_2018-2024\\results\\p0001-0054\\extracted\\images\\6109a79d369d91d52c935e71e479b0f4ed650af4f61dea2f4c8c2ba9c798a710.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-034.png",
+    "source_crop_size": [
+      592,
+      407
+    ],
+    "page_preview": "page-3-054.png",
+    "original_bbox_1000": [
+      631,
+      80,
+      878,
+      200
+    ],
+    "method": "native_extraction",
+    "new": "034-extracted.png",
+    "check": "O端直角弹簧、水平l、竖直l0、m、v0和v/θ；未知夹角不拟合。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+        "question": "未标年份-期末二-计4",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/历年试卷合集_2018-2024/6109a79d369d91d52c935e71e479b0f4ed650af4f61dea2f4c8c2ba9c798a710.jpg",
+        "path": "10_题库/_assets/历年试卷合集_2018-2024/6109a79d369d91d52c935e71e479b0f4ed650af4f61dea2f4c8c2ba9c798a710.jpg",
+        "sha256": "03cab159ac1e76d71ea0fa091053d388891462909ae7c67c2ce2ffefeb795520",
+        "size": [
+          409,
+          282
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/034-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+    "question": "学习指导-第03章-例题-3-7",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_665.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_665.jpg",
+    "sha256": "d6c199ca601334f17504f85c9c075f9ec898a9d0197afe1f7df3311fb56372f5",
+    "size": [
+      770,
+      292
+    ],
+    "id": 35,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 52,
+    "bbox_1000": [
+      278,
+      640,
+      744,
+      765
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\8eff17b9b7a1cf421acff45807b5808a8b586e0b64fbcc3bc4db889b67a9c85f.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-035.png",
+    "source_crop_size": [
+      1154,
+      437
+    ],
+    "page_preview": "page-4-052.png",
+    "method": "native_extraction",
+    "new": "035-extracted.png",
+    "check": "左右M、v1/v2向右，中央转轮O/B/R/J；平台缺口与轮接触保留。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+        "question": "学习指导-第03章-例题-3-7",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_665.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_665.jpg",
+        "sha256": "d6c199ca601334f17504f85c9c075f9ec898a9d0197afe1f7df3311fb56372f5",
+        "size": [
+          770,
+          292
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/035-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+    "question": "学习指导-第03章-例题-3-10",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_755.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_755.jpg",
+    "sha256": "4fd571e4fb65e09ff586ef0e3fbaa5e93c286919d88c06ea4862364e945d9b1c",
+    "size": [
+      404,
+      235
+    ],
+    "id": 36,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 54,
+    "bbox_1000": [
+      667,
+      337,
+      910,
+      437
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\a1b4e8c549079ac6bea51600ec8506c9041205475956df803d1fb063360c331b.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-036.png",
+    "source_crop_size": [
+      602,
+      350
+    ],
+    "page_preview": "page-4-054.png",
+    "method": "redrawn",
+    "new": "036.svg",
+    "check": "杆中O、质量m；左下球向上，右上球向下，两个速度v方向相反。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+        "question": "学习指导-第03章-例题-3-10",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_755.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_755.jpg",
+        "sha256": "4fd571e4fb65e09ff586ef0e3fbaa5e93c286919d88c06ea4862364e945d9b1c",
+        "size": [
+          404,
+          235
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/036.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+    "question": "学习指导-第03章-例题-3-11",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_646.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_646.jpg",
+    "sha256": "b654b7ae3ca754d99b1cd31d6eaf4fc8f15c4661f184eae318f189a8558f34fa",
+    "size": [
+      362,
+      476
+    ],
+    "id": 37,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 55,
+    "bbox_1000": [
+      112,
+      148,
+      331,
+      351
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\89921aad71a673c59ba767fa6f19af9847372c0408836e8e8ee5c6d2c06a6f42.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-037.png",
+    "source_crop_size": [
+      542,
+      709
+    ],
+    "page_preview": "page-4-055.png",
+    "method": "native_extraction",
+    "new": "037-extracted.png",
+    "check": "顶端铰接杆O、θ相对竖直，底部m与台面，保留原位置关系。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+        "question": "学习指导-第03章-例题-3-11",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_646.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_646.jpg",
+        "sha256": "b654b7ae3ca754d99b1cd31d6eaf4fc8f15c4661f184eae318f189a8558f34fa",
+        "size": [
+          362,
+          476
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/037-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+    "question": "学习指导-第03章-例题-3-12",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_607.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_607.jpg",
+    "sha256": "20eca98571d3b92be60002a1eb6995cc316952cf360ef55cbf863274fd30ad82",
+    "size": [
+      460,
+      481
+    ],
+    "id": 38,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 55,
+    "bbox_1000": [
+      628,
+      596,
+      905,
+      802
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\82567b57f3794ac17e8f50ec4f18a017f443bf5d284c44387d2b523893b77efb.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-038.png",
+    "source_crop_size": [
+      686,
+      721
+    ],
+    "page_preview": "page-4-055.png",
+    "method": "native_extraction",
+    "new": "038-extracted.png",
+    "check": "圆环A/B/C及O/O′轴、R和圆周位置，精细标线原生保留。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+        "question": "学习指导-第03章-例题-3-12",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_607.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_607.jpg",
+        "sha256": "20eca98571d3b92be60002a1eb6995cc316952cf360ef55cbf863274fd30ad82",
+        "size": [
+          460,
+          481
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/038-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+    "question": "学习指导-第03章-例题-3-15",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_511.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_511.jpg",
+    "sha256": "70bc86716043f0a8aaa01e7158df72f05a27bf31d063ccdb3152bd726876af86",
+    "size": [
+      487,
+      298
+    ],
+    "id": 39,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 57,
+    "bbox_1000": [
+      189,
+      375,
+      484,
+      502
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\6d9e2fffdbccf3c7ed10447c9b2b9f780756a54021d48b2f241f67f0d3636ccf.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-039.png",
+    "source_crop_size": [
+      730,
+      444
+    ],
+    "page_preview": "page-4-057.png",
+    "method": "native_extraction",
+    "new": "039-extracted.png",
+    "check": "斜面θ、圆柱M、接触A、上接点B、悬物m与滑轮绳路不变。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+        "question": "学习指导-第03章-例题-3-15",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_511.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_511.jpg",
+        "sha256": "70bc86716043f0a8aaa01e7158df72f05a27bf31d063ccdb3152bd726876af86",
+        "size": [
+          487,
+          298
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/039-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+    "question": "学习指导-第03章-例题-3-15",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_1013.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_1013.jpg",
+    "sha256": "a4c66ccd948123dae0490ae99194b842abeda5ffaddc8c7c82a8bde8d42313e8",
+    "size": [
+      279,
+      317
+    ],
+    "id": 40,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 57,
+    "bbox_1000": [
+      539,
+      367,
+      707,
+      502
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\dcfc1453adddb0e9c6ee11ca51714713ea3e02d084c90d82ee38e529a83bfc86.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-040.png",
+    "source_crop_size": [
+      416,
+      472
+    ],
+    "page_preview": "page-4-057.png",
+    "method": "native_extraction",
+    "new": "040-extracted.png",
+    "check": "圆C，N左上、T右上、f右上、Mg下、ac左下，β转向及A/B位置保留；不改变力方向。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+        "question": "学习指导-第03章-例题-3-15",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_1013.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_1013.jpg",
+        "sha256": "a4c66ccd948123dae0490ae99194b842abeda5ffaddc8c7c82a8bde8d42313e8",
+        "size": [
+          279,
+          317
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/040-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+    "question": "学习指导-第03章-例题-3-15",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_637.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_637.jpg",
+    "sha256": "c0dcf6bbfdb0541c14e163c82ab14cbde0711c8a3af8d16fa6b005ac1ae8086a",
+    "size": [
+      90,
+      226
+    ],
+    "id": 41,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 57,
+    "bbox_1000": [
+      766,
+      378,
+      820,
+      474
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\87d878377325e7de0b7ec7ffa25d6cb165ae7cfd17021f3712b38625ddc3c824.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-041.png",
+    "source_crop_size": [
+      134,
+      336
+    ],
+    "page_preview": "page-4-057.png",
+    "method": "redrawn",
+    "new": "041.svg",
+    "check": "T′向上，mg向下；撇号及作用点保留。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+        "question": "学习指导-第03章-例题-3-15",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_637.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_637.jpg",
+        "sha256": "c0dcf6bbfdb0541c14e163c82ab14cbde0711c8a3af8d16fa6b005ac1ae8086a",
+        "size": [
+          90,
+          226
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/041.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+    "question": "学习指导-第03章-思考题-3-8",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_051.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_051.jpg",
+    "sha256": "bf3d004302938760a7b52bbd56070a0e68fc43ae4abc5cf72eaa6896bd8e28f5",
+    "size": [
+      265,
+      340
+    ],
+    "id": 42,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 59,
+    "bbox_1000": [
+      746,
+      696,
+      905,
+      841
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\0e5a4b7a8b9fa39dccc46044e4e6f4d74404f53c0f5a6439a55ddcd5b4e82b46.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-042.png",
+    "source_crop_size": [
+      394,
+      507
+    ],
+    "page_preview": "page-4-059.png",
+    "method": "redrawn",
+    "new": "042.svg",
+    "check": "固定轮O、左m1低、右m2高，转动箭头为逆时针。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+        "question": "学习指导-第03章-思考题-3-8",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_051.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_051.jpg",
+        "sha256": "bf3d004302938760a7b52bbd56070a0e68fc43ae4abc5cf72eaa6896bd8e28f5",
+        "size": [
+          265,
+          340
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/042.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+    "question": "学习指导-第03章-习题-3-2",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_397.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_397.jpg",
+    "sha256": "03effb2e682cb77cae2b30bd6dfe3f089ef940477d699916c8835265daafd717",
+    "size": [
+      248,
+      346
+    ],
+    "id": 43,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 61,
+    "bbox_1000": [
+      110,
+      103,
+      260,
+      250
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\5705c8288ca2060e37e844f78ebd51af655c4dcdf1c3a70204290f7e9367d909.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-043.png",
+    "source_crop_size": [
+      372,
+      514
+    ],
+    "page_preview": "page-4-061.png",
+    "method": "redrawn",
+    "new": "043.svg",
+    "check": "内外同轴轮O，左外轮悬2m、右内轮悬m；不臆定半径比。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+        "question": "学习指导-第03章-习题-3-2",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_397.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_397.jpg",
+        "sha256": "03effb2e682cb77cae2b30bd6dfe3f089ef940477d699916c8835265daafd717",
+        "size": [
+          248,
+          346
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/043.svg"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+    "question": "学习指导-第03章-习题-3-7",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_231.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_231.jpg",
+    "sha256": "1d545c23a06104938e7d20af22ccc4424dd34c9b3518d2c8f999700003f73653",
+    "size": [
+      467,
+      373
+    ],
+    "id": 44,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 63,
+    "bbox_1000": [
+      119,
+      111,
+      401,
+      271
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\3267299d4220242b499fc1556c6df659353667fca212b5dfa076637b0f80a7e3.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-044.png",
+    "source_crop_size": [
+      699,
+      560
+    ],
+    "page_preview": "page-4-063.png",
+    "method": "native_extraction",
+    "new": "044-extracted.png",
+    "check": "杠杆左支点、0.50m与0.75m分段、右F向下、接触圆轮O与ω方向；量距端点不变。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+        "question": "学习指导-第03章-习题-3-7",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_231.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_231.jpg",
+        "sha256": "1d545c23a06104938e7d20af22ccc4424dd34c9b3518d2c8f999700003f73653",
+        "size": [
+          467,
+          373
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/044-extracted.png"
+  },
+  {
+    "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+    "question": "学习指导-第03章-习题-3-10",
+    "chapter": "03",
+    "target": "物理/10_题库/_assets/学习指导/p0001-0180_724.jpg",
+    "path": "10_题库/_assets/学习指导/p0001-0180_724.jpg",
+    "sha256": "22c4461a7ef1cb15d0f4d332fa94a505cee79145c3b64eaa6da9e5678cc7b395",
+    "size": [
+      242,
+      348
+    ],
+    "id": 45,
+    "source_pdf": "00_原材料\\扫描件_普通高等教育十一五规划教材配套教辅.pdf",
+    "pdf_page": 64,
+    "bbox_1000": [
+      761,
+      141,
+      907,
+      290
+    ],
+    "content_list": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\230539e3-5284-4ad3-a50f-22645d3bd8d0_content_list.json",
+    "source_image": "90_缓存\\pdf-to-markdown\\扫描件_普通高等教育十一五规划教材配套教辅\\results\\p0001-0180\\extracted\\images\\9b2512474f099418335cd71972ff5d548b5d47c0e1aec837799c47f1726649b2.jpg",
+    "extraction": "native_scan_crop",
+    "source_crop": "source-045.png",
+    "source_crop_size": [
+      361,
+      521
+    ],
+    "page_preview": "page-4-064.png",
+    "method": "native_extraction",
+    "new": "045-extracted.png",
+    "check": "转动轮及ω方向、轴线和制动接触物；原题没有给定形状函数，保留细节。 原生提取，无放大插值或新增标注。",
+    "references": [
+      {
+        "document": "10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
+        "question": "学习指导-第03章-习题-3-10",
+        "chapter": "03",
+        "target": "物理/10_题库/_assets/学习指导/p0001-0180_724.jpg",
+        "path": "10_题库/_assets/学习指导/p0001-0180_724.jpg",
+        "sha256": "22c4461a7ef1cb15d0f4d332fa94a505cee79145c3b64eaa6da9e5678cc7b395",
+        "size": [
+          242,
+          348
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/045-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/10_习题十 角动量守恒（一）.md",
+    "question": "1",
+    "chapter": "03",
+    "target": "_assets/10_习题十 角动量守恒（一）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/10_习题十 角动量守恒（一）/图1.png",
+    "sha256": "99adaa5728bc51def100f63826f50a66ac1450de81083f94782787248bb687c3",
+    "size": [
+      435,
+      152
+    ],
+    "id": 46,
+    "method": "reuse_extraction",
+    "new": "001-extracted.png",
+    "check": "旧整理对应同一习题册源页，与资产001一致；共用核验产物，保留原显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/10_习题十 角动量守恒（一）.md",
+        "question": "1",
+        "chapter": "03",
+        "target": "_assets/10_习题十 角动量守恒（一）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/10_习题十 角动量守恒（一）/图1.png",
+        "sha256": "99adaa5728bc51def100f63826f50a66ac1450de81083f94782787248bb687c3",
+        "size": [
+          435,
+          152
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/001-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/10_习题十 角动量守恒（一）.md",
+    "question": "6",
+    "chapter": "03",
+    "target": "_assets/10_习题十 角动量守恒（一）/图6.png|220",
+    "path": "大学物理习题册（上）/_assets/10_习题十 角动量守恒（一）/图6.png",
+    "sha256": "e7ce8412dd9cf369a851f61ac3d4e33e576879393dc06b359da5cf4116685bf0",
+    "size": [
+      359,
+      257
+    ],
+    "id": 47,
+    "method": "reuse_extraction",
+    "new": "002-extracted.png",
+    "check": "旧整理对应同一习题册源页，与资产002一致；共用核验产物，保留原显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/10_习题十 角动量守恒（一）.md",
+        "question": "6",
+        "chapter": "03",
+        "target": "_assets/10_习题十 角动量守恒（一）/图6.png|220",
+        "path": "大学物理习题册（上）/_assets/10_习题十 角动量守恒（一）/图6.png",
+        "sha256": "e7ce8412dd9cf369a851f61ac3d4e33e576879393dc06b359da5cf4116685bf0",
+        "size": [
+          359,
+          257
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/002-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/10_习题十 角动量守恒（一）.md",
+    "question": "7",
+    "chapter": "03",
+    "target": "_assets/10_习题十 角动量守恒（一）/图7.png|220",
+    "path": "大学物理习题册（上）/_assets/10_习题十 角动量守恒（一）/图7.png",
+    "sha256": "e15cef80f88f1d555643787a73e5de3474fbdc14c325c20723b50f31c466382b",
+    "size": [
+      499,
+      218
+    ],
+    "id": 48,
+    "method": "reuse_extraction",
+    "new": "003-extracted.png",
+    "check": "旧整理对应同一习题册源页，与资产003一致；共用核验产物，保留原显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/10_习题十 角动量守恒（一）.md",
+        "question": "7",
+        "chapter": "03",
+        "target": "_assets/10_习题十 角动量守恒（一）/图7.png|220",
+        "path": "大学物理习题册（上）/_assets/10_习题十 角动量守恒（一）/图7.png",
+        "sha256": "e15cef80f88f1d555643787a73e5de3474fbdc14c325c20723b50f31c466382b",
+        "size": [
+          499,
+          218
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/003-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/11_习题十一 角动量守恒（二）.md",
+    "question": "2",
+    "chapter": "03",
+    "target": "_assets/11_习题十一 角动量守恒（二）/图1.png|220",
+    "path": "大学物理习题册（上）/_assets/11_习题十一 角动量守恒（二）/图1.png",
+    "sha256": "af9e66600bd2ad118827fb74a9a75e495b45cc191ea7f6d90287ed624bbe3a83",
+    "size": [
+      366,
+      296
+    ],
+    "id": 49,
+    "method": "reuse_redraw",
+    "new": "004.svg",
+    "check": "旧整理对应同一习题册源页，与资产004一致；共用核验产物，保留原显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/11_习题十一 角动量守恒（二）.md",
+        "question": "2",
+        "chapter": "03",
+        "target": "_assets/11_习题十一 角动量守恒（二）/图1.png|220",
+        "path": "大学物理习题册（上）/_assets/11_习题十一 角动量守恒（二）/图1.png",
+        "sha256": "af9e66600bd2ad118827fb74a9a75e495b45cc191ea7f6d90287ed624bbe3a83",
+        "size": [
+          366,
+          296
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/004.svg"
+  },
+  {
+    "document": "大学物理习题册（上）/11_习题十一 角动量守恒（二）.md",
+    "question": "6",
+    "chapter": "03",
+    "target": "_assets/11_习题十一 角动量守恒（二）/图2.png|220",
+    "path": "大学物理习题册（上）/_assets/11_习题十一 角动量守恒（二）/图2.png",
+    "sha256": "672ad85d8e51ce6063545a6e45c8b9039d27e0db197d14852f3e2544d3f3ab8e",
+    "size": [
+      410,
+      374
+    ],
+    "id": 50,
+    "method": "reuse_extraction",
+    "new": "005-extracted.png",
+    "check": "旧整理对应同一习题册源页，与资产005一致；共用核验产物，保留原显示宽度。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/11_习题十一 角动量守恒（二）.md",
+        "question": "6",
+        "chapter": "03",
+        "target": "_assets/11_习题十一 角动量守恒（二）/图2.png|220",
+        "path": "大学物理习题册（上）/_assets/11_习题十一 角动量守恒（二）/图2.png",
+        "sha256": "672ad85d8e51ce6063545a6e45c8b9039d27e0db197d14852f3e2544d3f3ab8e",
+        "size": [
+          410,
+          374
+        ]
+      }
+    ],
+    "new_path": "10_题库/_assets/上册逐章/03_角动量与刚体/005-extracted.png"
+  },
+  {
+    "document": "大学物理习题册（上）/12_习题十二 角动量守恒（三）.md",
+    "question": "2",
+    "chapter": "03",
+    "target": "_assets/12_习题十二 角动量守恒（三）/图1_重做.png|220",
+    "path": "大学物理习题册（上）/_assets/12_习题十二 角动量守恒（三）/图1_重做.png",
+    "sha256": "f69ddb90938ffa9b51ecb5ea0051ae32212e357c0e30002acbc8a12d9ee4f16e",
+    "size": [
+      720,
+      390
+    ],
+    "id": 51,
+    "method": "retained_clear",
+    "check": "本图已有清晰的人工整理示意；原有v/2与v、O及杆图可读，按排除已清楚图的规则保留。旧版含题面文字，不裁掉或擅自移除。",
+    "references": [
+      {
+        "document": "大学物理习题册（上）/12_习题十二 角动量守恒（三）.md",
+        "question": "2",
+        "chapter": "03",
+        "target": "_assets/12_习题十二 角动量守恒（三）/图1_重做.png|220",
+        "path": "大学物理习题册（上）/_assets/12_习题十二 角动量守恒（三）/图1_重做.png",
+        "sha256": "f69ddb90938ffa9b51ecb5ea0051ae32212e357c0e30002acbc8a12d9ee4f16e",
+        "size": [
+          720,
+          390
+        ]
+      }
+    ]
+  }
+]
