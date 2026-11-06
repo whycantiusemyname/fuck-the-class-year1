@@ -1,5 +1,5 @@
 {
-  "files": 3545,
+  "files": 3548,
   "MiB": 1084.64,
   "retained_cache_files": 707,
   "preexisting_unresolved_links": [],
@@ -3832,6 +3832,19 @@
       "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/逐图核验.json",
       "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/阅读预览.html",
       "物理/90_缓存/image-readability-20261106/02/final.json"
+    ],
+    "primary_visual_acceptance": true
+  },
+  "physics_readability_ch06_20261106": {
+    "assets": 6,
+    "references": 6,
+    "fixed": 0,
+    "report": "物理/40_派生视图/大物上/图像可读性复核_20261106/第06章/README.md",
+    "changed_files": [
+      "物理/40_派生视图/大物上/图像可读性复核_20261106/README.md",
+      "物理/40_派生视图/大物上/图像可读性复核_20261106/第06章/README.md",
+      "物理/40_派生视图/大物上/图像可读性复核_20261106/第06章/逐图核验.json",
+      "物理/40_派生视图/大物上/图像可读性复核_20261106/第06章/阅读预览.html"
     ],
     "primary_visual_acceptance": true
   }

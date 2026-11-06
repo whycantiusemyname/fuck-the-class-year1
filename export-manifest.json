@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 259109,
-    "sha256": "e913b0c6cb97f5344fa04f2614e1f4c85c08ec73c2d883d29a7978d315eef08f"
+    "bytes": 259751,
+    "sha256": "7e3346ed977d1a6276b345efb2ed71955af5a3bd625e03280cdfd5cdd1ee816a"
   },
   {
     "path": "tools/verify_share.py",
@@ -8431,8 +8431,8 @@
   },
   {
     "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/README.md",
-    "bytes": 279,
-    "sha256": "1b76f5ccd333d829ac25e76bb168512dffc4e0d7ce096b6553db2da8a9774d8c"
+    "bytes": 333,
+    "sha256": "72b8ec41942814a8dde2e2db1be67281b6f27efe9e278d7ed73b9f2eac80d5a8"
   },
   {
     "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/README.md",
@@ -8468,6 +8468,21 @@
     "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/阅读预览.html",
     "bytes": 30622,
     "sha256": "3e39b90da1d0af178b751dd6b060921b375fee864800980d5fb6f2f4f831ee1c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第06章/README.md",
+    "bytes": 1387,
+    "sha256": "ebf3eb00c72aba3db58ce4d47199bc28d4c59fba20ce660e5a6601aad6d62607"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第06章/逐图核验.json",
+    "bytes": 4729,
+    "sha256": "0deb2113924e352b717845a9408a89a7b829afc3ce5df957c76a3e1be529f3eb"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第06章/阅读预览.html",
+    "bytes": 2126,
+    "sha256": "b002164a68e80d3d1afa31cf2f376197fc369616b5c6baa482ff1d708c4e8b78"
   },
   {
     "path": "物理/40_派生视图/大物上/图像重绘批01/README.md",

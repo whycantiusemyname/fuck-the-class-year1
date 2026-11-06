@@ -1,0 +1,98 @@
+{
+  "chapter": "06",
+  "asset_count": 6,
+  "reference_count": 6,
+  "primary_review": "Parent visually checked chapter contact sheets; all repaired assets checked after rendering at full size and reduced size.",
+  "entries": [
+    {
+      "id": 1,
+      "status": "pass",
+      "note": "主代理查看联系表与引用题目；坐标轴、标注与箭头清楚，未发现文字遮挡和题图混挂。",
+      "original_path": "物理/10_题库/_assets/上册逐章/06_相对论/001-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/06_相对论/001-extracted.png",
+      "final_sha256": "caefaf109111fa7c1ec63a22dd458d469fd063351bc33333f1eb850fc53aa99e",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+          "anchor": "23-24期末-填2",
+          "final_path": "物理/10_题库/_assets/上册逐章/06_相对论/001-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "pass",
+      "note": "主代理查看联系表与引用题目；坐标轴、标注与箭头清楚，未发现文字遮挡和题图混挂。",
+      "original_path": "物理/10_题库/_assets/上册逐章/06_相对论/002-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/06_相对论/002-extracted.png",
+      "final_sha256": "a1e7f54acf592227f398d860821b1920f728c556f775f34cbe5aa6c89a64a20d",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
+          "anchor": "23-24期末-计4",
+          "final_path": "物理/10_题库/_assets/上册逐章/06_相对论/002-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "pass",
+      "note": "主代理查看联系表与引用题目；坐标轴、标注与箭头清楚，未发现文字遮挡和题图混挂。",
+      "original_path": "物理/10_题库/_assets/上册逐章/06_相对论/003-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/06_相对论/003-extracted.png",
+      "final_sha256": "15cd43544954adfa9d22260b2cfdd9fa0a5294285a331a1359e4f5f31847ec3e",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
+          "anchor": "学习指导-第06章-例题-6-1",
+          "final_path": "物理/10_题库/_assets/上册逐章/06_相对论/003-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "pass",
+      "note": "主代理查看联系表与引用题目；坐标轴、标注与箭头清楚，未发现文字遮挡和题图混挂。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch06-ex6-4.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch06-ex6-4.png",
+      "final_sha256": "b12d79dac50a70d734270c756ff68d37fe53ace5cb2ce3c17f887b6f9987da6f",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
+          "anchor": "学习指导-第06章-例题-6-4",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch06-ex6-4.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "pass",
+      "note": "主代理查看联系表与引用题目；坐标轴、标注与箭头清楚，未发现文字遮挡和题图混挂。",
+      "original_path": "物理/10_题库/_assets/上册逐章/06_相对论/004.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/06_相对论/004.svg",
+      "final_sha256": "62c4bd18972e84a0d4a069168db9e4600a829bce86691f3bf5f94bb986a05dd3",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
+          "anchor": "学习指导-第06章-例题-6-6",
+          "final_path": "物理/10_题库/_assets/上册逐章/06_相对论/004.svg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "status": "pass",
+      "note": "主代理查看联系表与引用题目；坐标轴、标注与箭头清楚，未发现文字遮挡和题图混挂。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch06-prob6-6.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch06-prob6-6.png",
+      "final_sha256": "3fa19dbb1d6947779554f416cc835f3db7f690e515eba1c7bf48c6edf2758c34",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
+          "anchor": "学习指导-第06章-习题-6-6",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch06-prob6-6.png"
+        }
+      ]
+    }
+  ]
+}
