@@ -6,23 +6,23 @@
   },
   {
     "path": ".gitignore",
-    "bytes": 136,
-    "sha256": "07fe16799a76faf72685e47052ab7a67f181cbc4630699c374cb10bd691dea12"
+    "bytes": 856,
+    "sha256": "ecd83cac982acd46a1b2bf5028511ae1008ea68ace9996a120f88f0d1fe099be"
   },
   {
     "path": "README.md",
-    "bytes": 3482,
-    "sha256": "3d507bdeb34d13fa801d3518293f11c507c4e5d4f3318cdf30d31d0abe614569"
+    "bytes": 3738,
+    "sha256": "f70bef4f066b19d64e2d16161370de91841658536dd70972c058a0a814ab0110"
   },
   {
-    "path": "export-audit.json",
-    "bytes": 262284,
-    "sha256": "543f8c1e78b0169ec5d3c4b3a426bdd1facea75529071c1c23514a23cc40383e"
+    "path": "tools/export_year1.py",
+    "bytes": 6555,
+    "sha256": "e8d465974e31af106cb14423e0fbd5f9d2dd4189e9f9a7d6fd7f01a30a167a55"
   },
   {
-    "path": "tools/verify_share.py",
-    "bytes": 2263,
-    "sha256": "2d580f79ae21b810bdfbcd7002f2a25c9f61cc50de1f9eb042c1ab9dbc4e796a"
+    "path": "tools/publish_policy.py",
+    "bytes": 7463,
+    "sha256": "1bd24440a4de48adcf18e09d14692f6924be4b30c44053d837e23b9315c0c3bd"
   },
   {
     "path": "微积分/00_原材料/Apr10th.pdf",
@@ -500,24 +500,9 @@
     "sha256": "9b2eab13f5e586385421c1f18b7153600f013d40f9a84d14c3b4a62e9e42746f"
   },
   {
-    "path": "微积分/10_题库/images/redraw/directed-path.png",
-    "bytes": 24303,
-    "sha256": "67a7500f02c2d5f473856ba9572b136f092a02c3c1b39b2748926bb165710a24"
-  },
-  {
     "path": "微积分/10_题库/images/redraw/directed-path.svg",
     "bytes": 12018,
     "sha256": "1ebede60ca50e43aa8f77c476eeb1fef13a1e1e1071d423660733258730f5171"
-  },
-  {
-    "path": "微积分/10_题库/images/redraw/generate.py",
-    "bytes": 5235,
-    "sha256": "8f57b214da3c71066ceaf1d0a997baba9c78e366e16acf0501de29af228dd9e3"
-  },
-  {
-    "path": "微积分/10_题库/images/redraw/lower-hemisphere.png",
-    "bytes": 118928,
-    "sha256": "6b0823b88198c5ce0a63cd00ea27414345662b1d751f545e38dafd2276f551f3"
   },
   {
     "path": "微积分/10_题库/images/redraw/lower-hemisphere.svg",
@@ -530,19 +515,9 @@
     "sha256": "7aa10e9731a5a94279d2ed288d758bcea06c09ea20c1d51b98be130b8d8283d4"
   },
   {
-    "path": "微积分/10_题库/images/redraw/sphere-cylinder.png",
-    "bytes": 219071,
-    "sha256": "3c93e30311f5ad61326e601723571f2e3d0f3bb2fceba29720b444d0c449ff5b"
-  },
-  {
     "path": "微积分/10_题库/images/redraw/sphere-cylinder.svg",
     "bytes": 500184,
     "sha256": "98cb0fa4bcdcee64a2555ebf49f2adecbf3a79dcd2d1da187a26bd19cc1e6f77"
-  },
-  {
-    "path": "微积分/10_题库/images/redraw/verify.py",
-    "bytes": 1259,
-    "sha256": "35cc3bc96457f13ce88afe441719eb59ec4939e1cdb1e2495d7211734d94e192"
   },
   {
     "path": "微积分/10_题库/缺卷头期末P52-54_题面整理.md",
@@ -686,18 +661,8 @@
   },
   {
     "path": "微积分/40_派生视图/解答复核_20261106/README.md",
-    "bytes": 6909,
-    "sha256": "b2200086738e6ef495642671a8229c0000343bd207e7b6ff7806ddc936d72e93"
-  },
-  {
-    "path": "微积分/40_派生视图/解答复核_20261106/priority_checks.py",
-    "bytes": 1704,
-    "sha256": "263fe7cbf5af1761e32eb7c5101375fa463a24e03c6c963699e93b020206ee46"
-  },
-  {
-    "path": "微积分/40_派生视图/解答复核_20261106/regression_checks.py",
-    "bytes": 4872,
-    "sha256": "c9b2b7e1a88aa94525f2aa873f659727eb9390528c939663732304bb3f309565"
+    "bytes": 6929,
+    "sha256": "86203b1bf2b3969ab07fd7b82eb645c993c71c57dbc4a0f5602d0d0243d3475e"
   },
   {
     "path": "微积分/40_派生视图/解答复核_20261106/参考来源.json",
@@ -705,19 +670,9 @@
     "sha256": "7f81b2c220da283d1ed23537b9623bc31808821d1418517dbddf23c5714f65aa"
   },
   {
-    "path": "微积分/40_派生视图/解答复核_20261106/核验结果.json",
-    "bytes": 12986,
-    "sha256": "d3a46beaf6ceaf0f97314f6b17d5afc2ffeba5a8f3894f21316c4693470c5194"
-  },
-  {
-    "path": "微积分/40_派生视图/解答复核_20261106/逐题审计.json",
-    "bytes": 305673,
-    "sha256": "2584dc19b9ad66a6c560a513f627674ad8ba66203bc8d41a27ec344df8a44f53"
-  },
-  {
     "path": "微积分/40_派生视图/解答完成索引.md",
-    "bytes": 4577,
-    "sha256": "29261a39df30cd168cd297c05517f885106ed30637c2b856802af54290ef491f"
+    "bytes": 4545,
+    "sha256": "7cddfce7f4dfb02331182707a7effea160ccf3823c80732515d31b2288844ce8"
   },
   {
     "path": "微积分/40_派生视图/递进刷题跳转清单.md",
@@ -725,39 +680,14 @@
     "sha256": "ca9a2cf8157a494f045ea16a69fb30009ce67e4d5d80402edbfa1302d71764c3"
   },
   {
-    "path": "微积分/40_派生视图/题图重绘_20261106/README.md",
-    "bytes": 2206,
-    "sha256": "fb30406ddf831d303918174c7b9083cb54ed2cc75061d6914be348716fc788b9"
-  },
-  {
-    "path": "微积分/40_派生视图/题图重绘_20261106/comparison.png",
-    "bytes": 517476,
-    "sha256": "a97eea0971afad13f11bc3f8a1984cbb88ac7708bfd58fad5e41191504766da2"
-  },
-  {
-    "path": "微积分/40_派生视图/题图重绘_20261106/directed-path-svg-render.png",
-    "bytes": 7340,
-    "sha256": "3f7735bcd5d7ad1bdb3e5019f6bfbc7a189abc8b199e307f968ec4432f293505"
-  },
-  {
     "path": "微积分/40_派生视图/题图重绘_20261106/intake-rebind.txt",
     "bytes": 150,
     "sha256": "de6e098f563c4d688eacfaa709ccae4f25e070632f669e7fe012aa5a6fa5c0d3"
   },
   {
-    "path": "微积分/40_派生视图/题图重绘_20261106/lower-hemisphere-svg-render.png",
-    "bytes": 72710,
-    "sha256": "1e7fec441cc406d1505c438026af117d1b1d5e87b1356d7e56add55a1b3fe57f"
-  },
-  {
-    "path": "微积分/40_派生视图/题图重绘_20261106/sphere-cylinder-svg-render.png",
-    "bytes": 135056,
-    "sha256": "0ddc17fb8f42a1b14e37d4cee25b70a2a54f04b987a0795a2d621cffab0b126d"
-  },
-  {
-    "path": "微积分/40_派生视图/题图重绘_20261106/validation.json",
-    "bytes": 743,
-    "sha256": "886ab6e0cb38acf1c6376ffbb45552fe125b9a40fe54ef4e704252223f353369"
+    "path": "微积分/40_派生视图/题图重绘_20261106/README.md",
+    "bytes": 2219,
+    "sha256": "1d2054d42a93a7f8698906586b7f06bfda409b4c54a9ade96f1d81920306a007"
   },
   {
     "path": "微积分/90_缓存/s2-frequency-analysis.json",
@@ -1615,19 +1545,9 @@
     "sha256": "6157ac3cd892405c460ff22d9483f2dac7dceec2d35e51897745c2ee437f5168"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/01_运动学/01-circle-position.png",
-    "bytes": 45420,
-    "sha256": "323f2076a0a633a4daa6d237d148b8d584a0177b47f8a4cb088f6633199ed5e3"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/01-circle-position.svg",
     "bytes": 12612,
     "sha256": "8f095e3301520f289b592165ae848eb4b8e7f940cc17948343ca2b4a34f3d731"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/01_运动学/02-circle-P.png",
-    "bytes": 35573,
-    "sha256": "d6bf8b3f6d048b2e53de7ee6020847cc6f71b36c387d1d4ed85cf19a3f740eeb"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/02-circle-P.svg",
@@ -1635,19 +1555,9 @@
     "sha256": "2336897cd9f55e37625e8268fb2df231641ee77db003ec9439e5d9adc1a22d94"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/01_运动学/03-boat-relative-velocity.png",
-    "bytes": 29114,
-    "sha256": "ef3239d013c180a411a14b9dd5d71c686c4d5c99599962de7bee92c415d1093a"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/03-boat-relative-velocity.svg",
     "bytes": 5601,
     "sha256": "eb8cf73a9c03d7ef5971394a0049e9dfef3aeefc9bda4f999bbfcc49933a3cb5"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/01_运动学/04-sphere-A-B.png",
-    "bytes": 29612,
-    "sha256": "97a53abbbc7cf71f5ca7aaa769308e0e627016b0c2801d678278bf50081e5422"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/04-sphere-A-B.svg",
@@ -1655,19 +1565,9 @@
     "sha256": "d08bf7e1fca5c5638933d956af3f245a362ec46674566363522ea380c23379bd"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/01_运动学/05-projectile-launch.png",
-    "bytes": 29827,
-    "sha256": "dac123fd5479c3eb14208c382ecb343bcce93af591848b88aec3bd7dab99c2d8"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/05-projectile-launch.svg",
     "bytes": 6107,
     "sha256": "4f726f06bf9a29977fe6e8234d246beb0836c637a83ba5ae87b738ba049a824e"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/01_运动学/06-quarter-circle-track.png",
-    "bytes": 23455,
-    "sha256": "a14180d03ccb033ecff47fca9242ff0ca6ef81f200ff8ae1af916b7aa7a4ebfb"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/06-quarter-circle-track.svg",
@@ -1675,19 +1575,9 @@
     "sha256": "a432682758a4f9a943257ed750a6a9f3d1d8849f19e93cd988b329806aad3d5b"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/01_运动学/07-projectile-tangent-30deg.png",
-    "bytes": 33142,
-    "sha256": "7c72394fb2e38ab74e00b34fc6e84a8c28c5008f3b8f1c40f3fd5163eb49f4a2"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/07-projectile-tangent-30deg.svg",
     "bytes": 8518,
     "sha256": "ef3acf1523dc6840fe2a5300725589f90d90627c7b1ca7cedd30b061d29efc06"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/01_运动学/generate.py",
-    "bytes": 5930,
-    "sha256": "e3c0f5107b47bf244fa515447490bada6f9e184b23941ee7a9f98e447f448f40"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/mapping.json",
@@ -1695,29 +1585,14 @@
     "sha256": "ca4a9a3cc70782662f0bab19045ec09a6b79a8b5fdc61591798f72d12d6d13d9"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/001.png",
-    "bytes": 19237,
-    "sha256": "6a0563ceb092ccac0581d74b439215471e61c1b4490673ae348922b2780156de"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/001.svg",
     "bytes": 12022,
     "sha256": "51c82c31d3bde1ad7001b5016ddddb8ba829353dff62a6909ca7107c00c1b868"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/002.png",
-    "bytes": 11954,
-    "sha256": "4df678eb73c61bc68590423fd8e6140d7cb370fbce33f5682901b3170b56d255"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/002.svg",
     "bytes": 6409,
     "sha256": "78da79dac85b918051904896f0694d3c9abd8362929a778dd36f9b141d2ca6a4"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/003.png",
-    "bytes": 29304,
-    "sha256": "241484027b3d0305d388bfb801d02c0427301a7d2eb997486012a7f8a949e1af"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/003.svg",
@@ -1735,29 +1610,14 @@
     "sha256": "1e417dd3e254697b56327efb23b7739103316e6d49a3ceec7e2aaab56043d317"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/006.png",
-    "bytes": 36014,
-    "sha256": "0af0ae6243bc4c8db5596df2aa9441c67dc285b1780de819386bfbe832de04b7"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/006.svg",
     "bytes": 9261,
     "sha256": "838568969f7985511f7c6a4b6e5274a5ee8ebb4a1b3730b5916d6d5ad9a0f832"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/007.png",
-    "bytes": 32189,
-    "sha256": "a92c924a5d0ac4006aa8ca4b7f10228c892be1ff6063c4fdea6d16090343ea3b"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/007.svg",
     "bytes": 13368,
     "sha256": "c52d9f05b416a498ad2453089242c67196c9dc835e49f385f5607976c57fb987"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/008.png",
-    "bytes": 43698,
-    "sha256": "fcba46ac019b86a804209d94faf395db597719f9794cb5b5f2a80e779b419ddd"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/008.svg",
@@ -1770,19 +1630,9 @@
     "sha256": "68ea2d1b0c16ca9b4cc35f7b2319ca33fa1167ba1b9291d6171008ea38e325d3"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/010.png",
-    "bytes": 29236,
-    "sha256": "a069737e1945f8a46614910d9eeea7fee691e006a8ca7d8308b8d47ce0385076"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/010.svg",
     "bytes": 15782,
     "sha256": "1e9f429b37e703bc062e87b9a2662daaa422e4df3d380ece2ddb618088643246"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/011.png",
-    "bytes": 51485,
-    "sha256": "ce0648c2342355ec4eb26dfb9de0e55921e418fffa549cc220be1dd3aaf8f0b5"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/011.svg",
@@ -1790,19 +1640,9 @@
     "sha256": "54e89b39b3097435fcf4e664eaf00df941d13d157dad5492e6f75551ecdd1ae8"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/012.png",
-    "bytes": 35420,
-    "sha256": "544e20aead09f8735d7af8cee4ba01105184ad0f3900c72e760f14ad61195091"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/012.svg",
     "bytes": 18145,
     "sha256": "642cdeb413f957a5e5695e5a3468388172cd6100eb4f7d2823cafaac06a99938"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/013.png",
-    "bytes": 34499,
-    "sha256": "f77197cd716fec5932cfdf58d06a48470fcf44115c69e8a86793f1d45b4d0637"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/013.svg",
@@ -1813,11 +1653,6 @@
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/014-extracted.png",
     "bytes": 30364,
     "sha256": "b96bf9db20ae215c6da720e5884841d1512f25dc92e90430f394392c9649c163"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/015.png",
-    "bytes": 15376,
-    "sha256": "ddfa079e83819a91eee3d9a847de523929fa5e08449a6b5cd20de9fc2fad485b"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/015.svg",
@@ -1850,11 +1685,6 @@
     "sha256": "c1f8e11b5a364ee671f5570660a5a5c6c0410d4d1e620eed7c0c99b98b92b3d4"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/021.png",
-    "bytes": 16462,
-    "sha256": "1d79f113910a1d432df3829b1741266b940f8465af7042cfffc803eff697871e"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/021.svg",
     "bytes": 10944,
     "sha256": "eb98ea919657ecfc8cb9594101ebaac90f4e80c4a4fd7189b81d1f7a909c4b85"
@@ -1865,19 +1695,9 @@
     "sha256": "26d9340fd15ad23cdfeb5213a002595061ba287eaafb69688f3d595703dba303"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/023.png",
-    "bytes": 23587,
-    "sha256": "3224f49aba45600e1e72c08f4508cd3c2a40f66681b465d492c6534d50ad6334"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/023.svg",
     "bytes": 11417,
     "sha256": "8373eb73f09ad9cf707331a8de172318bc91ed4c9f3803b26413732741c4e9ee"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/024.png",
-    "bytes": 39000,
-    "sha256": "9466a0d9a1f38ce4391c3f69c2b3abb08eacad1c0cd9633d850a76a3f1e3ebb9"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/024.svg",
@@ -1885,29 +1705,14 @@
     "sha256": "15ab3ce8371e208844651a4d1d8401bb78f7b6264d29cb55996f7f34bb1b82e4"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/025.png",
-    "bytes": 21815,
-    "sha256": "1e97ca2dadca457dbd30b43eb6d9cda28a771d005850c8f33b4ad8f3dee851b5"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/025.svg",
     "bytes": 7152,
     "sha256": "103f02291f2b07881328d94ab46e18ea247aeff88b3251771b9ebe83ecf93d0a"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/027.png",
-    "bytes": 49040,
-    "sha256": "7ec523d43ffc72777172310aedcd8d45fe810cd9eee94d975d6ac848c6d3efc9"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/027.svg",
     "bytes": 11372,
     "sha256": "c1844377bdada6356ab139f31383bb23348e40dae8c1b21a1f938539580acd40"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/028.png",
-    "bytes": 35420,
-    "sha256": "544e20aead09f8735d7af8cee4ba01105184ad0f3900c72e760f14ad61195091"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/028.svg",
@@ -1918,11 +1723,6 @@
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/029-extracted.png",
     "bytes": 51622,
     "sha256": "ac231255ec36874e78ece36ccf2a8789e3ccc8f11ef111f626701a7e02a795aa"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/030.png",
-    "bytes": 39000,
-    "sha256": "9466a0d9a1f38ce4391c3f69c2b3abb08eacad1c0cd9633d850a76a3f1e3ebb9"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/030.svg",
@@ -1940,11 +1740,6 @@
     "sha256": "6d2861ff8c85b4b7a5bed8cb136ff5dd593204bce36c7447ce928c0279e524b1"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/033.png",
-    "bytes": 32210,
-    "sha256": "a87f0c93eec4b1a6f87be8f0e7964fe6913753d9658d7a2b422c14db85c72380"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/033.svg",
     "bytes": 16207,
     "sha256": "656773166f2b23b64188542cb5606b06150f28ff796259bfd90f3955f7abd77b"
@@ -1955,19 +1750,9 @@
     "sha256": "14f9b2a8c729e1650c2e4847b04da2622d30af585127b01c6910fe3b8464e462"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/035.png",
-    "bytes": 21931,
-    "sha256": "effa0fb6d72a5408e39cc86db58e0b17468e08669e1ad2e6de0e7d78cdb2ff5c"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/035.svg",
     "bytes": 10817,
     "sha256": "1ec298480f5eebbede6087cd7123ac42055045a32b55fad13cb59ae4501b38f2"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/036.png",
-    "bytes": 29996,
-    "sha256": "adcf3c75797a1fda2e0557997288a4732004fc62adf92b1f9882160b05f22f89"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/036.svg",
@@ -1975,19 +1760,9 @@
     "sha256": "0304a409cba94ff88808deda31162bc2ed79e92036d43580620d2a3f03395131"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/037.png",
-    "bytes": 35292,
-    "sha256": "6de39e511d8d7855fb95dc2ff3568a417b0dc0fad17bb1565c589f1fb926b6b8"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/037.svg",
     "bytes": 15104,
     "sha256": "0e2cc4f58df17386c1bc99ef7be5509c89ada250e000ea4e0c104ee60878f4ca"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/038.png",
-    "bytes": 21916,
-    "sha256": "3df78b450f07c666bec50df52e1111a4b0778b0ec831cb87321bc4cc28b8037a"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/038.svg",
@@ -1995,29 +1770,14 @@
     "sha256": "395b3b80ba774a78b336ccdd988fc7b8c4f7009266fef9da2509b6382a6f7198"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/039.png",
-    "bytes": 31643,
-    "sha256": "343c8f978f24f08a75d7ee659796d1588fd9f208d04d300f0d86c4b6f48920a4"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/039.svg",
     "bytes": 9356,
     "sha256": "679cd228aa488d84818d595b622f0af25571bd81f4ce969ec95a5aff667e0d8d"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/040.png",
-    "bytes": 32773,
-    "sha256": "fe6cc28e4c60ead346876e506595edbcabb298f4e5ff7451aab792566d0d93ce"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/040.svg",
     "bytes": 15602,
     "sha256": "b86731e480e81b855438ed4edd63b42aa7a9778b2a965cd3fb7c84eb311931ca"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/041.png",
-    "bytes": 45110,
-    "sha256": "6578a65368fce654224e335737f1007bb0fe16c1b0ab52929a4b4133eca163b0"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/041.svg",
@@ -2035,19 +1795,9 @@
     "sha256": "901d148fae3c875d942f0fa3e407e793efe3703ecfe1efcdbf8376370f75635b"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/044.png",
-    "bytes": 13662,
-    "sha256": "8e0e2b20780a7bc462e19055d90263d8c77cf2d0217f0639fa0066b18fbc9d2d"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/044.svg",
     "bytes": 9221,
     "sha256": "6972b188c40257ed9ce9affb1a896f27796d932e7b2afd47289188720ef1215b"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/045.png",
-    "bytes": 21815,
-    "sha256": "1e97ca2dadca457dbd30b43eb6d9cda28a771d005850c8f33b4ad8f3dee851b5"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/045.svg",
@@ -2070,29 +1820,14 @@
     "sha256": "1e311b0be4f2d3cde5dfd3d0be9577a48f3fca472200a694b2c25158d6743b6c"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/049.png",
-    "bytes": 26286,
-    "sha256": "a6ac0f84dc84e65bd5618947d941131a68bfc4af8ffee60b24ada9381342f904"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/049.svg",
     "bytes": 13540,
     "sha256": "484f13a77482a4618fadbbb5d8e4d1f79bf6cb1eb93443ad8d17e518985b02bc"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/050.png",
-    "bytes": 21931,
-    "sha256": "effa0fb6d72a5408e39cc86db58e0b17468e08669e1ad2e6de0e7d78cdb2ff5c"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/050.svg",
     "bytes": 10817,
     "sha256": "1ec298480f5eebbede6087cd7123ac42055045a32b55fad13cb59ae4501b38f2"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/051.png",
-    "bytes": 29996,
-    "sha256": "adcf3c75797a1fda2e0557997288a4732004fc62adf92b1f9882160b05f22f89"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/051.svg",
@@ -2105,11 +1840,6 @@
     "sha256": "fbc5f55d4f76898f702dd060e2a487e11b017600bd99c7a8b88f21031e3831b4"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/053.png",
-    "bytes": 23617,
-    "sha256": "6d24d3735119a2681a32043cb287f094992e4dcb99c857128f301be29bb01d29"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/053.svg",
     "bytes": 8115,
     "sha256": "73f4c047ed1c798dccdc2ffcce2ba3e27cf465ce394cf23c097f6e1ed76ac1ad"
@@ -2120,11 +1850,6 @@
     "sha256": "50e49f91a471491e39c50cdd75d93230792f03a5b55d8c0e741f9c7de560fae4"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/055.png",
-    "bytes": 39000,
-    "sha256": "9466a0d9a1f38ce4391c3f69c2b3abb08eacad1c0cd9633d850a76a3f1e3ebb9"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/055.svg",
     "bytes": 6694,
     "sha256": "15ab3ce8371e208844651a4d1d8401bb78f7b6264d29cb55996f7f34bb1b82e4"
@@ -2133,11 +1858,6 @@
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/056-extracted.png",
     "bytes": 35591,
     "sha256": "8f8417fb70d75428190e09f07e709ef5bcd15256c4068b29c04553b9aee0047d"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/057.png",
-    "bytes": 23064,
-    "sha256": "c3bdc98f30aa7ba5d87ed1476821a4ddb5ed73e01b8f29c066653252650a3ff9"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/057.svg",
@@ -2205,11 +1925,6 @@
     "sha256": "c6ce4babe82535d5191e13cca438da6b43743d3b42a1ed2da5d1ad6d487b3700"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/071.png",
-    "bytes": 16077,
-    "sha256": "1ada2af4866cdae69ca3fca5ca62baba781913fdde06b1dd99e5a54ee4492bd5"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/071.svg",
     "bytes": 8015,
     "sha256": "dc28613575e682d59be50ba6e9e90680aa6e4e7bddf6627c85c91bfa874970be"
@@ -2245,24 +1960,9 @@
     "sha256": "14d3922d57b38ef78361ff5beb32015dc4f44f7b96ec11572d222a1bb1967499"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/080.png",
-    "bytes": 29236,
-    "sha256": "a069737e1945f8a46614910d9eeea7fee691e006a8ca7d8308b8d47ce0385076"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/080.svg",
     "bytes": 15782,
     "sha256": "1e9f429b37e703bc062e87b9a2662daaa422e4df3d380ece2ddb618088643246"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/extract_from_pdf.py",
-    "bytes": 1378,
-    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/generate.py",
-    "bytes": 10726,
-    "sha256": "c90731eadcff9ad6696fedcaf4fae747a2528b756c0e8ad593481d4bb95554ee"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/mapping.json",
@@ -2285,11 +1985,6 @@
     "sha256": "a66b7e51f2aefbf2a25674e501a302ae250d7745e329634d827da486e4517fda"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/004.png",
-    "bytes": 34616,
-    "sha256": "fa0d193442847ab2d2ca75071393613350dcbf119d813b604075bf13e1b89867"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/004.svg",
     "bytes": 11900,
     "sha256": "c63b5d4558971674de30f2d0f93c9f474669f08ca239802bea7fdab994bac992"
@@ -2298,11 +1993,6 @@
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/005-extracted.png",
     "bytes": 18433,
     "sha256": "288771ff2eeebee0cee82d6b53bc51ff14e092a78dc575ca5c57dafc160375b1"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/007.png",
-    "bytes": 13967,
-    "sha256": "fa8e5b11c86a2774f4ec28cd89492feb088c491c45ca8f17ae32ea3b6e4993cd"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/007.svg",
@@ -2340,11 +2030,6 @@
     "sha256": "78afeeabf5677ccaa6c7e4bdf6b991fbc11ab966ea80595640102095e3867a27"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/014.png",
-    "bytes": 17962,
-    "sha256": "3d86b801229ef4fe7cf5c7d8789169e68ede415f478e21c3e1276fadcbd8cdde"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/014.svg",
     "bytes": 6381,
     "sha256": "74dc3898ef7487a31d6237a81664071bd73d3e901132a45973a57a5b09e04507"
@@ -2355,19 +2040,9 @@
     "sha256": "f2591f1e25aa00c07b54547024ddbbeb740ab91fb3455aa10fc9ad016b9f673a"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/016.png",
-    "bytes": 57154,
-    "sha256": "09ebb9e987c7b3f8623c547daa505907c52122a0c2b17b26c8ee757cd151b20f"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/016.svg",
     "bytes": 8117,
     "sha256": "f03ae42710ca8b966e53af6f97645b19fb224c05ca38d4f5cadc2e719fcbd5f0"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/017.png",
-    "bytes": 13967,
-    "sha256": "fa8e5b11c86a2774f4ec28cd89492feb088c491c45ca8f17ae32ea3b6e4993cd"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/017.svg",
@@ -2380,11 +2055,6 @@
     "sha256": "8bf4bec1fd86700fbbdfe17fe8bc131900113692e3aba2891e3804cf09386d3f"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/019.png",
-    "bytes": 17962,
-    "sha256": "3d86b801229ef4fe7cf5c7d8789169e68ede415f478e21c3e1276fadcbd8cdde"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/019.svg",
     "bytes": 6381,
     "sha256": "74dc3898ef7487a31d6237a81664071bd73d3e901132a45973a57a5b09e04507"
@@ -2395,29 +2065,14 @@
     "sha256": "87fa903df1d9b48bea9d304cf360879052ccef0b7fedb0d42b6d980e72c20f39"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/021.png",
-    "bytes": 12844,
-    "sha256": "08f25bff9e695f4dcbf65240cf9f6f43b59bcddb9befcbcaafd5a3285a7b8e98"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/021.svg",
     "bytes": 6296,
     "sha256": "3f2fae90d305684d93de53c068a9a3f726e1c17d5892f70d238681a6bbf0c435"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/022.png",
-    "bytes": 19628,
-    "sha256": "ef2b1816b43a8207799dc3e2c7b6db7bb3155a71a6a4a42d775dd26d2d8424b9"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/022.svg",
     "bytes": 7456,
     "sha256": "1d36cd62e16f69768e7111100564af3d5962c9c371ed34f089bd3f277946a381"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/023.png",
-    "bytes": 17962,
-    "sha256": "3d86b801229ef4fe7cf5c7d8789169e68ede415f478e21c3e1276fadcbd8cdde"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/023.svg",
@@ -2435,11 +2090,6 @@
     "sha256": "f7a50ce06a4007b1fe2c36e5ac85ff7fa6b1015e04d9d7a5885b34160b770c3a"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/026.png",
-    "bytes": 46706,
-    "sha256": "90907fc3e0a31378d945bf98e99950802c15337a833d5a92f77f8d638e0b76c2"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/026.svg",
     "bytes": 7122,
     "sha256": "0a1d757f7cf7c77bd5e9fc1e3fb09edf14ef20a9a16809ad50b9ef01c350f35a"
@@ -2450,11 +2100,6 @@
     "sha256": "8f979ec399638b744c7a6cf2591d58940c9fca5f8c28326a83d34d2a848dbd87"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/031.png",
-    "bytes": 34678,
-    "sha256": "5ec0d0551aa92c565d5fdce4987f9cc0a0c00daebc5540d5128351fa7812c265"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/031.svg",
     "bytes": 6117,
     "sha256": "1f7dc75247e700f822e0ca69fc91515c2b44ea38b56caf0152196f19e8b894a1"
@@ -2463,11 +2108,6 @@
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/032-extracted.png",
     "bytes": 119204,
     "sha256": "08e97c9e66c812a691469c4c0bd122e17e3164b8c09450497ffcf88dc01a1ddb"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/033.png",
-    "bytes": 17962,
-    "sha256": "3d86b801229ef4fe7cf5c7d8789169e68ede415f478e21c3e1276fadcbd8cdde"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/033.svg",
@@ -2483,11 +2123,6 @@
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/035-extracted.png",
     "bytes": 94444,
     "sha256": "af801c2540a7b715bed2773b98db95e4bad485082beaab2a1e0ee3942836c052"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/036.png",
-    "bytes": 22825,
-    "sha256": "a092912a5e65c505641fb5ee51a635187969e91e9813fc5d08ff3fdb80a9c47d"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/036.svg",
@@ -2515,29 +2150,14 @@
     "sha256": "df6754aaa316742eb9e68c3839b930d5c5244d26e9bdcb87b2389d1652c78828"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/041.png",
-    "bytes": 10763,
-    "sha256": "0bc128e54937f50a462d9627a871093f25893154ba9c12d34a90f059d00ddcb9"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/041.svg",
     "bytes": 5770,
     "sha256": "07eca7b108f322da51e023fbbede314c30a4ca0378be680381dc77a03286f0a9"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/042.png",
-    "bytes": 30577,
-    "sha256": "ed90179b16a4bfccf99f01fb6266a1045ac22a023dff9c6408d8294889d6ca0f"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/042.svg",
     "bytes": 10798,
     "sha256": "90004798a51ab236942222026473fb43c1eef056705d57cd9f2f1c4fc38f6ef8"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/043.png",
-    "bytes": 45600,
-    "sha256": "47858c80bcef6736c716e2b8e1264d29f4192f73b85e902a1cddc16708eadb7c"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/043.svg",
@@ -2555,24 +2175,9 @@
     "sha256": "5a53aee8683a30d41106b422de34048923f002a838be7867c0161e64f00091c4"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/extract_from_pdf.py",
-    "bytes": 1378,
-    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/generate.py",
-    "bytes": 5129,
-    "sha256": "aa8b3fe5b0e359dc01fe47596c133d75aaeb90c93b3e22a0459e94f73fb8563f"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/03_角动量与刚体/mapping.json",
     "bytes": 103831,
     "sha256": "5d82b645d2f1a74ad3119b37a15e168be7aa1895f9c04b79ff5ae0d2cdf51485"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/001.png",
-    "bytes": 44179,
-    "sha256": "b394d7dc3d3554a4dda3a94f3cf70727d66f9a7a2122437070a46edfe7d8ef05"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/001.svg",
@@ -2580,19 +2185,9 @@
     "sha256": "ddec2c24578431501b9c0f6f51496af672be439a6ef8c1945740838701e9c514"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/002.png",
-    "bytes": 46489,
-    "sha256": "7f5557f64a4215cb27e948ec5eafa8109cf1ccab7c7c0f31899d14a093063d3b"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/002.svg",
     "bytes": 13352,
     "sha256": "30cbb0179a429db535f236cb634efb76d1a007d00f795daf206cb65b65fb2cbe"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/003.png",
-    "bytes": 54434,
-    "sha256": "999dd3b3a71466d59438103706a824615c947ed8fa8da92a1890f562fcc2ad6a"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/003.svg",
@@ -2605,29 +2200,14 @@
     "sha256": "87b37131ec34a2a6237f9d2481d9b6063fe732655d8819d830b18a9e631239e0"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/005.png",
-    "bytes": 33743,
-    "sha256": "14c41e3e52ec2aca324ab4a45e3bca11bf3c222b0c8bc92ab42fe1ac48a41f9b"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/005.svg",
     "bytes": 9725,
     "sha256": "033e16432cd87669fa31cbe7950f917ec8f8bc4c7f901d47c7cffaff9d36d941"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/006.png",
-    "bytes": 52721,
-    "sha256": "a87b93ce519a3df948b3fba0a8eb9e2dea66297b0cb05c8b5e7ce5253b63dd7d"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/006.svg",
     "bytes": 12806,
     "sha256": "29ed9c4d450af678c53247e30f114ca56f437fd0ebde786caff8501bc6863a81"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/007.png",
-    "bytes": 56339,
-    "sha256": "a81ce0040ae23ec7030f06fe9357f56114d19b72f12b9fd6a830158ae2bf2214"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/007.svg",
@@ -2638,11 +2218,6 @@
     "path": "物理/10_题库/_assets/上册逐章/04_振动/009-extracted.png",
     "bytes": 63869,
     "sha256": "cbc0faaca10e27f3c939f02f13b987483eae6e266b59429ad522a1c28af576ca"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/010.png",
-    "bytes": 44837,
-    "sha256": "4f77d791439f835ed39a0cbc593e6e2e1d51f830fc5b4445139a9234c1606636"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/010.svg",
@@ -2665,11 +2240,6 @@
     "sha256": "9022fdb8123dc346d3d0863aaa3b02816ed228d9c76caa0c5e6695be491f8e00"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/014.png",
-    "bytes": 53492,
-    "sha256": "82cdc06731f7dea847a80ea0474ab93a97f2b749c4da10ce392a7a53d3395470"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/014.svg",
     "bytes": 13582,
     "sha256": "87f0bf11937f481c9a326d00a86857a3848af8a941f670e3683ccafd641395a5"
@@ -2685,19 +2255,9 @@
     "sha256": "c16b3f7cb83b7e4ef4db823b3e9216974249890a5d8aeb42437257e98a84f719"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/020.png",
-    "bytes": 41782,
-    "sha256": "24d7effd1018682d4b0e73e1ed8b0b0e65dc41bb8481c0d5e64cfbc33dc94721"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/020.svg",
     "bytes": 9864,
     "sha256": "d9b9ddd5a4feadc188341392bb49c1d6be1f1fc95f692cf706c1f236c9dfd7c8"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/021.png",
-    "bytes": 41713,
-    "sha256": "9386a71505d9a837909b801be6085756fd393ef1e53d8501dacb7d65d1994fdb"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/021.svg",
@@ -2705,19 +2265,9 @@
     "sha256": "7db8748fa925a97c71ddf9d5332ac5de5c57bd44b0f82ae90861c037e2f5099f"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/022.png",
-    "bytes": 41943,
-    "sha256": "a4023b80c73a0222a411e42c02b1a861cad7b22f9c8a8b01bcc71cb75c9dfe0b"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/022.svg",
     "bytes": 10091,
     "sha256": "9e030fc2dff32eaabea3c4b79c310b2bb520e9291d37138ea97f7bb7e102d61b"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/023.png",
-    "bytes": 41847,
-    "sha256": "cad41d591c31e9f93537761f5b587b5da4a36b4e9409df0090524ab83c0bae43"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/023.svg",
@@ -2745,19 +2295,9 @@
     "sha256": "204af93a385d04b33d6097e0c3f9800364ff49a64e8674ad874b8cb60ce15889"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/032.png",
-    "bytes": 39679,
-    "sha256": "015aa06d24ec13756cd69f733bddf3a8ba42f80ad8019e6649c798f6d553808f"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/032.svg",
     "bytes": 8530,
     "sha256": "34a896a0da31027f5eb111d54891fce4734e871caae62de9061cfb395bcbc859"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/033.png",
-    "bytes": 39387,
-    "sha256": "f47f24b0eed8f1fcb8aa9d53caf3d85a5bfc3024a49d9e8176abb590f6d42413"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/033.svg",
@@ -2765,19 +2305,9 @@
     "sha256": "863ef7e8c37f86ed96012f366514b7a6bddcad93b8c6438ab4bde38118f58f80"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/034.png",
-    "bytes": 39712,
-    "sha256": "ca6fac8b6e54f626fcf12701fac7b30b7192554969acbe8d65ab3591de56960a"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/034.svg",
     "bytes": 8743,
     "sha256": "cb761e824844c02b802ffc1fe31ab8525b2c8ac7717070249fa3fa3154df5405"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/035.png",
-    "bytes": 39601,
-    "sha256": "55f3983175b3232b85ec9b06669829cec4b0809157a7f9ae5a8af03c9e343a0a"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/035.svg",
@@ -2813,16 +2343,6 @@
     "path": "物理/10_题库/_assets/上册逐章/04_振动/045-extracted.png",
     "bytes": 79209,
     "sha256": "944cb4be277bd06a6f9f7b760f3057620bdad4d7c90ed6b46ec5c253a0c0cbb1"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/extract_from_pdf.py",
-    "bytes": 1378,
-    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/04_振动/generate.py",
-    "bytes": 4811,
-    "sha256": "eea736ba4b4529bdab0895251c5869b59bd68f80b1ba132333bdc64092387141"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/04_振动/mapping.json",
@@ -2880,11 +2400,6 @@
     "sha256": "503084728c128f85bf4b3086d47d68dc2b750e7ae503930b782de0df98dc5731"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/05_波动/012.png",
-    "bytes": 9827,
-    "sha256": "25241c0eab66ff1880107f92b2e321046b1faa6cb1f3bdcb143740e073fca622"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/05_波动/012.svg",
     "bytes": 5764,
     "sha256": "8268a5b697053cf1e95a248058aa55dacfd701a72ee728145859cad4507cac0f"
@@ -2940,19 +2455,9 @@
     "sha256": "026b91b498ed17d54a0ff2bfaa4a0d276b1de9e4521a685de500a34f55434469"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/05_波动/029.png",
-    "bytes": 46167,
-    "sha256": "fcae1c29069552799a6d8ad9cf2c3db012ce5cf524d1363c03122339b2e944eb"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/05_波动/029.svg",
     "bytes": 10853,
     "sha256": "5b533f3fe70c89a5c431c02a26ccb95600d744193f24424eec44576caaddb0e8"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/05_波动/030.png",
-    "bytes": 26491,
-    "sha256": "edaf63da483062e7501a6719f9160b794e71fd4476d7e1fc9f1a533b750a20cc"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/05_波动/030.svg",
@@ -2968,11 +2473,6 @@
     "path": "物理/10_题库/_assets/上册逐章/05_波动/032-extracted.png",
     "bytes": 51784,
     "sha256": "e12029e524cc77955d207ded0263dad4e162f77d8c7172875b1809c351aed33b"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/05_波动/033.png",
-    "bytes": 9827,
-    "sha256": "25241c0eab66ff1880107f92b2e321046b1faa6cb1f3bdcb143740e073fca622"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/05_波动/033.svg",
@@ -3020,11 +2520,6 @@
     "sha256": "213769e89cc1c3f0224c34f288cc6284c93567646bd8e90c7c6ec5c233f24d65"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/05_波动/048.png",
-    "bytes": 9827,
-    "sha256": "25241c0eab66ff1880107f92b2e321046b1faa6cb1f3bdcb143740e073fca622"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/05_波动/048.svg",
     "bytes": 5764,
     "sha256": "8268a5b697053cf1e95a248058aa55dacfd701a72ee728145859cad4507cac0f"
@@ -3033,16 +2528,6 @@
     "path": "物理/10_题库/_assets/上册逐章/05_波动/049-extracted.png",
     "bytes": 51840,
     "sha256": "abf4adef9a9cea26cb925866d1c1e4a6d778aaef7ffed04b44f4bdb854aeeab1"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/05_波动/extract_from_pdf.py",
-    "bytes": 1378,
-    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/05_波动/generate.py",
-    "bytes": 1691,
-    "sha256": "f45959f0272f90f823ceafd5ef76bb5f271699a832caf40c8e1b127a0e373ae4"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/05_波动/mapping.json",
@@ -3065,24 +2550,9 @@
     "sha256": "15cd43544954adfa9d22260b2cfdd9fa0a5294285a331a1359e4f5f31847ec3e"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/06_相对论/004.png",
-    "bytes": 14056,
-    "sha256": "86d35a2c4eca92de734281b5f205c519608eee597ebde3cd6a2cedf6196edb56"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/06_相对论/004.svg",
     "bytes": 7487,
     "sha256": "62c4bd18972e84a0d4a069168db9e4600a829bce86691f3bf5f94bb986a05dd3"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/06_相对论/extract_from_pdf.py",
-    "bytes": 1378,
-    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/06_相对论/generate.py",
-    "bytes": 712,
-    "sha256": "c9ba023f0709dc01089a412d5d2e2401d83c9d5879e48323dec031befc120951"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/06_相对论/mapping.json",
@@ -3093,11 +2563,6 @@
     "path": "物理/10_题库/_assets/上册逐章/13_干涉/001-extracted.png",
     "bytes": 13942,
     "sha256": "4da4996e5fd92712fbac57ed6fc34620d6c315603fe2074b9752629118e00c20"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/13_干涉/002.png",
-    "bytes": 27827,
-    "sha256": "8d6857b54f983ceff3529ecd66f5ba934408849a2d86e058388906a99160c20b"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/13_干涉/002.svg",
@@ -3135,11 +2600,6 @@
     "sha256": "95bac97355619b136e56002320742315885f37744bbfcd053fbf41ba3a14d8e1"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/13_干涉/009.png",
-    "bytes": 14564,
-    "sha256": "e530b292acd62105cd19c3c025faeaa52ed0c0b8447702e88b516cc02250d705"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/13_干涉/009.svg",
     "bytes": 4826,
     "sha256": "6067a49bb1597f0483300a72d20eace6ad3c9aaea06e19dcee67aa7fa7c3ab9e"
@@ -3148,11 +2608,6 @@
     "path": "物理/10_题库/_assets/上册逐章/13_干涉/010-extracted.png",
     "bytes": 9898,
     "sha256": "6e6576ef484d636e81edd9ea23978727baf1b0214f60a98027a994c57502ae41"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/13_干涉/011.png",
-    "bytes": 19334,
-    "sha256": "15159c7ec7df0fc0d4e53f4088d4611966c8411414f363763dbb76d6bd3d4d85"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/13_干涉/011.svg",
@@ -3200,11 +2655,6 @@
     "sha256": "acdc7a2b0a770b640020e1ab2310bb4db31ec0292c586d1096c89ae9775e971c"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/13_干涉/021.png",
-    "bytes": 19063,
-    "sha256": "7a05a38271b806465f84f03bedcfd4ce17aee2f213f41fe46899140d38f95d3d"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/13_干涉/021.svg",
     "bytes": 7933,
     "sha256": "2d76469983588b1541795750141b4bd428369c5180a86da10afc7230ad3f7344"
@@ -3245,11 +2695,6 @@
     "sha256": "f58c9ededf910772746ed414a8d02786f4315fc095ccd4484199642160e7ecbc"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/13_干涉/031.png",
-    "bytes": 18792,
-    "sha256": "ad0f43fa41a2777e875a51f659bd20555ab242dca383ce1d554441e1f51a8f98"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/13_干涉/031.svg",
     "bytes": 7603,
     "sha256": "764de4ddc53d669ef4bd32a7e49a6a3e5759ba1dc0143c4925d1a10f3d2d59ae"
@@ -3258,11 +2703,6 @@
     "path": "物理/10_题库/_assets/上册逐章/13_干涉/032-extracted.png",
     "bytes": 47804,
     "sha256": "94b536659a9df062c3359030a46e91b6b0ff9f4867ad6f444ef439f165a07f0c"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/13_干涉/033.png",
-    "bytes": 16886,
-    "sha256": "fb4e78885a0dc085a7cb4128dece9853528ba7ee84f702cdc2326441ef83b9a5"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/13_干涉/033.svg",
@@ -3285,11 +2725,6 @@
     "sha256": "1a534ae8ac2f383a574509efc0a720309b1ff2b8b3860ec80d6bd9b1fc70fd01"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/13_干涉/037.png",
-    "bytes": 24523,
-    "sha256": "d3300d891f2cc473d608a61b4d35fc655342b740634d6cdd0247badfe3527663"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/13_干涉/037.svg",
     "bytes": 10323,
     "sha256": "d7fb48ee6942277154b79cfb927dbdbbff2c192897ec0cade3fbaef4286e2804"
@@ -3305,16 +2740,6 @@
     "sha256": "e96dcb6811035da0ff18ddf79efe0887d3bb762cd9af1467a7ac60a5d0956012"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/13_干涉/extract_from_pdf.py",
-    "bytes": 1378,
-    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/13_干涉/generate.py",
-    "bytes": 1667,
-    "sha256": "62d5845b0627d704eb5a308d1cd20d90619531d19bbb7a0ed8e47fafedc7944a"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/13_干涉/mapping.json",
     "bytes": 125754,
     "sha256": "4c0311cda0951c71da7e0fe386e3fc7f94743fd3611d193004ed07ceba0c5526"
@@ -3323,11 +2748,6 @@
     "path": "物理/10_题库/_assets/上册逐章/14_衍射/001-extracted.png",
     "bytes": 35477,
     "sha256": "d37c147e750e24da56be3b55c1ba755ed4d8495eef88f99fd6921db5e0430405"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/14_衍射/002.png",
-    "bytes": 38170,
-    "sha256": "f28c69f793494ebc647c2dd3da57eff4edecde4c6c1592688faca6ebf99b0047"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/14_衍射/002.svg",
@@ -3355,16 +2775,6 @@
     "sha256": "10b873e424582d788fc929719d827d699eebdc92893e31a9b0b146494e0414f7"
   },
   {
-    "path": "物理/10_题库/_assets/上册逐章/14_衍射/extract_from_pdf.py",
-    "bytes": 1378,
-    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/14_衍射/generate.py",
-    "bytes": 1245,
-    "sha256": "fb9895f9374d003249f693cd43611de19585533c6b76d5585a289a4143207f8f"
-  },
-  {
     "path": "物理/10_题库/_assets/上册逐章/14_衍射/mapping.json",
     "bytes": 29595,
     "sha256": "e42aa8bd3c46a0aaa1ab9134b26cca78f6b42fc65e88ed30f1d91016d036364d"
@@ -3383,11 +2793,6 @@
     "path": "物理/10_题库/_assets/上册逐章/15_偏振/003-extracted.png",
     "bytes": 21658,
     "sha256": "34d5afdf22dd3a5c4c6342f9a5e95cdc036fd56697fe2253e2b3fab570151a1a"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/15_偏振/004.png",
-    "bytes": 43425,
-    "sha256": "c82e1cb5265c384c3014f8ec8b02aaea770dfae1b71c2d3bc51536cea3caf235"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/15_偏振/004.svg",
@@ -3438,16 +2843,6 @@
     "path": "物理/10_题库/_assets/上册逐章/15_偏振/013-extracted.png",
     "bytes": 163210,
     "sha256": "52254222be0daffd2ded0d3d3d3c7c0b953ae839220d98c1dbc1f7512caed5ee"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/15_偏振/extract_from_pdf.py",
-    "bytes": 1378,
-    "sha256": "6f1297bc7f10ddad2843e5fb6d890ef5f438ade53fd07cd5f762c409bb07696a"
-  },
-  {
-    "path": "物理/10_题库/_assets/上册逐章/15_偏振/generate.py",
-    "bytes": 902,
-    "sha256": "7173311564a9f7727bc89e6dda9dcb49f28443fc8169a8aa7a2465a1dcea9129"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/15_偏振/mapping.json",
@@ -4275,11 +3670,6 @@
     "sha256": "196d8422e53286a07f133bfe5566deb71b2378f9c8d1aa17970125515d5584d3"
   },
   {
-    "path": "物理/10_题库/_assets/可读性修复_20261106/07/extract.py",
-    "bytes": 817,
-    "sha256": "62cdfe2d2146e40fdcbdba30037de4056ff880b00e7f5f676f005e6c2b3a3436"
-  },
-  {
     "path": "物理/10_题库/_assets/可读性修复_20261106/08/005.png",
     "bytes": 106218,
     "sha256": "ce0e05f3712563a7f3666abfac6aa02aa8e7a5edcdf81927b2e78dcc8b4eb050"
@@ -4288,11 +3678,6 @@
     "path": "物理/10_题库/_assets/可读性修复_20261106/08/010.png",
     "bytes": 78009,
     "sha256": "a29a2444b5d365781502a99e63dd7f0d5da6278535a9c6750ef83b1e29148c79"
-  },
-  {
-    "path": "物理/10_题库/_assets/可读性修复_20261106/08/extract.py",
-    "bytes": 627,
-    "sha256": "026cdf8dfd1abd4295f92d4648de5f4b405592330605e8f901b36ea1cdc3edf4"
   },
   {
     "path": "物理/10_题库/_assets/学习指导/p0001-0180_004.jpg",
@@ -5540,19 +4925,9 @@
     "sha256": "541072d18d68ec9a3bff7dec1b83e2594d4f6ac65088755039a6764b33f03643"
   },
   {
-    "path": "物理/10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.png",
-    "bytes": 36554,
-    "sha256": "9d32656f334ac1b07934bda73ad25e2f45e5f841d7dcad6550a3324d1b1b85ee"
-  },
-  {
     "path": "物理/10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.svg",
     "bytes": 11421,
     "sha256": "804ca8145f1d025c708e1437c71bf4ef9d4c3091143af5a0ea4f9f4c69b50886"
-  },
-  {
-    "path": "物理/10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.png",
-    "bytes": 33050,
-    "sha256": "c8fedf18ec2d2b71cedebf11a7611f8996e98892bfc94c17e1b55021e263a938"
   },
   {
     "path": "物理/10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.svg",
@@ -5560,19 +4935,9 @@
     "sha256": "b1ce9694479d49b430c2acb08df4b33904acbecc97f5fa27ba4dcce30bd4f4a1"
   },
   {
-    "path": "物理/10_题库/_assets/重绘_上册_批01/03-pulley-4-7.png",
-    "bytes": 33842,
-    "sha256": "038e0f64cd82b78eeeee616602048fc07f2b2150584f42c3fe0c540f812ef2e2"
-  },
-  {
     "path": "物理/10_题库/_assets/重绘_上册_批01/03-pulley-4-7.svg",
     "bytes": 6428,
     "sha256": "ac2dcd9879cfed66d5c00b2fbefb1edfeac86f55e695f6c2df530dc51517f014"
-  },
-  {
-    "path": "物理/10_题库/_assets/重绘_上册_批01/04-vibration-4-7.png",
-    "bytes": 39580,
-    "sha256": "9ee9e7446ed534744c4435378e66d64843315c29f9669d82e4a2eb0e97aa946f"
   },
   {
     "path": "物理/10_题库/_assets/重绘_上册_批01/04-vibration-4-7.svg",
@@ -5580,19 +4945,9 @@
     "sha256": "be5d03cac1c069936041aa47643d2059587ce0541a76454bf391fc277c7a6bf6"
   },
   {
-    "path": "物理/10_题库/_assets/重绘_上册_批01/05-wave-5-10-a.png",
-    "bytes": 39916,
-    "sha256": "35b8008d1ce87ce3224c6de6c1eccb2510f6877aa52dd934d755d2d5d418f134"
-  },
-  {
     "path": "物理/10_题库/_assets/重绘_上册_批01/05-wave-5-10-a.svg",
     "bytes": 11734,
     "sha256": "6ee7259da74fbb8eef654c373771919ae52aa2e7784acc788bb890a0cfc38e18"
-  },
-  {
-    "path": "物理/10_题库/_assets/重绘_上册_批01/06-wave-5-10-b.png",
-    "bytes": 33163,
-    "sha256": "b7331ef01d4d956ccb61624129af990656c0db8981b8bf96a58e5aad1f010373"
   },
   {
     "path": "物理/10_题库/_assets/重绘_上册_批01/06-wave-5-10-b.svg",
@@ -5600,19 +4955,9 @@
     "sha256": "b13b1d2f0ec35c432d6226d5f1758038a00afe76ac6132225396902aa8ad94b1"
   },
   {
-    "path": "物理/10_题库/_assets/重绘_上册_批01/07-wave-5-13.png",
-    "bytes": 46191,
-    "sha256": "8e2dfed37b58541e11fcc2ffbe37b6d3bdcf9e682c5f5d07a0475253eda4d069"
-  },
-  {
     "path": "物理/10_题库/_assets/重绘_上册_批01/07-wave-5-13.svg",
     "bytes": 13276,
     "sha256": "86bc877ed2cc809d149e5e9682237cad846e7d38c16560225f051cdb98b5ee6b"
-  },
-  {
-    "path": "物理/10_题库/_assets/重绘_上册_批01/08-wave-5-6.png",
-    "bytes": 44632,
-    "sha256": "e208cbb220c99ede9601958f84074958b6d635371202048abd79c15ef1451bd0"
   },
   {
     "path": "物理/10_题库/_assets/重绘_上册_批01/08-wave-5-6.svg",
@@ -5620,19 +4965,9 @@
     "sha256": "84fd6613e325b583326e7c74ebae485f2b4916d87b860a83a7c2c0f843af7ed8"
   },
   {
-    "path": "物理/10_题库/_assets/重绘_上册_批01/generate.py",
-    "bytes": 7141,
-    "sha256": "5349d596f0db7b93ad0316685520195cbfaf7eb873990c0aee4b026798a73e74"
-  },
-  {
     "path": "物理/10_题库/_assets/重绘_上册_批01/mapping.json",
     "bytes": 12789,
     "sha256": "f8e872a075b342a27a6129c97f9ef47ac4f128418cde180c6c2019fcca3dc65c"
-  },
-  {
-    "path": "物理/10_题库/_assets/重绘_上册_批01/verify_batch.py",
-    "bytes": 1501,
-    "sha256": "e286472c5bb5506680daf30a26e49c83d2fb5122ad557e233339f4e8c7fe193d"
   },
   {
     "path": "物理/10_题库/_标签库.md",
@@ -5966,23 +5301,123 @@
   },
   {
     "path": "物理/10_题库/清华题库/清华题库_第03章_相对论_题面整理.md",
-    "bytes": 25708,
-    "sha256": "78a5509979aaedebd829d5a152d3ba994a063fa37bfd11fd061d5ca4eab62a23"
+    "bytes": 25616,
+    "sha256": "ae7fd60824a22df7065fabdd90ca2445d26ad2a70c956c7075a07c29e27e7a40"
   },
   {
     "path": "物理/10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
-    "bytes": 36011,
-    "sha256": "a26b16057a3c1561887b05710ab2af5c6e629862092a57b08ebc5d0364a54453"
+    "bytes": 35919,
+    "sha256": "146c48a320f3cc74a6a06e6dd64774e4858d1c1ae1ee96d4c47d8a44e3e8c550"
   },
   {
     "path": "物理/10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
-    "bytes": 55624,
-    "sha256": "073aa657e0c4dafd4081f92793a07c6e8251cb2ad32b894d629eebd9bab81989"
+    "bytes": 55532,
+    "sha256": "2a51c08a40e20872f44b7312f2eceebe63fac9d51945503266e902b9ab4022d0"
   },
   {
     "path": "物理/10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
-    "bytes": 64785,
-    "sha256": "d9e154fe2fa4c1d1e66b7b92ded5d865b7622f4a65135d09b2051e2a6b6cf874"
+    "bytes": 64693,
+    "sha256": "60889535e1677cdaf90e17a8d9864984c84a550ca5bd3b8c53292af1ed578faf"
+  },
+  {
+    "path": "物理/20_知识/grounding/第01章_运动学_grounding.md",
+    "bytes": 5675,
+    "sha256": "aa99a31258d0df612b03621a5761fe8451cfd8c4be7be1a4edcdfd24146c59b8"
+  },
+  {
+    "path": "物理/20_知识/grounding/第02章_质点动力学_grounding.md",
+    "bytes": 5504,
+    "sha256": "be3817f8afe1f7fadce2e835c2b33b538c7040c065bfa16b2809ba23f01ac3c3"
+  },
+  {
+    "path": "物理/20_知识/grounding/第03章_刚体力学_grounding.md",
+    "bytes": 5292,
+    "sha256": "4b1ccc03a1f0fafec0e2d7f7b51fc8eabc03a6cb8d3a6cb38136d69e00e2336d"
+  },
+  {
+    "path": "物理/20_知识/grounding/第04章_振动学基础_grounding.md",
+    "bytes": 5616,
+    "sha256": "638aed0dab077e7eec81a73edce1bc9b8b67816cde13ddd412d647ebabcf49b6"
+  },
+  {
+    "path": "物理/20_知识/grounding/第05章_波动学基础_grounding.md",
+    "bytes": 5965,
+    "sha256": "ea43373a99bb59a6875489562db49805e1d1f71cf04c9d7c72eb2340bad828ae"
+  },
+  {
+    "path": "物理/20_知识/grounding/第06章_狭义相对论_grounding.md",
+    "bytes": 6276,
+    "sha256": "97589a3c3a9b1970c0c5682235efe1eebd6f0bca63438350fb93f4ee0b140f67"
+  },
+  {
+    "path": "物理/20_知识/grounding/第07章_统计物理初步_grounding.md",
+    "bytes": 4103,
+    "sha256": "b64b68b2798255cca93afaa7ddb4accb7eda029726da6175b4ac008b88886564"
+  },
+  {
+    "path": "物理/20_知识/grounding/第08章_热力学_grounding.md",
+    "bytes": 4148,
+    "sha256": "ec19aa43e9bed5de8c9143e02cb4500d471b480d4a94421d205a7deb04e3e434"
+  },
+  {
+    "path": "物理/20_知识/grounding/第09章_气体和凝聚态_grounding.md",
+    "bytes": 8713,
+    "sha256": "72cb4cb924f8332251adb88c8eb57eed26f355a690b52d1965c4f7eeeda5bdf2"
+  },
+  {
+    "path": "物理/20_知识/grounding/第10章_静电学_grounding.md",
+    "bytes": 7620,
+    "sha256": "a05d8d5eb58391196ff4b0b7c2150cfacc6c395248822bfdcc1d374b17b911a6"
+  },
+  {
+    "path": "物理/20_知识/grounding/第11章_静磁学_grounding.md",
+    "bytes": 6929,
+    "sha256": "675712cd48ac71a947fad6e3fde3af81b6912c00600682a298e7e9e670c4c150"
+  },
+  {
+    "path": "物理/20_知识/grounding/第12章_变化的电磁场_grounding.md",
+    "bytes": 5285,
+    "sha256": "84ecb138ba42fe5082bc4474cf0f3ddde63a2eaab7ada010950d7c87f22671dd"
+  },
+  {
+    "path": "物理/20_知识/grounding/第13章_光的干涉_grounding.md",
+    "bytes": 7078,
+    "sha256": "98ce4f414ef50749975d2a2e1b49f8f9b5d148cd5ee0d23b796a1f03ac86afa3"
+  },
+  {
+    "path": "物理/20_知识/grounding/第14章_光的衍射_grounding.md",
+    "bytes": 6075,
+    "sha256": "d16d2fea42f56c7345fc26c131528ab1192e80a0e72775eaf15e3846b8a0c752"
+  },
+  {
+    "path": "物理/20_知识/grounding/第15章_光的偏振_grounding.md",
+    "bytes": 5489,
+    "sha256": "baccba8aeaa5ed3a4a9ec3927ec56bb30ea27d9b3500ece0aa938d76df3514cf"
+  },
+  {
+    "path": "物理/20_知识/grounding/第16章_早期量子理论_grounding.md",
+    "bytes": 8247,
+    "sha256": "bdd935c5aaac069765890040e2cac76e1124adc9d1e1973748d36fa91d1d1ae0"
+  },
+  {
+    "path": "物理/20_知识/grounding/第17章_量子力学基础_grounding.md",
+    "bytes": 7036,
+    "sha256": "977ca081650fef2672c5ffb6c8933acad107ebac4ee1d74e9d945fe0dd15f8bb"
+  },
+  {
+    "path": "物理/20_知识/grounding/第18章_固体的能带结构_grounding.md",
+    "bytes": 7631,
+    "sha256": "5ddb8a97e3f8f5badfd9b1dfa9bfa7a5aa364e53b3778ea13e0b03ae465d252e"
+  },
+  {
+    "path": "物理/20_知识/grounding/第19章_粒子物理学简介_grounding.md",
+    "bytes": 4311,
+    "sha256": "a2b6e104e3f24e56945f56420c9581d26fe7493e1e513283b0ec2351df04ddb5"
+  },
+  {
+    "path": "物理/20_知识/grounding/第20章_软物质_grounding.md",
+    "bytes": 3896,
+    "sha256": "99b827b444928776622890f66af4f5297df6bb45606a4f2ec4994bdf65643ee3"
   },
   {
     "path": "物理/20_知识/README.md",
@@ -6090,106 +5525,6 @@
     "sha256": "16c6e450909f7fb5aae60cb064d2e865384d97372d70110fd98e96089e493491"
   },
   {
-    "path": "物理/20_知识/grounding/第01章_运动学_grounding.md",
-    "bytes": 5675,
-    "sha256": "aa99a31258d0df612b03621a5761fe8451cfd8c4be7be1a4edcdfd24146c59b8"
-  },
-  {
-    "path": "物理/20_知识/grounding/第02章_质点动力学_grounding.md",
-    "bytes": 5504,
-    "sha256": "be3817f8afe1f7fadce2e835c2b33b538c7040c065bfa16b2809ba23f01ac3c3"
-  },
-  {
-    "path": "物理/20_知识/grounding/第03章_刚体力学_grounding.md",
-    "bytes": 5292,
-    "sha256": "4b1ccc03a1f0fafec0e2d7f7b51fc8eabc03a6cb8d3a6cb38136d69e00e2336d"
-  },
-  {
-    "path": "物理/20_知识/grounding/第04章_振动学基础_grounding.md",
-    "bytes": 5616,
-    "sha256": "638aed0dab077e7eec81a73edce1bc9b8b67816cde13ddd412d647ebabcf49b6"
-  },
-  {
-    "path": "物理/20_知识/grounding/第05章_波动学基础_grounding.md",
-    "bytes": 5965,
-    "sha256": "ea43373a99bb59a6875489562db49805e1d1f71cf04c9d7c72eb2340bad828ae"
-  },
-  {
-    "path": "物理/20_知识/grounding/第06章_狭义相对论_grounding.md",
-    "bytes": 6276,
-    "sha256": "97589a3c3a9b1970c0c5682235efe1eebd6f0bca63438350fb93f4ee0b140f67"
-  },
-  {
-    "path": "物理/20_知识/grounding/第07章_统计物理初步_grounding.md",
-    "bytes": 4103,
-    "sha256": "b64b68b2798255cca93afaa7ddb4accb7eda029726da6175b4ac008b88886564"
-  },
-  {
-    "path": "物理/20_知识/grounding/第08章_热力学_grounding.md",
-    "bytes": 4148,
-    "sha256": "ec19aa43e9bed5de8c9143e02cb4500d471b480d4a94421d205a7deb04e3e434"
-  },
-  {
-    "path": "物理/20_知识/grounding/第09章_气体和凝聚态_grounding.md",
-    "bytes": 8713,
-    "sha256": "72cb4cb924f8332251adb88c8eb57eed26f355a690b52d1965c4f7eeeda5bdf2"
-  },
-  {
-    "path": "物理/20_知识/grounding/第10章_静电学_grounding.md",
-    "bytes": 7620,
-    "sha256": "a05d8d5eb58391196ff4b0b7c2150cfacc6c395248822bfdcc1d374b17b911a6"
-  },
-  {
-    "path": "物理/20_知识/grounding/第11章_静磁学_grounding.md",
-    "bytes": 6929,
-    "sha256": "675712cd48ac71a947fad6e3fde3af81b6912c00600682a298e7e9e670c4c150"
-  },
-  {
-    "path": "物理/20_知识/grounding/第12章_变化的电磁场_grounding.md",
-    "bytes": 5285,
-    "sha256": "84ecb138ba42fe5082bc4474cf0f3ddde63a2eaab7ada010950d7c87f22671dd"
-  },
-  {
-    "path": "物理/20_知识/grounding/第13章_光的干涉_grounding.md",
-    "bytes": 7078,
-    "sha256": "98ce4f414ef50749975d2a2e1b49f8f9b5d148cd5ee0d23b796a1f03ac86afa3"
-  },
-  {
-    "path": "物理/20_知识/grounding/第14章_光的衍射_grounding.md",
-    "bytes": 6075,
-    "sha256": "d16d2fea42f56c7345fc26c131528ab1192e80a0e72775eaf15e3846b8a0c752"
-  },
-  {
-    "path": "物理/20_知识/grounding/第15章_光的偏振_grounding.md",
-    "bytes": 5489,
-    "sha256": "baccba8aeaa5ed3a4a9ec3927ec56bb30ea27d9b3500ece0aa938d76df3514cf"
-  },
-  {
-    "path": "物理/20_知识/grounding/第16章_早期量子理论_grounding.md",
-    "bytes": 8247,
-    "sha256": "bdd935c5aaac069765890040e2cac76e1124adc9d1e1973748d36fa91d1d1ae0"
-  },
-  {
-    "path": "物理/20_知识/grounding/第17章_量子力学基础_grounding.md",
-    "bytes": 7036,
-    "sha256": "977ca081650fef2672c5ffb6c8933acad107ebac4ee1d74e9d945fe0dd15f8bb"
-  },
-  {
-    "path": "物理/20_知识/grounding/第18章_固体的能带结构_grounding.md",
-    "bytes": 7631,
-    "sha256": "5ddb8a97e3f8f5badfd9b1dfa9bfa7a5aa364e53b3778ea13e0b03ae465d252e"
-  },
-  {
-    "path": "物理/20_知识/grounding/第19章_粒子物理学简介_grounding.md",
-    "bytes": 4311,
-    "sha256": "a2b6e104e3f24e56945f56420c9581d26fe7493e1e513283b0ec2351df04ddb5"
-  },
-  {
-    "path": "物理/20_知识/grounding/第20章_软物质_grounding.md",
-    "bytes": 3896,
-    "sha256": "99b827b444928776622890f66af4f5297df6bb45606a4f2ec4994bdf65643ee3"
-  },
-  {
     "path": "物理/20_知识/主干讲解/第01章_运动学_主干讲解.md",
     "bytes": 11221,
     "sha256": "f9a36cd7cc14ed0cc84cb4e5183afffb350d6036ee1382ceb8637b6f806f1bc5"
@@ -6295,24 +5630,14 @@
     "sha256": "a79dad3d726ed8a3b377d9b9eb2a424e74e9a69ff12fabdd7b4ee0d9af0dddd1"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/README.md",
-    "bytes": 9458,
-    "sha256": "2c003b58bf04ccb6044588745f3ea4e221e0951cc454a6851560569ec9ac4146"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/comparison-01.png",
-    "bytes": 305863,
-    "sha256": "4d28a8b7133edcaadb93291794b85f3905efacf0c25edbff0a2f600ce1b58ba1"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/comparison-02.png",
-    "bytes": 54850,
-    "sha256": "a1cc2a8df157940bbc6bcdb266d4296235c9f824e55d447cdee101e1d8e546fb"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/reading-320px.png",
     "bytes": 80323,
     "sha256": "7f26f9514c99c0adbd59855c16bd2705983f227bd3d4086af85ee0f5a2d2d1a6"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/README.md",
+    "bytes": 9298,
+    "sha256": "ffd7199ee5f61741c4912e548438fe2c174541f820a39bc78dc833066ac20d38"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/source-001.png",
@@ -6350,79 +5675,14 @@
     "sha256": "395f72e9cb698f484e51a021578e118f7027f603a59590b61ed931a82308b786"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/validation.json",
-    "bytes": 4354,
-    "sha256": "be0b40a5a5ee20b8a3a0e1dd8f758fa33c3025f6381769b041999e5f05a28fcc"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/README.md",
-    "bytes": 61822,
-    "sha256": "241c2ebad23c49151b00d66b5c877f39479686c99ff89b476f9d2fb0a6523f46"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-01.png",
-    "bytes": 318833,
-    "sha256": "b5eb39e07301e85d05aad8855fd3343f4da966be9d1cc49daceb03a4f7903992"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-02.png",
-    "bytes": 387135,
-    "sha256": "3dc74effea5b1e6c593195aa9821062d787cc6e77b70121b712d2a4e53afdb0f"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-03.png",
-    "bytes": 566496,
-    "sha256": "33675dafca59221b5556c0d437f0dd6a9153a33d79a3263197243fbdb17cc161"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-04.png",
-    "bytes": 525451,
-    "sha256": "522dffbfdffaa4e8e7972b3d27d27f88e72b1b0989431ab4e4f33ee5be92a4a2"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-05.png",
-    "bytes": 490294,
-    "sha256": "df61584e7712f55806711e965cd8def0b52d56b23dcf5389366e3efbc0dd8683"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-06.png",
-    "bytes": 527426,
-    "sha256": "58e081a1a266807399be672ce751b2265b26f07f1b1e45bf44b90519cf88229d"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-07.png",
-    "bytes": 456989,
-    "sha256": "163ce0a182cb4ab05c7d8a40ed7b06f7800544edc35e681d555f93364c652cec"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-08.png",
-    "bytes": 620610,
-    "sha256": "7943c32e0b72d28b7ee7c6741d325c52efa1d888a3f5e7da94b0771b021e49bc"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-09.png",
-    "bytes": 454198,
-    "sha256": "44894a1d16c14decc8ebd912ffa514f0806dade981298d9ef378f14a5e271718"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-10.png",
-    "bytes": 393276,
-    "sha256": "bc4437968f16ad8b4d79a27dc879cca7d5e4c18446fc3d3a895b9e9e0bddd868"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-11.png",
-    "bytes": 291420,
-    "sha256": "01cd8de5ae3f2f60d5b632a4bf3ee622b8593a0a23d3a2312dcb867ffb7411d0"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/comparison-12.png",
-    "bytes": 372585,
-    "sha256": "2b6f57dc8b6d324d8d239d82ebdcd88c652c706e0c9ae6d6af96a5de3a902910"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/reading-320px.png",
     "bytes": 1744781,
     "sha256": "ce345655651a2240027fd918ae71ae14647c20499edc3526fc735874a4eb7d89"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/README.md",
+    "bytes": 61285,
+    "sha256": "071b83014c68b236866ae9fe6029fc73daa44ec7d128627bcac39573798fd086"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-001.png",
@@ -6815,46 +6075,6 @@
     "sha256": "a80cee5d551d30c4a3045a476241609df1c38994d4597292d90cf424b31d2b65"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/validation.json",
-    "bytes": 19824,
-    "sha256": "2ed769cbf81fb47a0bc0089599c8a9a0ace783cd2409127d40be0a82721d5dd9"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/README.md",
-    "bytes": 34220,
-    "sha256": "060e772757dddddaf8503b984738cc9634f00e9864cc1f8fa58af1bcdb7e74c1"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/comparison-01.png",
-    "bytes": 676342,
-    "sha256": "10bcbb5589783d0d0e0affb7e85f87bd07bfd0a54379ea3722adfdc4ea208e5c"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/comparison-02.png",
-    "bytes": 612204,
-    "sha256": "240d7edba32c0363d6e21af6a1554a29d753ecb338c91670922fae4c176badf4"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/comparison-03.png",
-    "bytes": 450027,
-    "sha256": "3734aa4496201b3a5c8b45e43d0c9c71befb6f705bb0db3880e24033daf5b7ef"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/comparison-04.png",
-    "bytes": 489256,
-    "sha256": "5156cf66a77165f74b81dd8fb1a8c90f2df8a7bc3590c36c519f932e7a5d9fdb"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/comparison-05.png",
-    "bytes": 397532,
-    "sha256": "fd067cd0252234f6cbe1846c1e98bc020d4fec09f245a943bbc9021ed4b80f29"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/comparison-06.png",
-    "bytes": 230415,
-    "sha256": "c99a326d4707d0fa973eb4f163bc1621cfd53d4d0899275033ceab084ee3fdcc"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/crop-review-034.png",
     "bytes": 250440,
     "sha256": "779c4560cf137bbafac18bf0feaae85573066c8441cc8f9fae46d379c4c5cf55"
@@ -6863,6 +6083,11 @@
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/reading-320px.png",
     "bytes": 937949,
     "sha256": "c531b6628523b628de5a624537423232b58792f99ed00d407eaccf61f1afb22b"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/README.md",
+    "bytes": 33893,
+    "sha256": "b121999c77e85bd3678cb53c1a4617b7c56f6e1e64eff427d2901ba2c53d7eab"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/source-001.png",
@@ -7090,49 +6315,14 @@
     "sha256": "5a53aee8683a30d41106b422de34048923f002a838be7867c0161e64f00091c4"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/validation.json",
-    "bytes": 11809,
-    "sha256": "c593947a73e42e102d6d675700d6628c52fd26b35ff8dbfddfd0496fb8ba7a73"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/README.md",
-    "bytes": 39406,
-    "sha256": "68b5d6750844c68afbfe63854cea59e64b8d442306cfbe5746216cca21a18744"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-01.png",
-    "bytes": 451114,
-    "sha256": "250c3837db0253d2287168d71e9ac9bb3a361a2fa0ded0d9057d4055cd63783f"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-02.png",
-    "bytes": 623998,
-    "sha256": "5d04ba8aefe847a1169ea49a63b317d5e68ddc4d3cd93498ab36696838344d24"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-03.png",
-    "bytes": 367386,
-    "sha256": "34f4758df1f8a5b405cc2277a46be6dfdd695d0a05d83d3077cad0b14a5a678f"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-04.png",
-    "bytes": 404445,
-    "sha256": "703bf7bf56e28e6a67f427ac1f62be471de52772769b5823b190d248e740c3a0"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-05.png",
-    "bytes": 421430,
-    "sha256": "d1be32558a482763bbe950821b41440eb1c7849348b7ae22dc57722b3904d079"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/comparison-06.png",
-    "bytes": 271660,
-    "sha256": "5d889cf197cc3b7cbc129d04341be50d20ea510f73ffd296900149271057ec27"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/04_振动/reading-320px.png",
     "bytes": 707163,
     "sha256": "f04b8aae0967f69078946e0ec4d9b20ebe6ad9549bd93935b85dbdfc69711864"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/README.md",
+    "bytes": 39115,
+    "sha256": "6fb3bf79f124d0bdece097858f77effced44b3e4e1506491d6825cab9e953f14"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-001.png",
@@ -7440,46 +6630,6 @@
     "sha256": "70a83ab49fa91c446e7b1ee24e2cfa76861c2bf96667015072a901d5fee4c1cc"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/validation.json",
-    "bytes": 9259,
-    "sha256": "1621250f4b46c3689bfb352db80d9317eca71a57f759a9f5aec95240454ed9ef"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/README.md",
-    "bytes": 52307,
-    "sha256": "ceb6271fb7424bf464cbefaa92da54d19776c46cb5daf93e5b65836fd8005e9b"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-01.png",
-    "bytes": 440752,
-    "sha256": "9d065d3fc9d0cdace049fd055aaf77704471140e8666737f755c3754f587f311"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-02.png",
-    "bytes": 672520,
-    "sha256": "153bf74720c616e42c555cd2dccc165fc454d7d64ab9c2cb2591070824491e1f"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-03.png",
-    "bytes": 589430,
-    "sha256": "bf6cc64e094f4616245160a05548e1b7d54084bbac95b8e13e97d70bbb244a28"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-04.png",
-    "bytes": 555210,
-    "sha256": "794236ef910d8288b95e4a475b0c64477b481075693f627bd2695957b199a807"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-05.png",
-    "bytes": 426750,
-    "sha256": "d949f303d90382cbf4236a319856f218202c947d0158e79de1e809600c6a0a83"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/comparison-06.png",
-    "bytes": 93214,
-    "sha256": "15a6cfd32503ef87dc90fe6f2a3631e792d01a83b5f3dca2d07778059351e095"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/05_波动/reading-320px.png",
     "bytes": 734446,
     "sha256": "b016c493c274dd2a20b0eac57d8f8e38b63e2346c5277e9e0c9fea8d8920343a"
@@ -7498,6 +6648,11 @@
     "path": "物理/40_派生视图/大物上/上册逐章/05_波动/reading-part-3.png",
     "bytes": 145096,
     "sha256": "6dfe3807278562386101c82c33f85bfeec4738ed99d3bf84427d1ab963ca85e4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/README.md",
+    "bytes": 52016,
+    "sha256": "633f005621ad59142a4708991b8f477ef55cff490e0fc95f7aa4eec316d7ecea"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-001.png",
@@ -7900,24 +7055,14 @@
     "sha256": "0c979760400ad5a83c4fc4a5d2c115211040eb06aab0f080c32f541fbb9c5e80"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/validation.json",
-    "bytes": 9337,
-    "sha256": "eb7a1314e3b27db07fd861ebca0cdae724a6eff79de298aaf374e3938063d279"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/README.md",
-    "bytes": 4212,
-    "sha256": "5afda7706b4736c589251341640616cf5e39c671c19901ea36616cd277b294e8"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/comparison-01.png",
-    "bytes": 281927,
-    "sha256": "6e8d0c82a4c93085bf4808e07487c2e70ffa713b685ede0711b1f38acd48f4ab"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/reading-320px.png",
     "bytes": 70847,
     "sha256": "13ead5bcd20c19b6ef63871184203c5ebc4ecbe56883d1d5a595d26c1d140141"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/README.md",
+    "bytes": 4087,
+    "sha256": "79d3c18e2d6c74b8c4544363c1284ff207cc225139acd3d76a993fd6333b66ba"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/source-001.png",
@@ -7940,46 +7085,6 @@
     "sha256": "8eda02da987db13d6f953cfd1790edc46354297e9b73b1fa27677482c12b2391"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/validation.json",
-    "bytes": 2421,
-    "sha256": "60618ee71167a2a6c1908111a16cf916534810826c05063db5a57b8adba8acd5"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/README.md",
-    "bytes": 39087,
-    "sha256": "659dacf25911df19fa1f9c8703b02045396e4497166c4cf96a621e085e4c6cb1"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-01.png",
-    "bytes": 409786,
-    "sha256": "840defde3341210f1bd7cfcc224549804f0e5b4638a193b2ecc127ca1363b1e5"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-02.png",
-    "bytes": 454081,
-    "sha256": "61d6040fa6c363fa8205bc666c395722d48cf3eaedfc7acc42496a160ee472fc"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-03.png",
-    "bytes": 548083,
-    "sha256": "3ac64d268a8398706bdfc84b7828c6bbbabe660c5c761f7d22e5ca50e54f896f"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-04.png",
-    "bytes": 404711,
-    "sha256": "038ccff87e5ab404aa9e3cce70d15ea2eacb237278efaf36cc3f4bd8ab6bc93b"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-05.png",
-    "bytes": 466931,
-    "sha256": "3dc0dd6b519fe63e563588ac859dcb75849ff98a01304195bf5cfafe61e739c7"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/comparison-06.png",
-    "bytes": 129577,
-    "sha256": "e40435176ddc6e3a8cf619fbda526e51fe2e9cfae27fe969faba285bfbba4ea5"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/reading-320px.png",
     "bytes": 784443,
     "sha256": "a9974e04c2d52d3406f8485aeb631c0b62198f9509cf12cc1de304919e7518d4"
@@ -7998,6 +7103,11 @@
     "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/reading-part-3.png",
     "bytes": 194529,
     "sha256": "0ad166d971f0d4f66d45017def5691a35784eacbb799c21973671f6494c4fc48"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/README.md",
+    "bytes": 38796,
+    "sha256": "bec4c2bac5371612d474d2ae6b1932688b019e7698f8b231b9052d9c53d2afd3"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-001.png",
@@ -8255,29 +7365,14 @@
     "sha256": "431397799704e4e03af547a23c89fac6dd040bf7ee743128fa156938af8d3393"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/validation.json",
-    "bytes": 9370,
-    "sha256": "d7281229f7d088f9c256c0d75d964f5cc94955f51df923ea4cbe15b28e916d0d"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/README.md",
-    "bytes": 12010,
-    "sha256": "b950f117637f972c06d53ea71f4fe521c77e04558fd482c88145f33e499b24c7"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/comparison-01.png",
-    "bytes": 553836,
-    "sha256": "0106f29346ec6a48e4dd345251ff93c1de54239f2f3b03743567410067f1a343"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/comparison-02.png",
-    "bytes": 83752,
-    "sha256": "40f813dd87f5729e82da40b18ff346c51476dd4927ed916ea06e60a59c7c6963"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/reading-320px.png",
     "bytes": 211038,
     "sha256": "87b353212731149e9dc045ed38874d7b70320d474aaa2e015e2cb97c843f6c74"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/README.md",
+    "bytes": 11859,
+    "sha256": "df1f10cecc4d41878b18ae950b1431cc5176e17f2e2e6c8ea69410db66811cf4"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-001.png",
@@ -8340,34 +7435,14 @@
     "sha256": "3dc6de6aa232d281511283d9f0f4ecf236e736450d6782b28bccb86e92b68b55"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/validation.json",
-    "bytes": 4135,
-    "sha256": "18b0a36116d7c7469e31d5cd7d58c2d24e5baaffaa72f8a43b9913be0750cec4"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/README.md",
-    "bytes": 14197,
-    "sha256": "31f0a18d1aedb562fa6b06e0e0a21d3faead79f1af3267c6868da66fb437ac2d"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/comparison-01.png",
-    "bytes": 534795,
-    "sha256": "df44fc62598575686a60446bbf1faf6c472f0d2b8c037f2f78a44896baa611b4"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/comparison-02.png",
-    "bytes": 497449,
-    "sha256": "3212b38fca62441be846e178e48dfdbf840972a9854efc1bb12f8d1cf0a899cf"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/comparison-03.png",
-    "bytes": 105793,
-    "sha256": "6d3c941e8b6cd311212efb06e79e21c46db0023d0e6b6a050b156628d9f223ef"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/reading-320px.png",
     "bytes": 343863,
     "sha256": "a381e4ec1212633a2021b3c376891edfdd3b6c02ad61ddd88161f7134cb61c87"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/README.md",
+    "bytes": 14011,
+    "sha256": "be59c4198e00352246db736c8dd623485031416a638f5a5dcccf5bc8c371aa0f"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-001.png",
@@ -8435,29 +7510,14 @@
     "sha256": "52254222be0daffd2ded0d3d3d3c7c0b953ae839220d98c1dbc1f7512caed5ee"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/validation.json",
-    "bytes": 4039,
-    "sha256": "7dedb43c32e329221b6349389a0d4dfb482695c1e90d8872281bf78cad60e019"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/全册覆盖.json",
-    "bytes": 13940,
-    "sha256": "b320f3fa9c157af946825ba937cf2305777ad24d62cd55aaa744c3c548a6fe23"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/全册覆盖.md",
-    "bytes": 7126,
-    "sha256": "0fac395dbdbf91a3f906dab87d5daa2fd6a4ab2265f16d803536859d2c691463"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐题复核台账_2026-11-06.json",
-    "bytes": 836856,
-    "sha256": "37abc7b7551fabb8ae3a95d347fa3fb4869fb216a39b2bc0c2a35880919b9b98"
+    "bytes": 7132,
+    "sha256": "d670a0d7908dbc13349956673d20385ffd1602065868aef341d460f1848001b0"
   },
   {
     "path": "物理/40_派生视图/大物上/上册题面复核_2026-11-06.md",
-    "bytes": 7996,
-    "sha256": "17641e85f25efb5a3d1c5e8662ad8fc4bd145617acf11720157e759b54cd364e"
+    "bytes": 7979,
+    "sha256": "105be83c18a103eb753724fa0893aba8843f85cdfbd372b32e9c16eac9d95985"
   },
   {
     "path": "物理/40_派生视图/大物上/今年期末复用高可能题单.md",
@@ -8485,124 +7545,14 @@
     "sha256": "20b65f7a2c6373830734e7bfb7eff4505d1f78d5bc3d3884a3d8fb928186318a"
   },
   {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/README.md",
-    "bytes": 442,
-    "sha256": "76faafd5082ac0674eb6857e87044874cb46c56ba6a4270e83ffbc1fb8bfe7a8"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/README.md",
-    "bytes": 1897,
-    "sha256": "11fd169e50f347589a3d3762555021baa495d990c862ae3a905c28fbf3d31cb5"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/对照-01.png",
-    "bytes": 38224,
-    "sha256": "5de8c7fb08afb9c80afa1bd7a7b7e2b77dbea263f74c80407da2b17893dd2f4c"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/逐图核验.json",
-    "bytes": 8536,
-    "sha256": "f4a21e80409d72eb906a518db53ca904819ce3c35ed4de191f3b2e5a57061f7c"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/阅读预览.html",
-    "bytes": 3726,
-    "sha256": "fee91b21e4edb903b81edffa31028738ca9dae8c414ab2c82cb8f54d6efb450a"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/README.md",
-    "bytes": 13200,
-    "sha256": "0eb52bb6ff3f61804188ff5b9397a682559965477ab7a5af135fdac98bcf21e2"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/逐图核验.json",
-    "bytes": 73192,
-    "sha256": "e6a3ece6f14c1c9b66ca53dd62dba70a0c86875067b210fd91cda4350d88a325"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/阅读预览.html",
-    "bytes": 30622,
-    "sha256": "3e39b90da1d0af178b751dd6b060921b375fee864800980d5fb6f2f4f831ee1c"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第06章/README.md",
-    "bytes": 1387,
-    "sha256": "ebf3eb00c72aba3db58ce4d47199bc28d4c59fba20ce660e5a6601aad6d62607"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第06章/逐图核验.json",
-    "bytes": 4729,
-    "sha256": "0deb2113924e352b717845a9408a89a7b829afc3ce5df957c76a3e1be529f3eb"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第06章/阅读预览.html",
-    "bytes": 2126,
-    "sha256": "b002164a68e80d3d1afa31cf2f376197fc369616b5c6baa482ff1d708c4e8b78"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第07章/README.md",
-    "bytes": 1232,
-    "sha256": "d8f56e28bd79a05dc63b1fe5a3a6befab9436514183bfeacb768c1981e7a8b0e"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第07章/对照-01.png",
-    "bytes": 393897,
-    "sha256": "3eb409e535c31164ad07a772b315c864ad6f659b757f4a27724fc158931d0d0b"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第07章/对照-02.png",
-    "bytes": 162213,
-    "sha256": "db0c7204e4bde7c791c9d60ebc930a77a93fee338f08e304e8b79bdc727e20e1"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第07章/逐图核验.json",
-    "bytes": 5665,
-    "sha256": "7e269776e58c517cea8f5bc88a4c33864205b1e1840fb26efb70a4082be34514"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第07章/阅读预览.html",
-    "bytes": 2112,
-    "sha256": "eb07eeac03eb1b8c92aa502b74b93554f8f16e3ae7f512362738f6df32869e4e"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第08章/README.md",
-    "bytes": 2159,
-    "sha256": "842b0b1a8e81a876eef83c52902f60c9ae474cead81e71b614b728bc94baa679"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第08章/对照-01.png",
-    "bytes": 99973,
-    "sha256": "fd8cec2cbbb58fcb101f8970cd26d29c2cbad5a89cf5892bc47e8e62b529bb71"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第08章/逐图核验.json",
-    "bytes": 11848,
-    "sha256": "37acaf68407668760032eb56fa935e32d2e9ff2f4e36bd1b1f7486b43781a07d"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第08章/阅读预览.html",
-    "bytes": 4451,
-    "sha256": "de62062cf0b0108e78afe251f6696ff127c28640b104e94eb4f6065161b45b24"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像重绘批01/README.md",
-    "bytes": 9904,
-    "sha256": "8fa125be2d284fc4191055bcc9f6200e414d4cc7a1578b4f1cfbdab3d923944f"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像重绘批01/comparison-1.png",
-    "bytes": 187240,
-    "sha256": "1eb1ca1c03787075b1525a0a101d16621698b625f5464874600757056ec1d533"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像重绘批01/comparison-2.png",
-    "bytes": 239751,
-    "sha256": "60f170d20480cf03bbeddccef7e55e554ff8fd26fc7d53a0f9091374de5f8d1b"
-  },
-  {
     "path": "物理/40_派生视图/大物上/图像重绘批01/reading-320px.png",
     "bytes": 59462,
     "sha256": "621663713aef90abdd4a3d62ab5716d3e715f3aa8340f2a93a8453303123d5f8"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/README.md",
+    "bytes": 9805,
+    "sha256": "4a4ee9e16d4e89775e5aeab664a4d644a1e5361b70616875b09c480497fa0ee2"
   },
   {
     "path": "物理/40_派生视图/大物上/图像重绘批01/source-090.png",
@@ -8643,11 +7593,6 @@
     "path": "物理/40_派生视图/大物上/图像重绘批01/source-975.png",
     "bytes": 48810,
     "sha256": "885f21686729ccd32e75c5ff1213fe29f98ebfbedfd54f7e1551060219088cb7"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/图像重绘批01/validation.json",
-    "bytes": 5934,
-    "sha256": "3425087e9c47bda2caebd8667756e046792cfdf3c89ea77f61579ed7c5da478d"
   },
   {
     "path": "物理/40_派生视图/大物上/期末刷题跳转清单覆盖报告.md",
@@ -8693,16 +7638,6 @@
     "path": "物理/40_派生视图/大物上/清华题库高回报路线.md",
     "bytes": 5548,
     "sha256": "5a0b0c5d8c5946b060a8cfb22eb5fb753e85dab0d43cf605ab2efc7e03f1b8f4"
-  },
-  {
-    "path": "物理/40_派生视图/通用审计/S8单章重做与学习指导格式审计报告.md",
-    "bytes": 7268,
-    "sha256": "975aa6c89e9606e31ea80b6ec74b197154965b8cdb50f1d17845f9bc2f8c87d5"
-  },
-  {
-    "path": "物理/90_缓存/image-readability-20261106/02/final.json",
-    "bytes": 18051,
-    "sha256": "ab69756313171319e48177dd34626e3f6f9d65d8b85d33c55e2ac571f0546974"
   },
   {
     "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/certified.md",
@@ -9058,71 +7993,6 @@
     "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/images/f769ce83fbebb154473ddf83ded87cdb99b02ced44dd9eaa3f930d8507c4881b.jpg",
     "bytes": 15767,
     "sha256": "a557b40c7bfef3fa4b486132869b62bbc337e7ce68dd5c50e6f2519cda9afc84"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_acceptance.md",
-    "bytes": 1014,
-    "sha256": "7365840adf43c6e857f810539d30f5cbcf37595df47616a9e0965148a6fdd124"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-001.md",
-    "bytes": 21838,
-    "sha256": "c052dfc3241c2eddd0a7f8ad90b11cc118da839cfa10f5989858a9ea917546d2"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-002.md",
-    "bytes": 20632,
-    "sha256": "35b9f1990df3253e9af1c056be9ef970ec1082c0c8640eaa5c52e84b581b1ad0"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-003.md",
-    "bytes": 20759,
-    "sha256": "7780a0c08cb8cef7767b437bd50589b956a90d0f12ebfd3ddbb4b2b652ad01a7"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/repaired/segment-004.md",
-    "bytes": 19088,
-    "sha256": "b7b0ca1f485287044236e45f337f4957f66bb9d7485b6c4212b795817f24dc3e"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-001.md",
-    "bytes": 21870,
-    "sha256": "fcc3c85f6988fa1e8d8f6ae8b3ad0e70056de4536901fafe0a42e65195277fd2"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-002.md",
-    "bytes": 20768,
-    "sha256": "70e1e1daa8aac00259f53bc547f8c2afa5508fa4b12630363371b0c830cd9001"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-003.md",
-    "bytes": 20745,
-    "sha256": "1d9e4028a7d6c93ca53997b751341bd4ac92bfe7af7050fbac45cac97381344d"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/llm_readthrough_segments/source/segment-004.md",
-    "bytes": 19110,
-    "sha256": "8b82d35ee27c47296f762e3f81be4adaa4d67461258af0f2f4cea552904e25c9"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-001.md",
-    "bytes": 21343,
-    "sha256": "a03a794f73e7228135e6f41ff110b74c409fd3affc0cedec4c19ee8be2c2f33e"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-002.md",
-    "bytes": 20172,
-    "sha256": "3f84d12de2d70e281eea33a3ac75b9573ed2efad7866d8e4c79fdf799d5b2949"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-003.md",
-    "bytes": 20533,
-    "sha256": "1e85940455b8f320343c5fd56ead42998f9ef82ce9b103ce0635fa0f7dbf6eec"
-  },
-  {
-    "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/reports/visual_review/verified/segment-004.md",
-    "bytes": 18718,
-    "sha256": "89c6a6877dd699b51eaeba9ef238f1b4d3569790a9a67192f6a26456e2f100fe"
   },
   {
     "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/results/p0001-0032/extracted/full.md",
@@ -12050,11 +10920,6 @@
     "sha256": "ee8ad74b186aa875e1d292e1691ca05878a888ba8075546032004ebfd6fea13c"
   },
   {
-    "path": "物理/90_缓存/pdf-to-markdown/清华题库_相对论_机械振动_机械波_光学_题目页p031-p083/completion.json",
-    "bytes": 1454,
-    "sha256": "13a6128c3c490c9aab2fe9bc7b98e553d1a39200040c63dffd2bcae9f085f02f"
-  },
-  {
     "path": "物理/90_缓存/s1-s2-retag-20261104/source-before/10_题库/_标签库.md",
     "bytes": 12069,
     "sha256": "3b89ec8c57af1ee234d4bcd7e2a8247f17976681f18075bab24baa122ab63631"
@@ -12810,11 +11675,6 @@
     "sha256": "9d60445a43c9e9456d3693eaa5f902eff2b91f7c85a0ed937696bdff9ea2e002"
   },
   {
-    "path": "电路分析/10_题库/README.md",
-    "bytes": 927,
-    "sha256": "4819239ece41a9da76c92a28ab8da8bc60d8c5be3cd57bc58728d83c33846e1d"
-  },
-  {
     "path": "电路分析/10_题库/_标签库.md",
     "bytes": 7105,
     "sha256": "a5076f15ddc2bd8bef539c339caaf1b0211ca74d3e87928316a97e50cf29f531"
@@ -13170,54 +12030,9 @@
     "sha256": "b7d027072cbb95f1d407dd5437d5332f6a72c5211aa939a5ef9511cf5f31ffdc"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/README.md",
-    "bytes": 1901,
-    "sha256": "4d2839d8318a9a50e9d8dbab6ddc2b6535904a3cae2d3521a2aa925da729cf34"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/F001.png",
-    "bytes": 49337,
-    "sha256": "f3daf943654f5599d704b2e45dad9b884efef28da21c9f3be2c76bc0a06a9289"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch03/F001.svg",
     "bytes": 24583,
     "sha256": "21edffe0c66ee49d969d5ab358d05b0ed53dc01ffa5a20814a85d385738e5fec"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/comparison-01.png",
-    "bytes": 59647,
-    "sha256": "c0f065e49198dcc806a80b6fd734fcc96ed58b85aab6e3b5795430700973c8f5"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/generate.py",
-    "bytes": 1231,
-    "sha256": "7841110d326e22ce8df225e534874a0c701dbbfd621b3aebe3fc9765107aa883"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/geometry.json",
-    "bytes": 1212,
-    "sha256": "cbfd256b88972b6eb400576ab19e294a4a00ce9fa88fa3ff1b68189c7e58c84f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/layout-fixes.json",
-    "bytes": 257,
-    "sha256": "d1942fd77d0806116c1b18064a47274d579183a9ea75bb443283b5a5657f807c"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/layout-review.json",
-    "bytes": 590,
-    "sha256": "31aef30b54e1bd9973afdbfb8f57958c438ed76210c6e68696d74cde779de941"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/ledger.json",
-    "bytes": 1875,
-    "sha256": "53c66315f99c2fedfaeebed31675ddabf805e167ea09dbc9c117916c4595e54a"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/qa.json",
-    "bytes": 289,
-    "sha256": "c5343d51b6afc2312e63c28dc385354f6d58478540408b04074308864855a712"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch03/reading-320px.png",
@@ -13225,24 +12040,9 @@
     "sha256": "9fa638c5cfec1ac6212070f9b48ba9123041a65eef82f565c0299be0ca1c1500"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch03/validation.json",
-    "bytes": 1049,
-    "sha256": "d2fb97e8d67c4f63c6a21c2241dc5cc3ba3060c23d23b4464e1d46229c493b42"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F002.png",
-    "bytes": 36175,
-    "sha256": "9fb3f3a028434c465bb91b78c15a53eddb7df400c0a56db9626a39ea20ae5cc5"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F002.svg",
     "bytes": 28840,
     "sha256": "cfc40384947a35fa8ef4080521206229d3b279ba8aee5e960f06fa135e6c4b20"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F010.png",
-    "bytes": 9346,
-    "sha256": "24e01b8c1b8c5ed8ee612e6f88bb2cdcd77c44830a472a59a2276c6bb98ff3dd"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F010.svg",
@@ -13250,19 +12050,9 @@
     "sha256": "e35a49bd1c2aefba4a6d2a71d0a38765c957a2fd029b33e2d85bf7af6854b6db"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F011.png",
-    "bytes": 29337,
-    "sha256": "348c97d9b623a056d41bc206d41d302a60794c14241c0163ecb49e65e9589fa0"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F011.svg",
     "bytes": 23788,
     "sha256": "a8f617e77e5846ff4e6354f1899c5db49c2a8935423a778c68a98f0ec51cb7a2"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F024-a.png",
-    "bytes": 32892,
-    "sha256": "0e5a66d8ec382a9265a5e6f8a4ee01c243beef1c81e4fa63ca44cbb4b5ca31c4"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F024-a.svg",
@@ -13270,19 +12060,9 @@
     "sha256": "23628b8925d1f92c6a53b620d024af9ed5a6be02600ce6c3949cde1e37999e70"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F024-b.png",
-    "bytes": 32803,
-    "sha256": "78005c077392d6b9bc04376a83e9c5d1c097884a99b83be548d2e963ec12bf11"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F024-b.svg",
     "bytes": 17369,
     "sha256": "5107479ba205a6276ffd478ef38ac8d9e38eb6446814c69b88e535868a86916d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F024.png",
-    "bytes": 41441,
-    "sha256": "2b28835bd631bb15525cc76f30ccc81080894a8480cede7422aaf623c074292e"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F024.svg",
@@ -13290,19 +12070,9 @@
     "sha256": "a1df207c1680e169da8d4a9c6bfa165567f9d448a4aabc48168797fcae7689a4"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F025-a.png",
-    "bytes": 21973,
-    "sha256": "05ac97e804d551245b128f3e1a3e50de2442889f7895efde3db1b8b27ace2b70"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F025-a.svg",
     "bytes": 13828,
     "sha256": "dd5651cef5887fcd748f2a1fd34ca8a2d5e3be5452d378fe24f4fb969982c773"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F025-b.png",
-    "bytes": 21524,
-    "sha256": "c9de2e2f50cbeb3503a5592bd57b7d45c307d93c57fc4e7f81403b34cd3faecc"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F025-b.svg",
@@ -13310,19 +12080,9 @@
     "sha256": "b10129bfd1e38e451ae321eda4c50a5fcedd3403bfff550a1c1dc7f07ca153aa"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F025.png",
-    "bytes": 27244,
-    "sha256": "542c333411aa494c95a38d904b8bd2d81945a1d0a151d26f87c112f01e302fe4"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F025.svg",
     "bytes": 27618,
     "sha256": "ce47e1cf37b8e994d37f9f5aed262500ecfe0c3676300c6aee5f9258f74f5369"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F026-a.png",
-    "bytes": 18748,
-    "sha256": "bd7c3783cb4f82587de6a28b8c43e85e9c4553bfc6157c62a64113aeeed227b7"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F026-a.svg",
@@ -13330,19 +12090,9 @@
     "sha256": "7d0321758510dffaadad231b4aa2c461b57cb068d3c58daaf69aed9ecf5dd373"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F026-b.png",
-    "bytes": 13842,
-    "sha256": "49af5e324c65b25eeefd8d28742544ebf1c176e97e230344fc7adfdf2fe20d17"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F026-b.svg",
     "bytes": 7054,
     "sha256": "4b54620b97ccd834f1ec6432218cbd27ea59bcd94c224ffe444a86d4feef119a"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F026.png",
-    "bytes": 24004,
-    "sha256": "3499de769dcdedbf9be52ced1d32de200a0895e18d907d15af5e52824bb3aae3"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F026.svg",
@@ -13350,19 +12100,9 @@
     "sha256": "c430ecfa4b5f4ad8c6a9c989e85808a03135116393526f803d2cddba7e1232d3"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F027.png",
-    "bytes": 13970,
-    "sha256": "a5b24b5bfcf1f3d32eac8fc428459ac22aa61f1160189d0766fd4db364104032"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F027.svg",
     "bytes": 16740,
     "sha256": "0f4912cc517eef8563a2e6945b98318f31ca4682154330b49f51ef36b8dd8bb8"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F028.png",
-    "bytes": 16177,
-    "sha256": "3fd7f0a367a47d87952d82f4329a4e0c3eedfdbb1d813cd668f71ce182dd7358"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F028.svg",
@@ -13370,19 +12110,9 @@
     "sha256": "4516c9d4a8cd2acbadc05cf45d39a1d0b8ec303fff71143ea4a652a573277ffd"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F029.png",
-    "bytes": 33028,
-    "sha256": "ba38739f66540fa00d7f32b38c866777a9522ca31a2cdcd06911c2c287121b85"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F029.svg",
     "bytes": 28256,
     "sha256": "db05bfcc3ad32a51cd937ff80a01a2bbf5190c7ecbeb1089ae077bf263a2ca35"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F030.png",
-    "bytes": 23184,
-    "sha256": "41dfbc21fa8c2c20709a3bc4675400b6927ba5e1df3383c3f52c3f51b6bde5b3"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F030.svg",
@@ -13390,19 +12120,9 @@
     "sha256": "bd7549ab573944ec247ac2cc67a79ad339c46da83618ce7bd8e7493f82d1872b"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F031.png",
-    "bytes": 20265,
-    "sha256": "85977147055a98b1cc8379c9caa8a2986c52bffb8ceb933bc4dc42dd2f5dbb3f"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F031.svg",
     "bytes": 22658,
     "sha256": "df49280d6aacef8a3a588d0c6ca40c15544ee4e7cfce0e2941737194766ab58c"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F032.png",
-    "bytes": 39872,
-    "sha256": "e96066805937a3d0ac9223907f5f74b3d445c6c63b0048c7669d57c6ecf4fed8"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F032.svg",
@@ -13410,19 +12130,9 @@
     "sha256": "081aac6fc587b1442f6174e32c6d60bdba79b461f8093d116672949c6a4bd42c"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F131.png",
-    "bytes": 9273,
-    "sha256": "91a02cd50265dc7d2a3c8f488d1caf35ccdfe694888707dbd455610d0c1499eb"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F131.svg",
     "bytes": 12008,
     "sha256": "40bf77640d23d4652ad0e2b2863e319ade28cba8684671fe3f44415b2e0f3b76"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F133.png",
-    "bytes": 18549,
-    "sha256": "188a4e3cade29781362291545796c24e2b6c58cba7b31dd6a1b149eeb894f7a3"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F133.svg",
@@ -13430,19 +12140,9 @@
     "sha256": "f50219c7f804e8973b87bbf236f7138e27f73a8aac31b2d0c28de97b9122bd49"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F134.png",
-    "bytes": 18555,
-    "sha256": "f97a7318ad7ad697317e642aee92f14f23ee13b2d28b2f0de7203658642af340"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F134.svg",
     "bytes": 18220,
     "sha256": "dabe321d1758d09fe60f4141f64924fd2d83686709d9eb3ebfd5b9b480d12e3d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F140.png",
-    "bytes": 11536,
-    "sha256": "4e3639a417baacafecd4e223e9cde67d9a2f77ef254c707c75e14cb29f407210"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F140.svg",
@@ -13450,19 +12150,9 @@
     "sha256": "5d1f01c7effbd38589cf37c2a10d8eb9bca23aab3a329a1a21e680f6da7ee7ac"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F141.png",
-    "bytes": 10082,
-    "sha256": "f837a0c65587836f3f4016c06ffea172c2a1e10af26b10e13b607dc47541dc77"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F141.svg",
     "bytes": 8998,
     "sha256": "2e305d30ca5481f3b5039d346a9b71cf19eaacb911ad03cb4d7ec18f8b4633b0"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F144.png",
-    "bytes": 9466,
-    "sha256": "4ccf6de17d47abbbec27c4b35ef1c96404b0703f2fffb6a478ea087b2c0e72f6"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F144.svg",
@@ -13470,19 +12160,9 @@
     "sha256": "bcccca958dd4f92be742321c27df5f46e462ce401375a6c0ed8b1e84c990c6d6"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F155-a.png",
-    "bytes": 14888,
-    "sha256": "baa3984b759dba096fc45adfafb4a9abfb7ff816f5e61f6ea0038f4920761790"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F155-a.svg",
     "bytes": 13880,
     "sha256": "f71cf73cebcfb3e321bad121b1a6c428f10d4e3cfdcd6c61a34c984d4f9c21bf"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F155-b.png",
-    "bytes": 41304,
-    "sha256": "9be90d90ccd8d37b017629f3ab2d2ced98f09c02968f7a20e8e2be665babffd1"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F155-b.svg",
@@ -13490,19 +12170,9 @@
     "sha256": "8818ffd57511be3681ee8dccc4a61c01e42fc65081dffbbd87516b78a1920a8d"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F155.png",
-    "bytes": 58589,
-    "sha256": "f467bdedb965ff34692fa9153ee4f4bfc2fa3fdfb598a4f37c0e67978fb78de3"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F155.svg",
     "bytes": 20325,
     "sha256": "0b8817c5ac5eaa306e548e79b27e603d4213d5b203837f8c3cdcb55bb0e905a2"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F158.png",
-    "bytes": 13597,
-    "sha256": "7267c5ed84068426dcd091c7fda28afd57ffc66dca3b91e2ed8f52da648bcb25"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F158.svg",
@@ -13510,19 +12180,9 @@
     "sha256": "845ac8b3f26e209a586eca51b7b640b92dccd1400df43dde09da30bed0b51ad9"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F164.png",
-    "bytes": 19028,
-    "sha256": "4d049cc55c9377a268d31962b92f2efc3a84651cbac974334a85370d2ecda868"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F164.svg",
     "bytes": 15250,
     "sha256": "77410172f003010eb5b46ebac60577fdcf3ae332ba828c589d6c5ea7e0be6d76"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F170.png",
-    "bytes": 17609,
-    "sha256": "b7981d4c08094b15614afcbe399840fb11ec45218703624db89288704f76dfa2"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F170.svg",
@@ -13530,79 +12190,14 @@
     "sha256": "460354ef8e2fbc86de18aa6417ae2f8918bab070f859114f324aa2669969f3a1"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F173.png",
-    "bytes": 27155,
-    "sha256": "1eed10362e4a678ef75c8c6b2ec8dca4ed9c5cfc415e94252736c535596bc948"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F173.svg",
     "bytes": 26322,
     "sha256": "cd3bebe92665eaf9c436beb6bc876bdc4901b3049a2ba60574e19771a0a8fe7e"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F176.png",
-    "bytes": 17936,
-    "sha256": "84d43d31f4b4f3ce558c51875e001675276c72772d33636462be23cacffc5df3"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/F176.svg",
     "bytes": 18909,
     "sha256": "f4fbba6a132d60cd0a03680c09d6d05a184bc442a50ccf6b2ee217bfd766785d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/comparison-01.png",
-    "bytes": 411617,
-    "sha256": "2c917f719facdc3d7a9f9bb52aae1657b7900d05950b9fbe0e8f9dbc67f1e445"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/comparison-02.png",
-    "bytes": 230724,
-    "sha256": "aa4444ef6856241259275deb9523e37e1bb829de4797bcd55287b54c59c98a5c"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/comparison-03.png",
-    "bytes": 337899,
-    "sha256": "50622102bcf217b4619b2c22fbed141e64bf393b5e76d0b3c8bcb1ac46c13949"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/comparison-04.png",
-    "bytes": 295637,
-    "sha256": "d3a02c6e3961c1c358467febc6d1a3366634dd251419981d6094b37b0d13df89"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/comparison-05.png",
-    "bytes": 257988,
-    "sha256": "00333945149f7eb2e39ef893721d18009a0c273c4cad0fe229365bde720d6905"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/comparison-06.png",
-    "bytes": 354826,
-    "sha256": "c54ab1823621dea16eae8137c4182dfb44390e1fa8b0c5981944fc81ee2ef8e3"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/generate.py",
-    "bytes": 15710,
-    "sha256": "0ab0fb49ef91e8defefe81d810667e1c3ad04207f7746fda79ac7d5fa3dff99a"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/geometry.json",
-    "bytes": 39273,
-    "sha256": "6b409e080e236fce8531cfeaa60f95728f8eb67ced8f7998509783e042cb21a4"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/layout-fixes.json",
-    "bytes": 265,
-    "sha256": "bffea323070ad51a45f0f79731e29cb0c8e70179f228a9e71dd153c269256e19"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/layout-review.json",
-    "bytes": 2112,
-    "sha256": "87affdccea8e15afc4e3bc92e7f780567c4f6530a22029028fc4625c04a55895"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/ledger.json",
-    "bytes": 43462,
-    "sha256": "8bbaf898b407006020f4133457556ea9f2eb9b423cd27bb926423add25a5f8bb"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/reading-320px-1.png",
@@ -13620,29 +12215,9 @@
     "sha256": "162810a0b4db880101d99d046b14101b5b2beb3e666056a3c3baf5e7bca20708"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/validation.json",
-    "bytes": 947,
-    "sha256": "883a996b71d7bcd3831105eda9470a126a1d49210c52620d5f68413e96b2fe74"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/C3-geometry.json",
-    "bytes": 3417,
-    "sha256": "877d05ad5182015be92174d1230a30f3bf25ce34384071560f0f86cc68b08e44"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F003.png",
-    "bytes": 92129,
-    "sha256": "60b51a9337f4eaf4d3dcc0caf6d3c4887070766ac0ba7a45df21a9a5b770a559"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F003.svg",
     "bytes": 55578,
     "sha256": "5e41794578c81106c79c4559cfeadbe55ae00006fb2dcb42240216ba53cd845b"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F017.png",
-    "bytes": 69758,
-    "sha256": "c4c539e5dee427b14f69add8f761f70ea3e60be172c94fca31bfff5c07fdc0c9"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F017.svg",
@@ -13650,19 +12225,9 @@
     "sha256": "7988f633122fb1c5082a4a71a4214a5977fac990cb4e61908a7a062f5343bcd1"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F033-a.png",
-    "bytes": 14435,
-    "sha256": "dab5c45a7e32e0d792b3e039c2f6a6aed526027ce2de15ade2d6e7398e109663"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F033-a.svg",
     "bytes": 9767,
     "sha256": "9896963d09a5e7e20c5a0c48cd982ef262f9429f9949a0924aacced5097b8a9f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F033-b.png",
-    "bytes": 14668,
-    "sha256": "50a4152893e1a11bfb3c40365e2920f287f6243e044c07b420e0c8e91b1ed5e3"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F033-b.svg",
@@ -13670,19 +12235,9 @@
     "sha256": "541671a4f637777ea75b814f3b223462b181e23112d381994d9d1ea400b0407d"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F033-c.png",
-    "bytes": 14768,
-    "sha256": "f17d450c52a27e753871c2ec258c07ed01c8d0d96d9610998c6a011174b7ea05"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F033-c.svg",
     "bytes": 9405,
     "sha256": "dc0e0cd0c333e066191488ff934ad392bccef3614fc88badebab8c0acbca42f0"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F033.png",
-    "bytes": 28678,
-    "sha256": "2748b980484a54c48be9617539d72eb2265037875ec4d32a9f697c65f01319bb"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F033.svg",
@@ -13690,19 +12245,9 @@
     "sha256": "c806d9a44cd38b03f70443913bb3d7868214e65ca19824882a20090fc251e767"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F034-a.png",
-    "bytes": 21984,
-    "sha256": "bfc136a822b9bac37482af90e377ea35a7dd038d84a53ee401a314f61179256b"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F034-a.svg",
     "bytes": 17152,
     "sha256": "1e25f13dfb6e3df50af49a3e2c490eefe05c04749ccee19e8f1efeda5f449437"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F034-b.png",
-    "bytes": 24008,
-    "sha256": "518e4bb102f6f65e13e4a68b8015e8120776e47e8245891c4ef8d4715e983d90"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F034-b.svg",
@@ -13710,19 +12255,9 @@
     "sha256": "bf98ac4ce3b5d3ebf30102543cf668bf38518a7bbf7e3a2407f2fbaa009ab810"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F034-c.png",
-    "bytes": 23999,
-    "sha256": "f43f3ec2ef4d3fea10abea37ef5ee939ffb08c73418b4f2259f4b81902360900"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F034-c.svg",
     "bytes": 18341,
     "sha256": "aa88c43a37af1601e2211353ab42fa9265c3af84a76e22a3f5dc6152ec2bff6d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F034-d.png",
-    "bytes": 21921,
-    "sha256": "8d8aeeda89dab6fb5848f571ea2d0dbab989c608ddc4d0f9c27f0bd40f31d234"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F034-d.svg",
@@ -13730,19 +12265,9 @@
     "sha256": "ca45116445d3e3943b9c0b9e1a3b81cea64b30511b06d87ed5a44817e0a3e2cf"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F034.png",
-    "bytes": 60288,
-    "sha256": "71b23bd88ea3f6818a2d1d7b2ccda6a0d77c6356118399fe539294b53c60ca83"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F034.svg",
     "bytes": 71314,
     "sha256": "8fd98ea4f16bf431c2a49bef4d72a4e05ee100e5eff033e75f50f9742cf22e00"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F035.png",
-    "bytes": 34830,
-    "sha256": "af1141038f74b541a2028385fa730155e0c8e9f7bdb4a2f6411aec46706bdb95"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F035.svg",
@@ -13750,19 +12275,9 @@
     "sha256": "07dfb630efbc59c4fef3a6ebae9468a8016792b399bed40acfc7394ff101619b"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F036.png",
-    "bytes": 49843,
-    "sha256": "e3669362558079226895deabe8120b7752ae71e1b425705ec43f2f14afdf6b18"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F036.svg",
     "bytes": 30918,
     "sha256": "b2af1d9ccc3b340bb8fd8b6c99b08df79114040391d25d8a74209e76b8974c56"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F037.png",
-    "bytes": 44394,
-    "sha256": "bdbe55cbc61338099fb94b3416121b4676b7fc6faf1dfe19d592ca79badb30f5"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F037.svg",
@@ -13770,19 +12285,9 @@
     "sha256": "f36c590054003011e964d32b0e01455edb86213f060a8de640612e9185f71454"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F038.png",
-    "bytes": 42498,
-    "sha256": "25e85c616c9c684e0fa27829d4acd5c575b969dd2b2ed880232c0e8f3c7313a9"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F038.svg",
     "bytes": 26369,
     "sha256": "c1da6f62caf2b60aafa6773b5615fa0c8a7183ae936abf79d902ba6ddace084d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F039.png",
-    "bytes": 68701,
-    "sha256": "6f1650638ab8289ce75f2234eacb78ddfbfd532d6b5a8f6b7de4894f38b5edd5"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F039.svg",
@@ -13790,19 +12295,9 @@
     "sha256": "d5ee95f663457440ae468fd1d78f9c5194bda353daabe106a48ac807245d591e"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F040.png",
-    "bytes": 57931,
-    "sha256": "94e8d9c2f7b0f418159f93861db4e6c123119be8f7fba1d4c3747dd7d4ac8182"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F040.svg",
     "bytes": 35161,
     "sha256": "d0f6743ea5ddfc744c3e9b9cd4e675b1bbee3749a89871f5aa814a00bfcdf090"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F041.png",
-    "bytes": 59026,
-    "sha256": "f1c5925a55aee3d0507d0687c25ce0d71c4201c74d3743a2b48e0080dd9a9208"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F041.svg",
@@ -13810,19 +12305,9 @@
     "sha256": "39bba87e136554b5ca0363b04e67bfba0ccea34874a15e0db1a37f237c91db59"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F042.png",
-    "bytes": 38050,
-    "sha256": "dfb7ebcffb2e065264a39e2855c747c8d7a3aaa70ecc72724f7c37c222787758"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F042.svg",
     "bytes": 22872,
     "sha256": "e84a2955bf71752fc43d1c0bc6d6d1447834b538deddfcdd6909f53fc5a28c58"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F043.png",
-    "bytes": 33217,
-    "sha256": "7182155b29cacf3e76d2e4fc950e741cb1a7d6d3476c142d0d10fcf158798a42"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F043.svg",
@@ -13830,19 +12315,9 @@
     "sha256": "bc12eac77f24b1410189257c662c68bcd007d900659cbfabe60318a8aabc4d1a"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F044.png",
-    "bytes": 45053,
-    "sha256": "02f6e6deaaf7e039f24fbf554f068121f4499658205c0bd40684302e3e310f65"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F044.svg",
     "bytes": 27987,
     "sha256": "b8fb20303cb5c7e9b77cfb97867f4cfeda7fd9d52d7a517f6f2c5601c4b469c8"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F045.png",
-    "bytes": 59205,
-    "sha256": "eea5983b2038ba1da6e6f7ca6bcf7dc1607838f279ee45c9ccdceca83424da10"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F045.svg",
@@ -13850,19 +12325,9 @@
     "sha256": "3476dc795a03f1c1ef720ba7fe37d4d1396c6a325f6e9c8211b1cdcb19d586c4"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F046-a.png",
-    "bytes": 57108,
-    "sha256": "0fda90bbdb160976f47bf7faa96fb734b00b60511d7eaef57fb077a10bcb283a"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F046-a.svg",
     "bytes": 37891,
     "sha256": "5d28a019354b61557174f56eba6720fb4fe9d7e3d4f628df246fcf28e3c5aa19"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F046-b.png",
-    "bytes": 60472,
-    "sha256": "7773c0aa781cbefd6702499ef6d6b365396985bce4d1dc1e7900a2ee65ff5b54"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F046-b.svg",
@@ -13870,19 +12335,9 @@
     "sha256": "c07b2fbb955fab22bacc53b1d7ac9b161ff832661302bd8cdc4a55f343bdad1e"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F046.png",
-    "bytes": 85609,
-    "sha256": "4b8d50dc4b1e39cbe75c18817934573c1bae14eb191c65b7d700ecf5d0e99d69"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F046.svg",
     "bytes": 74433,
     "sha256": "c59fcb83bef16034360c06bd844158d901417cd930f33075df1ad6a453cfbd92"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F047.png",
-    "bytes": 45652,
-    "sha256": "a0e0d1bc3f404dda3da90bc6529fa741d224e97c47dd35d7f6ccad026a093119"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F047.svg",
@@ -13890,19 +12345,9 @@
     "sha256": "3d4c5a9a7ddad36d6ed4fe3a4a75462cd9b4505df9cfe365025b98362cf72b86"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F048.png",
-    "bytes": 48142,
-    "sha256": "8eeebcf4655bcfc51ec17ab35f1a625bc3c26991fa43f751f3b2892978241106"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F048.svg",
     "bytes": 25695,
     "sha256": "cdcac94b8b6b9ca6696ee6ce6838bfde0c9bd345a5ecb1c0e7ea10d33355aa10"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F049.png",
-    "bytes": 44978,
-    "sha256": "40d77d362d474f8b8664d8f89e69d8ed29993d5a5d0e51c99d96d66228e875ff"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F049.svg",
@@ -13910,19 +12355,9 @@
     "sha256": "d8348db79b9a1b4a01998669edd7d8aa554b4407324a2379fc1285bf9048cb9b"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F050.png",
-    "bytes": 37012,
-    "sha256": "9f7bdaca0ec4ff4272e00e78761249a02e0bfe073bd6a09808fdd8bcfbb992c9"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F050.svg",
     "bytes": 23452,
     "sha256": "a6bd88e4b5ba6e8756cc17312de066c713894edc2133239fb9e74977da43a1c7"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F051.png",
-    "bytes": 114361,
-    "sha256": "215c6dc06275241d714d5221c95430d30e0f10afaf10063da43ca6cd6a9eb4e0"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F051.svg",
@@ -13930,19 +12365,9 @@
     "sha256": "dc61e04e14977948e365fb56e1042ebdfd0d5334f02a0a015f1c4fe801e7e24d"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F094.png",
-    "bytes": 47136,
-    "sha256": "1b8b6791efa5753a144e17532ca73075f140d1c26e248b98fc5ebb848a39e3e9"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F094.svg",
     "bytes": 29262,
     "sha256": "6e388e9d3d42d7744ba83c2ea82f94cd9afcbbb2e0f662a958505069e416c00a"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F095.png",
-    "bytes": 59920,
-    "sha256": "b8792066fe67b4f1658d556e334d25a28d4ce971d65f315cbac692f99ccb47d9"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F095.svg",
@@ -13950,19 +12375,9 @@
     "sha256": "5d6a895b053b5d0d1a269e486b416b9491fdb481220bbc3e99a00dd8144620fb"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F098.png",
-    "bytes": 79974,
-    "sha256": "236d70b22805a5eb7873865f5256f205f4f3c0252e52038ea5d867b4871e990e"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F098.svg",
     "bytes": 24364,
     "sha256": "7cd790305618771d7ace29c99a2009fac743b7f27f50c63f6c98f0cf3ae47c6a"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F107.png",
-    "bytes": 31523,
-    "sha256": "746dc73f0bddab4d57e75379492c68bceda70229ce88b042b7d3e5e7334e30b3"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F107.svg",
@@ -13970,19 +12385,9 @@
     "sha256": "9e73a44d74116450d57e5b568bd5c094222ef7ace0ead1367f283f0147a36473"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F108.png",
-    "bytes": 61270,
-    "sha256": "2ef37cc677eb1bc7cd1d77f53d57272d025a2b56b4ccea1edcc6ea7b10653962"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F108.svg",
     "bytes": 32269,
     "sha256": "3d66645e387e0851641c27ad7fb0686a56d3aff58ce030e5bce729973580197b"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F109.png",
-    "bytes": 66481,
-    "sha256": "90f35c66100f8d6afe17070a16e05d3ebdda36fa3f052a2100aef026b8619e7a"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F109.svg",
@@ -13990,19 +12395,9 @@
     "sha256": "b84fae29d6df1c6c043707b2f5e83d7cb0630eefd2aa8eff348613b1d0a81651"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F112.png",
-    "bytes": 37119,
-    "sha256": "f6db4ad5c5c2b13a1d7d0964d7e1a8e4bd13a0d7fec3776e9c0504385b0eb61a"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F112.svg",
     "bytes": 25914,
     "sha256": "b5aebb3364c44361720abc8ec02af1c3c9e698660230c7170a750aaf8902363c"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F123.png",
-    "bytes": 50165,
-    "sha256": "424215602cfe4429adb58181bdf9d4996e06fe7e6de65fbb8e97d3b6cf4b1fe9"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F123.svg",
@@ -14010,19 +12405,9 @@
     "sha256": "5b24e9866611b66f2c48b48396ddaeeef4f8a1fd6a0124e41560af42691b2860"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F125.png",
-    "bytes": 52703,
-    "sha256": "3d2bf4ff6c9f16ec9f2b63d8f8d52db343e77fe9a8d4f5561cf356992fce39c3"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F125.svg",
     "bytes": 30606,
     "sha256": "3132450865b0641652f019c304ff7e897e4c2243a504907cc04f4f1b48ad3aae"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F126.png",
-    "bytes": 71903,
-    "sha256": "b19cec6810c4b42357354c1708227fc9a9e54e914d1988769f0cf8168ff18b0f"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F126.svg",
@@ -14030,19 +12415,9 @@
     "sha256": "8b8803b780adfc1ea4b839f0aefd1f42353ad29f9e7c64b10d7e652a7fbaf41c"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F132.png",
-    "bytes": 20598,
-    "sha256": "4b2c256acfd89ad5a52b509bcdbba8a91c8ba70e9a3a6996b6ba380544c56a2e"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F132.svg",
     "bytes": 6643,
     "sha256": "eb0abfebdcb168b2887ebe53b54aa5febb6b9f87ba75901006389114f487f28d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F136-0.png",
-    "bytes": 12984,
-    "sha256": "a8aed5486117de6898f82efa3654c616e96aafa2cdaf488af11bab98b7814c15"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F136-0.svg",
@@ -14050,19 +12425,9 @@
     "sha256": "b3030a1d2285c78d8cc060e213bdef4f84cb8311bc9b14d0e66166ddb66022bc"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F136-1.png",
-    "bytes": 12190,
-    "sha256": "881d8ddaf5d32052c8ab8ad1a1fa9d6bbfc34b1b8383d0976bb9045cf06a65e8"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F136-1.svg",
     "bytes": 8165,
     "sha256": "4c0d81974b7154f85c356c6427562fbebc438fec1f24c68494017ea41780f21d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F136-2.png",
-    "bytes": 12916,
-    "sha256": "378e6446095d10192fc50e9883e8de3c27844705735619efea4c018adaedc46a"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F136-2.svg",
@@ -14070,19 +12435,9 @@
     "sha256": "592f0982149f4397f97e4bbae03afd3a1d7e4e145d27832786db0a26bdcc6f50"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F136.png",
-    "bytes": 23383,
-    "sha256": "f4347ce38745d8fa377d812b479464fae7a5c62a252f5fd5e67f443938bd83e5"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F136.svg",
     "bytes": 24424,
     "sha256": "22d44703a8edaad90bf1d2fb65c66d19bac04a06f6a25888abf3c0b28354eb6a"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F137.png",
-    "bytes": 30528,
-    "sha256": "1eaf7724521e287177d3b28dcabc061b3643ae6c076fdff70ddc38dd7bf86b12"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F137.svg",
@@ -14090,19 +12445,9 @@
     "sha256": "5b3bd78e4b3739bc14b3920a327b778bf8d647822d13fdbf956d824d4799f18a"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F142.png",
-    "bytes": 69364,
-    "sha256": "9469bc83d0b92a1cf91bbb778e7a0f8d18a62d85063dcbe8b5d785e7f7b86ec8"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F142.svg",
     "bytes": 22800,
     "sha256": "387669eb494a332cef11e4fe61ade05a55cae96af56d2544aee240d6e994e9ea"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F145.png",
-    "bytes": 40579,
-    "sha256": "25a528da89cde592cb4afc17b6f8ce71417419832c1ebadc9f902e597d5de62f"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F145.svg",
@@ -14110,19 +12455,9 @@
     "sha256": "7015f3e952bcb081b85b0d67965f2f040c15460b5924238351e2450cee67787c"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F149.png",
-    "bytes": 45212,
-    "sha256": "c9c98dd81e925fcf43b8a7da79130fb374bf7e6563cd98e25282d16a2991f5f4"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F149.svg",
     "bytes": 25070,
     "sha256": "35cf20a5431794af4f28247b172cb9d0ee65f4b1757eab0ff9b3aa6f24f5373d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F150.png",
-    "bytes": 35515,
-    "sha256": "6a6be4876c0ed1c8e21c11db1dc9429434ce03f7a108b2b975152abbbfdeb18e"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F150.svg",
@@ -14130,19 +12465,9 @@
     "sha256": "f1722eda5ec6c4b6a964a6bfefc76d15097a6341bc07c9b8322da4daf0e1d163"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F151.png",
-    "bytes": 45054,
-    "sha256": "0e898858cc905f3fb499a8a2f41153e73d06944f0790de241210ba2bc9ef1fdd"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F151.svg",
     "bytes": 28064,
     "sha256": "d47b04d17523e16e36efa52cb41f32ddc947e3e727e14fd8a846a183f8d6144f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F152.png",
-    "bytes": 48770,
-    "sha256": "a769b575d35f4032b40d77cf1abfeb19202edadc89a1ce648932ecd2603bea73"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F152.svg",
@@ -14150,19 +12475,9 @@
     "sha256": "c128bf8abc5e345fba306f438bc00dcff3b905102f97fea6886cb6ac06b801be"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F160.png",
-    "bytes": 41416,
-    "sha256": "d6dfefc11f9122a597123d2f005ad66e8f41c53b90a9f63bc818d9844ca19053"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F160.svg",
     "bytes": 27620,
     "sha256": "14ef222bd3a3e149e3281c2456238dbea06335445f4d9e7ef6bccc3bcbe9005b"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F165.png",
-    "bytes": 38440,
-    "sha256": "5f79e4962746b1053cc696ec056a6885b07d5df48b5f4c5878e4a5ac3c16b752"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F165.svg",
@@ -14170,19 +12485,9 @@
     "sha256": "daadfe09addc57bb1fbbe21dc89c59277235baa1f1c12efda836143da20f0b24"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F168.png",
-    "bytes": 44819,
-    "sha256": "327d0d4d4d62a431ebb24fdc01d3e3e678cc9f9917fd98821137595057945b20"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F168.svg",
     "bytes": 25013,
     "sha256": "5fc8244f277b7c639bbf7d9e48962b3d32c0feb06536f4ae5cac98ccc4d97e3a"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F172.png",
-    "bytes": 46583,
-    "sha256": "6fc18bc452dc31a51b917a5e33dabec6715d21692c29a2d1c6533493956c9187"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F172.svg",
@@ -14190,19 +12495,9 @@
     "sha256": "72205637a80f50d23307abf7998e215a178bc666540271461f1de1ef8369bdaa"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F178.png",
-    "bytes": 39622,
-    "sha256": "26983e2d73968806922b96ab6549d79fbed8cb702bfd1274a4e65a84c350df03"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F178.svg",
     "bytes": 27884,
     "sha256": "3550262f48e625e7e2e8d577a1dd0a6df1dc9c7a531bb324fe9d7d601efe2101"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F183.png",
-    "bytes": 49142,
-    "sha256": "995c961b00926b1c6f1650d80855b1e54b0b4d67f6131e86f47e8057458de3cf"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F183.svg",
@@ -14210,19 +12505,9 @@
     "sha256": "20ab3e983ffadc7dd1a52248b02acb06ee347020d14c251c8f44120b47a33c17"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F184.png",
-    "bytes": 97216,
-    "sha256": "603904225a1b48501874fe7d7e9137667f432f059f1c15b7951860700a96965d"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F184.svg",
     "bytes": 52520,
     "sha256": "f24fd1df38a5f9e948b4146fd4b1de3ac8f779be5765512c23fe72a77e419b0f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F185.png",
-    "bytes": 52798,
-    "sha256": "8dde58f223be799eeb720fad8460818551c54382dd61008356d22f1a160c6b86"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F185.svg",
@@ -14230,19 +12515,9 @@
     "sha256": "1db85bd70e0e676f1b0a2e8b422a39c7f652a26e5ebd5df0efbda4bfb47f1aae"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F186-OCL.png",
-    "bytes": 54427,
-    "sha256": "afc06b54b99212ab9bce433711f3870d54785b3b811c51e820dcb51eec67fac2"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F186-OCL.svg",
     "bytes": 32653,
     "sha256": "cabbcc3aa0af5283b3d708cf9ebcc3053eff24abf690814720fca490d8b1b962"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F186-OTL.png",
-    "bytes": 55433,
-    "sha256": "438aebfc763383c085a3390d4c7ae62c69d587a4ea8f9f6a7a74f4f1b5c9d570"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F186-OTL.svg",
@@ -14250,134 +12525,14 @@
     "sha256": "8e354ec5285e0afdc22bb990b39668011a5d3eb599fb01d9fd9df9800c9a8fa5"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F186.png",
-    "bytes": 67891,
-    "sha256": "c55620c42374e95c91f683cf1d2056e284972942766c2f56ff77f782c797d5f8"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F186.svg",
     "bytes": 67471,
     "sha256": "734c38191521e9a0dc846642a4e5b3b819b3893b37335d2cbc397c0dcfce7355"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F187.png",
-    "bytes": 35751,
-    "sha256": "8aebd2751bfaafd42a5a36b163eee8563f8b8143ce079ae1fe53a00bf97c7503"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/F187.svg",
     "bytes": 17509,
     "sha256": "242edc10d85feaf021bac6a08330783186c84f5df0463d767f9f4749fe23d58f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-01.png",
-    "bytes": 417752,
-    "sha256": "c51dd43cb6d7921024ffd2a155614527109ef71b3f6e8214b42582d1e44500d4"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-02.png",
-    "bytes": 283614,
-    "sha256": "c32cdcd671caf240ae66b598391aec2df22b8b7d017d92b5e82b822f4fe20a34"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-03.png",
-    "bytes": 335743,
-    "sha256": "73e2dc6fbe5676fe6d225321360673ead9e23afcf3da5812902bacbed4ce1e4f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-04.png",
-    "bytes": 316847,
-    "sha256": "8c23f99060f86858134a05b765fb64dd5dc13fc47194710104fa5af6a396f6ab"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-05.png",
-    "bytes": 266464,
-    "sha256": "44300470a3201d87b83c8ef43621505dc5e4451c0c1316c38991306fef7d372a"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-06.png",
-    "bytes": 531994,
-    "sha256": "13c2a6b756fbf77e840e554be104d637089880aee9d70c98fbbe7c38f74770a9"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-07.png",
-    "bytes": 507814,
-    "sha256": "bd8d34bbb6ae9d420ef4b64cb948d2beed68367912dda378751044fd3821a459"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-08.png",
-    "bytes": 496509,
-    "sha256": "50a4bc209a98be14a112ed082528295057fc98beb541c6a62284334a57f914f2"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-09.png",
-    "bytes": 407211,
-    "sha256": "8f23d0ae585c300c751c1cc2bbec6a56ed65b5c9a591030a7b268201afa7026d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-10.png",
-    "bytes": 503170,
-    "sha256": "3c9ebe11a298f65438c80bc6ea10afcac9b0ec1878b3ce42adc3e55b84bab95d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-11.png",
-    "bytes": 386374,
-    "sha256": "c8e4b73c651e4623c3196e52d0f59b43f4a9c5cb2d836e32c249e588c7c73729"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-12.png",
-    "bytes": 901895,
-    "sha256": "bafd54acbb63692b43954de5fbf3b53a99346283865aab8b5aef8cd6a0e02077"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-13.png",
-    "bytes": 256022,
-    "sha256": "b108ca755301500c8a408c5c5f4e7e3749389bb4d6fe6acbfc80d7d2c35d7717"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/exams_and_knowledge.py",
-    "bytes": 19273,
-    "sha256": "75aa47743c80a7b99ed253b1a4f772ff4d1cc2429da207cd535face6f7071817"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/finish_knowledge.py",
-    "bytes": 5453,
-    "sha256": "3f8f2fc362049e7094108c660e41a47eaa163645f691b656a9a62f1f1ff97f2a"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/generate.py",
-    "bytes": 14934,
-    "sha256": "a46dd999d3593364ea925f6c7e4be6d269053265875f4fc1599bd966432f76d2"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/geometry.json",
-    "bytes": 153816,
-    "sha256": "83761c166399b14372a8cbfccb4fea948b69ba7ebf91595f86b283ab807a2140"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/layout-fixes.json",
-    "bytes": 1118,
-    "sha256": "6a34fb18fd32666e9b812400c6eea7c6363405d25010ea661e5c6c676b8f17ce"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/layout-review.json",
-    "bytes": 4753,
-    "sha256": "bab8285fafec7ff5e859d34d39f98994653766cbaf3373f626b8d5df89f416fa"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/layout-semantics.json",
-    "bytes": 8709,
-    "sha256": "0684be11723bb9eb2cef65437ffa5454e96f16c776126e1383e52c4d3ca073ec"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/ledger.json",
-    "bytes": 107388,
-    "sha256": "6b7e6ece9c6dfc822d5f8a077729b7b125ee3977335dc1564f2a5821b2d4b6cf"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/qa.json",
-    "bytes": 6997,
-    "sha256": "a36e0560b5713c30da68846d6f85427cd1b4a51dfddfe09736d484c8984e7dfc"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/reading-320px-1.png",
@@ -14395,24 +12550,9 @@
     "sha256": "ea9d03965da6c01c5c91a85a76ea92750fa8d1b3f18fe6f232209fe987ee8b1c"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/recover_C3.py",
-    "bytes": 1577,
-    "sha256": "d8df8b1737e91b4377a71301b6038cfc96759dcb9cc8d2f348fb517c3f1f502f"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch06/source-evidence/C3-uncropped-photo-detail.png",
     "bytes": 658042,
     "sha256": "1e79dc553ecfa6459729562b59dd8078d4fab4aaf1f339dc528a8e7e5ed1e3b9"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch06/validation.json",
-    "bytes": 1676,
-    "sha256": "35084ca09500dd19a70bfab3035973bf34873da70ab051db7b8eadbca7dba795"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F006.png",
-    "bytes": 35263,
-    "sha256": "0277650fc01c2f9e7410beb128bc336025f6dc779394fe3d3000f3af960e01f2"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F006.svg",
@@ -14420,19 +12560,9 @@
     "sha256": "a29b79d9e0863e045b1077dd5610a28ada02d41b1607ecd5db28bb4e55c54a14"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F007.png",
-    "bytes": 24552,
-    "sha256": "3ef36de8b53b3f04476b7e821e502f17d87c0c6c59c23e32f749fbb810239a49"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F007.svg",
     "bytes": 8627,
     "sha256": "c6cf5d7b8f44583790bc0721a0695711ea358e8e83e2be7fab2d5697d8f06baa"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F015.png",
-    "bytes": 41152,
-    "sha256": "8229d6d094fe10499919512235e9c16932711674e74520475ea50ae367cccba3"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F015.svg",
@@ -14440,19 +12570,9 @@
     "sha256": "93851cb6ca61ca9bbe1e7eab1fdd4f2d4659ffc329ad0807f7fde9243c0af633"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F052.png",
-    "bytes": 63118,
-    "sha256": "b0299449d738229994bd97bc482caab9e2fc4ad0bc314b49b644ef399e926f89"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F052.svg",
     "bytes": 30443,
     "sha256": "c8a0228fa893ba45501c5b589f87497972635d77fa6cc7b0a97eaf64a45fc3b8"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F053.png",
-    "bytes": 55530,
-    "sha256": "e90c6d8d120cd17fe2033a4bbc9e8ca9db2c35bc9a1ae8dc32bfc54d0c38ffe8"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F053.svg",
@@ -14460,19 +12580,9 @@
     "sha256": "b020803360f0a9fb4b20a2463c67bf8e5fd60453b72da3b7a3ecd05b6a670fcd"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F054.png",
-    "bytes": 46872,
-    "sha256": "87b8b0a81514a563a095a1b5ecd1ffd9e7b3d6591eb26119a68fd3ff7e3c3683"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F054.svg",
     "bytes": 22639,
     "sha256": "5156ef69bab60b88b8be676a8420fcbe953dd8471828b9100eda06af5bcbe9c8"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F055.png",
-    "bytes": 44191,
-    "sha256": "07b460ba92309b1a75c6974cbdc2cd4cdb274a96091defc96c3c60b290acc0f3"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F055.svg",
@@ -14480,19 +12590,9 @@
     "sha256": "3ac3081318256df08ab9fa5b2bc0483eb009502d1f06d8f0a2fc8175b9b85e97"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F056.png",
-    "bytes": 51101,
-    "sha256": "5fed60f37866ad648fc5cec456cf7d63527e86984179625da3266912d79fa67b"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F056.svg",
     "bytes": 24077,
     "sha256": "6df29f9ae50180716826f16fbefed5461f41f8554e45e0e3a1fc4f4cf6d80932"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F057.png",
-    "bytes": 36899,
-    "sha256": "73b5496d664cdf690efa9dcdd84065054396d1c52741cfcc5b914ac4d002bd5e"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F057.svg",
@@ -14500,19 +12600,9 @@
     "sha256": "4b535429c03b65f88da7405a2daae15e4bfaeee25ae11a701bebb83e890aa239"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F058.png",
-    "bytes": 101214,
-    "sha256": "2904b1ca4e29aca05d9dc16f5ed69714f60ec591108cafbb15771e0c099de11e"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F058.svg",
     "bytes": 33394,
     "sha256": "f9005b16d90bc43f72cbe591cd0c74b44b9ecdb26ac3f8f8a6c18325b8efa1b9"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F059.png",
-    "bytes": 73918,
-    "sha256": "c14b734efef02f58e5255ab25ff920032113bcd966046f02524bc8a285302361"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F059.svg",
@@ -14520,19 +12610,9 @@
     "sha256": "ef505e934ca0d26163faa120b6a930e0e8ffeb5c5ac9c4aaa36e3abf08b3d244"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F060.png",
-    "bytes": 38733,
-    "sha256": "d18f35231080f1caa4a94e0d0797e40e05f2e26e47f1c86060dec7ccbf32e2be"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F060.svg",
     "bytes": 17434,
     "sha256": "ab117b8a6db45be9720fa8975f3a3cb7275731b96caf2660e13f045ba9ba64f8"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F061.png",
-    "bytes": 139824,
-    "sha256": "a416dcd95b0fec2d1bc5a4f10fad944e066bfcb5338176c8fbe2fdf60347fdb3"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F061.svg",
@@ -14540,19 +12620,9 @@
     "sha256": "eac9ad767546a1321b3e945c3dd144853f3a431daed0e19d494e9a90737cb4bf"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F062.png",
-    "bytes": 51152,
-    "sha256": "a75a08f095cfc7101369622e3d4ce5446d2764d38ee50e37e39805d29ab5fc04"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F062.svg",
     "bytes": 19412,
     "sha256": "98821995b569317bb4439a64a3521d252d0f61e28aaad6037b52dc1ce802f152"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F063.png",
-    "bytes": 87889,
-    "sha256": "e93e68c21341f425c88af566bf52237d4b0393f080f99bc4edeca338a4c1ee95"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F063.svg",
@@ -14560,19 +12630,9 @@
     "sha256": "4a3fae1934090c2dfa14edb5e07d6a6b38a13805b8892589c9cbbb1aa024236c"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F064.png",
-    "bytes": 37950,
-    "sha256": "5bcbe648f8c91e451c84634d5e8323a0e59d07340555ff1a1cf72fb68b9f1197"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F064.svg",
     "bytes": 17610,
     "sha256": "7e8b0217a3ff3e7e7d69381469a0b2647739a80e168dede1d6780ed1fdd33931"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F065.png",
-    "bytes": 44188,
-    "sha256": "02fe9378de1cdcf10c42d4e4aaeeb9dfd423aaaadc07997257086b81b2cbff97"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F065.svg",
@@ -14580,19 +12640,9 @@
     "sha256": "ec6680b1791add44566b14d7db2a306176077f6d5cdf1a7a6602091f8f071d8e"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F066.png",
-    "bytes": 53981,
-    "sha256": "064cbc819ed2eab089fd8f4e06fce49cb78d0f00a7c9e34fbaf326c0c3cfa426"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F066.svg",
     "bytes": 21436,
     "sha256": "d6739dff502a6f73ee77152976c546d28746641fa907f6b6516d9dce9c3351a2"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F067.png",
-    "bytes": 60303,
-    "sha256": "04a939ba645144be58f0e9698fde5e9575fa7fc1fba795fccea97a3995611ef4"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F067.svg",
@@ -14600,19 +12650,9 @@
     "sha256": "f4ff10727980d8f2113dc0cc4fef8055a613f93f4d4cb91cf696bf80c79a77de"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F068.png",
-    "bytes": 68414,
-    "sha256": "9819b109d7a02d86c5523a532d4b471e6a5fdd5f56974ed547f459dec71261dd"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F068.svg",
     "bytes": 27558,
     "sha256": "50d8a4c82fd0e21da0abdcad6d9b8fc2c558fd6f7a5a9acb75bb90c62815b61c"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F069.png",
-    "bytes": 72769,
-    "sha256": "7b2687feef88cc40bc869225812889acee5f027c2f5f704596d12d1cec435b3c"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F069.svg",
@@ -14620,19 +12660,9 @@
     "sha256": "461804fd2f32e249140fa7d0124bf0c1ea1758e9274806e01938a08de7d670d4"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F070.png",
-    "bytes": 116733,
-    "sha256": "8b72aaf0b24e75b9a88a4ab5e8198f9aec25e2dbf8fc4a85b644d802992b4588"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F070.svg",
     "bytes": 40302,
     "sha256": "5f97686d4327d6a191b0c7db40e68cde9edd565c4de4eeb7920bd45db0edc341"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F071.png",
-    "bytes": 65343,
-    "sha256": "b27bc290ecea8c6d60cba709464806951460eeb0795b68e7f79db9a2ce25e5c5"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F071.svg",
@@ -14640,19 +12670,9 @@
     "sha256": "13acbe92230e06990c8eead8e286253bdd5ba3753373813bed9d82cd9158825a"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F097.png",
-    "bytes": 94241,
-    "sha256": "d1d9f84c5a0d52572a0291495d429ceb36a38301eb38c47398248939266f52ae"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F097.svg",
     "bytes": 39518,
     "sha256": "f3760810b64ac4a6894164598445cb25b3f3ca377720edebf8db8aba5e580d07"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F101.png",
-    "bytes": 73116,
-    "sha256": "a51f5501b7f21264626970baabfda738a36bf73658cec2392e69c4c4d9e0e364"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F101.svg",
@@ -14660,19 +12680,9 @@
     "sha256": "2e01ffb24688037dc273a163a3f1b3a815fc46c4d8601ca7db7117312de311fb"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F104.png",
-    "bytes": 46060,
-    "sha256": "aabc951befe0492b28aae8bdbd46cebe1416c993231d410a3d25b96f4b8f63b3"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F104.svg",
     "bytes": 22453,
     "sha256": "9c09bd8cde8073138eb700716a9b5a1278a2f19d6f5253c97c19eaa3c5691698"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F110.png",
-    "bytes": 46362,
-    "sha256": "798563f2d80f61dc7e96b99a488d29b0dc2ca7ba875fa19f98f02ef07c29dc4d"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F110.svg",
@@ -14680,19 +12690,9 @@
     "sha256": "89e430953b291de78e9efd933e597f67407c7d0cbb4b486d3eeecb9f69ec5a7b"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F115.png",
-    "bytes": 34609,
-    "sha256": "4dcb9b209d790697b5b0f87cc9349f2083fe770d60a69365002bc4fea02a9be5"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F115.svg",
     "bytes": 16298,
     "sha256": "f7eaa1eb9e91246a57b20487cf1e21aeda7e4dd6c1722b7fd88b02016dddd0d2"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F116.png",
-    "bytes": 36760,
-    "sha256": "877ee8b9c447de90ed1d66333560ff55e24d9add2beb60c04b52b6bd08edc6fd"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F116.svg",
@@ -14700,19 +12700,9 @@
     "sha256": "5f421b094a3d28639bfa193545a83479d03c7925af112cf5176af14b15d6a10e"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F117.png",
-    "bytes": 33725,
-    "sha256": "0c42b8eb0e475ca84545c8d6313726d65b9ce39bf6e5171bbe0e97980e60a387"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F117.svg",
     "bytes": 14544,
     "sha256": "1b5f57adbeb4d1c1ad6280293c425df3162487d8c30f5716f271bb8c2f959b17"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F118.png",
-    "bytes": 76756,
-    "sha256": "2cef2cc3e9eadcdea06374df5a56e4632dc68793c3f7c45bd28cf8ec5307235d"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F118.svg",
@@ -14720,19 +12710,9 @@
     "sha256": "a60e1c4cc592f55744f4232e9a856d54eea3fecfcd7ffc415cc2764285276d81"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F120.png",
-    "bytes": 46053,
-    "sha256": "5bd6cbab7ab8f9f322f97cd93334455301a60b29c44250e28e69116607ce7f2a"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F120.svg",
     "bytes": 19789,
     "sha256": "01db073ef0091956f8566336251ec7499e77110633d889a288d4c4483d9232b2"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F128.png",
-    "bytes": 43203,
-    "sha256": "faac1bef1fe72e9c62896be520ba8bece24a779ddebb19eb093edadfec6f11af"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F128.svg",
@@ -14740,19 +12720,9 @@
     "sha256": "9fb66fa2f845b9b636a45701a0a7637b292a50c80d4dae6c0a51053fe2fbe67a"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F147.png",
-    "bytes": 46210,
-    "sha256": "4f3add3b6392c732a0fa1239afb778a0f9e074d3e05c337dc56090aaf601f00f"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F147.svg",
     "bytes": 22566,
     "sha256": "13ead8aec7122ae057e4927db283a91e880c59493458daa9ca810900cc639c6d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F153.png",
-    "bytes": 44948,
-    "sha256": "5155c8bfcd89ebecefca0d5dc8ff2faa29f0d439e04c6f718fc503200f881c71"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F153.svg",
@@ -14760,19 +12730,9 @@
     "sha256": "0431d4918183a74f33d44e8c8591f7853c1bfd60cbc562e0680e9828110854cb"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F156.png",
-    "bytes": 85796,
-    "sha256": "743ad579f020f0d0a3e7f056b0af1567d3fb61863bdec47c834610464b5c415d"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F156.svg",
     "bytes": 31572,
     "sha256": "a16afcf33e73e5920c949ea409a431b6cc24c7ef4fc11aeefbfc30b5e902165d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F162.png",
-    "bytes": 37280,
-    "sha256": "0ffc18439522c4f578a0406be312e94e1ac1eca5a7c3acbbbc5e45d2ad12a13e"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F162.svg",
@@ -14780,19 +12740,9 @@
     "sha256": "da7c6a8a0f3969a4710f4a20252edb280a98f85bd853336ee56bf0eaaf4b3e62"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F167.png",
-    "bytes": 59964,
-    "sha256": "385c64139508d53fed9ea4e17365a94ae5be76e00501658f2354b9ca2188f3d8"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F167.svg",
     "bytes": 25384,
     "sha256": "fe56b45e24fbb602d1fdacb77849c80446201b4ea1b865cb0d81f77e227f6b00"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F169.png",
-    "bytes": 49803,
-    "sha256": "8b1837905d0d265533b615e33c7a8198eca271f89fa10de07d0ef847ec8c6b1e"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F169.svg",
@@ -14800,19 +12750,9 @@
     "sha256": "d29f78a7019945aeae5741a82f3d9929376b998bc113b00fefbeac581a84b6e9"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F171.png",
-    "bytes": 40192,
-    "sha256": "af1242982b8cf05c4a2e529474bfeb687dabbe34b8a09feae15ec830e104f157"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F171.svg",
     "bytes": 17814,
     "sha256": "69b7b09908dd89271bb80b08b8bd293e6e4b755eab882647c442a3fab01b7850"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F174.png",
-    "bytes": 44944,
-    "sha256": "93800d384b6d58f1757395caae1d9af53d63bd1168a016e406e6697c5a03a320"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F174.svg",
@@ -14820,19 +12760,9 @@
     "sha256": "6d4583c441f5bbc6a6d43ead638fd76ef51e6b1af31f1565e7035c7b566dddbf"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F175.png",
-    "bytes": 76346,
-    "sha256": "31f036a2867031bcc8806b1faa158d6abdedb245513bee1fb2d94b2bbf14409e"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F175.svg",
     "bytes": 24150,
     "sha256": "3a54da1468938e831022b5c454138e52e34f3efcbf4d2f1b7f26f2d820e87d05"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F177.png",
-    "bytes": 35356,
-    "sha256": "0a0f60bd784fd4d4b2ead44c2222231cb7d8a298e27168aecf0eeacad8d77175"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F177.svg",
@@ -14840,19 +12770,9 @@
     "sha256": "41a5aaee2c4cdc64440ce5b07791ea32144e4a52bb77e5456040381872d43368"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F182.png",
-    "bytes": 38828,
-    "sha256": "db89f654ccc70aea551b45faf27d1ab174a145ecdc4c18515960a3af7b473042"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F182.svg",
     "bytes": 18140,
     "sha256": "05c544661cfc12a407413b46e28329209cd97eac9aac42a05d0d08e6261879fc"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F188.png",
-    "bytes": 74931,
-    "sha256": "455258ae1c3d32a99b45ed1ad83b1f9af4ee6c44dc40b8010f58b74cab50eb2b"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F188.svg",
@@ -14860,19 +12780,9 @@
     "sha256": "378969a7b86d32b7f3fb3d1481b977cbd4996f090229e063b321415fe5358737"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F189.png",
-    "bytes": 92519,
-    "sha256": "641d3d2f6466a1de77d6565b22ea0d6e099b16f1e338bc3093350ddcd0577712"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F189.svg",
     "bytes": 46030,
     "sha256": "dc16e089b6795911bbe792836e506e00ac2c2b2db099644004e30359e7e00bc5"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F190.png",
-    "bytes": 90088,
-    "sha256": "4ef67fac3861a58eb7c12d307163f94a19d3ec3a4f0d1a12043b4562aa1122d3"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F190.svg",
@@ -14880,124 +12790,14 @@
     "sha256": "faa49a797d76af271be9f05221c6c3a7bc8cefb1edd9b7d2f0c5e43896b9ffb4"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F191.png",
-    "bytes": 80025,
-    "sha256": "aedf3932b9a327b4f7269e6508ac80e5f2786e22e52d087fd743200254787876"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F191.svg",
     "bytes": 31474,
     "sha256": "81cf229d5bed0720e6566ffd01c49c6a21c1d85fed8986e1dab593420a0d244f"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F192.png",
-    "bytes": 48090,
-    "sha256": "63149a7c1f1397e77ea30f600147a2be1da5295351c014442f17f5b2b3aed586"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/F192.svg",
     "bytes": 23404,
     "sha256": "5cc001d326caad732b36dd8f1c272d485e65651f937d785fcbf2a2c499d2160f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-01.png",
-    "bytes": 179438,
-    "sha256": "1ce34f2448fdf85489c9a5ad22a0b6e308ffa3f0efce3526913fef26ff221247"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-02.png",
-    "bytes": 243525,
-    "sha256": "3b81c32a35d53de7e8a19e2871293036eac79d3e46d84f4976d8659b295a02f6"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-03.png",
-    "bytes": 254494,
-    "sha256": "08badd1231d05972f2232f82dfce8205fdfd2e93a4db085a0a57259be44075b4"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-04.png",
-    "bytes": 302538,
-    "sha256": "4731a88db4cbd855808e0a9c7232efb6f6c216e507b7372289d004f732655e5c"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-05.png",
-    "bytes": 248924,
-    "sha256": "02f27701821a91e20dabfd51ffb17669bba57acca8670243fce52f81c4b50fc9"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-06.png",
-    "bytes": 433084,
-    "sha256": "ac4ff98348b31449098af32c9695c7d3eaa60299fb40f4e0d88ea05d1b2dec99"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-07.png",
-    "bytes": 399305,
-    "sha256": "335fb67333810647ba85b9b15882fa4517acc7e192d39de01a21b6bf5d103f4c"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-08.png",
-    "bytes": 410026,
-    "sha256": "c96d72fb56948e3be4d412c936e66ce7385a9c15f2b2718e12a2a5c5ef2d19e0"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-09.png",
-    "bytes": 429207,
-    "sha256": "dabc3d4cf16ab04a9cb642361bc1bbd2b1ba5bac43f6d9bb835663e4a13003b1"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-10.png",
-    "bytes": 357933,
-    "sha256": "9f10ff161d14f72b36f841c2d1c905399165621b7d3ea2b18c7e5ccdb84ab073"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-11.png",
-    "bytes": 356729,
-    "sha256": "2ddc3484896ae82f13e10550b5e2f56cf98edb8003cd10888889a37e7c39a4b3"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-12.png",
-    "bytes": 654235,
-    "sha256": "62f06527b334778e6094cecfcd92addbd68a0645806a316b485df9a62026faf8"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/comparison-13.png",
-    "bytes": 180562,
-    "sha256": "c80c1d52741dea5bab26225425de58e16e7d94042ca78e226cf889645b75ad9a"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/generate.py",
-    "bytes": 19985,
-    "sha256": "b687a17079ec308d9114e4728cb09dbe2d71897829bec82f40f3acfde0ccc508"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/generate_exam.py",
-    "bytes": 7229,
-    "sha256": "5f52e4b7fa75fe633393711ea2ed6b22b7a094c08591de4c40a2e9470f8910d0"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/generate_extra.py",
-    "bytes": 7940,
-    "sha256": "6a88d27c8ca722cb626dd292a9e03bd5484a4fa690fb00afd68b1263c547d12e"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/generate_teaching.py",
-    "bytes": 5571,
-    "sha256": "03338e252517cb9d9eb5de2186e72be907378f1d814330e058faca2b7cabe6a6"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/geometry.json",
-    "bytes": 126729,
-    "sha256": "2d930107fb485d7e718c643d2260aa9a49d49fabeedc16e4dc6597584d6fd6c9"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/ledger.json",
-    "bytes": 102768,
-    "sha256": "6ae2c33cf75656cae09f30df6eaecfd92257962ff59828c976135dce811204d6"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/qa.json",
-    "bytes": 7873,
-    "sha256": "f755c3c699fb07014e6fd17b8b3e51cb1b77531866fa16d9083f55b8114171e9"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/reading-320px-1.png",
@@ -15015,11 +12815,6 @@
     "sha256": "ec2db05af05d6fac8a9636ea7a8378b8915b6981359ea3f834cfac5923e54482"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/render_all.py",
-    "bytes": 1526,
-    "sha256": "01d27862cd2f5c7e5ee2baf156e40b775f00062803b9818867f7aa1814174e0d"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch07/source-evidence/C1-uncropped-photo-detail.png",
     "bytes": 320833,
     "sha256": "836276ab6fe7582c0b8dfe70ec533505d1944727907b275dbcf1284cf00104e9"
@@ -15035,24 +12830,9 @@
     "sha256": "4562a4d326a044c576a1e9eb05e6d837048c6fdf4b4c96bf5b161fb538e2c58f"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch07/validation.json",
-    "bytes": 1321,
-    "sha256": "2495de601ae834d1c74e50335f5599bd8a73e1ca9fd4d776ee51d1c00b9789f8"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F072.png",
-    "bytes": 104588,
-    "sha256": "b9ba6c1b946ff291b1fd31276e244c05b10749dff1c78a6b2fbc353fc2b69904"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F072.svg",
     "bytes": 47481,
     "sha256": "4f7d47d2c853273df230b2ffe64d768a8bafca05287048edbe692edb97ad61a0"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F073.png",
-    "bytes": 63631,
-    "sha256": "4316bd85f6f2f3f850c0297aad4c2e5cf5f3bfc07352d31463ac7bb1e0d375fd"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F073.svg",
@@ -15060,19 +12840,9 @@
     "sha256": "08b22cd270890c682613bed5c751738866ae2bac1d43f54c745705ff4d14eee4"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F074.png",
-    "bytes": 56699,
-    "sha256": "e8e23a1b49289743f9ba52bff6868cf5017a7112ec1040ce584d601aa129609b"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F074.svg",
     "bytes": 23571,
     "sha256": "ebf508ecf8ba1f3d30c7e38fe6f04d52c367e689e9bdb9cd2f3e2635754cf5cb"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F075.png",
-    "bytes": 48860,
-    "sha256": "ddc02635df26485edbf4aaf1dd61e8678ff33c2c234e70e6ef8c0a23492aa08a"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F075.svg",
@@ -15080,19 +12850,9 @@
     "sha256": "5dc0d579bbd9c73cf29ec440ca50cc985e25dda34dd0f2c667bfeaff7beca645"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F076.png",
-    "bytes": 62212,
-    "sha256": "d9b245787e3de023638b8d6f9bd58289e6c93b613cf37a3342d71daf8f38d3b7"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F076.svg",
     "bytes": 25398,
     "sha256": "e3984c9b212835c91d1a69e0ee46b4d5130e69787ae1f8382ba30f0e66083709"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F077.png",
-    "bytes": 53205,
-    "sha256": "8039ed23bf8b649828773264556bd448cd68083f061eb1f625b9b6e3ee3ed7ce"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F077.svg",
@@ -15100,19 +12860,9 @@
     "sha256": "2d680cb0e3737ce03aae04c1bd0e9fa1a1fb2abbd7b8716861d885819eb786b8"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F078.png",
-    "bytes": 58805,
-    "sha256": "b607c0f0b4a570553e00bd3fc117007290090bd8c9ca92d0bccf899d1be3b7bd"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F078.svg",
     "bytes": 18561,
     "sha256": "1eb507791fcdc3308e38ae115bdf073797198d2249986eeed499c22a911dcb11"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F079.png",
-    "bytes": 74094,
-    "sha256": "a105334c6d959aba3a0debbce2500310325d9eae2e8277493840e9e33c92c379"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F079.svg",
@@ -15120,19 +12870,9 @@
     "sha256": "0bccb953f3d5cbbd15bae82710b0feab69ba1f258d408a53c86679cb14984091"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F080.png",
-    "bytes": 72234,
-    "sha256": "c825bf79b6c85ea67d918c406065104d6b061f8d9e825ad692eec16b62df8da8"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F080.svg",
     "bytes": 25696,
     "sha256": "b5a629919767a0f5d7f15f220db4240af48d8aba761996f6f2b5f0d454a93561"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F111.png",
-    "bytes": 104093,
-    "sha256": "66bdde6e626b478a00dbce1c805f5de04cbe412ce5469fbcaa8317f4604076e6"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F111.svg",
@@ -15140,19 +12880,9 @@
     "sha256": "f840485ec4dcaba323f59ef46a9bb731e937b2b579bb25baba8bf2c04a7f3937"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F129.png",
-    "bytes": 111798,
-    "sha256": "8fee4123b413dd02afe9d8784877b445e3e5aa927a974c39155da943c4ddb367"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F129.svg",
     "bytes": 37492,
     "sha256": "09b29ac1033afbc0b138c819f248d6f90e85075c0a25aab2f12aebc0f0c154b2"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F193.png",
-    "bytes": 51221,
-    "sha256": "9f23a77494a858c07ddff684d6da7b3541607807744206312d769c84e094433b"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F193.svg",
@@ -15160,19 +12890,9 @@
     "sha256": "b98135e78e4c3d3f502a385008001d9b1645abab32a74b85e0fb38b078df9497"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F194.png",
-    "bytes": 62683,
-    "sha256": "dfde85d11be44ccb5ba5bcaa1a927c21856ac21d4bbe0b9c1e12293070b0c18a"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F194.svg",
     "bytes": 24143,
     "sha256": "b013be8be70aca73d90500dd31ad3c687eb61b730ef27d45057727ce08d97ceb"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F195.png",
-    "bytes": 76485,
-    "sha256": "460a6e0d72f937b021a2e826b3baafa8c27cafef23bbe82fee11f45f43457455"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F195.svg",
@@ -15180,54 +12900,9 @@
     "sha256": "02f8e7f95a6db70426d490199878587c4eb8ffe8c33f7083245d0f4211871ebd"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F196.png",
-    "bytes": 39258,
-    "sha256": "2f012dd462f2921c716e0ffa3071b198e6b3efb6e190439953e4bfec9f0994c0"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/F196.svg",
     "bytes": 14699,
     "sha256": "5fd05e05054e19948fe264928c52a0e7c644f1f1c381cf949898ff27fcc63702"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/comparison-01.png",
-    "bytes": 275937,
-    "sha256": "a0128a5035d00ede5ccd1b40d57c665c2986c8fa1a05fe6cb8f84ee71cbbc1fa"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/comparison-02.png",
-    "bytes": 224924,
-    "sha256": "aaedf910804f4318985b1e9b9a3e739743eb185c5661163a9c1d35115da91c02"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/comparison-03.png",
-    "bytes": 481837,
-    "sha256": "ff2ca0fdb611c32138b3c9a1504f112901b0fe53cac948af36b7524fd5a7b919"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/comparison-04.png",
-    "bytes": 435697,
-    "sha256": "f2a73e820a838603bb0127e524f25a94d391fddcb2b9509a8b954bdfb4c16bb9"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/generate.py",
-    "bytes": 14410,
-    "sha256": "31d7b8c7c71c006b49580d27eaa5d60b53339e905f7e7b660ddee0c46cf98183"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/geometry.json",
-    "bytes": 56852,
-    "sha256": "26de735dc852f32f8b4ba66cb53336c5827387bb730c8267831dc431e1bb13ce"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/ledger.json",
-    "bytes": 24820,
-    "sha256": "ab799bfe72534042879b2a02d6ce4c50f9c51a5727c32f3bab6bb93837ecfc9d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/qa.json",
-    "bytes": 2833,
-    "sha256": "c93a5e37d28cc1b8796dc04367f527005059f5f306f6473f97f0c226f046f3ee"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch08/reading-320px.png",
@@ -15260,24 +12935,9 @@
     "sha256": "31580e885946e0b012a5a3267d2ed5c8216f21864d9b229d72e557133d708ee3"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch08/validation.json",
-    "bytes": 1231,
-    "sha256": "85679b9f2e348d409c8647e2dadec8d1c5eed2e446f83537785b87daebf7d642"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F004.png",
-    "bytes": 135562,
-    "sha256": "975e4c7baa4c3c2af2bcf3a7472a583e07cf49ccc61d15190764a403cf838ca6"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F004.svg",
     "bytes": 55649,
     "sha256": "02a06266712f94b2e5e36e570ad01a94bb540d57b30b258e0238b733a2812557"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F081.png",
-    "bytes": 132631,
-    "sha256": "c9b56592acf97fcd96b1df5b05b359698922da9d940ffffb1e1b0b5f175cf0a8"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F081.svg",
@@ -15285,19 +12945,9 @@
     "sha256": "20fb09c2efac61cc8b7ed33b5e9088eae17d2100d94ad62f9351d793e1d461c0"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F082.png",
-    "bytes": 48821,
-    "sha256": "500444e1620065051437128c50513257ecd4b805d94b35ba635c38e125581af8"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F082.svg",
     "bytes": 26347,
     "sha256": "c5b5b7cec64fe2fb9450fbe4a6add13d4fddc4e6464d1dc3b7a914b342c6d8c8"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F083.png",
-    "bytes": 48645,
-    "sha256": "b622ef3ecf416fd5ba646272759e7f844215c42c0fd56755f4dd32a3d9f4543a"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F083.svg",
@@ -15305,19 +12955,9 @@
     "sha256": "3b2b2b106c031cf4ab472946abba05ff946cb236ae034e5211ec167fdd7ead5e"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F084.png",
-    "bytes": 39355,
-    "sha256": "397068975292eb9b867de448eba0b2c90a6d10e084d8633f166ab340539a6202"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F084.svg",
     "bytes": 21061,
     "sha256": "3f672850a3566cda146688af77c9e6b3415481fd7c9cd9cdf81c66abffbd1c72"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F085.png",
-    "bytes": 88101,
-    "sha256": "636fe782d8a595e0fad848c7bb6b3bc745c5d993caee051b309ccf95da14778b"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F085.svg",
@@ -15325,19 +12965,9 @@
     "sha256": "6e2138b4ef50dd755738438df03b873c1fbcc90bf0aabf88c07a3e81c6486d79"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F086.png",
-    "bytes": 72961,
-    "sha256": "8df459d5052ae4388344c0c13da8ee387c257208f403e59a44a951b3ab957bca"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F086.svg",
     "bytes": 39552,
     "sha256": "cbfe0d46756dba1b347657404371d5c314fd2d9ca36bc5971ae7ea6b28061e4f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F087.png",
-    "bytes": 98795,
-    "sha256": "9054a2fffd41a37a6f076725d480affdbdcc3b408e6a5c9425efcf078c7a7a3a"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F087.svg",
@@ -15345,19 +12975,9 @@
     "sha256": "5f69e361639840eca221a4e7188082098fa963d2a6144b4129b0f57de85cad52"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F088.png",
-    "bytes": 74196,
-    "sha256": "136bd2111069e2cd9fa80b289e4997a83b5a76edcbd7978ff4c09c1b917adc93"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F088.svg",
     "bytes": 29776,
     "sha256": "8d0dfb896e6b4f5728146fe3d28cfdbb0ba140ef3c9c9df0355bfc05af457b1d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F089.png",
-    "bytes": 100294,
-    "sha256": "2bf8988a440ee0a0d5c39e260b3868a385d4439a12b01bf344c53a0972ed68d0"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F089.svg",
@@ -15365,19 +12985,9 @@
     "sha256": "31a0d4de39700ec67101fae37d7558faf44d21fde206455cf1bd3e413ffe2acb"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F090.png",
-    "bytes": 52948,
-    "sha256": "2cf592b612e764139baf9a0de59ab6e1714f5fe002d0bc305a774650c4bca292"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F090.svg",
     "bytes": 24041,
     "sha256": "6b12914eb5f06d8d6c34781cf73668795e10c646a6010495d44fe0d4d5beb1e9"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F091.png",
-    "bytes": 45927,
-    "sha256": "a112e5263040fd47a138d97e23ce544586c3fc60d459ae611e9e7a80d29ccfb7"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F091.svg",
@@ -15385,19 +12995,9 @@
     "sha256": "e773e88cb6de1f4ed2d89a40f61b3b0e3f812d11f34528795941181db1943818"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F092.png",
-    "bytes": 137206,
-    "sha256": "741cf20f6d94dbffc5b94453485702b73248dc98bbf6c3a1b8a8372d561ac56d"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F092.svg",
     "bytes": 69238,
     "sha256": "f34e20fe04eb8e34de00fbe2747f0511a38e8af1caa2c1941d30fd433405966f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F093.png",
-    "bytes": 55990,
-    "sha256": "2bbefd439e7e992901c8bba902c1bec54c3bbac64e8798d893c10b589157b25c"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F093.svg",
@@ -15405,19 +13005,9 @@
     "sha256": "aa7ffe5baff48a0140a95c30b7b08cf0403a85b24defb99fbdd203082f5555f2"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F130.png",
-    "bytes": 48901,
-    "sha256": "99f81a86b59441f723ed6ca0cd4ed39e4afbdb62527f7ecb1ea4e9ce7dc0e570"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F130.svg",
     "bytes": 24272,
     "sha256": "eec4ba45f323753ce1ff0fe0b63337b7f59a5e8f0d406ee6bc1ac7cef2f915ba"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F154.png",
-    "bytes": 48655,
-    "sha256": "f7a4fcf1d1f67a9ad1f81e5f08981b6292e109f56e2e393f93424bfe16a0690a"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F154.svg",
@@ -15425,19 +13015,9 @@
     "sha256": "19f4d006de65ff7d78e566d495ba797c952688e13cac1d981a97c3276b82624a"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F197.png",
-    "bytes": 96512,
-    "sha256": "4fbbb81b495210bdbb682519cf7c1e6e832d98dd02130fcacca8bba863466174"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F197.svg",
     "bytes": 30841,
     "sha256": "17bcefdba7a541450a9b345b6c42a0e8af23281b9e14da9c9df24ecfe26ea052"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F198.png",
-    "bytes": 65355,
-    "sha256": "acbc9344432defd5ea6231853e4f718e095d94fb4c9054536e573b0b339e3b5b"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F198.svg",
@@ -15445,19 +13025,9 @@
     "sha256": "e898f8cf630d55261f78173b3d6b09f9ba0e83656c7962d5ff2c8f35885f5594"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F199.png",
-    "bytes": 35458,
-    "sha256": "546f9e452116c33a62b7f562e5d76c10a762f7c5aadfb5ba14519e8b175a284c"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F199.svg",
     "bytes": 23466,
     "sha256": "751254fb07166b2db68279570ff21628a96f84a17114a08bcc85f5ecb05d5569"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F200.png",
-    "bytes": 35498,
-    "sha256": "57bdd8e0ceba1447f47952cc12e334aaf43f58d5afc1143e23e3dc6e3f3557fa"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/F200.svg",
@@ -15465,69 +13035,9 @@
     "sha256": "bdfe3bec0bee523f965b993566263a2d7a9bb6953f0aa88a036e876cfeb1199a"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/comparison-01.png",
-    "bytes": 469350,
-    "sha256": "2f39bd5657b4fc47527afe1e69cc0cdaea52c04326c2a3650470f2f6c865f377"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/comparison-02.png",
-    "bytes": 321085,
-    "sha256": "0e0280b415a1cb3998278cc948bd732736ecb9bccc4b2f6fa2acdb988fb05b29"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/comparison-03.png",
-    "bytes": 273857,
-    "sha256": "cdbdcbb544508ec6565ac48af3b74c8f1e68b63be0852473fc52c9914567145c"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/comparison-04.png",
-    "bytes": 469336,
-    "sha256": "d636e432b1b80a40301c2021c5fd0ed5bc3c45a77885594117a8c6e11436e55e"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/comparison-05.png",
-    "bytes": 630841,
-    "sha256": "080242460c67c28aa1cbf65b8f305ce32f7b0de2331d76d5753e70ab8b1f88ae"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/generate.py",
-    "bytes": 12347,
-    "sha256": "dc0afc486fa7578a63eb9e5bdf85cb207526ad2e77718b6962d7f0b9c3f60df8"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/generate_ic.py",
-    "bytes": 6326,
-    "sha256": "be83d5a11d75a2a64127760a3af00a621ed8f0c2088552f81aeda2edfee29672"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/generate_remaining.py",
-    "bytes": 5746,
-    "sha256": "353d9fd32b91cabf4c60b7255a3f0afe62ab4f2440e643dbce61a2eb4866e315"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/geometry.json",
-    "bytes": 73609,
-    "sha256": "92ef06075316df58c539c77b0f70e2c1e3c3f80eed955987834db4349e71098d"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/ledger.json",
-    "bytes": 32396,
-    "sha256": "e0e79cccddc38319d776e2576f49ff5ed8a374fae0d6f2489a9b209fdbf042d3"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/qa.json",
-    "bytes": 3993,
-    "sha256": "b64ad171a0e4c9582e2fbe1eede06e84937e08f57524b409b597750abea349de"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/reading-320px.png",
     "bytes": 69031,
     "sha256": "ded5566c4416d5c958488a88ee7434188b2a089c770b8b2899630bb0cd2ea56f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/render_all.py",
-    "bytes": 853,
-    "sha256": "e5523fc1af64d4a24b697d1c76188ca6c5e158841aeb6c6ac91b075186820e0b"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch09/source-evidence/E9-1-full-source-detail.png",
@@ -15555,29 +13065,9 @@
     "sha256": "9db679a1a58c3904c9aa500f5349ca5df8655779177e5742adf1dd7833c8bd68"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch09/validation.json",
-    "bytes": 1231,
-    "sha256": "f7a2b7c80d61cfe197af2e4cb201c29f959501223a2e56b02311efd43352e751"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/common.py",
-    "bytes": 5194,
-    "sha256": "0a9a843de77bc285f2c57a4680f199f90e27d8e03e594ce9b16e75fe8a363254"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/final-audit.json",
-    "bytes": 13285,
-    "sha256": "53055a2747dc1d12abb26a40986d4a0d9c477b9901f782005baa4a5fa1b80e18"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/layout_tools.py",
-    "bytes": 2276,
-    "sha256": "1dd21d3b0699930e13ba61b7782c1bcf232e6790cff2a2f373b9b4616605b635"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/panels.py",
-    "bytes": 1587,
-    "sha256": "192030ca7840ed61df1a227fb29f65074c456bf18c93619eda9e988a850e3d9e"
+    "path": "电路分析/10_题库/assets/chapter-redraw/README.md",
+    "bytes": 1901,
+    "sha256": "4d2839d8318a9a50e9d8dbab6ddc2b6535904a3cae2d3521a2aa925da729cf34"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/requirements.txt",
@@ -15585,74 +13075,9 @@
     "sha256": "6e6c27ef338b76e9a89d058e7dcc49254d70db320dd4275d875604983b9ae455"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/validation-logs/ch09-s8-full.log",
-    "bytes": 8283,
-    "sha256": "ecc4665bec68552360c12abfb8f830817822620147f446a788e0b68834a232f0"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/validation-logs/ch09-s8-lint.log",
-    "bytes": 4830,
-    "sha256": "9f3ea09a3845fe75a7ceed0de982c139a09f98236ac50f3d98db2a99b939a97f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/validation-logs/current-image-references-final.json",
-    "bytes": 130,
-    "sha256": "a4d9a3cd16eb0e2e96b90496626344b45c1e423999a99c974511f73f43782773"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/validation-logs/final-s2-analyze.log",
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/validation-logs/final-s2-fingerprint.log",
-    "bytes": 37,
-    "sha256": "aee3fa9f1186647b09c5c713149fbcdfcdc46fd831980549dda258a48d6a34be"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/validation-logs/final-s2-gate.log",
-    "bytes": 53,
-    "sha256": "16c4f3ffcc7a8a1c48f538e0b09f69b6175983e2fd565a125f3838c5704039d0"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/validation-logs/final-s2-render-verify.log",
-    "bytes": 35,
-    "sha256": "f0777e7fa1042a7f6365dd20d7f194ef0ef581ff225704c4ffbd2720764291fb"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/validation-logs/formal-links.json",
-    "bytes": 9174,
-    "sha256": "df324f74aa454ae02830cf51054ba78c9ef308164c240547dcb639fb26d3cd1f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/validation-logs/share-final-s2-fingerprint.log",
-    "bytes": 37,
-    "sha256": "aee3fa9f1186647b09c5c713149fbcdfcdc46fd831980549dda258a48d6a34be"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/validation-logs/share-final-s2-gate.log",
-    "bytes": 53,
-    "sha256": "16c4f3ffcc7a8a1c48f538e0b09f69b6175983e2fd565a125f3838c5704039d0"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/validation-logs/share-final-s2-render-verify.log",
-    "bytes": 35,
-    "sha256": "f0777e7fa1042a7f6365dd20d7f194ef0ef581ff225704c4ffbd2720764291fb"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/verify.py",
-    "bytes": 1938,
-    "sha256": "92479327fffa37ceb7a865853eb6978f04c54f2f576325b9b373341b704eb272"
-  },
-  {
     "path": "电路分析/10_题库/assets/redraw-batch01/B19-source-native.png",
     "bytes": 516355,
     "sha256": "accd09ee785fce10fc357f66dcdd9941c82a6b5dc001bb5c09452bf1a9e37f49"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/B19.png",
-    "bytes": 90718,
-    "sha256": "c865d49b2e33012747f3f46fce4f213046ebc574eb202355a69ffa93f487e7d2"
   },
   {
     "path": "电路分析/10_题库/assets/redraw-batch01/B19.svg",
@@ -15663,11 +13088,6 @@
     "path": "电路分析/10_题库/assets/redraw-batch01/B20-source-native.png",
     "bytes": 176908,
     "sha256": "2095601690d672f374b6bf4a9286bcecf47dee0e3143837b8dc30a643c1c5157"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/B20.png",
-    "bytes": 44115,
-    "sha256": "b1359d53e20cecc97d4e036a1d90ad1d45e4a3d33c3ca34563a6a14cb27ca47b"
   },
   {
     "path": "电路分析/10_题库/assets/redraw-batch01/B20.svg",
@@ -15685,11 +13105,6 @@
     "sha256": "f99b0b3bf34cfb8731a1daf0a0b9d7c5e76603a59b4d445904d203c25632fcf0"
   },
   {
-    "path": "电路分析/10_题库/assets/redraw-batch01/B21.png",
-    "bytes": 40653,
-    "sha256": "d2878d1b98bd9768df1fa6aafc6c828c65607030e960a90470631427d431e4d2"
-  },
-  {
     "path": "电路分析/10_题库/assets/redraw-batch01/B21.svg",
     "bytes": 26379,
     "sha256": "1c7c0ec59b80d7b58d5b035bba31bb2a19ecff31535e058046b67962fa534038"
@@ -15698,11 +13113,6 @@
     "path": "电路分析/10_题库/assets/redraw-batch01/C12-source-native.png",
     "bytes": 180346,
     "sha256": "0048805fc7de1743bbfeed93a2cce0456961e983e16dafc9a498d22fa6b422c5"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/C12.png",
-    "bytes": 32502,
-    "sha256": "87526f43d1218f71418379b18dab08c6c4c1be7f1592a664c5312378f48cccdf"
   },
   {
     "path": "电路分析/10_题库/assets/redraw-batch01/C12.svg",
@@ -15715,11 +13125,6 @@
     "sha256": "52385aabf45c1f6b28873e134a08d7c8313e34eac123e7bfe46c8a79a4940e28"
   },
   {
-    "path": "电路分析/10_题库/assets/redraw-batch01/C13.png",
-    "bytes": 37958,
-    "sha256": "e067327cfebfe90414b23fb1e305434c852e10767b20bb0cf60f73e368a0f0b3"
-  },
-  {
     "path": "电路分析/10_题库/assets/redraw-batch01/C13.svg",
     "bytes": 18681,
     "sha256": "1362f932371a26ee7fb4a9dc33184e77da44d638e13f1cea4ea250e2e6e19456"
@@ -15728,11 +13133,6 @@
     "path": "电路分析/10_题库/assets/redraw-batch01/C14-source-native.png",
     "bytes": 206535,
     "sha256": "8f02a832355ff4ace1a4bc06bb8f61cf4ef5823006d195a29c7c59bcbddfcc6e"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/C14.png",
-    "bytes": 31547,
-    "sha256": "62cfbb735780717677756b99b50a4af52d8934294db7167ccf5f6b17888137ee"
   },
   {
     "path": "电路分析/10_题库/assets/redraw-batch01/C14.svg",
@@ -15745,11 +13145,6 @@
     "sha256": "8fe00e6f91f7b24e522da0088fbfdbb60fa7735ab501852c89b636860635641d"
   },
   {
-    "path": "电路分析/10_题库/assets/redraw-batch01/C15.png",
-    "bytes": 34895,
-    "sha256": "c76ab6038146050bbfde9b9da67d14f6e2936ffcd00583b585dcba75a1066708"
-  },
-  {
     "path": "电路分析/10_题库/assets/redraw-batch01/C15.svg",
     "bytes": 16072,
     "sha256": "a264b38334d1cd6e2b3797f235e0b92093b195879d04d93cd7ccdfb51425970e"
@@ -15758,11 +13153,6 @@
     "path": "电路分析/10_题库/assets/redraw-batch01/C2-source-native.png",
     "bytes": 284990,
     "sha256": "319e8342155c28c500d093de6009d197c3cf64c26eb900e98bfaa74fd030baf2"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/C2.png",
-    "bytes": 29222,
-    "sha256": "fd2842de975df9f823f14e01713b960710216e6ce323991e94d82f65ef047251"
   },
   {
     "path": "电路分析/10_题库/assets/redraw-batch01/C2.svg",
@@ -15775,11 +13165,6 @@
     "sha256": "79a5de52437ef5936918f654fb703609bce4754ac94d5d7f0ac036b01a49f232"
   },
   {
-    "path": "电路分析/10_题库/assets/redraw-batch01/C5.png",
-    "bytes": 58280,
-    "sha256": "35af67b8e261af0424aa41f8274dd3996df9c3494ddb4cb6415b62a768be0d79"
-  },
-  {
     "path": "电路分析/10_题库/assets/redraw-batch01/C5.svg",
     "bytes": 19894,
     "sha256": "34bac2ec2f518c222e0d706b3cc4cc9c439e9f94d24dcbd7e0f310ccde786268"
@@ -15790,54 +13175,9 @@
     "sha256": "a58fb3a960e7230613d525d9d32f6cb764694e385069063ca3e0238e16f195c5"
   },
   {
-    "path": "电路分析/10_题库/assets/redraw-batch01/C9.png",
-    "bytes": 47807,
-    "sha256": "d0c39c6a23002c726269a9a72ebd380feb9c74565645580d9f46bf5a412c2288"
-  },
-  {
     "path": "电路分析/10_题库/assets/redraw-batch01/C9.svg",
     "bytes": 20375,
     "sha256": "3fea4e17fe7d2e770f670c09bbfacf3b50bd96682343f78ccda3150b3013782a"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/assemble.py",
-    "bytes": 3713,
-    "sha256": "418deb47902a4f733036b36a444c910d1c118858ad526b29c75073348f8c1ec7"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/comparison-01.png",
-    "bytes": 244017,
-    "sha256": "6a80953e6c752f7f4be41615ca27ab5d8e2d254ad11a6b0bf945ec1173514b2e"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/comparison-02.png",
-    "bytes": 239315,
-    "sha256": "51295938b9a41056aae287141cc25c3f1d5a032f18887194d3a348de0848ed00"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/comparison-03.png",
-    "bytes": 182366,
-    "sha256": "bc6982d2421c80d56e226a0a29056e8cde4769ab7a1a4ef7e0076884bc9154a9"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/comparison-04.png",
-    "bytes": 306251,
-    "sha256": "d47dbdb4dfd3f68a9292b2ed44a75e2dbd521149488de09a6c2e6b44f5ee4ceb"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/comparison-05.png",
-    "bytes": 228109,
-    "sha256": "5b99eaa42baff05d17223d0c2c949e7d76e5123ebfeb4cac98e773879666b540"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/geometry.json",
-    "bytes": 21189,
-    "sha256": "cedf6de075d2d6a4765f9319f2e6d9c4bcc994694f053feeda93b0dff0f2d413"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/ledger.json",
-    "bytes": 26496,
-    "sha256": "273aae0c5a0e9d3bd0cf8bfe4273275d8b72379cb1bc018f6ab57f16e59b3c2b"
   },
   {
     "path": "电路分析/10_题库/assets/redraw-batch01/reading-320px.png",
@@ -15845,24 +13185,9 @@
     "sha256": "a1a8a30d1b7f3d4ce7f91e295e434a3215d6721f82345309b832a4cdd9ef0593"
   },
   {
-    "path": "电路分析/10_题库/assets/redraw-batch01/render.py",
-    "bytes": 10999,
-    "sha256": "af0d378880ffe7b9e4ea56c20e508597ea7f43ba51e30773d1ee9395a821ced8"
-  },
-  {
     "path": "电路分析/10_题库/assets/redraw-batch01/small-reading.png",
     "bytes": 184718,
     "sha256": "51b96b35341d0cdd9f9d460d71f270ea25a2024db7bede5335e5d9c6a1ad8b5f"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/validation.json",
-    "bytes": 1565,
-    "sha256": "b29a43b2d4d12ffcc00ffd246efb2daa4ea41d18f345959e553caeae9aefeab4"
-  },
-  {
-    "path": "电路分析/10_题库/assets/redraw-batch01/verify_batch.py",
-    "bytes": 1860,
-    "sha256": "e034e0a0c461b297ecbdaa2c2bd702fc0694125cefab21be67548f1cb85753f8"
   },
   {
     "path": "电路分析/10_题库/assets/s9_answer_evidence/E8-3_answer_p279.png",
@@ -15873,11 +13198,6 @@
     "path": "电路分析/10_题库/assets/s9_answer_evidence/E8-3_source_p278.png",
     "bytes": 559061,
     "sha256": "8febf3e69c7cc1fe99f6d8834dd7f65ca0b52247318641876e9d8df53fa2d1b3"
-  },
-  {
-    "path": "电路分析/10_题库/assets/simulation/intake-ledger.json",
-    "bytes": 5152,
-    "sha256": "6ca29d83d28fcde2f3ef0eca032896ba16835f03355c1acd0b03b8cd571858a3"
   },
   {
     "path": "电路分析/10_题库/assets/simulation/sim-1-cbe0f96f836b.png",
@@ -16165,24 +13485,14 @@
     "sha256": "10d75e8a1bfab4c9d9bcd9a00b36db08a399738ae4f8d2d9ca1131bae2f71389"
   },
   {
-    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/redraw-ledger.json",
-    "bytes": 27052,
-    "sha256": "34a34c87dbb175fe0846c7ac9daf453a029be84bc1ccc9af8c0c41dad4b7bcfe"
-  },
-  {
-    "path": "电路分析/10_题库/assets/电子线路期末复习/redrawn/重绘核对记录.md",
-    "bytes": 898,
-    "sha256": "b8615ec2d58d558b48b4a7df610963fbed8cc1ce5c98a3a5eb4b46d525a9f923"
-  },
-  {
     "path": "电路分析/10_题库/assets/电子线路期末复习/source.pdf",
     "bytes": 9849758,
     "sha256": "163e41f39e8da610b91858c4f05e27a7b1bd7bed66c3ed8d890cc7aae55f42b8"
   },
   {
-    "path": "电路分析/10_题库/assets/电子线路期末复习/strict-verification-20261106.json",
-    "bytes": 1754,
-    "sha256": "3b57a0cfc62845d8baab412a0ec14990145035fb4f50384d9356166e69883dd6"
+    "path": "电路分析/10_题库/README.md",
+    "bytes": 927,
+    "sha256": "4819239ece41a9da76c92a28ab8da8bc60d8c5be3cd57bc58728d83c33846e1d"
   },
   {
     "path": "电路分析/10_题库/仿真作业1_题面整理.md",
@@ -16211,8 +13521,8 @@
   },
   {
     "path": "电路分析/10_题库/仿真作业入库说明.md",
-    "bytes": 3918,
-    "sha256": "60281d7250d59288df92b924b33994ec50dd3bffb7e51ca51ccd749c8eafbdde"
+    "bytes": 3905,
+    "sha256": "64f4110ec1b5b80ec682e2174823c418ab8be0f89fd2c37e534c403af17fe250"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2015-2016模拟电路期末A_5-9章题面整理.md",
@@ -17386,23 +14696,23 @@
   },
   {
     "path": "电路分析/10_题库/电子线路期末复习_复习要求与来源.md",
-    "bytes": 12604,
-    "sha256": "9fbad890a04596c723192809f42b9ca0d672ac97756a1546bb9c680b4bf4dbed"
+    "bytes": 12562,
+    "sha256": "969f4ef65737069e0b54ab2f96207323f5248e078dbca13d6ed2866e4922d299"
   },
   {
     "path": "电路分析/10_题库/电子线路期末复习_电路图重绘说明.md",
-    "bytes": 9051,
-    "sha256": "aa3d62a7ed089d3e947d4ea1524225296b825a85dd7361d54b7acf28c07e02a7"
+    "bytes": 9038,
+    "sha256": "d759b0d431573e0cb5f1c8eeda7c4fd3da69c78a033033c10217d2dd07e3e920"
   },
   {
     "path": "电路分析/10_题库/电子线路期末复习_题面整理.md",
-    "bytes": 20938,
-    "sha256": "41f6968c79c8ef16f7fe411aa285629535b0070023f1eaa52695af87a590b78d"
+    "bytes": 20795,
+    "sha256": "f8559f767102960bb4df40fe181b13d8d1237d89f55008f3bc4fed2cb820b15b"
   },
   {
     "path": "电路分析/10_题库/第5章课后习题_覆盖核查.md",
-    "bytes": 5957,
-    "sha256": "19faf31cc5aaaf40a9b48eba71163a2437c0f640dc4b30452a0de89f34fc57ab"
+    "bytes": 5928,
+    "sha256": "8642fb9b2d6f6ef0b76b7bacdda0fc39e8b7680b810e3f0b5e9b200b7c750617"
   },
   {
     "path": "电路分析/10_题库/第5章课后习题_题面整理.md",
@@ -17428,11 +14738,6 @@
     "path": "电路分析/10_题库/第9章课后习题_题面整理.md",
     "bytes": 29264,
     "sha256": "0403f62c36d5e76d888637fc8f2d1408fc842c444ae7b89af3e92ec76a24cb87"
-  },
-  {
-    "path": "电路分析/10_题库/首批10张重绘图_核验报告.md",
-    "bytes": 7188,
-    "sha256": "be94dc9067b6cad16ef70d36b463d6c9599ed9892572aa8a57b6dfc34f42e197"
   },
   {
     "path": "电路分析/20_知识/README.md",
@@ -17631,63 +14936,8 @@
   },
   {
     "path": "电路分析/40_派生视图/逐章图像重绘/全科重绘进度与待确认.md",
-    "bytes": 3316,
-    "sha256": "53e0cea0ff83a194d5acb524db1a0bc5b3cf4831645fae2681e025dd7d4fca34"
-  },
-  {
-    "path": "电路分析/40_派生视图/逐章图像重绘/第03章_排版复核.md",
-    "bytes": 594,
-    "sha256": "194af3db44c5ecd28f2c6b2213695e7c6f59a9ef94a8fb3312388178500521c4"
-  },
-  {
-    "path": "电路分析/40_派生视图/逐章图像重绘/第03章_核验报告.md",
-    "bytes": 1461,
-    "sha256": "594ec930e6e56b17670b8b0119a8860f675a42ce7fd8dc514f5656202728e86f"
-  },
-  {
-    "path": "电路分析/40_派生视图/逐章图像重绘/第05章_排版复核.md",
-    "bytes": 2987,
-    "sha256": "7f3ba14489743ebf679482a7e1d2d542260d4b245cc4c9abcb51b2cf7b2f6287"
-  },
-  {
-    "path": "电路分析/40_派生视图/逐章图像重绘/第05章_核验报告.md",
-    "bytes": 4854,
-    "sha256": "2e7d198f34f8a11b9e3ea52c9307200d7c9de3f002649413509b7b8c0b100793"
-  },
-  {
-    "path": "电路分析/40_派生视图/逐章图像重绘/第06章_排版复核.md",
-    "bytes": 6177,
-    "sha256": "c5910e6da10129071d765940abeb9ca86df82fd35525003378279ae7e7b1e780"
-  },
-  {
-    "path": "电路分析/40_派生视图/逐章图像重绘/第06章_核验报告.md",
-    "bytes": 13627,
-    "sha256": "80b2dfc22276516c6f78064625b9e4db9bb42d11921713d06078468c8184b0d4"
-  },
-  {
-    "path": "电路分析/40_派生视图/逐章图像重绘/第07章_核验报告.md",
-    "bytes": 13794,
-    "sha256": "314f286848f7ee815138e734d48d03a8178e469311f3a0fed49f6b49eaff879c"
-  },
-  {
-    "path": "电路分析/40_派生视图/逐章图像重绘/第08章_核验报告.md",
-    "bytes": 4855,
-    "sha256": "fbce54052d575dd36cdde5fab482380363a64a99b987396cba167ff3c7715f55"
-  },
-  {
-    "path": "电路分析/40_派生视图/逐章图像重绘/第09章_核验报告.md",
-    "bytes": 6214,
-    "sha256": "ce6bb9a807f2148da5b3c8db0443f95626b7ca53ec50c2e8d6b86c6a77125b50"
-  },
-  {
-    "path": "电路分析/90_缓存/closure-20261106-followup/validation-summary.json",
-    "bytes": 1845,
-    "sha256": "4633d583e915c6c74b6ba306a3b2c2cc155acbf3fde01e85363628c98c506462"
-  },
-  {
-    "path": "电路分析/90_缓存/closure-20261106/validation-summary.json",
-    "bytes": 1865,
-    "sha256": "ed24753cc89fe09cf19c9fe8697b20fceb3c400b46b891adfb0719b27dd14128"
+    "bytes": 3279,
+    "sha256": "ed7c2c7ebe2ad193c5ff69b3bb2569abed62aaadd9601b9b1a306ad571cfc6d6"
   },
   {
     "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/01c695fa3fbad29fabbe499e9643ae21cf8d50d186d24f9fa5c7a7a9e36475f5.jpg",
@@ -17798,11 +15048,6 @@
     "path": "电路分析/90_缓存/s1-ch5-20261106/source-lineage.json",
     "bytes": 3587,
     "sha256": "085f228c7e6af73d7ab2ee439d7e3ddc06dcf59991122cfc9f7adcdfa42dbdbd"
-  },
-  {
-    "path": "电路分析/90_缓存/s1-ch5-20261106/validation-summary.json",
-    "bytes": 1700,
-    "sha256": "ae0289fce60b14696f55680fbaa451cef3b3e7a2130eab9e1efa5c4d1263dc47"
   },
   {
     "path": "电路分析/90_缓存/s1-ch5-20261106/扫描件_电路与模拟电子技术(1)_p168-183.pdf",

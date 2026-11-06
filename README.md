@@ -31,7 +31,9 @@ git lfs pull
 
 本仓库是原工作区的独立分享副本。保留课件、题面、题解、讲解、索引，以及文档实际引用的资源；`90_缓存` 中被引用的文件继续保留，不能整目录删除。没有复制个人学习事件、做题记录、收件箱截图、学生状态快照和无引用的运行环境、压缩包、转换中间件。
 
-[导出清单](export-manifest.json)记录文件大小和 SHA-256；[导出审计](export-audit.json)记录依赖保留与旧路径修复。整理没有改写原工作区。
+[导出清单](export-manifest.json)记录发布文件大小与 SHA-256。导出审计留在发布工作区；核验、审计、对比渲染产物与课程处理脚本不发布。同名 PNG/PDF 已有 SVG 时只发布 SVG，并修正阅读文档中的引用。
+
+发布筛选规则在 [publish_policy.py](tools/publish_policy.py)，[导出脚本](tools/export_year1.py)与本地 `D:/FuckTheClass-publish/export_year1.py` 同步。
 
 ## 来源与勘误
 

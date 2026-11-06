@@ -6,7 +6,7 @@
 
 本章审查100个图片资产、100处引用。定性图未给出的尺寸/角度/比例不是测量数据。复用图不重复计为独立新图。
 
-[生成代码](../../../../10_%E9%A2%98%E5%BA%93/_assets/%E4%B8%8A%E5%86%8C%E9%80%90%E7%AB%A0/02_%E5%8A%A8%E5%8A%9B%E5%AD%A6%E4%B8%8E%E5%AE%88%E6%81%92/generate.py) · [映射与逐项核验](../../../../10_%E9%A2%98%E5%BA%93/_assets/%E4%B8%8A%E5%86%8C%E9%80%90%E7%AB%A0/02_%E5%8A%A8%E5%8A%9B%E5%AD%A6%E4%B8%8E%E5%AE%88%E6%81%92/mapping.json) · [校验记录](validation.json)
+生成代码（过程产物未发布） · [映射与逐项核验](../../../../10_%E9%A2%98%E5%BA%93/_assets/%E4%B8%8A%E5%86%8C%E9%80%90%E7%AB%A0/02_%E5%8A%A8%E5%8A%9B%E5%AD%A6%E4%B8%8E%E5%AE%88%E6%81%92/mapping.json) · 校验记录（过程产物未发布）
 
 |编号|题号|原图|来源PDF页|处理|核验|
 |---|---|---|---|---|---|
@@ -143,29 +143,29 @@
 
 ## 前后对照
 
-![comparison-01](comparison-01.png)
 
-![comparison-02](comparison-02.png)
 
-![comparison-03](comparison-03.png)
 
-![comparison-04](comparison-04.png)
 
-![comparison-05](comparison-05.png)
 
-![comparison-06](comparison-06.png)
 
-![comparison-07](comparison-07.png)
 
-![comparison-08](comparison-08.png)
 
-![comparison-09](comparison-09.png)
 
-![comparison-10](comparison-10.png)
 
-![comparison-11](comparison-11.png)
 
-![comparison-12](comparison-12.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 缩小黑白阅读
 

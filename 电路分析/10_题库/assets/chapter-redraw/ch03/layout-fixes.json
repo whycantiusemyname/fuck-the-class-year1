@@ -1,6 +1,0 @@
-{
-  "F001": [
-    {"text":"$+$","from":[-0.25,3.55],"to":[-0.7,3.55],"reason":"Separate source polarity from the circular symbol."},
-    {"text":"$-$","from":[-0.25,2.45],"to":[-0.7,2.45],"reason":"Separate source polarity from the circular symbol."}
-  ]
-}
