@@ -1,8 +1,8 @@
 [
   {
     "path": ".gitattributes",
-    "bytes": 243,
-    "sha256": "b28ecbd38f7799fe3c309b33a48a827822ce887f98ebddb30b5b67b25c8b2347"
+    "bytes": 618,
+    "sha256": "31e27ac40f25415dcedf5b8f521022224e1bca852b83654e292fd7ab51f5f527"
   },
   {
     "path": ".gitignore",
@@ -11,8 +11,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 3738,
-    "sha256": "f70bef4f066b19d64e2d16161370de91841658536dd70972c058a0a814ab0110"
+    "bytes": 5321,
+    "sha256": "082655b7f6c4ceda9a12e8c8031cdc21cd9cf2fbba26c9a347674ff581c4bd24"
   },
   {
     "path": "tools/export_year1.py",
@@ -23,6 +23,216 @@
     "path": "tools/publish_policy.py",
     "bytes": 7463,
     "sha256": "1bd24440a4de48adcf18e09d14692f6924be4b30c44053d837e23b9315c0c3bd"
+  },
+  {
+    "path": "信号与系统/.gitattributes",
+    "bytes": 208,
+    "sha256": "5d3366c31f1c5a90dd70a121e004ee8774c29e87f91ba9dbae7cb9312ce23f4d"
+  },
+  {
+    "path": "信号与系统/00_原材料/信号与系统_第二版_第1册_PDF第1-314页.pdf",
+    "bytes": 303793317,
+    "sha256": "f70d2574a11728df2ffcd7fe3f62f18d7b22bfc348e5a4ca03f735914216ff26"
+  },
+  {
+    "path": "信号与系统/00_原材料/信号与系统_第二版_第2册_PDF第315-628页.pdf",
+    "bytes": 167564146,
+    "sha256": "f4f58c585fe3ac4dd6744293c2498765e2efecdbd7fa4bfa74a1cdb7080e5b42"
+  },
+  {
+    "path": "信号与系统/10_题库/README.md",
+    "bytes": 918,
+    "sha256": "02bc9f797cf0b50cffd7388ea51e60feb27e9c888e87b3d3d080153bc5dccc68"
+  },
+  {
+    "path": "信号与系统/10_题库/_标签库.md",
+    "bytes": 1576,
+    "sha256": "04b4aae0b8fdeab70971be5a18f44993eae289f1318f06b4909163f11177f9e2"
+  },
+  {
+    "path": "信号与系统/10_题库/教材第1章基本题_1.1-1.11题面整理.md",
+    "bytes": 14751,
+    "sha256": "51e7fc4c47007cd32ca97d72039105b69f6cba814ca555d331179e21ae0bcda8"
+  },
+  {
+    "path": "信号与系统/20_知识/README.md",
+    "bytes": 4825,
+    "sha256": "fd5422b3b29d18f62c29f1f7052c6390bebd7c1f0f60f162dba5448b87fd1466"
+  },
+  {
+    "path": "信号与系统/20_知识/S10启动卡/第01章_信号与系统_S10启动卡.md",
+    "bytes": 2008,
+    "sha256": "21363d586594f76884c96bb3be4d2ac3457a7379ac808d64c3c08eec966e9cf3"
+  },
+  {
+    "path": "信号与系统/20_知识/S10启动卡/第02章_线性时不变系统_S10启动卡.md",
+    "bytes": 1779,
+    "sha256": "b562379422c9f0c1ac69adeebd0bdc7a13d5be10cd3d0828075fd3dca1e05929"
+  },
+  {
+    "path": "信号与系统/20_知识/S10启动卡/第03章_周期信号的傅里叶级数表示_S10启动卡.md",
+    "bytes": 1716,
+    "sha256": "26ce8132303e47e9857a00a10987d34d7f832541e1fc801214266bcdba9e0b1a"
+  },
+  {
+    "path": "信号与系统/20_知识/S10启动卡/第04章_连续时间傅里叶变换_S10启动卡.md",
+    "bytes": 1655,
+    "sha256": "a5f5fb4debb95e0b53c23389f80c048ef295f0a4df3613efaf3b1db5a387db7d"
+  },
+  {
+    "path": "信号与系统/20_知识/S10启动卡/第05章_离散时间傅里叶变换_S10启动卡.md",
+    "bytes": 1688,
+    "sha256": "843e8e4e9ed144db51b5bbd83cb14794c9a38bd47e7042a0eeb5eb0fb01d8c5c"
+  },
+  {
+    "path": "信号与系统/20_知识/S10启动卡/第06章_信号与系统的时域和频域特性_S10启动卡.md",
+    "bytes": 1865,
+    "sha256": "96db3d555f11f47d6899029741107048144b79a183af3c04cc96f330f01f813f"
+  },
+  {
+    "path": "信号与系统/20_知识/S10启动卡/第07章_采样_S10启动卡.md",
+    "bytes": 1691,
+    "sha256": "fc79d90eab77c08ac9958ad46d770dc383941fc97c7f4be82a8fbf8f901abd5b"
+  },
+  {
+    "path": "信号与系统/20_知识/S10启动卡/第08章_通信系统_S10启动卡.md",
+    "bytes": 1753,
+    "sha256": "b9c151f9a83cc427b0b177313deb050037278d96983efd03918e2cab85589aa1"
+  },
+  {
+    "path": "信号与系统/20_知识/S10启动卡/第09章_拉普拉斯变换_S10启动卡.md",
+    "bytes": 1618,
+    "sha256": "4b267ef19b40c60a24c3b36c48cf798ff36dd1e684a1f339aca7362a91510b9b"
+  },
+  {
+    "path": "信号与系统/20_知识/S10启动卡/第10章_z变换_S10启动卡.md",
+    "bytes": 1597,
+    "sha256": "802b9dd9fc8cd4fb9c4e8c708ae328aa0c50e20b20c028120e6479dc3c586d7f"
+  },
+  {
+    "path": "信号与系统/20_知识/S10启动卡/第11章_线性反馈系统_S10启动卡.md",
+    "bytes": 1711,
+    "sha256": "469f6699c16374eedaaaae95764ef8a4e88c32491fcc1621d4bcaf97cf6090ce"
+  },
+  {
+    "path": "信号与系统/20_知识/grounding/第01章_信号与系统_grounding.md",
+    "bytes": 3012,
+    "sha256": "241c36811e6e42df163007fe1cc0990b0e0b4344c2d98db41ad2b798f3449fae"
+  },
+  {
+    "path": "信号与系统/20_知识/grounding/第02章_线性时不变系统_grounding.md",
+    "bytes": 2546,
+    "sha256": "adb591f84dc45595f68e39a7cebfd754532383cfc3e47eeeba473aae13e3ca75"
+  },
+  {
+    "path": "信号与系统/20_知识/grounding/第03章_周期信号的傅里叶级数表示_grounding.md",
+    "bytes": 2431,
+    "sha256": "6a14969a7100a3ff24a9486514c58a94abb35e495ae766b659bbc1c41aad74c0"
+  },
+  {
+    "path": "信号与系统/20_知识/grounding/第04章_连续时间傅里叶变换_grounding.md",
+    "bytes": 2413,
+    "sha256": "997f8bebc8a2cd2090c89e7a96f20ecccb0a9c6ad5bc3cc89b099e8440c5d2df"
+  },
+  {
+    "path": "信号与系统/20_知识/grounding/第05章_离散时间傅里叶变换_grounding.md",
+    "bytes": 2403,
+    "sha256": "d3e09aebe833fcef1c21bd8fa5f54aedc89aafc192a52c0d494c0359cf139d69"
+  },
+  {
+    "path": "信号与系统/20_知识/grounding/第06章_信号与系统的时域和频域特性_grounding.md",
+    "bytes": 2773,
+    "sha256": "208ba76b7799f742e7cbcb954e1a3bd7cf1f15c7755ce31c5a2521f933ca5929"
+  },
+  {
+    "path": "信号与系统/20_知识/grounding/第07章_采样_grounding.md",
+    "bytes": 2430,
+    "sha256": "2d3f115da77fec2d23730388bb15981cfca9beae9d86256a116e5c2862fe57c2"
+  },
+  {
+    "path": "信号与系统/20_知识/grounding/第08章_通信系统_grounding.md",
+    "bytes": 2390,
+    "sha256": "b1859494f80435c792be3edaa41865a6e1749c52b20f742c92582e4c8df75cc7"
+  },
+  {
+    "path": "信号与系统/20_知识/grounding/第09章_拉普拉斯变换_grounding.md",
+    "bytes": 2526,
+    "sha256": "8451c9d538d1127998d57d619da24c3abe629beefb6f6eefed64f9be2e14b20d"
+  },
+  {
+    "path": "信号与系统/20_知识/grounding/第10章_z变换_grounding.md",
+    "bytes": 2295,
+    "sha256": "80074fb8d1868a812d1ef45d31a7823760076ce44c9d5822dfdf7660f47a5de7"
+  },
+  {
+    "path": "信号与系统/20_知识/grounding/第11章_线性反馈系统_grounding.md",
+    "bytes": 2471,
+    "sha256": "e474e67b42c763377c4a855cb452fffe4a46585885f7e3f78e87189a21ae670f"
+  },
+  {
+    "path": "信号与系统/20_知识/主干讲解/第01章_信号与系统_主干讲解.md",
+    "bytes": 10051,
+    "sha256": "335243e010a79e7e5505560d6d14718e223571f4f54d5ff633e58067e47f0f53"
+  },
+  {
+    "path": "信号与系统/20_知识/主干讲解/第02章_线性时不变系统_主干讲解.md",
+    "bytes": 9989,
+    "sha256": "66d9bcf3cb53fca10f2fd31bf7d16754c907e38e7d4729ee95c6aa9917dd7c72"
+  },
+  {
+    "path": "信号与系统/20_知识/主干讲解/第03章_周期信号的傅里叶级数表示_主干讲解.md",
+    "bytes": 10002,
+    "sha256": "9dbca4fb2a6bb2350dadddb92e03a8845f1c03c6892deedcae93750355a673d6"
+  },
+  {
+    "path": "信号与系统/20_知识/主干讲解/第04章_连续时间傅里叶变换_主干讲解.md",
+    "bytes": 10540,
+    "sha256": "bea175d6a57b8712889802f442a28b994dc9d93da551ad12e174bd11c18ab6eb"
+  },
+  {
+    "path": "信号与系统/20_知识/主干讲解/第05章_离散时间傅里叶变换_主干讲解.md",
+    "bytes": 11764,
+    "sha256": "4136f30d8fb10b8f51aaef6f2663e425471cee60340203a294c5a6b7d4d8bd5f"
+  },
+  {
+    "path": "信号与系统/20_知识/主干讲解/第06章_信号与系统的时域和频域特性_主干讲解.md",
+    "bytes": 10417,
+    "sha256": "06497070207a00518d55fa20746feb8aa294e239dea88fb82c42f1652bf490b8"
+  },
+  {
+    "path": "信号与系统/20_知识/主干讲解/第07章_采样_主干讲解.md",
+    "bytes": 10102,
+    "sha256": "61d7af374225029443f93fc6df320a5307e0a8d86852e5cbcc1a82ba95cd1863"
+  },
+  {
+    "path": "信号与系统/20_知识/主干讲解/第08章_通信系统_主干讲解.md",
+    "bytes": 12086,
+    "sha256": "6e08b21406a396f6e9aae6b430c14fec10d71922c227ac82499a5f8d13debaab"
+  },
+  {
+    "path": "信号与系统/20_知识/主干讲解/第09章_拉普拉斯变换_主干讲解.md",
+    "bytes": 11715,
+    "sha256": "fee00f5841b3b64751b3b7ffa855cd84502bcfd66e6db189c4a9b511ed31f2ac"
+  },
+  {
+    "path": "信号与系统/20_知识/主干讲解/第10章_z变换_主干讲解.md",
+    "bytes": 10254,
+    "sha256": "fb1565da7145c5829995085eea55182a64741a93f6269142fcde63141b976414"
+  },
+  {
+    "path": "信号与系统/20_知识/主干讲解/第11章_线性反馈系统_主干讲解.md",
+    "bytes": 10498,
+    "sha256": "3fbe00b995a184c956cd654ce185a5cf57eaa7555355085fd05817b4b2f0dab6"
+  },
+  {
+    "path": "信号与系统/README.md",
+    "bytes": 878,
+    "sha256": "957d43d8defe44303de86c3b80f8aaf6308ed919ec6dd5decc35e9971ac6d788"
+  },
+  {
+    "path": "信号与系统/课程口径.md",
+    "bytes": 365,
+    "sha256": "c5b6d2f16fe6e060b271ce9fda5c501beaa42ab195f694a6c9cebf2060c6d9a2"
   },
   {
     "path": "微积分/00_原材料/Apr10th.pdf",
@@ -276,23 +486,23 @@
   },
   {
     "path": "微积分/10_题库/2015-2016期中_题面整理.md",
-    "bytes": 18301,
-    "sha256": "655097c9e14b183b8cbe41dc475d04548fa25da8c9749c35484fad2d4ff882c6"
+    "bytes": 19052,
+    "sha256": "9835ca5a757e916bc5aa08ba2b67303953ab6cde949ba63276eb6aabf8188e9a"
   },
   {
     "path": "微积分/10_题库/2015-2016期末_题面整理.md",
-    "bytes": 20141,
-    "sha256": "6ee9ba939a5ebe7f85baeca5682ca4c9d6291791c09b83f491de1b6ffbf59655"
+    "bytes": 21472,
+    "sha256": "3e68438a40d657a8ae717136009ffcbdb321538913d7292af699234b48d7906f"
   },
   {
     "path": "微积分/10_题库/2016-2017期中_题面整理.md",
-    "bytes": 17572,
-    "sha256": "7c1fb6de7bc83aadee1d41b3d4028f73861910ca5e0a5f0c377057c944765fe2"
+    "bytes": 18504,
+    "sha256": "fde544e201100cdc36b4df6b86e9035b586eb3533d3ec5563174b0d7bf17b64d"
   },
   {
     "path": "微积分/10_题库/2016-2017期末_题面整理.md",
-    "bytes": 19433,
-    "sha256": "7ea32dab81526839453796cbfec3b05a1f7a05d202693545c993272bc9aab433"
+    "bytes": 20601,
+    "sha256": "1f63c827a9db4e7fc2d6d237f07bc5fe5eb00ccac9a2a74451e7bcf6b3e73066"
   },
   {
     "path": "微积分/10_题库/2018-2019期中_题面整理.md",
@@ -311,8 +521,8 @@
   },
   {
     "path": "微积分/10_题库/2020-2021期中_题面整理.md",
-    "bytes": 19962,
-    "sha256": "c34a0a10d45a6658c25c2cd8d8ac93c5df6d99fd9b0d5415f1909349c9bb2bee"
+    "bytes": 20327,
+    "sha256": "8684ff39ed85873ee29e25f1a68c14221ca2015853fa78eba754dc48146a32b3"
   },
   {
     "path": "微积分/10_题库/2020-2021期末_题面整理.md",
@@ -346,8 +556,8 @@
   },
   {
     "path": "微积分/10_题库/_标签库.md",
-    "bytes": 9723,
-    "sha256": "903baa2fa4f56da69417b2390eb9f24cbfa15e46930caa7cd49cfd11353f956e"
+    "bytes": 9726,
+    "sha256": "2def108baf463590a2e75c0a23cca6157814fabbfaa69b20d7c48f7e9dc8bccc"
   },
   {
     "path": "微积分/10_题库/images/0158d11bc3684ccac4f5bc5941362dba6d595c561a466ac540601af12e29e26c.jpg",
@@ -646,8 +856,13 @@
   },
   {
     "path": "微积分/40_派生视图/主题题表.md",
-    "bytes": 17628,
-    "sha256": "554209483e8ad4cc6a9fb28331f42f47f14871e2e74a21875a38826a7972c836"
+    "bytes": 26880,
+    "sha256": "0bcdfba78b888d4c095704c707381c2382db07df638b720870cd0f38ee7fae41"
+  },
+  {
+    "path": "微积分/40_派生视图/期末刷题清单覆盖报告.md",
+    "bytes": 46115,
+    "sha256": "ab8e1afcc8c2bf336016437c4f3de2db94d4ee9a45cdb95a1b1322b064fefec1"
   },
   {
     "path": "微积分/40_派生视图/模拟卷.md",
@@ -656,13 +871,13 @@
   },
   {
     "path": "微积分/40_派生视图/考频矩阵.md",
-    "bytes": 80230,
-    "sha256": "170915d3be3dbcc082433bc4ea20c601a2d211f4866641b47365c1c717852052"
+    "bytes": 84899,
+    "sha256": "5559092ebd9b961db74f8eb93c7895fb0af429d1a78852c490b4379996389cca"
   },
   {
     "path": "微积分/40_派生视图/解答复核_20261106/README.md",
-    "bytes": 6929,
-    "sha256": "86203b1bf2b3969ab07fd7b82eb645c993c71c57dbc4a0f5602d0d0243d3475e"
+    "bytes": 7403,
+    "sha256": "4bb56d38fa66768ba104811b74c23bf8285f72869abc62cc0f890fa6d950d097"
   },
   {
     "path": "微积分/40_派生视图/解答复核_20261106/参考来源.json",
@@ -671,13 +886,18 @@
   },
   {
     "path": "微积分/40_派生视图/解答完成索引.md",
-    "bytes": 4545,
-    "sha256": "7cddfce7f4dfb02331182707a7effea160ccf3823c80732515d31b2288844ce8"
+    "bytes": 5504,
+    "sha256": "54a45f2e9e91ea1e24d3f2ecac75d070df3b53706cd17071548caeecf9b57492"
   },
   {
     "path": "微积分/40_派生视图/递进刷题跳转清单.md",
-    "bytes": 24427,
-    "sha256": "ca9a2cf8157a494f045ea16a69fb30009ce67e4d5d80402edbfa1302d71764c3"
+    "bytes": 25119,
+    "sha256": "af2b94a5215878e2d3c4e1a898e491c749cc0e1dab2467712992f7e33207beb2"
+  },
+  {
+    "path": "微积分/40_派生视图/题图重绘_20261106/README.md",
+    "bytes": 2270,
+    "sha256": "e4137c206ab3d673c464e1cb991cdc44ed789c58b64e9231ba6868327d503fe2"
   },
   {
     "path": "微积分/40_派生视图/题图重绘_20261106/intake-rebind.txt",
@@ -685,14 +905,2349 @@
     "sha256": "de6e098f563c4d688eacfaa709ccae4f25e070632f669e7fe012aa5a6fa5c0d3"
   },
   {
-    "path": "微积分/40_派生视图/题图重绘_20261106/README.md",
-    "bytes": 2219,
-    "sha256": "1d2054d42a93a7f8698906586b7f06bfda409b4c54a9ade96f1d81920306a007"
+    "path": "微积分/90_缓存/s2-frequency-analysis.json",
+    "bytes": 882258,
+    "sha256": "06d00b11d54fa78a9ec2a223860c81c63f56d77dce7b2c065da6780bff8b37f1"
   },
   {
-    "path": "微积分/90_缓存/s2-frequency-analysis.json",
-    "bytes": 878394,
-    "sha256": "a62cc07b4248bddeb6821bd55bc7b8cf762eaff2fddf6c32244b5c2e3f7ec925"
+    "path": "数值计算方法与算法/.gitattributes",
+    "bytes": 92,
+    "sha256": "6dbaa57d1a07289ad85072ad9eda49b038381ed4dd06f88df8b90f152597843b"
+  },
+  {
+    "path": "数值计算方法与算法/00_原材料/数值计算方法与算法_扫描版.pdf",
+    "bytes": 155695499,
+    "sha256": "3e9cc7f799d491b704ce3d27da301bde00c7109c1f31fbb147edce1154cd027c"
+  },
+  {
+    "path": "数值计算方法与算法/10_题库/_标签库.md",
+    "bytes": 5109,
+    "sha256": "ebb62b0312768456561e1533cdfb289d50797aaf35c4221bdadf824ebbafa838"
+  },
+  {
+    "path": "数值计算方法与算法/10_题库/教材习题1_题面整理.md",
+    "bytes": 14603,
+    "sha256": "b3edbb8274958dd04cf6024f7097880fe1a1c84058146498d43be60ad0466b24"
+  },
+  {
+    "path": "数值计算方法与算法/10_题库/教材习题2_题面整理.md",
+    "bytes": 8873,
+    "sha256": "55d5277bb8af2da03dbbe611ea04962768e0c998433bea494204e8841b8a2380"
+  },
+  {
+    "path": "数值计算方法与算法/10_题库/教材习题3_题面整理.md",
+    "bytes": 10156,
+    "sha256": "3371de571776505c3fa28ea65747080c5c6fc8d64d5543335800a04ad6f89d3c"
+  },
+  {
+    "path": "数值计算方法与算法/10_题库/教材习题4_题面整理.md",
+    "bytes": 15998,
+    "sha256": "3682c077fed7ad370bd411173bc561e9543d3589bff393aeb520266fdcd8dbbb"
+  },
+  {
+    "path": "数值计算方法与算法/10_题库/教材习题5_题面整理.md",
+    "bytes": 14940,
+    "sha256": "f246133266692300b1833dc8217b0d0d2b26196efdf27d39f1c3220cf268bed4"
+  },
+  {
+    "path": "数值计算方法与算法/10_题库/教材习题6_题面整理.md",
+    "bytes": 16857,
+    "sha256": "f1640baab41e55bac5660f70483ea3f630bf496cb4155f94f8bc0c535f805c9b"
+  },
+  {
+    "path": "数值计算方法与算法/10_题库/教材习题7_题面整理.md",
+    "bytes": 13390,
+    "sha256": "045bdf2e48769f6ccda134c0d110deced199877d6f7b6651394d86a25aeb1f43"
+  },
+  {
+    "path": "数值计算方法与算法/10_题库/教材习题8_题面整理.md",
+    "bytes": 12883,
+    "sha256": "1642b430a7bd1fb81d475a0af2da9483e718987de752dc9347324e23a3545983"
+  },
+  {
+    "path": "数值计算方法与算法/10_题库/教材附录1上机作业_题面整理.md",
+    "bytes": 41724,
+    "sha256": "98084531535f672071c9c38740c70b2e9ecb6a053b0776b10202e23e118ef3a9"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/README.md",
+    "bytes": 4725,
+    "sha256": "500252673d970de55b0c3fe6f2b440c7ff7ee0bb3f470e8c1c29b7a20e721cbc"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/S10启动卡/第00章_绪论_S10启动卡.md",
+    "bytes": 1658,
+    "sha256": "2a3bff6fa02b253dda65dd4d69a700732555c9c93862db2940ccccad03b573cd"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/S10启动卡/第01章_插值_S10启动卡.md",
+    "bytes": 2144,
+    "sha256": "2a5c053132e45e17740348775b7ab13607315432193a79f4cc3032cc034e91e1"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/S10启动卡/第02章_最小二乘拟合_S10启动卡.md",
+    "bytes": 1553,
+    "sha256": "574a1a6fd509ded3d409fe88c8ce748c2a6820a33d1016413b54a2ef819fbb72"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/S10启动卡/第03章_非线性方程求解_S10启动卡.md",
+    "bytes": 1704,
+    "sha256": "e6b1e47b43f6cb491d9459891cbf1c3fec15bf745dffa133fb43f8ff59f157f9"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/S10启动卡/第04章_线性方程组直接法_S10启动卡.md",
+    "bytes": 1993,
+    "sha256": "d84bd3a51afadfa4b5f6ee0a0e9987ef36dc366deaa650a915d17c2036f8fe27"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/S10启动卡/第05章_线性方程组迭代法_S10启动卡.md",
+    "bytes": 1626,
+    "sha256": "af8ec1bf6e21c49a084c6cbf5a072e6356f19557a166cf08dc643828ee3d5834"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/S10启动卡/第06章_数值积分与数值微分_S10启动卡.md",
+    "bytes": 1171,
+    "sha256": "68ba28680bae78bf2454f3137279df6f97ca3b5c99403bd414e26b434af716db"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/S10启动卡/第07章_常微分方程数值解_S10启动卡.md",
+    "bytes": 2670,
+    "sha256": "09c8a1888e16cb663f8a9723c47d98a591b6916fc0449d57f38cd54388911b6c"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/S10启动卡/第08章_矩阵特征值与特征向量_S10启动卡.md",
+    "bytes": 1183,
+    "sha256": "d3a224499d612016500e766885201b4d09b038ba169bdc4e598f62d9a6af5693"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/grounding/第00章_绪论_grounding.md",
+    "bytes": 3318,
+    "sha256": "048ae3f48674a1caba5f01c7107d03a2828ff0ea431a4a9a6c813adf4154d989"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/grounding/第01章_插值_grounding.md",
+    "bytes": 4278,
+    "sha256": "6a8f48da0c020bc311912245d9685b6896ca53bafe79c3bd2698bf600dd9ed17"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/grounding/第02章_最小二乘拟合_grounding.md",
+    "bytes": 2637,
+    "sha256": "d432482723c922e508e40d0a15e762873fb71a8efd11d42b70bdf474b91e110e"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/grounding/第03章_非线性方程求解_grounding.md",
+    "bytes": 3326,
+    "sha256": "eef38be9234f0bab6bbd3ca9c35691355afa2d15ce32fa960b2b9c844db65b47"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/grounding/第04章_线性方程组直接法_grounding.md",
+    "bytes": 3787,
+    "sha256": "0a8c33944ef336f84611d5cc1806d40af82c3ddd5b1e8abb848ce41102902de6"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/grounding/第05章_线性方程组迭代法_grounding.md",
+    "bytes": 3057,
+    "sha256": "c9037ca361dd39506d7295f42c69cf4675baa881c9a74ce2f2a3d111d0e95436"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/grounding/第06章_数值积分与数值微分_grounding.md",
+    "bytes": 1345,
+    "sha256": "d0b9d993c4ad4f36c8784b04bff7ee80fc3b70570afd015a06082753425b5dff"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/grounding/第07章_常微分方程数值解_grounding.md",
+    "bytes": 5231,
+    "sha256": "8e2181619d57379fc72b41bc1c63453ccbfa815b6fb7fad2a039452a4500def3"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/grounding/第08章_矩阵特征值与特征向量_grounding.md",
+    "bytes": 1357,
+    "sha256": "6082ee0ebf0f8b4f8066642c075f6438b5485b3b411e3d73807e595a084a9aff"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/主干讲解/第00章_绪论_主干讲解.md",
+    "bytes": 17092,
+    "sha256": "982b54b9ca5962e46928843495c194eacab04a33dda8dfa8a578280b48b2785c"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/主干讲解/第01章_插值_主干讲解.md",
+    "bytes": 17533,
+    "sha256": "f64471eb1cb89cb053159346d5a1f27714d8ac9883d01bc078f5279d71567c8c"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/主干讲解/第02章_最小二乘拟合_主干讲解.md",
+    "bytes": 13984,
+    "sha256": "b2a21a0b4720d50ea7664209f671a57cb6b61f6ea6bdb114f15ea65db902dae4"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/主干讲解/第03章_非线性方程求解_主干讲解.md",
+    "bytes": 16113,
+    "sha256": "f913e28b331dac78869341f4ae6db568adad45a762e2f3610ba0ecdfd11ff96d"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/主干讲解/第04章_线性方程组直接法_主干讲解.md",
+    "bytes": 15683,
+    "sha256": "35bb2493e86a06a79fa6fb46c50b315055787dc09910dfb8a6ea5d659cf1f772"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/主干讲解/第05章_线性方程组迭代法_主干讲解.md",
+    "bytes": 13103,
+    "sha256": "ad335725abc8d895d9181587070e2761e85575b3256d9f8ebcf62b72b89d01f2"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/主干讲解/第06章_数值积分与数值微分_主干讲解.md",
+    "bytes": 10149,
+    "sha256": "2685b4c1739c6fd93cbf33792f7de919559b65b9bcbfeffb18b1c3732e0720ac"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/主干讲解/第07章_常微分方程数值解_主干讲解.md",
+    "bytes": 18021,
+    "sha256": "5011973cb26dfb15fdd0eb3f28c60e8d88432d9f841902dbc75e3be4fa5fbba4"
+  },
+  {
+    "path": "数值计算方法与算法/20_知识/主干讲解/第08章_矩阵特征值与特征向量_主干讲解.md",
+    "bytes": 10212,
+    "sha256": "8f32f63887892fbc54e62dc5c2d3e17089be1cdaac02678288f3931876e1625a"
+  },
+  {
+    "path": "数值计算方法与算法/40_派生视图/主题题表.md",
+    "bytes": 26825,
+    "sha256": "0e72b5c5bc4ed57604c4ff7739ef0369fd11aed919fb573e3110bf603f02a7f8"
+  },
+  {
+    "path": "数值计算方法与算法/40_派生视图/教材习题解答完成索引.md",
+    "bytes": 18583,
+    "sha256": "7270d37fd41732b4164a05ccfea82e59764c54a4d76c57b58281ca26e6b37e97"
+  },
+  {
+    "path": "数值计算方法与算法/40_派生视图/考频矩阵.md",
+    "bytes": 18493,
+    "sha256": "7aa38f79f56126fcbf09d92ff66f8c915910e6b482fdad8a431319fc0b6424d3"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_006.jpg",
+    "bytes": 14618,
+    "sha256": "9558845254e5eff0399049d8e8df31935b0b7a9bfcd998cc3a75e07e05988ed1"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_016.jpg",
+    "bytes": 14462,
+    "sha256": "91f6ab9d556b18dd6e85e875340fb2325ad43d9159505b6f761f1f8d87642154"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_017.jpg",
+    "bytes": 8405,
+    "sha256": "b31624715422aee1d89c4b5ba3d8c20caa027947124b0b7d0774bb69f6f6021b"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_025.jpg",
+    "bytes": 36858,
+    "sha256": "4bd345437d876085475b5d5b61aef606ec05b213c0d29448f90f24f2a7882b03"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_034.jpg",
+    "bytes": 16914,
+    "sha256": "aca3aafcdd0cbc3e4ed40651708754f42d2b4e292ae75dcea0df1b7799d6ff6c"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_036.jpg",
+    "bytes": 8500,
+    "sha256": "39c257eb18b5bbacebe3c408903dc0a9e629987b92093e4a23508da4663fef27"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_042.jpg",
+    "bytes": 19358,
+    "sha256": "7f408e1c12d3ecb07e3526337fae3d918c50cef5f381e605ec1f340bd17b6e4e"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_109.jpg",
+    "bytes": 8748,
+    "sha256": "8835342b8e2e3cba36f822f3dc8c1bfee6049196e4b0c21a57db7806adce50d4"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_131.jpg",
+    "bytes": 12021,
+    "sha256": "b17617f28b8e9eedd6c40f5fb1e293eb722e0d19962b4afc95ec0cab3c7c78ad"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_145.jpg",
+    "bytes": 18238,
+    "sha256": "624379a18dd85d535957322c4db96152304877a9c1332a26f8f3d9abba698b2c"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_196.jpg",
+    "bytes": 16581,
+    "sha256": "33edb00d9f4fbb6003e565efc764212a93620ab9d02d42fd1d54a6c2bec1089a"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_210.jpg",
+    "bytes": 8356,
+    "sha256": "3a915deb8e0183f64002c41b814c3ce8bc2988d58512fa2abcd68acbd04376a8"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_239.jpg",
+    "bytes": 16874,
+    "sha256": "48af17d12033dad1cccd6a9f193ca868779d7f9fe727dc63dd06b46796991ab7"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_245.jpg",
+    "bytes": 31521,
+    "sha256": "851f84546fafa24dc735f561bd5d7468b8684a83eb8e0f35b6a0c406a59000ea"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_246.jpg",
+    "bytes": 21440,
+    "sha256": "d04b6581fd807b5c80d83e9bcad5780f7c3fa7b39d2dabbcba2c83ed25f89f0f"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_291.jpg",
+    "bytes": 8518,
+    "sha256": "99ec9eb54dda82951f9537ed3dbfc9ed5b53d3b2770941607502f3bfcc603cba"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_325.jpg",
+    "bytes": 12546,
+    "sha256": "34b7f6d6ef6bdd83a9c0e26a8410b19e5ad2239d1476d6eca218be904327a61c"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_333.jpg",
+    "bytes": 15870,
+    "sha256": "0a84d14a96039421e66caccefee755d63f0c654c2d68e385632c8bacbd0eb5bc"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_340.jpg",
+    "bytes": 34868,
+    "sha256": "8c22021abc5149c450b3a8112fa468e96a47730aef8fe6b83c0ccabf36a630a1"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_409.jpg",
+    "bytes": 16405,
+    "sha256": "9631658563c6687bc97b451135fd7d209abdf39e1aa9c399a9f82261a9df0151"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_419.jpg",
+    "bytes": 8530,
+    "sha256": "fa94fc7d6288a6099984e5b6293dcff4d37fc799e1ed80af0a9c1c946319643a"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_422.jpg",
+    "bytes": 18957,
+    "sha256": "b2ef1468e1d73e23aa27e72ccf2067da67b2586d8974aa081f75902d1f45cf32"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_442.jpg",
+    "bytes": 17508,
+    "sha256": "805ce97b6af1bec50c07e67e1fc3e4f37517bcbe3206440764ed52e14574c751"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_466.jpg",
+    "bytes": 8350,
+    "sha256": "3610d600b82294f35b84309931d419c46af1e366e7d3cc70c815db217b23b47e"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_493.jpg",
+    "bytes": 25095,
+    "sha256": "e924719984e6fc78950a2b9d54caded60db6ccc6b929bd85f3662179fa6ea197"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_506.jpg",
+    "bytes": 8407,
+    "sha256": "c3e7d67328fdb15cdabab57815327a0c45fae6ecffb7a20125d3c914b9bfb642"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_539.jpg",
+    "bytes": 20363,
+    "sha256": "c716366a9d2a988cf171d5150cd3e7d03e5f7e5b7e57176a6addc2da8e76dbd8"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_540.jpg",
+    "bytes": 3308,
+    "sha256": "6b57b24b8ec1dd092b883a44260a0ade9d506f10e48885b2fb07e4d7a8b1e43c"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_559.jpg",
+    "bytes": 10228,
+    "sha256": "d243135cba718dfd5f86d52345a731b934a511f599a0c03b0eb70e2950200f1b"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_562.jpg",
+    "bytes": 18456,
+    "sha256": "2121023ac6432ff6fcddd141482291e32af950b34d9df34816ea6e425cfda532"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_572.jpg",
+    "bytes": 8337,
+    "sha256": "38d4579c3b7050e25a804de1e3d358006bc42275fb74ba89df27c8fafa6425cb"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_581.jpg",
+    "bytes": 8400,
+    "sha256": "26d7f2e9c78e7bb040757f7a97a5b330049164f21c02481900954e7a07b7890a"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_589.jpg",
+    "bytes": 8734,
+    "sha256": "883cfa8c783b68938615bbfea3ce86c3e23634482759960e7e1112050855a225"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_608.jpg",
+    "bytes": 15307,
+    "sha256": "cc4935c1d1e594dd54538a07d6defd17970ab4b8b5a7f2c768410b19eea89d63"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_621.jpg",
+    "bytes": 19505,
+    "sha256": "323f60e9ba9ea9b03b332764d0ea6cab3a7260990f8e0519028d497f3466f1ea"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_625.jpg",
+    "bytes": 8430,
+    "sha256": "89b438d958b6b2f7564a61db135eef4b7e382ba595fa1cc32ac808ceeb056997"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_649.jpg",
+    "bytes": 11732,
+    "sha256": "767d5a30d6623c5a1e4103a072d70327290cb9d733e48640fdbede5a01ab6646"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_664.jpg",
+    "bytes": 8262,
+    "sha256": "18e6ea8f4f1f3e9299bea2aa305df901538553123b3c9400bf32e5153d0445a8"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_674.jpg",
+    "bytes": 20260,
+    "sha256": "89175a04a1892bae73332d7b47d2251a80940600dcf0f3821cd3c3f835faca86"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_693.jpg",
+    "bytes": 12218,
+    "sha256": "a980af55391b29345b73cbba3e45a2b6dfbe1d7cb0e779e2e3561afd0b44b8ec"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_699.jpg",
+    "bytes": 13348,
+    "sha256": "5fd5449eed2553c264fdc6f7d259c88129b59a59d6a95ae59d6a1f1431824ab6"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_700.jpg",
+    "bytes": 11219,
+    "sha256": "3a7013d87b2acdde282438e54745362874061a5299b9abe6d5bf98d09e37d258"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_709.jpg",
+    "bytes": 29919,
+    "sha256": "67d30d9ca8e931e600e637ccecbc94ce53c2d63a4c608f3b00d5323e08c3ba0c"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_710.jpg",
+    "bytes": 17005,
+    "sha256": "204e97b4827431adcd415c44f1b094d4a0de93d1001d15b2882452fd86df5e14"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_712.jpg",
+    "bytes": 19601,
+    "sha256": "ef17c7effff35d05c54e428dbca3cfdfb9a91c86f51f6e0cec3cdb02936032a4"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_721.jpg",
+    "bytes": 20059,
+    "sha256": "e1add8006656ba98984f7f38e6b6d125165bbaf4f502c0ecd84f7b80a425f11f"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_804.jpg",
+    "bytes": 8187,
+    "sha256": "f305d40f9a10ba202185ebcd8471cf13aa41ecd4504a71c07e5d9efc2b6baf6f"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0001-0180_851.jpg",
+    "bytes": 22043,
+    "sha256": "9129d11dce829812c56a99231062678a39bf27d6ef6bc48ac4860cb860f9fe43"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0181-0246_022.jpg",
+    "bytes": 8508,
+    "sha256": "aefa3c5bfb345cb5d22938401f3581997997164df3cf7eb89eecef676cf2f3de"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0181-0246_033.jpg",
+    "bytes": 30094,
+    "sha256": "7e2f9a667701b95b02efffb133ddd4a83cc180bfcd9385d6737c54e831e552bf"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0181-0246_055.jpg",
+    "bytes": 17953,
+    "sha256": "6d6a4690a704d3f2191671ab9778bfbaea643699172f7c4170899d9268dd477e"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0181-0246_066.jpg",
+    "bytes": 18795,
+    "sha256": "907f915e442ddd08a42c8175eb59f46094b06943a3128cc19fbd0e8fd304c919"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0181-0246_069.jpg",
+    "bytes": 21192,
+    "sha256": "573d52ee8e5ff85119dded26c139f236ec0308a2d0ea6080807c32d64d6c571d"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0181-0246_110.jpg",
+    "bytes": 20436,
+    "sha256": "b32a8dbc6c4ac46c19be2e0ef5011bdeae0d83a3c2c0a79c481162a1e52f97b6"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0181-0246_177.jpg",
+    "bytes": 31979,
+    "sha256": "622b5a992916659af73a7041085bf4e14e3f8edf256395998ed8315bee2bc3c0"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0181-0246_193.jpg",
+    "bytes": 20830,
+    "sha256": "587c738aef92b3dfda0139a72a985544225627921242df091baa3a2d6ac8b5b8"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0181-0246_211.jpg",
+    "bytes": 37223,
+    "sha256": "df79a8b137ba9ccca6364556e9584acc8be47438a41faa09861b7ea492cc0d88"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0181-0246_218.jpg",
+    "bytes": 18006,
+    "sha256": "45f139c2cc357aa085a1b7f8a6b7eefcba60c5b14d8d6c606113565ba2f90a13"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/assets/final/p0181-0246_222.jpg",
+    "bytes": 8325,
+    "sha256": "f3f8ae01d921a97a833992f9ad56bbce7b4974e9e87f4709ca1902ab799628a6"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/pdf-to-markdown/数值计算方法与算法_扫描版/final.md",
+    "bytes": 476510,
+    "sha256": "964a169d34bd974e68fbba8415f48b294c874c8cfa13c110d53cd028435d39c3"
+  },
+  {
+    "path": "数值计算方法与算法/90_缓存/s2-frequency-analysis.json",
+    "bytes": 227369,
+    "sha256": "9327682d7dc133c823d5dcde4b077b7763e66b906b0c06a48ea19e370980adff"
+  },
+  {
+    "path": "数值计算方法与算法/README.md",
+    "bytes": 1415,
+    "sha256": "9a2f0070b6d82ca6e0bb1003bcc7430a5dc5f2e825a20232491a9e0d2122eb42"
+  },
+  {
+    "path": "数值计算方法与算法/课程口径.md",
+    "bytes": 344,
+    "sha256": "f585f53bac41b535072c9d8d402f80d1d5f2a5c78aa8ae0071c99bdb0e6a3c3f"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/数字逻辑设计及应用_第1册_PDF第1-259页.pdf",
+    "bytes": 280600041,
+    "sha256": "cfdfc2569aaca638d64743d77d9a82aa4c7d5751ffb6ef36bb671c2baa287ee0"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/数字逻辑设计及应用_第2册_PDF第260-518页.pdf",
+    "bytes": 240683240,
+    "sha256": "b2c8014dbd0900d177a720b0d51571693f2b77337900bd91f74708d9f23cdbe9"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/数字逻辑设计及应用习题册 英文_13896998.pdf",
+    "bytes": 19293173,
+    "sha256": "12c4053fb173fcf0d36b08e80dc1972d238969b7238603ed36b422b887b8a74d"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/第 一章.ppt",
+    "bytes": 9860608,
+    "sha256": "83d4c6ddda380e227436043e78433e886ecc2d93b5fad21b0602a7ca571ac16b"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/第 三章 (1).ppt",
+    "bytes": 378880,
+    "sha256": "cb0af8baef5c3167cb6620251c1fca1d0c1b70d5cd747ea53836e737324ceef7"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/第 三章 (2).ppt",
+    "bytes": 610304,
+    "sha256": "03e5630e5682cb961ea68c02369ad7d4001d84503eb820f474c44ae797b08312"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/第 三章 (3).ppt",
+    "bytes": 489984,
+    "sha256": "25841c4fa36b0cc67a71c5912c6e5a3559cfe186c733990ad6752a6a033346a9"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/第 三章 (4).ppt",
+    "bytes": 422400,
+    "sha256": "f4dc7b18a5ffe9c9aa86bded7e0af8f754bd075c1d63a6da9c92099feba5f05f"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/第 三章 (5).ppt",
+    "bytes": 759808,
+    "sha256": "01721d1e736bfef301868b1375e606dd7448c9805613111a220d1c235b431dcd"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/第 二章 (1).ppt",
+    "bytes": 879104,
+    "sha256": "5023cf3a968ddf88e5acbc9b5dd6b71bdfb90adc620d770eb0df78a74d3109e6"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/第 二章 (2).ppt",
+    "bytes": 466944,
+    "sha256": "9518619e97fbcce99323931141922dd9094e66d7a64230fb531bb41c26c8bf6e"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/第 四章 (1-1).ppt",
+    "bytes": 2164736,
+    "sha256": "b33fa97024d345bd28ee1af622fd441cabf1f9a34e40a57ceb264571ca03f093"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/第 四章 (1-2).ppt",
+    "bytes": 1239552,
+    "sha256": "889e0effb8561ba4b14963e127c6dd459cba20d3e9b05448a71c58deda608001"
+  },
+  {
+    "path": "数字逻辑设计及应用/00_原材料/第 四章 (1-3).ppt",
+    "bytes": 842240,
+    "sha256": "f8d4d200e9cba377dd5188c4fbb5ee558858bd0fe7509da7cd17e354190194a8"
+  },
+  {
+    "path": "数字逻辑设计及应用/10_题库/_标签库.md",
+    "bytes": 1285,
+    "sha256": "45917472cd10045c1fd17661af820253a0695f02b57a9bb42276fb87ab73be91"
+  },
+  {
+    "path": "数字逻辑设计及应用/10_题库/教材第2章_2.1至2.6题面整理.md",
+    "bytes": 8772,
+    "sha256": "e498427f6b602397ad0e6752944d8bd2ccc7962d0431732fbeaf72df82e7a30d"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/README.md",
+    "bytes": 4582,
+    "sha256": "b70f43166e64bdaa5593f9717ab5fd41afcce2bfec5b00263d9eecc17c5ec2fe"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/S10启动卡/第01章_引论_S10启动卡.md",
+    "bytes": 1716,
+    "sha256": "daf94dc74a0a8a61b3e960ab4908d6207bb9697ff3ac355d13b0af9558a84560"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/S10启动卡/第02章_信息的二进制表达_S10启动卡.md",
+    "bytes": 1606,
+    "sha256": "c759d8e6d9c6a9cd6eb85ca577bf5fbb78a8cb380eb7f20bb100152d9bce6840"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/S10启动卡/第03章_逻辑代数基础_S10启动卡.md",
+    "bytes": 1686,
+    "sha256": "66f981627185e58b885debb533c6cdc89a843d7d1cffbeac175b309066bbc1e8"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/S10启动卡/第04章_逻辑门电路_S10启动卡.md",
+    "bytes": 1577,
+    "sha256": "df25ed3c72afa53992f8f2a45060952a882452680efc6b8bce21c8754faa8e19"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/S10启动卡/第05章_组合逻辑电路设计_S10启动卡.md",
+    "bytes": 1727,
+    "sha256": "5a8ba26e0c2daf3eb682e92aeef627d6bbf90ab1b1221daa80fe0217b32f7246"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/S10启动卡/第06章_存储电路_S10启动卡.md",
+    "bytes": 1580,
+    "sha256": "69af17fc35b8a21095b05ac51ba5a2679df3ccd097348abf109c8499da185ec2"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/S10启动卡/第07章_时序逻辑电路设计_S10启动卡.md",
+    "bytes": 1728,
+    "sha256": "37386127e36c14c34c1241f3136d3ca3eba48f9eb688db7aa91811ddc6db7965"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/S10启动卡/第08章_半导体存储器与可编程逻辑器件_S10启动卡.md",
+    "bytes": 1713,
+    "sha256": "3689685e311846edcc09b34228de302b6af818d8469a2693974c3f8660b935c2"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/S10启动卡/第09章_数模和模数转换器_S10启动卡.md",
+    "bytes": 1537,
+    "sha256": "9e776c7a2b5af3924f46c3d90518573a0d758b968e33e7a8bc0be38b1aaa20cd"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/S10启动卡/第10章_现代数字系统设计_S10启动卡.md",
+    "bytes": 1582,
+    "sha256": "10e15880437ac06bca0a70b0c63e4aab8694b82ac18045d120329d8452196a9b"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/grounding/第01章_引论_grounding.md",
+    "bytes": 2590,
+    "sha256": "5d69ea6c50efe030d0cbfc9a30631081c30a85a35c20e9bf1f550c88c6e4854a"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/grounding/第02章_信息的二进制表达_grounding.md",
+    "bytes": 2460,
+    "sha256": "4a7a73a4ee7082cd56b51db2ae1529fc3774adf1c50ae99016563515f4a064e3"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/grounding/第03章_逻辑代数基础_grounding.md",
+    "bytes": 2445,
+    "sha256": "9919fa93b17ebb02f9c1a399457d790e273d6fe7db87d0dc3eb11e90cdfe4484"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/grounding/第04章_逻辑门电路_grounding.md",
+    "bytes": 2208,
+    "sha256": "a342464bab79e40582193e9043049b90d6a6163688d5908cda4cf458cf36a412"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/grounding/第05章_组合逻辑电路设计_grounding.md",
+    "bytes": 2319,
+    "sha256": "03ee250d93114589e08c3d4746ab026e0db5f426a4b6050f4dda53a5ccb53e30"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/grounding/第06章_存储电路_grounding.md",
+    "bytes": 2133,
+    "sha256": "1dc55a36e8c19ab093aa1fd3641b5f24fffa9a574af5c6053ab4cd9ed680f664"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/grounding/第07章_时序逻辑电路设计_grounding.md",
+    "bytes": 2184,
+    "sha256": "7ef826c7b9daeb1dac82574f5b9d19db0ee5a1e3f4df147855df7d7b7709e6c6"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/grounding/第08章_半导体存储器与可编程逻辑器件_grounding.md",
+    "bytes": 2172,
+    "sha256": "89388b7821a4d21db1356e1f1bd07868f3a37449bd49b18631d1e81e18bd39ed"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/grounding/第09章_数模和模数转换器_grounding.md",
+    "bytes": 2057,
+    "sha256": "823a45f321d071f4fedf5f4ca009fed9975519f776f756ceb8529bb1cbbf4b3e"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/grounding/第10章_现代数字系统设计_grounding.md",
+    "bytes": 2308,
+    "sha256": "b4398cadff74167cb040a88d63065750483cb124a9ec9a14e44a22b4295f9a81"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/主干讲解/第01章_引论_主干讲解.md",
+    "bytes": 9218,
+    "sha256": "7508f6379ce60c4364bcce7f11da6215ff817fcc760da4be2b1496ef00c55c80"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/主干讲解/第02章_信息的二进制表达_主干讲解.md",
+    "bytes": 9756,
+    "sha256": "11aac982b19cc3ef4b7195e3f70437562f9ed8fcdd0b48ce7891a3e4a8f80495"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/主干讲解/第03章_逻辑代数基础_主干讲解.md",
+    "bytes": 10756,
+    "sha256": "2273ca114d64118541070bce1ffd7b6e51c30b803b9534813ad75272368a96e9"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/主干讲解/第04章_逻辑门电路_主干讲解.md",
+    "bytes": 11046,
+    "sha256": "865cf14a3f801dc927f3db25fd725a59cfac4e95c2e7950f6549456e0175663d"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/主干讲解/第05章_组合逻辑电路设计_主干讲解.md",
+    "bytes": 11651,
+    "sha256": "ef2c5fbf410580b86147b8eba9fde35175be2913b35f93c1c352013e6b17b443"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/主干讲解/第06章_存储电路_主干讲解.md",
+    "bytes": 10092,
+    "sha256": "295b0e05cd9182ffc1c2e2203d2ef3c9b6bd351318e91161123eb66eac82e0ca"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/主干讲解/第07章_时序逻辑电路设计_主干讲解.md",
+    "bytes": 11365,
+    "sha256": "2d381abfeab27d371ca7e42666c45fcebe5e1156b6b38676b10704624d07affc"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/主干讲解/第08章_半导体存储器与可编程逻辑器件_主干讲解.md",
+    "bytes": 9998,
+    "sha256": "bae7272f5d18402d018831ed39d3df3253b71d288d7df693d0a001a1c9e34c4d"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/主干讲解/第09章_数模和模数转换器_主干讲解.md",
+    "bytes": 11419,
+    "sha256": "01b0c6fb25ae462a21135bd16c07a31ebc887f298ba5342aed73afde850f6e14"
+  },
+  {
+    "path": "数字逻辑设计及应用/20_知识/主干讲解/第10章_现代数字系统设计_主干讲解.md",
+    "bytes": 12881,
+    "sha256": "a6c3839d030e424c35da43dffa69562d3b8e40c8ed2972be2c17009c65fc039f"
+  },
+  {
+    "path": "数字逻辑设计及应用/40_派生视图/主题题表.md",
+    "bytes": 1143,
+    "sha256": "e637629e7e18b7eeb2b8fb07fc2e1ed66b80af2bc7eee1dd27abaaf883bc0e52"
+  },
+  {
+    "path": "数字逻辑设计及应用/40_派生视图/考频矩阵.md",
+    "bytes": 3622,
+    "sha256": "77d9399a6e414c710bfd9f614173c09e908668b74e1d66725d9c17e5cc28d227"
+  },
+  {
+    "path": "数字逻辑设计及应用/90_缓存/s2-frequency-analysis.json",
+    "bytes": 11200,
+    "sha256": "47bdf3860c7fc553e4e280e52f308aae3cb03f3b6dffad2428aec002029af520"
+  },
+  {
+    "path": "数字逻辑设计及应用/90_缓存/s8-章节计划.md",
+    "bytes": 4413,
+    "sha256": "cf8946b8eaa8aca40f20d50237e6d08495dc60923822db71829b169e7ec07583"
+  },
+  {
+    "path": "数字逻辑设计及应用/README.md",
+    "bytes": 1741,
+    "sha256": "9eaa392a183e636bcc432d2306df802614585190908a105c1eabd950765df889"
+  },
+  {
+    "path": "数字逻辑设计及应用/课程口径.md",
+    "bytes": 344,
+    "sha256": "f585f53bac41b535072c9d8d402f80d1d5f2a5c78aa8ae0071c99bdb0e6a3c3f"
+  },
+  {
+    "path": "概率论与数理统计/.gitattributes",
+    "bytes": 94,
+    "sha256": "19afe885b74be3699e5f2f8ac15d129e39f848fc755b567b9d26311e47a85f2a"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/夸克扫描王_概率论期中2024.pdf",
+    "bytes": 26796889,
+    "sha256": "cbef5720c701ee2c494fd0b7b896ea1a0bb1ac47426414ff45802c4b90ee7a5a"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/夸克扫描王_第1章.pdf",
+    "bytes": 17302587,
+    "sha256": "f0ffa7e61c0652b7f6328515e16a25a60d0d4241da067fc8af23a1004c68157b"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/概率论与数理统计（第四版）.pdf",
+    "bytes": 121037772,
+    "sha256": "0d4324ae77d5cb79adb099f0752289ff91d31f9548c6e12bb347d039b2d40676"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/C1_1.pdf",
+    "bytes": 716111,
+    "sha256": "a0f0a24e76ee6cd08e732b5b3b88456341f3a6cc4535e743806a792eda767cd4"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/C1_2.pdf",
+    "bytes": 1157151,
+    "sha256": "255894903520f68a4160df6915a0c5abb939d59f985c9c872457c4b5dfa2ba72"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/C1_3.pdf",
+    "bytes": 878288,
+    "sha256": "b25823652a70af010283ded9ddaf9b18fa1bbece499c94771ecfc7ede506d5a5"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/C1_3_附排列组合公式.pdf",
+    "bytes": 666327,
+    "sha256": "95beb5cd8e0ec534c4f40688909e72c59ce97f8434a6f030b5b7f20ccf4e4647"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/C1_4.pdf",
+    "bytes": 816861,
+    "sha256": "f54448c8f236b7692d4828f9e71b46fd5a225ea26e2a47b46c2dec2d47ed3bd3"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/C1_5.pdf",
+    "bytes": 460538,
+    "sha256": "55d2e840bb59c96cb6e23b86a449d3ffd541912d579f1c5e2cd4182d303b6cad"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/C1_5_附概率公理化结构.pdf",
+    "bytes": 1074270,
+    "sha256": "51cd537d2dcfc37316108d1a00da7cde84dae861525b0b9c1e4733b2a610c586"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/C2_1.pdf",
+    "bytes": 795926,
+    "sha256": "6cc83d0302d656f304784415c89915fa0e97768c902f5831f16eb4d90510b31b"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/C2_2.pdf",
+    "bytes": 975652,
+    "sha256": "83be9de5bf219d406a3b04332ff01100a54c9969438464a8171004feae9a6bfd"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/C2_3.pdf",
+    "bytes": 713359,
+    "sha256": "ac03ee04ac3d441db0c24e8a5564d4308e863dde9530aa7636cbe3e0af0a762e"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/第一章课后思考题.pdf",
+    "bytes": 217503,
+    "sha256": "eb46c0be9dbbe34cccaf9b4ec0dbb4030daeaa66a007f6bf4644a1c9826424a1"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第一章和第二章课件/第二章课堂（后）思考题.pdf",
+    "bytes": 86208,
+    "sha256": "4545732aa7ebf0d233ac485f4d9d6c318483a6dde29c689d457d4e4a9471efb6"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第三章课件/C3_1.pdf",
+    "bytes": 2423009,
+    "sha256": "dca5e07ec7f7ce21a3b452a11cd9cc5bfdb9b29928237cffab60d161d94b64fa"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第三章课件/C3_2.pdf",
+    "bytes": 603625,
+    "sha256": "a56cc6b6bb47079fba41587f0a00c3fce5783824d3ec08f4db84b8f32d733152"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第三章课件/C3_3.pdf",
+    "bytes": 876555,
+    "sha256": "5f4985d448652cbcec07f651873b9d5594f0d3e96cd04313d5b31f12875494a2"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第三章课件/C3_4.pdf",
+    "bytes": 831616,
+    "sha256": "5bff08f4bea0334161961fc2b67261bd0a0c934838d6058231b5b8b34fa6fc2f"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第三章课件/C3_4_附多维随机变量的函数.pdf",
+    "bytes": 289739,
+    "sha256": "a4c21d80a86f92dc3f887479513edd45c241ef6ca25d880a137ac2bfb729ef52"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第三章课件/第三章课堂（后）思考题.pdf",
+    "bytes": 105784,
+    "sha256": "68ec8f3d13ae3f6e02c04ca5fbd1807d5fc6c7891c3c4846d0c8563ea9635116"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第四章和第五章课件/C4_1.pdf",
+    "bytes": 1376458,
+    "sha256": "7d19e160c8a2c1b43a395178af25fd7db408ba5e4141842871a1ed691e89fd7e"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第四章和第五章课件/C4_2.pdf",
+    "bytes": 576394,
+    "sha256": "9a2d7423c45fb6aa293b0c2c6dd8e566be4d9145be42c514d0882aa3d8dbf50b"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第四章和第五章课件/C4_3.pdf",
+    "bytes": 656697,
+    "sha256": "95523967e0074cc059362fb68171fdd7e19c3d2d64ce1dca48f514fbe93a9d0a"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第四章和第五章课件/C4_4.pdf",
+    "bytes": 783179,
+    "sha256": "e39556ec4283924b0b04ec42ac03cc1d06cf8db01009aeede6d3fcc538db4640"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第四章和第五章课件/C4_5_附特征函数.pdf",
+    "bytes": 1302069,
+    "sha256": "84eb2e160beff88c2e8230d4e26fb264244a2c1c3d489e258a0675fd1d2947c2"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第四章和第五章课件/C5_1.pdf",
+    "bytes": 662928,
+    "sha256": "496a856e8ce2a5b274136a6a250a9cb751dd4d3e8d8692d0e27f7731733aee29"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第四章和第五章课件/C5_1_附概率极限.pdf",
+    "bytes": 1216059,
+    "sha256": "e95394eec6e7ca6333e1e2472f384bffca0d4a6486aab705149f3d351fe91f1f"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第四章和第五章课件/C5_2.pdf",
+    "bytes": 1023955,
+    "sha256": "14490a7086bd17b49d2e44a4bc1ecb1506a7d60afb895c237172a71e7c287385"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/第四章和第五章课件/第四章课堂（后）思考题 .pdf",
+    "bytes": 258849,
+    "sha256": "e08d7512a78fbe4595ac5ddbeda0dab50179ff453ab3794cfcf427563b2107d9"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/统计课件/C6_1.pdf",
+    "bytes": 381404,
+    "sha256": "cb803e1d46c8d14f16e3d87e455bd30108514b0c01c9c9341990186f4d36ef48"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/统计课件/C6_2.pdf",
+    "bytes": 1854155,
+    "sha256": "4d17329600cd23ee0fc7c29a67fcbd81f830075f027ae89963ca5097cba7ddad"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/统计课件/C6_2_附抽样分布定理的三种证明方法(转).pdf",
+    "bytes": 150933,
+    "sha256": "4512e6a37e18df2c83933c819c0ae6acb22a3757a97e0c8d135d5740a1edbef4"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/统计课件/C7_1.pdf",
+    "bytes": 911500,
+    "sha256": "aab05c9106cf05db1eaeef638d0f1360cccfab546c2fc51dbf56abc39e01f927"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/统计课件/C7_2.pdf",
+    "bytes": 992689,
+    "sha256": "7d97fdb16ff272abf9ca0bc2670ce8f9f471354aeb2781ffb08fb04b327a7622"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/统计课件/C7_3.pdf",
+    "bytes": 823842,
+    "sha256": "6e05fc6de435232bddebefee266c90b1f88c508e5543ce07291a73c64db60c10"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/统计课件/C8_1.pdf",
+    "bytes": 1054279,
+    "sha256": "b99c3391f785ff5ccbdf912fcd5bf7de3467b1840c0622a15917070ba879abcd"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/统计课件/C8_2.pdf",
+    "bytes": 1198677,
+    "sha256": "a1d40ec7429dafcce705a04dec9364f7b082e7c5fb2716dcb29e6a1649f9fc8a"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/统计课件/C9_1.pdf",
+    "bytes": 739295,
+    "sha256": "8923201bd36ad7c66bfa6e2369028ad90f6184150f94235beaf5efc23b875910"
+  },
+  {
+    "path": "概率论与数理统计/00_原材料/老师课件_QQ1108911072/统计课件/C9_2-1.pdf",
+    "bytes": 1001409,
+    "sha256": "82d7dcc9332d3db9f454fffc4a5f92fbac0ef26fc5928db2750e59102ec3dc21"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/_教材习题目录.md",
+    "bytes": 1725,
+    "sha256": "679fff6973cbc877926783819a9e612dc432c61028706806b3dd590460835401"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/_期中试卷合集目录.md",
+    "bytes": 7653,
+    "sha256": "81d864d30798ed7bc30ca965f39a40d5d566872e37bcfddb5a96344d6c025230"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/_标签库.md",
+    "bytes": 5061,
+    "sha256": "16ce95193794222708eeb0ef0e1e6e35f1723f427fc43ddec907213a6cdb1b9c"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/_概率论作业目录.md",
+    "bytes": 8096,
+    "sha256": "ffd10aa8e028d43c070f51051fa9f12b13a0c525beb2c35e75962985bb14ccbc"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/_题库目录.md",
+    "bytes": 777,
+    "sha256": "319e62ba47b6df34c0d7a9717f406fe1cab2fea0a1370c8d8e3b714ae70ca1b1"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/assets/作业第09章题01_散点图.svg",
+    "bytes": 39475,
+    "sha256": "b897f988da8acc9a2764939bf160637e9be1102111f81806b068a3b91f8dee54"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/assets/教材习题一_图1.6a.jpg",
+    "bytes": 6095,
+    "sha256": "473276665848d32f01dada6f21ec24f02cf1e744804ff125f28c784a634acab5"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/assets/教材习题一_图1.6b.jpg",
+    "bytes": 10825,
+    "sha256": "c15ce6d5bd913bba0a664610cd24c734144df2ca8d5e80261ccdeb9289c9805a"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/assets/教材习题一_图1.6c.jpg",
+    "bytes": 11662,
+    "sha256": "e87203cd21f66c3f6e6a2d5c95e30b1ebf6c75e881956a5d2a3cb6decbd9ad8f"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/assets/期中合集2024/p17-target.svg",
+    "bytes": 2053,
+    "sha256": "371513a6155fdc483c6e9ebbe736b44beeda32bc7f4bd00ff67e2ac2d8c9bef3"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/assets/期中合集2024/p30-triangle.svg",
+    "bytes": 1089,
+    "sha256": "f8abc7688dfda830efc40c8875810738d19b27181cba4c3a92378ce5c99056da"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/assets/期中合集2024/p36-density-cdf.svg",
+    "bytes": 2718,
+    "sha256": "d011c52e7d21ca5993e2414b69775cb4cbd5f12f5250a5ab6190c79f56008e38"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/assets/期中合集2024/p46-diamond.svg",
+    "bytes": 1029,
+    "sha256": "2e76ea920117679e28a91e21f903fd50adc45e03dd39cfc87a94c2e04d98cc9e"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/assets/期中合集2024/p46-square-strip.svg",
+    "bytes": 1394,
+    "sha256": "2199ac375cf8cf0353ad46c54f800c9a2959412772394cbe003bcfaa921d484b"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/历年试卷/期中/期中合集_2009-2010_题面整理.md",
+    "bytes": 10069,
+    "sha256": "206c1c42d795c0cf0aca0cbd949b13566c2673580ec9458794d22ec4dc320a59"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/历年试卷/期中/期中合集_2010-2011_题面整理.md",
+    "bytes": 8141,
+    "sha256": "d11b91bd865c38c0282b0a8001de825ad2d6873a8121c8c9508471ccfc058f06"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/历年试卷/期中/期中合集_2014-2015_题面整理.md",
+    "bytes": 8731,
+    "sha256": "e644ff773b880c42ac53e43414dd9d731b044a4edc5f2921dafdf71a1bcb9ced"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/历年试卷/期中/期中合集_2015-2016_题面整理.md",
+    "bytes": 9552,
+    "sha256": "ccfd13e292679245d6b533a57d46603bab6e1ec2da5b3538b73a2db00afd6936"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/历年试卷/期中/期中合集_2017-2018A_题面整理.md",
+    "bytes": 8782,
+    "sha256": "e7cb7bdfb8906898ba556745d2fd0d3ec8c8a44532379167dd3c864d5aba7e5c"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/历年试卷/期中/期中合集_2018-2019A_题面整理.md",
+    "bytes": 9320,
+    "sha256": "ac615ff87c1bc0c6db10585f391e3e4d9934a58fb7a223e91e03ab84d260a94a"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/历年试卷/期中/期中合集_2019-2020_题面整理.md",
+    "bytes": 8395,
+    "sha256": "bf8b6f3b3ecc1d028b3a912cc629944d02de9e564fd9aef72eabb6a9358eef35"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/历年试卷/期中/期中合集_2020-2021_题面整理.md",
+    "bytes": 7902,
+    "sha256": "f496c293a4d8fc704fe198bc3c8dcad371480b4100b8506d60187a5386bf9d31"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/历年试卷/期中/期中合集_2021手写_题面整理.md",
+    "bytes": 12798,
+    "sha256": "734013d7e451f297ac27e00cbe533f69b3c00342fc229959f098c14c6570c39b"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/历年试卷/期中/期中合集_2023-2024_题面整理.md",
+    "bytes": 9583,
+    "sha256": "4c971711e4cef42cd2878525c128f562912f58d03b7bf5e603d1b4f45501e762"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/历年试卷/期中/期中合集_2024_题面整理.md",
+    "bytes": 14697,
+    "sha256": "971c25f8c692780afa3c631c19616716ff1c06cad95b5054ff6f2fd5ba24ea4d"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/教材习题/教材习题10_方差分析_题面整理.md",
+    "bytes": 11697,
+    "sha256": "365d113f341516a6d37c5c199ee4e56db3c3fc48afd3b05a759943c54f8ea620"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/教材习题/教材习题1_概率论的基本概念_题面整理.md",
+    "bytes": 36250,
+    "sha256": "722e709f829c7b75d84964a014844d22ca77279266fdc9d6647f2292ceaa8e6c"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/教材习题/教材习题2_随机变量的分布_题面整理.md",
+    "bytes": 23642,
+    "sha256": "7bf18b857911c8cbb00abcb11e2a2610994af95eb73c01a5a5c33ce942a5161f"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/教材习题/教材习题3_多维随机变量_题面整理.md",
+    "bytes": 30117,
+    "sha256": "ab2231a34de51428f169e6b1be8dbac13fa1f9304aa4823f6aeaf9668582112e"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/教材习题/教材习题4_随机变量的数字特征_题面整理.md",
+    "bytes": 15999,
+    "sha256": "e68a92016a96a7d18f7576401638bcfb8055edef385d60f68215b91ac515cec0"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/教材习题/教材习题5_大数定律和中心极限定理_题面整理.md",
+    "bytes": 9767,
+    "sha256": "d11d903e80d1af3a070a0862eafef46616bd796b1f64056d7eb293cb6e93cd43"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/教材习题/教材习题6_数理统计的基本概念_题面整理.md",
+    "bytes": 12138,
+    "sha256": "3884e3b225782d6217549971d6be879edb576a6382c80d9071708ae7bd6645e7"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/教材习题/教材习题7_参数估计_题面整理.md",
+    "bytes": 20586,
+    "sha256": "6d131ffea0b994e667e4cbafd0292f78d4cc2c5bca25ab97d75ce8294cacc0f6"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/教材习题/教材习题8_假设检验_题面整理.md",
+    "bytes": 21002,
+    "sha256": "3a87a12f646379b0eb8dd058c7cb8ee3bb4e63336dea5fcbc79b86898e5dc9d3"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/教材习题/教材习题9_回归分析_题面整理.md",
+    "bytes": 18833,
+    "sha256": "5cdf7f933b66fe1923fc740dd69aba1ea065184c883cd6d51147aeab50632c91"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C1_1_题面整理.md",
+    "bytes": 1351,
+    "sha256": "78fbdbe4828a653737fa6b796beb13bbf3bddd0a8ecee493a17c0de00ee68b11"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C1_2_题面整理.md",
+    "bytes": 7963,
+    "sha256": "56332fa76d4a0d493025e4d682affd1570a041204c8efd2122e65063b8d9b375"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C1_3_附排列组合公式_题面整理.md",
+    "bytes": 1372,
+    "sha256": "61b3102e920f728d5db5b2a2cb7890dd1b32d1854cb14b7b577e16e26cecd88d"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C1_3_题面整理.md",
+    "bytes": 9549,
+    "sha256": "d1f57b97615e5d24df1636a027d1a43dbf53dae48f78cb761f07d4bf48ce86a2"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C1_4_题面整理.md",
+    "bytes": 10538,
+    "sha256": "c4bf9ab77bf98cd54d599643d09bf87db8b65d3acb3b7bf9e63ef093ef3d2a51"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C1_5_附概率公理化结构_题面整理.md",
+    "bytes": 6019,
+    "sha256": "cddffe54de642f3f29ebb7bfd91bfc9f57f8ef5a8add35116acb79a8bf7a81ea"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C1_5_题面整理.md",
+    "bytes": 3802,
+    "sha256": "5eaabe8e6d70de15d0101f674f8ae618756ec143766ddad42800bbc64714143d"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C2_1_题面整理.md",
+    "bytes": 3459,
+    "sha256": "6b42d5fdfedd502bf2bd3f2eaa92e9ccfb5742584d60b3b9ffa43c7561f8c52e"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C2_2_题面整理.md",
+    "bytes": 5852,
+    "sha256": "1c4fe8685e321c03c688cf15af381af00154e8b43a3e1774602e27c9ab8ae47e"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C2_3_题面整理.md",
+    "bytes": 6623,
+    "sha256": "1ed9967e82484c3f3ae0d439852e09008ef3226e8882471c2462f2492f1a1ec0"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C3_1_题面整理.md",
+    "bytes": 5951,
+    "sha256": "099db54f3638e2afc3a1669db78c1f69f48b18dadb119a3341724926f0ab6c53"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C3_2_题面整理.md",
+    "bytes": 4296,
+    "sha256": "c08c2b775d8370f4cec55c437ea45ac1d87a499bfc5347f3028cc6aeeeb8d797"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C3_3_题面整理.md",
+    "bytes": 8008,
+    "sha256": "9f430331dae55f83b134f5925a334d1e0c144803529d6ad3bfde2795b53e7014"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C3_4_附多维随机变量的函数_题面整理.md",
+    "bytes": 1879,
+    "sha256": "ec0f79df5c8c8a1a9c86b34434b6163b0311a62fa508d15f48c87b11d6f47981"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C3_4_题面整理.md",
+    "bytes": 8044,
+    "sha256": "3fc8b71818f4df9c6c87ddb205fcba10e99b46a8e70193b822ef8f4b07603ac8"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C4_1_题面整理.md",
+    "bytes": 11401,
+    "sha256": "810683b48c52c7f1b8d30417f4341d430eee31b60a350087f196330f0fec2ee1"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C4_2_题面整理.md",
+    "bytes": 5499,
+    "sha256": "056e2c6f5579e0172a3a381896e04714704e2997541a090b6424cb955ea6749b"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C4_3_题面整理.md",
+    "bytes": 5651,
+    "sha256": "e7b3ce65d7e18423b08f197822f2bd421aec8278b06250c595c73cdfd3c15219"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C4_4_题面整理.md",
+    "bytes": 2155,
+    "sha256": "a94b63ddd9360c5a43a415ec5fbf4e697abe9749e4689c9f1020ad335d81c4f5"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C4_5_附特征函数_题面整理.md",
+    "bytes": 11132,
+    "sha256": "ea57aadc4553ba4e8e58ee3f2c9102ade8294b340185379e61ddedc3eb3464af"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C5_1_附概率极限_题面整理.md",
+    "bytes": 6265,
+    "sha256": "56ba36421531e81a884a7ab541f1101e0bd837c10281b442c27c5b60b9acc24f"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C5_1_题面整理.md",
+    "bytes": 4187,
+    "sha256": "cf38039375d139e5e8983feb0656344a9e2e31e1f117a0c78f59128fa783ecdb"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C5_2_题面整理.md",
+    "bytes": 6524,
+    "sha256": "a515169f8902c78a9c25377d7eaa7959eb39bf0ac361b6d05ff221da05778908"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C6_1_题面整理.md",
+    "bytes": 1710,
+    "sha256": "b99d490f1329261bc165fed08d9f29207b4294bb79ea25fa07f27f8cf911d453"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C6_2_题面整理.md",
+    "bytes": 5030,
+    "sha256": "5bad6c933126df2363c3412cc6fe173b038db193b2006b0511fe7b98e1d2b05b"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C7_1_题面整理.md",
+    "bytes": 5517,
+    "sha256": "baef80e5176a1d66f00b2c1fdae07da2679c0afd46da5c073768579de95dc1c2"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C7_2_题面整理.md",
+    "bytes": 7562,
+    "sha256": "d6b455aec17481f60c07d432396d0aa135697724df9850c5acfdbdcca5b59ea8"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C7_3_题面整理.md",
+    "bytes": 6169,
+    "sha256": "3772a3986c319e20a419a4293ea5f6cacf5523a187bca5caf675bd7fa885c273"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C8_1_题面整理.md",
+    "bytes": 4259,
+    "sha256": "feb239c128c67d1434cf584ec35d85e4a535c305b49174b35c9161d0601b192f"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C8_2_题面整理.md",
+    "bytes": 6261,
+    "sha256": "66fcd4798be4efb0c0c7e1a6f6964f1f6638f6e9d464013ef25532bab2d7cd34"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C9_1_题面整理.md",
+    "bytes": 3866,
+    "sha256": "87f9e620ebbcd93987e2de8dfcecca5e909454fb9b20cc79712bd45ce4b8dea7"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/C9_2-1_题面整理.md",
+    "bytes": 4498,
+    "sha256": "bd449ac5fe4102fb5da59d17c5eb515bc7732eb80937a55f64538450d11c46a2"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/assets/C1_4_例13_办公系统网络图.png",
+    "bytes": 88936,
+    "sha256": "ee0b6b7e14f5e1b81369030d1a1fcaadd5d2aa5588bba86c28d8b8b021fd88e4"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/assets/C1_5_例4_系统图.png",
+    "bytes": 8983,
+    "sha256": "ae56ff7d1b1210bd8901464e2e843994fbb22995c997e51aea21045a2814ae6d"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/assets/C9_1_EX6_系统框图.png",
+    "bytes": 30449,
+    "sha256": "9727f6f2c2e75801f141386aa7d8c62a3b3ab0f16dbae8d6b729b2427bbd8a00"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/目录.md",
+    "bytes": 10340,
+    "sha256": "4755ce728f09208d0835311dbcd203e01dfaeb9fa09ac862f95225551b7b007e"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/第一章课后思考题_题面整理.md",
+    "bytes": 5729,
+    "sha256": "20159a302722035594307527aea5f6a5225873dc37994e8e94cebe0dfde09795"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/第三章课堂（后）思考题_题面整理.md",
+    "bytes": 3403,
+    "sha256": "1a7e3e98b1771f0a5db82de1edc4faa5f042060987d3873f4e728b524bb88374"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/第二章课堂（后）思考题_题面整理.md",
+    "bytes": 3173,
+    "sha256": "d91bdb32c555da096b6e27950f5146375206743f0ec5460d5e99bcfefa29de8b"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/老师PPT题目/第四章课堂（后）思考题_题面整理.md",
+    "bytes": 5243,
+    "sha256": "b6458a77c1c9c33f72ab58d30c54df728355639493a9fbbcf10ac8b9b0a5323b"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第01章_概率论的基本概念_作业_答案.md",
+    "bytes": 11891,
+    "sha256": "52eb9d0ffc4eda780ba414a2c745aa20919d27da7677059d8fc594b2cb3e8dbc"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第01章_概率论的基本概念_作业_题面整理.md",
+    "bytes": 32610,
+    "sha256": "8efdc90e15aede56f7ff54a559d3ad1cd5ae55046fdb1a7be04af768b4822e75"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第02章_随机变量的分布_作业_答案.md",
+    "bytes": 14586,
+    "sha256": "0b640172e3e467ab8cfcdb45cc4f06b6b9a0040110e348e6fd1d618b2ff5dc6d"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第02章_随机变量的分布_作业_题面整理.md",
+    "bytes": 33269,
+    "sha256": "28dfea9987ff2bb1e1f7ac6b7ebf65a7a8d852979c02149cac17b033cd328bfe"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第03章_多维随机变量_作业_答案.md",
+    "bytes": 22134,
+    "sha256": "50b6ce35f3887773888315a08e351f2b26b7aa99a63a2691191d635b6c58019c"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第03章_多维随机变量_作业_题面整理.md",
+    "bytes": 46888,
+    "sha256": "e8d39bd155957c9ec2d406622e39f5bb3eab40748f192131255b276fc0731788"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第04章_随机变量的数字特征_作业_题面整理.md",
+    "bytes": 13685,
+    "sha256": "5f7068c47a36ee913c188ca7bc24cd175b5b06ea16b86bbc8e665f1d52502886"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第05章_大数定律和中心极限定理_作业_题面整理.md",
+    "bytes": 11476,
+    "sha256": "33abcf68ab7ab28248f8c3f8a4ccc9c718ae6f0fee54af685d43b923fa06b3aa"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第06章_数理统计的基本概念_作业_题面整理.md",
+    "bytes": 9577,
+    "sha256": "3f59962468c37b46dcea4e3e5a129f28b20191192e782d99e54cfb62d69fcc7f"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第07章_参数估计_作业_题面整理.md",
+    "bytes": 18792,
+    "sha256": "56b868b3709042712ee0ec064ffc2455dcbd25e8b8b7bd8b59be72a63e33a69d"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第08章_假设检验_作业_题面整理.md",
+    "bytes": 16210,
+    "sha256": "ab557fb365dc3afbe84b4544f0bfc8ce9713a34aeccfe63eef8a2bdeb33d3570"
+  },
+  {
+    "path": "概率论与数理统计/10_题库/课程作业/第09章_回归分析_作业_题面整理.md",
+    "bytes": 10825,
+    "sha256": "d69d4965819530b095ec356cfd1d05bd23c8f41613e75a1b38dfe44659cce6e2"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/README.md",
+    "bytes": 4678,
+    "sha256": "22c7cbd65fd5de7c360c02ed9df4cbb99dbc42bd7b77f559856419674401e9be"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/S10启动卡/第01章_概率论的基本概念_S10启动卡.md",
+    "bytes": 959,
+    "sha256": "00f57bb56204615fe6ada5c95461c574d558156e1b26d48a0228f861bbce4172"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/S10启动卡/第02章_随机变量的分布_S10启动卡.md",
+    "bytes": 798,
+    "sha256": "d7ebe31a17ebfda787e312a51b285ba55e68e2967dddc284ddb93cd7b777bc1e"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/S10启动卡/第03章_多维随机变量_S10启动卡.md",
+    "bytes": 959,
+    "sha256": "031fb2a2ecdd0b04b03dd6ff1208d80441e06ddd265c225898edbd9376f803d1"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/S10启动卡/第04章_随机变量的数字特征_S10启动卡.md",
+    "bytes": 906,
+    "sha256": "11a6bd2208d3130af713462b216eb7a270f4c9b2cf22a375ef6cab1a79dd38d6"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/S10启动卡/第05章_大数定律和中心极限定理_S10启动卡.md",
+    "bytes": 1276,
+    "sha256": "71748ee320a7e8b886cdd3b9007e958b6fd37dce55a2b122168f593eedf9bd97"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/S10启动卡/第06章_数理统计的基本概念_S10启动卡.md",
+    "bytes": 1311,
+    "sha256": "4ac1b0eac600fefe0abc740276f0c5460c3af54fcd0e3af67aa10ed76e106cd5"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/S10启动卡/第07章_参数估计_S10启动卡.md",
+    "bytes": 1117,
+    "sha256": "c0b623494eee31f271f92e3ca476b4e37164e4a30586375e7eb6769a74e1cd21"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/S10启动卡/第08章_假设检验_S10启动卡.md",
+    "bytes": 1062,
+    "sha256": "1113fef50a07cab6c76643a056e1b1e2481eb64eec548578670ce39ac75cc8d2"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/S10启动卡/第09章_回归分析_S10启动卡.md",
+    "bytes": 1032,
+    "sha256": "49ee7ed788831d18b24ab493ef254f1ab6af3559231b62ba72300d82e47772e1"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/S10启动卡/第10章_方差分析_S10启动卡.md",
+    "bytes": 1132,
+    "sha256": "9fb3bb4fa44558c31076e31cceb3c901d864550b25d2e89c9bfa06bc361c4ae1"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/grounding/第01章_概率论的基本概念_grounding.md",
+    "bytes": 1960,
+    "sha256": "c92768d7f8099fcb160dd5b78001b86a715a87bf776e2a46e13a6e75e86dbb60"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/grounding/第02章_随机变量的分布_grounding.md",
+    "bytes": 1726,
+    "sha256": "d2dbc84e78e9ab06d0648c85cab00a23c1890bd229bceff433d2675fd21178d7"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/grounding/第03章_多维随机变量_grounding.md",
+    "bytes": 1418,
+    "sha256": "8ece4d6f4576dc512fdcce9272577ed4124a2ae2526146d24b708b6a600279c0"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/grounding/第04章_随机变量的数字特征_grounding.md",
+    "bytes": 1671,
+    "sha256": "84a422fd6aeeb68a51b84589261d090b1b9bd94e646a8efe0b42c0a25951b654"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/grounding/第05章_大数定律和中心极限定理_grounding.md",
+    "bytes": 1934,
+    "sha256": "ab3a840dd8ba14414e0c7db15f42decd6a49fdb9a0cefcf1a1aa7008afb50238"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/grounding/第06章_数理统计的基本概念_grounding.md",
+    "bytes": 1884,
+    "sha256": "0dc07e826578be8ba6da1a6ce73032d685b3b3c6c2f3459de2154738e2999ff6"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/grounding/第07章_参数估计_grounding.md",
+    "bytes": 1836,
+    "sha256": "528d988c64c80617acdc3baa3923c3bd317ec7795ac5b871ae49e77855ec21ea"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/grounding/第08章_假设检验_grounding.md",
+    "bytes": 1738,
+    "sha256": "613a046dee21cea93769c116392179c1c1d31566220ed15654bd3f17a223b0d8"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/grounding/第09章_回归分析_grounding.md",
+    "bytes": 1667,
+    "sha256": "70f04997c57584e1d4078932f81b07829daa2c533672994bed90831f56681898"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/grounding/第10章_方差分析_grounding.md",
+    "bytes": 1684,
+    "sha256": "1584f621bb06f2696029c19b05edc84ce88ad31436a556a03bb61bf67e1a4d5e"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/主干讲解/第01章_概率论的基本概念_主干讲解.md",
+    "bytes": 10362,
+    "sha256": "1eb99b7f52b7f244fb9e0fb60094fd24c612749f66f2cef5aaa5f6dd3a0fc034"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/主干讲解/第02章_随机变量的分布_主干讲解.md",
+    "bytes": 10076,
+    "sha256": "a234cdb4a29880aa0184ca93bf3a8e97b775155cbe44a3a52d9aa3f87c24969a"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/主干讲解/第03章_多维随机变量_主干讲解.md",
+    "bytes": 10436,
+    "sha256": "0cc37a38c4aa7ad0a6bb4a140e306ac5a6b73b3299742bd9eeb26bff1dbad79c"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/主干讲解/第04章_随机变量的数字特征_主干讲解.md",
+    "bytes": 9761,
+    "sha256": "db05b61eb50cf4e6870efb44429e4338ece5f66e873b85286e32e45eb9ac851d"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/主干讲解/第05章_大数定律和中心极限定理_主干讲解.md",
+    "bytes": 9691,
+    "sha256": "9ae8edead326b5d9e5a4d72e97c40ac1fc67005836e10bfe96bf981e7d1d86e4"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/主干讲解/第06章_数理统计的基本概念_主干讲解.md",
+    "bytes": 10179,
+    "sha256": "fd674904e0b5199909fbee4e938210ae378641d4ac05195e0d27a952c1bfcaf6"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/主干讲解/第07章_参数估计_主干讲解.md",
+    "bytes": 11619,
+    "sha256": "40137f55f88af78bbed05baaab38e2d698d27af0225323c92377c2740ace18e3"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/主干讲解/第08章_假设检验_主干讲解.md",
+    "bytes": 10765,
+    "sha256": "3f1ddaed002dc2548d8cfd97650c5dd3f233c82aae4a27240d74f2c1ef581394"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/主干讲解/第09章_回归分析_主干讲解.md",
+    "bytes": 10238,
+    "sha256": "9567440afc13c1ab38b1a6af93ea39de4d823d0d7f5eabe123f15d2176378d09"
+  },
+  {
+    "path": "概率论与数理统计/20_知识/主干讲解/第10章_方差分析_主干讲解.md",
+    "bytes": 9922,
+    "sha256": "897bf1302586ba19f46be09d7ec0356b0ca33f59f022443ace04571c9cc022f2"
+  },
+  {
+    "path": "概率论与数理统计/40_派生视图/主题题表.md",
+    "bytes": 143299,
+    "sha256": "a8abbd5fd4f76c759bf37eb8c3a896538fff8922eca0c704f464a4c8b1eebbd2"
+  },
+  {
+    "path": "概率论与数理统计/40_派生视图/期中刷题清单覆盖报告.md",
+    "bytes": 111026,
+    "sha256": "6bb3ccaf4cce7d7bb85f5ba97ff84996c94308107d9bbad818e7e9d79b1bac57"
+  },
+  {
+    "path": "概率论与数理统计/40_派生视图/期中旧题复用对照路线.md",
+    "bytes": 6029,
+    "sha256": "f1231027d4bef1eb97bb4a52c53160c2214eb6a8955e100c0c5fe8c85a583816"
+  },
+  {
+    "path": "概率论与数理统计/40_派生视图/期中真题跨年联系与复用规律.md",
+    "bytes": 52152,
+    "sha256": "bc82855c695b220e9c512f7591d5a006b15eb1dbdcf776dac49c2401498a093d"
+  },
+  {
+    "path": "概率论与数理统计/40_派生视图/期中递进刷题跳转清单.md",
+    "bytes": 58619,
+    "sha256": "ba8a907d32b180a7b0fea36a6445e8eeb9a6e24ac4027dd0fe5f82da363dd874"
+  },
+  {
+    "path": "概率论与数理统计/40_派生视图/老师PPT前三章_期中增补分析.md",
+    "bytes": 18886,
+    "sha256": "f76ebbdbc5a49b0eab264b6bcc500dea6cd3dbeae26e70cf15493b063cc3c93b"
+  },
+  {
+    "path": "概率论与数理统计/40_派生视图/考频矩阵.md",
+    "bytes": 24345,
+    "sha256": "2445517798d927d93b23cc815d8fca97dbca0af56b6c9c5c69b84749763bab05"
+  },
+  {
+    "path": "概率论与数理统计/40_派生视图/课程作业与期中题关联性报告.md",
+    "bytes": 49209,
+    "sha256": "4fd83e5ce69e29ea8214c25f1f8dde76f8dad28bc36e2184ca44c93992921754"
+  },
+  {
+    "path": "概率论与数理统计/40_派生视图/课程作业高回报路线.md",
+    "bytes": 6894,
+    "sha256": "d0594371111f84eda6eb0ee5cb43d85f3583b23272a4948bf4d4507297707f90"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_001.jpg",
+    "bytes": 9011,
+    "sha256": "1b85a514d1ac68d2adcbe40ea3a0e8f561558883664b481ea44955063c306a8f"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_017.jpg",
+    "bytes": 8513,
+    "sha256": "75f7a6c46f4003472cccaaa6df175c48ad3c51f06b3bdf9e181138d6de591149"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_025.jpg",
+    "bytes": 9794,
+    "sha256": "b2a8e9ad5c7f517d009c36982e80e20c238af6fe9a2cf718c786b058efb8081f"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_026.jpg",
+    "bytes": 6055,
+    "sha256": "9321ae9a6c7005f323f288e4cf2132ef62b0c9fa1e4435aaa2815231853ef55f"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_029.jpg",
+    "bytes": 4657,
+    "sha256": "db8efbd3ae1b220a926c0b324bb1d86e9ab0fcf19beb954c7f3531788d0fd80d"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_037.jpg",
+    "bytes": 7047,
+    "sha256": "591c79348ca5d5b4cedd2efb952ba49437ed595986fd4f4e5de5a2fb917fbc96"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_059.jpg",
+    "bytes": 2416,
+    "sha256": "044717ff70913e69bc579a50375cb4ef5e46f5136358ffb6a52a23fa3387cb90"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_074.jpg",
+    "bytes": 16232,
+    "sha256": "6c10c2c452662a0330f936b48cc1a470f4b3356cfcd0a2e31807eb74ce1cb0d1"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_079.jpg",
+    "bytes": 6997,
+    "sha256": "3d08362cbbb5e7b575ca3429fad13117e83af3dd6e75feba6c49e5d506d11b6e"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_096.jpg",
+    "bytes": 9274,
+    "sha256": "4e32b024bf2ea70644d243351cc405f1958ba83819d82f0d14fb1766ca0bb2bb"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_097.jpg",
+    "bytes": 1113,
+    "sha256": "d013864657b37166fa92c4fe72f6679cc468057beae1b4a3521a0a56762cc8f5"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_099.jpg",
+    "bytes": 7223,
+    "sha256": "cd9a3dca5bb8d79a862f8ac29989627ceac4c232c3956b503621716b19d6cf70"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_100.jpg",
+    "bytes": 14546,
+    "sha256": "bc7032753bf75b34b423f6e64208108abf9c5dd167a9684dd60af9ebe1135b86"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_1004.jpg",
+    "bytes": 7168,
+    "sha256": "1dc8546e6869993189f7f72bb9f7cc679e11ba6b34aa07c9361056f2ae444204"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_1019.jpg",
+    "bytes": 1854,
+    "sha256": "ebae26c08f5ceb4b6e4971bf5b3f7733078d1baf22079ead299f0637bd4eebc3"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_1029.jpg",
+    "bytes": 6915,
+    "sha256": "0e814cf1105dcc225b8c8b3cbfda384f123a95514303ec64e244480668993252"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_1030.jpg",
+    "bytes": 12237,
+    "sha256": "7292e58f2c5c65948d6fdf6cd358e3aa51782b12b8048f77d2ad08e37370e06e"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_1039.jpg",
+    "bytes": 7198,
+    "sha256": "79b64240d70a2076461dbaf5070b25118d5eaa574576248fce2257d213ad1237"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_1044.jpg",
+    "bytes": 8195,
+    "sha256": "5ee26dbf74e70cf1d928a4b6088d5dc2227de7d2cfdd80341dee42aa5c6218a7"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_1054.jpg",
+    "bytes": 7137,
+    "sha256": "426bae70a4cb0c304ad8610651d971b25472bcbea43aaa558d748ac8c26ac219"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_1057.jpg",
+    "bytes": 12638,
+    "sha256": "a576ba1a5b2c77cd0b4a8100ecaccd06b6b6adba528f19f1893c56a0a021bfe9"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_1058.jpg",
+    "bytes": 3413,
+    "sha256": "8fab2fc16b99e954e239df2ffae76a7ab5fd389797eea1450dcdbc4a2a67aaa4"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_1073.jpg",
+    "bytes": 7275,
+    "sha256": "8b2823a2f64983dbae2aebb0a8dbf3bc9fc5fd113b4ca1b4c1cc3ecf649b4324"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_1100.jpg",
+    "bytes": 8430,
+    "sha256": "bc22ef8b75cf227f10e5fb1a4478bebcc80d72a152b46f9a9e577217db341064"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_119.jpg",
+    "bytes": 17043,
+    "sha256": "f443f93818ede48fb05561482206cdaa1117043b449efa36f063554bafa0b553"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_123.jpg",
+    "bytes": 13503,
+    "sha256": "d5edda984170398d1c901bc702c69ea43ae0213219d15d8c3f01793ea329380e"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_126.jpg",
+    "bytes": 1598,
+    "sha256": "b0e1971b7d67e6539338c79039ab18549691b91e97f8c424645f6b905cc10959"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_129.jpg",
+    "bytes": 5996,
+    "sha256": "bb294474d3392008f98fac78e5de3350e186b9c771035f49fb0c77830059b0f3"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_131.jpg",
+    "bytes": 2269,
+    "sha256": "0ec5a2730220bdbac586e9555936462c0710dbc6a1845a510e0c975fd06449c4"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_132.jpg",
+    "bytes": 2400,
+    "sha256": "3d35fd07476145ffa38c2d339081a7488989682a8c381ebde9e67ec691aaa11e"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_135.jpg",
+    "bytes": 1707,
+    "sha256": "45aa71362a95216bc9e24270ab2d308c204388b1bf77067b8867c7fb615a789b"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_140.jpg",
+    "bytes": 12386,
+    "sha256": "5cc73f7d16725427938adf2cc018559c1830245a44d4d43acd67bad248d23fb2"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_146.jpg",
+    "bytes": 6904,
+    "sha256": "e22be72250540b9c99dc47af693b393a9e75fac0f12efff580012eb7b30f8639"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_150.jpg",
+    "bytes": 23562,
+    "sha256": "e5c666ae138bbd1d532bae85ed99cc014a9588ed4bd32cfa2d3b1c18586762b9"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_165.jpg",
+    "bytes": 1671,
+    "sha256": "3751b7729ad2ae9dceaa99802c5f096b6dfd9321a5233304664faa9bfc967788"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_169.jpg",
+    "bytes": 2845,
+    "sha256": "656cee5f8ecc7faf2332e38a4801c76b9062e9163a472f8108556d1857ac067c"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_189.jpg",
+    "bytes": 12493,
+    "sha256": "0b5bcf24a13a07f54c70a39365265dc65c66a41c39ed7fde7aa7290c25d3c966"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_198.jpg",
+    "bytes": 6095,
+    "sha256": "473276665848d32f01dada6f21ec24f02cf1e744804ff125f28c784a634acab5"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_209.jpg",
+    "bytes": 7281,
+    "sha256": "741e7eb8beae938af5c53017f186ca3d33d526e04d327c269e357eace8835a7e"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_222.jpg",
+    "bytes": 14566,
+    "sha256": "1b9ddfbed73a5843ca418420b1e3d8747d5a1d089efdc8cc1ebb0e91c2f1ad46"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_239.jpg",
+    "bytes": 11826,
+    "sha256": "a19146a3eb90735204f6fe963c838baa9b51f386444b1abe4df1708085db3155"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_261.jpg",
+    "bytes": 6908,
+    "sha256": "ecf7decbc4662b5b5e2d5bb9a6cb76182b29f3122645d3b0b1a5ffd5062a7905"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_265.jpg",
+    "bytes": 2527,
+    "sha256": "487fc88ae08dbc5d4ce1bb0ad64e446971283ccc65b67d4b7000a96e09ccd56e"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_272.jpg",
+    "bytes": 14098,
+    "sha256": "e4b21a94f218d17e279ae53c343702b5db30f68df3372999f7a7b7c43b871bf8"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_310.jpg",
+    "bytes": 7029,
+    "sha256": "cdda8986cd73a467e922d34774af11357d8e4eb850f1b11eeb5b8196d5d1bd88"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_330.jpg",
+    "bytes": 10825,
+    "sha256": "c15ce6d5bd913bba0a664610cd24c734144df2ca8d5e80261ccdeb9289c9805a"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_344.jpg",
+    "bytes": 1941,
+    "sha256": "74afd1c22da939e4fffa34a4a5a19d9f85fba0149e6b855860217ea11e17d9e1"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_348.jpg",
+    "bytes": 8180,
+    "sha256": "79e435adf209bd594fdc6d88042b72b53cd57d35771b9280dba9deb6761692a6"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_363.jpg",
+    "bytes": 7181,
+    "sha256": "6a6d10180a77d88012c7e0863094c520d5c23b551df8c955db7de5d87b0ce4ac"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_364.jpg",
+    "bytes": 1646,
+    "sha256": "5ff9f0b63c39c43bf6f7c3b383412dd09924f6e1ffc20cadab6e654e0d7ce2f3"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_376.jpg",
+    "bytes": 8186,
+    "sha256": "2e90007bc97b56024a4364f86d977edecdd25a2278014214b16949dd8f7816aa"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_378.jpg",
+    "bytes": 7869,
+    "sha256": "2ed7dcbbae645ccd81fd8d9237ab5d5a73af2069aff20163787b654d670c9213"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_393.jpg",
+    "bytes": 7044,
+    "sha256": "9e9e5df6d378762521ff3662eb67c588b3e06c69047ce97c0a12549e2c8d70c2"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_419.jpg",
+    "bytes": 6266,
+    "sha256": "c92567715dedcd598c3a7e8213f75dccb72771c52ca4b0a649b305d9667803d0"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_420.jpg",
+    "bytes": 13501,
+    "sha256": "ac4230dfd72c09dee9367eb8d596577332d1e55b04e9e72c87a9c14d0ac927a0"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_423.jpg",
+    "bytes": 22921,
+    "sha256": "feff1bdfd00943e373de597a2bcd4149fd4f55cadb831866ff6101ad6b38e715"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_434.jpg",
+    "bytes": 1949,
+    "sha256": "84477c6aa4d95c6d830cd66c4e46497b436004097f28959e91e90a0c9988cd08"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_436.jpg",
+    "bytes": 7270,
+    "sha256": "3f8739eec7ba962c48b68752fd81acf5cea9b47e1e1803c6c881619078aca394"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_442.jpg",
+    "bytes": 6994,
+    "sha256": "172620224fc048f05452b01f894c707150eb8f68b9cc6c373af5933064baa7c3"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_467.jpg",
+    "bytes": 9928,
+    "sha256": "062473d53cf7e3f384ab50c5868e7aabd83ef7ae39d6427be95ac92a8c0f90b1"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_469.jpg",
+    "bytes": 7097,
+    "sha256": "9a7579f6da956b2bcf1510d2208001cdcc0a4d027f3cb52be618cc54b8c89613"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_493.jpg",
+    "bytes": 2418,
+    "sha256": "6cea69c218b03ea1417c3e1e37c2dde5080d084bad494dcaed829cc5f0b7bbbb"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_497.jpg",
+    "bytes": 2097,
+    "sha256": "f4f4e3e025c2a9d84f5b571dbb373156a276cf03262f929ca40a4d28c69de335"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_505.jpg",
+    "bytes": 13826,
+    "sha256": "f52991733574472664fb59ea2972cc59736e665f511f71501441ae6d72e4853d"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_585.jpg",
+    "bytes": 84647,
+    "sha256": "096d94af897b6ff51bc531abf0a0e17042c4648782a73fe75132a0c5a09b5595"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_586.jpg",
+    "bytes": 10160,
+    "sha256": "0955fe98ad2caeb4dc3a679b2baabd967140da5312ef7355d5f05b0dbccc74eb"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_598.jpg",
+    "bytes": 12613,
+    "sha256": "472e285d543e0a6678c693915f601fca176effe19878f795373537ba371131fb"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_607.jpg",
+    "bytes": 7696,
+    "sha256": "66bc7980f08d8210ac0bc90240a7b9b27bffe1f94c520ac53b5f3e8d6a165f84"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_617.jpg",
+    "bytes": 11662,
+    "sha256": "e87203cd21f66c3f6e6a2d5c95e30b1ebf6c75e881956a5d2a3cb6decbd9ad8f"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_622.jpg",
+    "bytes": 7131,
+    "sha256": "0c5e260823843aa73e12fd972beb511656cfed2c81cf331f54b4ca470e8c32de"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_623.jpg",
+    "bytes": 14927,
+    "sha256": "d2f3734defd302df0c7fa89e8b53aab76eeab3418f760a7047ec1b05c0e8967c"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_630.jpg",
+    "bytes": 1989,
+    "sha256": "b6b4f7b18957d6ecfaf73097e84c6bea9ba9058dc6a6ffca99c0afcf7210babc"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_633.jpg",
+    "bytes": 2782,
+    "sha256": "a84db18fb9bac15052da0cee1a269c808447197a39f36d46fe677c74117658f7"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_641.jpg",
+    "bytes": 7962,
+    "sha256": "553e067ca7ec871df55dd4dad41322e43cdd9906fbd7004f30e2eb4a3456f014"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_642.jpg",
+    "bytes": 13242,
+    "sha256": "c32484cc6a2dc0dbf3c7cdc99479358654e0482bff01b436044efcbe0ade86aa"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_645.jpg",
+    "bytes": 7116,
+    "sha256": "a5a9e129b4d52742d5e6de01b88218ea6b11c7f61aa877ed2330f2b2b3b1a19c"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_672.jpg",
+    "bytes": 6691,
+    "sha256": "30df2f70e7034beac7f8350bef24eec0e0e0113e9813ba01fee5f8e64f4ddedd"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_692.jpg",
+    "bytes": 7135,
+    "sha256": "27ad07e96c72f19f1784f194a2b8f1cf48e71110fe76e5c236b03d5a6304db17"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_716.jpg",
+    "bytes": 11817,
+    "sha256": "19942fec5aec5dc0d464149e6b690f59adbf2aba0bb5ba09b1bd7363d74f7c34"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_719.jpg",
+    "bytes": 2139,
+    "sha256": "da0f2b078c3fba3e987b791fb6c2f5ef182c86ed5aacd97a59eb4303332699b3"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_727.jpg",
+    "bytes": 7336,
+    "sha256": "68b3982d2d20c7d95a94ebddceca11589beae6c4aefecb5842ff5ce9361f3be6"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_731.jpg",
+    "bytes": 8657,
+    "sha256": "f697f6ba277c7ef0041ed531889ea9441bafbcd68826c5700ca6ff30047d535a"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_738.jpg",
+    "bytes": 8318,
+    "sha256": "ec87a8735f93925d97162a5f5a6fa634f8c7c2690d7f313108046d2e901f9ae0"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_743.jpg",
+    "bytes": 7069,
+    "sha256": "0f32f79fc1b41057ae68ecfc3d825c35ca7f407690cb68e2c77e731b142b8604"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_744.jpg",
+    "bytes": 6933,
+    "sha256": "e5225a0f01ac2c1ba1d34787b5118e186665540ba451b130f2f20a23e79a4bfa"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_779.jpg",
+    "bytes": 2587,
+    "sha256": "a81ec06fe3d8a2a4f5048d364ecbd4ae073210f243cf90a2be2a54c2c1153a29"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_782.jpg",
+    "bytes": 10631,
+    "sha256": "b33663d907d9497630b079029f3b5dc059bebb45c0e5a991bb07e389ac219b91"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_783.jpg",
+    "bytes": 7017,
+    "sha256": "ae0bd99381e2863718009f7f3028bc520bf56d08e891786b4d47270086eaab66"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_800.jpg",
+    "bytes": 12986,
+    "sha256": "6c6b77294b14e45ae139ddf8088ba2076c5ed8c210473ed504518d1c25502a8f"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_805.jpg",
+    "bytes": 11151,
+    "sha256": "97a628e8e0322b072b8e4fb0ef5f0f8aac7f87dab05f5234f341b820e1d14f3f"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_817.jpg",
+    "bytes": 7367,
+    "sha256": "1b6f53909e53cbc969a7fd5677a61ec5e06c9e42d1213d9637bb16f1dceaa46c"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_824.jpg",
+    "bytes": 9124,
+    "sha256": "d266401d99e3b4c9395b3b3a4bf771f5b14178fe75d4fa524e2d371e7b691fe7"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_848.jpg",
+    "bytes": 2146,
+    "sha256": "2943dd15919bef25342063ffa843f6f72738154079b2a5ab5ec2c3d15caef397"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_860.jpg",
+    "bytes": 12455,
+    "sha256": "bac00d8a5e4c4cd7596e762c502d182ad32b59a3e17e0fa526df8caf6846acbe"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_862.jpg",
+    "bytes": 2322,
+    "sha256": "77d8ade0c72ed603455d3a622dbc846faed623e011e1f3d1d4d9d0b2256aa15d"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_869.jpg",
+    "bytes": 7223,
+    "sha256": "3de71473b917d57d45988c9190542df58bf1c833139bf4b267c1d0a5975f6b5e"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_880.jpg",
+    "bytes": 7213,
+    "sha256": "f3ccbcf16205833b62542f5f19887954b56a89ef302189107cde00303c9e3a7b"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_892.jpg",
+    "bytes": 18183,
+    "sha256": "4e854e7964049edf5561f1f73b74633b326efa352a84a9d0f074f91687d2f8f0"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_897.jpg",
+    "bytes": 14859,
+    "sha256": "31846d10fbe9df344fb1075971b0bde3996d49f67bb50d1f005fadd751820e75"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_900.jpg",
+    "bytes": 138844,
+    "sha256": "76ac99ad7b371efe6180867acf472dfdcde4d26cff5f51ed53b79bcf659c18ae"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_905.jpg",
+    "bytes": 11504,
+    "sha256": "f5de9f796560778abac5a86e5258781efc53fe068fd022d13b5d5ad8a009464f"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_920.jpg",
+    "bytes": 2311,
+    "sha256": "089a33c6b960249db40f942b0079f5ab275e54118d95612c197b534619f47143"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_922.jpg",
+    "bytes": 2369,
+    "sha256": "8c5e9dd53d196b12bf5784862e5fe1602bdfcab7d6492a594a0aa681a39cb57a"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_923.jpg",
+    "bytes": 1862,
+    "sha256": "fc2d02c437bf7fe421ae324cce394924c8c5e95f69caa961f43d0e71d104bf68"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_932.jpg",
+    "bytes": 32397,
+    "sha256": "a2cb653356381e95574294522d53898348c7ced21bc64fcca3ce649dce304fda"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_946.jpg",
+    "bytes": 7089,
+    "sha256": "4b2c0d0a4c7e4125c13df0c21018baf4b83cd4a2aab50b64281db3b9fc68296f"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_974.jpg",
+    "bytes": 2352,
+    "sha256": "d89a36ba1a863e412bde39d4077f8908cc41479e33aac9f3705ca3f74063c71c"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_976.jpg",
+    "bytes": 7195,
+    "sha256": "74d66b3507d25cade4819543f4416f7d92001b2589481bac74ba8ad0c8108b69"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_978.jpg",
+    "bytes": 6914,
+    "sha256": "5a77b0284acc29be48da525f6cbf16481b2b50872bc46b3d29a0f3e251a7716c"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0001-0180_997.jpg",
+    "bytes": 7089,
+    "sha256": "04407fc5da91366366fb68fc58f81527bd765a7013a57d2f254d8eb38c82b6ce"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_007.jpg",
+    "bytes": 7063,
+    "sha256": "5b0213b7651b73cab41e97ea28705de3fbad39af5a1c2dfe139719996a4c4a97"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_015.jpg",
+    "bytes": 6034,
+    "sha256": "101a1c1bbed8ed04783770188e7161d454d6c6d712084814f99fc4edfe5a17ba"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_020.jpg",
+    "bytes": 6521,
+    "sha256": "d4b1b02c8d949cfc853a5b4712db09214a6b4573ba536ca6d362c8c9e3a8f64a"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_042.jpg",
+    "bytes": 9713,
+    "sha256": "d1d5606379878a640ff646357a24d510a254cc39d10049299448cdf988c957fb"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_045.jpg",
+    "bytes": 1512,
+    "sha256": "3603f1a3f9a5963fb6a7dcdcdd5fc6a0d2253b93e61e469c7df11cf3d7b188aa"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_061.jpg",
+    "bytes": 6689,
+    "sha256": "2e8e42cc1c4a181c7c1d543ac20dd051c2c581776d640dd7027aafeaca0e2e88"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_078.jpg",
+    "bytes": 20885,
+    "sha256": "daf7984b917df9ed88aead2020e2aec728f11b24f693848fcfe0844262fb67fe"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_101.jpg",
+    "bytes": 1945,
+    "sha256": "f0e60a6bc08a7dad0d8efe7adce299ef43dfe4d14c4e6a50ce12a00211f9bc83"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_189.jpg",
+    "bytes": 13271,
+    "sha256": "c5859ca87b5acf9ffd632b4fa10b199f4032244bd0e6ca09b037c16671666707"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_191.jpg",
+    "bytes": 7504,
+    "sha256": "1f75172a6d2842507025a94a50e44d762e8af454255931304f5bdff4aac8cf38"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_217.jpg",
+    "bytes": 6480,
+    "sha256": "a5ee15caf21f74c8937347512678e16407d11c9be0370802ca2ee2c02d79c326"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_231.jpg",
+    "bytes": 7254,
+    "sha256": "93cc2d9b5678b18be2c22f882350fe58c310deec3e69f12b5e41581f0d508d62"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_259.jpg",
+    "bytes": 7617,
+    "sha256": "ab9b4663c05d061301e2d7c884c1fc08dbfdb4808077208ce3208dec2de74011"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_318.jpg",
+    "bytes": 7118,
+    "sha256": "52ac11e7e7130f5c774145d377c275e77842456c82bad3a3a357394c7d535fc1"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_335.jpg",
+    "bytes": 7843,
+    "sha256": "6b5bd7a2f963bb050af8b809e61c542827b6d130f314b9bef2403a27258bf19b"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_338.jpg",
+    "bytes": 2311,
+    "sha256": "ecf6dc5ad467bb291958f28eba5fcfb242b658448fb1ec4cc7cb18bc59b2a97a"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_359.jpg",
+    "bytes": 1955,
+    "sha256": "79fcd5040bc4cbb06abab141931dcc12250f91d8693d60d8f4f9629dc338f3ed"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_365.jpg",
+    "bytes": 1687,
+    "sha256": "46f76a63a5859d3b7616493485d4b4e4d51775ccd1187074d6e5e745e024660a"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_367.jpg",
+    "bytes": 6298,
+    "sha256": "1c02b61f2e22bd042ee026425ec80cf6d7effdc208eaa3864c64382d6a713ed7"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_386.jpg",
+    "bytes": 5664,
+    "sha256": "17647387527ec30d2051013d036b74d01567b512754a64118811bcd36195c5b7"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_389.jpg",
+    "bytes": 7180,
+    "sha256": "d8d8675285e90fdd4fb8b154d6496f16665dbc5d25b4825114d436653bd630f5"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_400.jpg",
+    "bytes": 7539,
+    "sha256": "2b6f2e6cc3f7a153ceebeb96ab120e07a2b53453b95220d88df7434050aaebcf"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_412.jpg",
+    "bytes": 6216,
+    "sha256": "c0aa371ca638367b2121336ed5bea4474464efeb1bd670b1acc8b4f9126eba1b"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_414.jpg",
+    "bytes": 2217,
+    "sha256": "4e23d1edaa7daa8092bb3eee8960c39a57026c6ab3c73ba571b948283875b623"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_445.jpg",
+    "bytes": 4411,
+    "sha256": "26e6b45fc2f9efd45c88076fcdce8c316e0878fa8baa47573242d8a5ebda225b"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_475.jpg",
+    "bytes": 16904,
+    "sha256": "0bb61e3b70bf332fbfc93be59fcfd3cc565e6146ead8bdcf965bc907b35a77a0"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_507.jpg",
+    "bytes": 7027,
+    "sha256": "f25fda5991ecfc4ef544cac9774514bbd0228ed2374ec2d39422e7214072065d"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/assets/final/p0181-0293_549.jpg",
+    "bytes": 6728,
+    "sha256": "bb1e8a3cfe60dd156567fae77e8a8e0a9cea19d1a0269d382782a6905fd4717d"
+  },
+  {
+    "path": "概率论与数理统计/90_缓存/pdf-to-markdown/pdf_概率论与/final.md",
+    "bytes": 760528,
+    "sha256": "5d9ffababacb6698759657c176736e8d867f4e4631a88e506a8852ad662f2060"
+  },
+  {
+    "path": "概率论与数理统计/README.md",
+    "bytes": 1529,
+    "sha256": "ae837d0134a5014cf9144e654f51eb819b6e406cbe0e9bc7746c1329fe992393"
+  },
+  {
+    "path": "概率论与数理统计/课程口径.md",
+    "bytes": 1287,
+    "sha256": "5c47fa51757ae517f29878c9374e00f60158ea57905abeface004a9cac15f200"
   },
   {
     "path": "物理/00_原材料/大学物理学（下册）（第二版） (孙云卿，雷雨) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
@@ -4971,8 +7526,8 @@
   },
   {
     "path": "物理/10_题库/_标签库.md",
-    "bytes": 14844,
-    "sha256": "5beaf5caa72adf232bbd988dde112222068318b7fd7555eaf4c150e4dd0b63e7"
+    "bytes": 15026,
+    "sha256": "6ec2cec8e309452101382dfaf588913134674dee57c894cf830e9fbf36b8a5dd"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_01_质点运动描述一_题面整理.md",
@@ -5216,8 +7771,8 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第01章_运动学_题面整理.md",
-    "bytes": 15807,
-    "sha256": "6ddd8eaf0dd66841df3015ab7f47cda75bc466abba1ac46f1403038eed43371c"
+    "bytes": 23210,
+    "sha256": "987e1c544ee6568c92240301cad2102464b081d94cb46f439156d8dd5c32b673"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
@@ -5231,8 +7786,8 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
-    "bytes": 30117,
-    "sha256": "65ebeeb47b5e2c113e213b3f0370fbcc2719876c1d54f915765bc72e76557a35"
+    "bytes": 31910,
+    "sha256": "4cfa0e98a350a4838619bd524da25f929d6cca50c8fe3d9bc3e06c4d1e7e99a5"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
@@ -5241,13 +7796,13 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
-    "bytes": 17565,
-    "sha256": "b5eec4bae68726df5438d2e42f6690e25f5c4ea14e03e6c35dcd643795df6883"
+    "bytes": 19054,
+    "sha256": "4d8549d971e1f4180011f5650a9f8e1526ad401d986b971bff50fcf8aecbc0f5"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第07章_统计物理初步_题面整理.md",
-    "bytes": 21806,
-    "sha256": "03be20ed5a28eb929de68a8ea01d0853e4767f794c87bfc0a01c76e228d283e2"
+    "bytes": 22973,
+    "sha256": "8ad9d2ea3279965dbae6eef68e450da4670314f983e9e1ecda433b92638ca08e"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
@@ -5318,106 +7873,6 @@
     "path": "物理/10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
     "bytes": 64693,
     "sha256": "60889535e1677cdaf90e17a8d9864984c84a550ca5bd3b8c53292af1ed578faf"
-  },
-  {
-    "path": "物理/20_知识/grounding/第01章_运动学_grounding.md",
-    "bytes": 5675,
-    "sha256": "aa99a31258d0df612b03621a5761fe8451cfd8c4be7be1a4edcdfd24146c59b8"
-  },
-  {
-    "path": "物理/20_知识/grounding/第02章_质点动力学_grounding.md",
-    "bytes": 5504,
-    "sha256": "be3817f8afe1f7fadce2e835c2b33b538c7040c065bfa16b2809ba23f01ac3c3"
-  },
-  {
-    "path": "物理/20_知识/grounding/第03章_刚体力学_grounding.md",
-    "bytes": 5292,
-    "sha256": "4b1ccc03a1f0fafec0e2d7f7b51fc8eabc03a6cb8d3a6cb38136d69e00e2336d"
-  },
-  {
-    "path": "物理/20_知识/grounding/第04章_振动学基础_grounding.md",
-    "bytes": 5616,
-    "sha256": "638aed0dab077e7eec81a73edce1bc9b8b67816cde13ddd412d647ebabcf49b6"
-  },
-  {
-    "path": "物理/20_知识/grounding/第05章_波动学基础_grounding.md",
-    "bytes": 5965,
-    "sha256": "ea43373a99bb59a6875489562db49805e1d1f71cf04c9d7c72eb2340bad828ae"
-  },
-  {
-    "path": "物理/20_知识/grounding/第06章_狭义相对论_grounding.md",
-    "bytes": 6276,
-    "sha256": "97589a3c3a9b1970c0c5682235efe1eebd6f0bca63438350fb93f4ee0b140f67"
-  },
-  {
-    "path": "物理/20_知识/grounding/第07章_统计物理初步_grounding.md",
-    "bytes": 4103,
-    "sha256": "b64b68b2798255cca93afaa7ddb4accb7eda029726da6175b4ac008b88886564"
-  },
-  {
-    "path": "物理/20_知识/grounding/第08章_热力学_grounding.md",
-    "bytes": 4148,
-    "sha256": "ec19aa43e9bed5de8c9143e02cb4500d471b480d4a94421d205a7deb04e3e434"
-  },
-  {
-    "path": "物理/20_知识/grounding/第09章_气体和凝聚态_grounding.md",
-    "bytes": 8713,
-    "sha256": "72cb4cb924f8332251adb88c8eb57eed26f355a690b52d1965c4f7eeeda5bdf2"
-  },
-  {
-    "path": "物理/20_知识/grounding/第10章_静电学_grounding.md",
-    "bytes": 7620,
-    "sha256": "a05d8d5eb58391196ff4b0b7c2150cfacc6c395248822bfdcc1d374b17b911a6"
-  },
-  {
-    "path": "物理/20_知识/grounding/第11章_静磁学_grounding.md",
-    "bytes": 6929,
-    "sha256": "675712cd48ac71a947fad6e3fde3af81b6912c00600682a298e7e9e670c4c150"
-  },
-  {
-    "path": "物理/20_知识/grounding/第12章_变化的电磁场_grounding.md",
-    "bytes": 5285,
-    "sha256": "84ecb138ba42fe5082bc4474cf0f3ddde63a2eaab7ada010950d7c87f22671dd"
-  },
-  {
-    "path": "物理/20_知识/grounding/第13章_光的干涉_grounding.md",
-    "bytes": 7078,
-    "sha256": "98ce4f414ef50749975d2a2e1b49f8f9b5d148cd5ee0d23b796a1f03ac86afa3"
-  },
-  {
-    "path": "物理/20_知识/grounding/第14章_光的衍射_grounding.md",
-    "bytes": 6075,
-    "sha256": "d16d2fea42f56c7345fc26c131528ab1192e80a0e72775eaf15e3846b8a0c752"
-  },
-  {
-    "path": "物理/20_知识/grounding/第15章_光的偏振_grounding.md",
-    "bytes": 5489,
-    "sha256": "baccba8aeaa5ed3a4a9ec3927ec56bb30ea27d9b3500ece0aa938d76df3514cf"
-  },
-  {
-    "path": "物理/20_知识/grounding/第16章_早期量子理论_grounding.md",
-    "bytes": 8247,
-    "sha256": "bdd935c5aaac069765890040e2cac76e1124adc9d1e1973748d36fa91d1d1ae0"
-  },
-  {
-    "path": "物理/20_知识/grounding/第17章_量子力学基础_grounding.md",
-    "bytes": 7036,
-    "sha256": "977ca081650fef2672c5ffb6c8933acad107ebac4ee1d74e9d945fe0dd15f8bb"
-  },
-  {
-    "path": "物理/20_知识/grounding/第18章_固体的能带结构_grounding.md",
-    "bytes": 7631,
-    "sha256": "5ddb8a97e3f8f5badfd9b1dfa9bfa7a5aa364e53b3778ea13e0b03ae465d252e"
-  },
-  {
-    "path": "物理/20_知识/grounding/第19章_粒子物理学简介_grounding.md",
-    "bytes": 4311,
-    "sha256": "a2b6e104e3f24e56945f56420c9581d26fe7493e1e513283b0ec2351df04ddb5"
-  },
-  {
-    "path": "物理/20_知识/grounding/第20章_软物质_grounding.md",
-    "bytes": 3896,
-    "sha256": "99b827b444928776622890f66af4f5297df6bb45606a4f2ec4994bdf65643ee3"
   },
   {
     "path": "物理/20_知识/README.md",
@@ -5525,6 +7980,106 @@
     "sha256": "16c6e450909f7fb5aae60cb064d2e865384d97372d70110fd98e96089e493491"
   },
   {
+    "path": "物理/20_知识/grounding/第01章_运动学_grounding.md",
+    "bytes": 5675,
+    "sha256": "aa99a31258d0df612b03621a5761fe8451cfd8c4be7be1a4edcdfd24146c59b8"
+  },
+  {
+    "path": "物理/20_知识/grounding/第02章_质点动力学_grounding.md",
+    "bytes": 5504,
+    "sha256": "be3817f8afe1f7fadce2e835c2b33b538c7040c065bfa16b2809ba23f01ac3c3"
+  },
+  {
+    "path": "物理/20_知识/grounding/第03章_刚体力学_grounding.md",
+    "bytes": 5292,
+    "sha256": "4b1ccc03a1f0fafec0e2d7f7b51fc8eabc03a6cb8d3a6cb38136d69e00e2336d"
+  },
+  {
+    "path": "物理/20_知识/grounding/第04章_振动学基础_grounding.md",
+    "bytes": 5616,
+    "sha256": "638aed0dab077e7eec81a73edce1bc9b8b67816cde13ddd412d647ebabcf49b6"
+  },
+  {
+    "path": "物理/20_知识/grounding/第05章_波动学基础_grounding.md",
+    "bytes": 5965,
+    "sha256": "ea43373a99bb59a6875489562db49805e1d1f71cf04c9d7c72eb2340bad828ae"
+  },
+  {
+    "path": "物理/20_知识/grounding/第06章_狭义相对论_grounding.md",
+    "bytes": 6276,
+    "sha256": "97589a3c3a9b1970c0c5682235efe1eebd6f0bca63438350fb93f4ee0b140f67"
+  },
+  {
+    "path": "物理/20_知识/grounding/第07章_统计物理初步_grounding.md",
+    "bytes": 4103,
+    "sha256": "b64b68b2798255cca93afaa7ddb4accb7eda029726da6175b4ac008b88886564"
+  },
+  {
+    "path": "物理/20_知识/grounding/第08章_热力学_grounding.md",
+    "bytes": 4148,
+    "sha256": "ec19aa43e9bed5de8c9143e02cb4500d471b480d4a94421d205a7deb04e3e434"
+  },
+  {
+    "path": "物理/20_知识/grounding/第09章_气体和凝聚态_grounding.md",
+    "bytes": 8713,
+    "sha256": "72cb4cb924f8332251adb88c8eb57eed26f355a690b52d1965c4f7eeeda5bdf2"
+  },
+  {
+    "path": "物理/20_知识/grounding/第10章_静电学_grounding.md",
+    "bytes": 7620,
+    "sha256": "a05d8d5eb58391196ff4b0b7c2150cfacc6c395248822bfdcc1d374b17b911a6"
+  },
+  {
+    "path": "物理/20_知识/grounding/第11章_静磁学_grounding.md",
+    "bytes": 6929,
+    "sha256": "675712cd48ac71a947fad6e3fde3af81b6912c00600682a298e7e9e670c4c150"
+  },
+  {
+    "path": "物理/20_知识/grounding/第12章_变化的电磁场_grounding.md",
+    "bytes": 5285,
+    "sha256": "84ecb138ba42fe5082bc4474cf0f3ddde63a2eaab7ada010950d7c87f22671dd"
+  },
+  {
+    "path": "物理/20_知识/grounding/第13章_光的干涉_grounding.md",
+    "bytes": 7078,
+    "sha256": "98ce4f414ef50749975d2a2e1b49f8f9b5d148cd5ee0d23b796a1f03ac86afa3"
+  },
+  {
+    "path": "物理/20_知识/grounding/第14章_光的衍射_grounding.md",
+    "bytes": 6075,
+    "sha256": "d16d2fea42f56c7345fc26c131528ab1192e80a0e72775eaf15e3846b8a0c752"
+  },
+  {
+    "path": "物理/20_知识/grounding/第15章_光的偏振_grounding.md",
+    "bytes": 5489,
+    "sha256": "baccba8aeaa5ed3a4a9ec3927ec56bb30ea27d9b3500ece0aa938d76df3514cf"
+  },
+  {
+    "path": "物理/20_知识/grounding/第16章_早期量子理论_grounding.md",
+    "bytes": 8247,
+    "sha256": "bdd935c5aaac069765890040e2cac76e1124adc9d1e1973748d36fa91d1d1ae0"
+  },
+  {
+    "path": "物理/20_知识/grounding/第17章_量子力学基础_grounding.md",
+    "bytes": 7036,
+    "sha256": "977ca081650fef2672c5ffb6c8933acad107ebac4ee1d74e9d945fe0dd15f8bb"
+  },
+  {
+    "path": "物理/20_知识/grounding/第18章_固体的能带结构_grounding.md",
+    "bytes": 7631,
+    "sha256": "5ddb8a97e3f8f5badfd9b1dfa9bfa7a5aa364e53b3778ea13e0b03ae465d252e"
+  },
+  {
+    "path": "物理/20_知识/grounding/第19章_粒子物理学简介_grounding.md",
+    "bytes": 4311,
+    "sha256": "a2b6e104e3f24e56945f56420c9581d26fe7493e1e513283b0ec2351df04ddb5"
+  },
+  {
+    "path": "物理/20_知识/grounding/第20章_软物质_grounding.md",
+    "bytes": 3896,
+    "sha256": "99b827b444928776622890f66af4f5297df6bb45606a4f2ec4994bdf65643ee3"
+  },
+  {
     "path": "物理/20_知识/主干讲解/第01章_运动学_主干讲解.md",
     "bytes": 11221,
     "sha256": "f9a36cd7cc14ed0cc84cb4e5183afffb350d6036ee1382ceb8637b6f806f1bc5"
@@ -5626,18 +8181,23 @@
   },
   {
     "path": "物理/40_派生视图/大物上/README.md",
-    "bytes": 1820,
-    "sha256": "a79dad3d726ed8a3b377d9b9eb2a424e74e9a69ff12fabdd7b4ee0d9af0dddd1"
+    "bytes": 2186,
+    "sha256": "075eb6eed0d4212392916e964cd0f793e7952859524596766376a434bf688e78"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/reading-320px.png",
-    "bytes": 80323,
-    "sha256": "7f26f9514c99c0adbd59855c16bd2705983f227bd3d4086af85ee0f5a2d2d1a6"
+    "path": "物理/40_派生视图/大物上/上册入库补齐_2026-11-07.md",
+    "bytes": 3898,
+    "sha256": "be155cc474df8d124d9e9fa37517cedae6fb7ebdd58e1ceab2a5932fbf21ed55"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/README.md",
     "bytes": 9298,
     "sha256": "ffd7199ee5f61741c4912e548438fe2c174541f820a39bc78dc833066ac20d38"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/reading-320px.png",
+    "bytes": 80323,
+    "sha256": "7f26f9514c99c0adbd59855c16bd2705983f227bd3d4086af85ee0f5a2d2d1a6"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/source-001.png",
@@ -5675,14 +8235,14 @@
     "sha256": "395f72e9cb698f484e51a021578e118f7027f603a59590b61ed931a82308b786"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/reading-320px.png",
-    "bytes": 1744781,
-    "sha256": "ce345655651a2240027fd918ae71ae14647c20499edc3526fc735874a4eb7d89"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/README.md",
     "bytes": 61285,
     "sha256": "071b83014c68b236866ae9fe6029fc73daa44ec7d128627bcac39573798fd086"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/reading-320px.png",
+    "bytes": 1744781,
+    "sha256": "ce345655651a2240027fd918ae71ae14647c20499edc3526fc735874a4eb7d89"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/02_动力学与守恒/source-001.png",
@@ -6075,6 +8635,11 @@
     "sha256": "a80cee5d551d30c4a3045a476241609df1c38994d4597292d90cf424b31d2b65"
   },
   {
+    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/README.md",
+    "bytes": 33893,
+    "sha256": "b121999c77e85bd3678cb53c1a4617b7c56f6e1e64eff427d2901ba2c53d7eab"
+  },
+  {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/crop-review-034.png",
     "bytes": 250440,
     "sha256": "779c4560cf137bbafac18bf0feaae85573066c8441cc8f9fae46d379c4c5cf55"
@@ -6083,11 +8648,6 @@
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/reading-320px.png",
     "bytes": 937949,
     "sha256": "c531b6628523b628de5a624537423232b58792f99ed00d407eaccf61f1afb22b"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/README.md",
-    "bytes": 33893,
-    "sha256": "b121999c77e85bd3678cb53c1a4617b7c56f6e1e64eff427d2901ba2c53d7eab"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/03_角动量与刚体/source-001.png",
@@ -6315,14 +8875,14 @@
     "sha256": "5a53aee8683a30d41106b422de34048923f002a838be7867c0161e64f00091c4"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/reading-320px.png",
-    "bytes": 707163,
-    "sha256": "f04b8aae0967f69078946e0ec4d9b20ebe6ad9549bd93935b85dbdfc69711864"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/04_振动/README.md",
     "bytes": 39115,
     "sha256": "6fb3bf79f124d0bdece097858f77effced44b3e4e1506491d6825cab9e953f14"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/04_振动/reading-320px.png",
+    "bytes": 707163,
+    "sha256": "f04b8aae0967f69078946e0ec4d9b20ebe6ad9549bd93935b85dbdfc69711864"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/04_振动/source-001.png",
@@ -6630,6 +9190,11 @@
     "sha256": "70a83ab49fa91c446e7b1ee24e2cfa76861c2bf96667015072a901d5fee4c1cc"
   },
   {
+    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/README.md",
+    "bytes": 52016,
+    "sha256": "633f005621ad59142a4708991b8f477ef55cff490e0fc95f7aa4eec316d7ecea"
+  },
+  {
     "path": "物理/40_派生视图/大物上/上册逐章/05_波动/reading-320px.png",
     "bytes": 734446,
     "sha256": "b016c493c274dd2a20b0eac57d8f8e38b63e2346c5277e9e0c9fea8d8920343a"
@@ -6648,11 +9213,6 @@
     "path": "物理/40_派生视图/大物上/上册逐章/05_波动/reading-part-3.png",
     "bytes": 145096,
     "sha256": "6dfe3807278562386101c82c33f85bfeec4738ed99d3bf84427d1ab963ca85e4"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/05_波动/README.md",
-    "bytes": 52016,
-    "sha256": "633f005621ad59142a4708991b8f477ef55cff490e0fc95f7aa4eec316d7ecea"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/05_波动/source-001.png",
@@ -7055,14 +9615,14 @@
     "sha256": "0c979760400ad5a83c4fc4a5d2c115211040eb06aab0f080c32f541fbb9c5e80"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/reading-320px.png",
-    "bytes": 70847,
-    "sha256": "13ead5bcd20c19b6ef63871184203c5ebc4ecbe56883d1d5a595d26c1d140141"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/README.md",
     "bytes": 4087,
     "sha256": "79d3c18e2d6c74b8c4544363c1284ff207cc225139acd3d76a993fd6333b66ba"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/reading-320px.png",
+    "bytes": 70847,
+    "sha256": "13ead5bcd20c19b6ef63871184203c5ebc4ecbe56883d1d5a595d26c1d140141"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/06_相对论/source-001.png",
@@ -7085,6 +9645,11 @@
     "sha256": "8eda02da987db13d6f953cfd1790edc46354297e9b73b1fa27677482c12b2391"
   },
   {
+    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/README.md",
+    "bytes": 38796,
+    "sha256": "bec4c2bac5371612d474d2ae6b1932688b019e7698f8b231b9052d9c53d2afd3"
+  },
+  {
     "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/reading-320px.png",
     "bytes": 784443,
     "sha256": "a9974e04c2d52d3406f8485aeb631c0b62198f9509cf12cc1de304919e7518d4"
@@ -7103,11 +9668,6 @@
     "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/reading-part-3.png",
     "bytes": 194529,
     "sha256": "0ad166d971f0d4f66d45017def5691a35784eacbb799c21973671f6494c4fc48"
-  },
-  {
-    "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/README.md",
-    "bytes": 38796,
-    "sha256": "bec4c2bac5371612d474d2ae6b1932688b019e7698f8b231b9052d9c53d2afd3"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/13_干涉/source-001.png",
@@ -7365,14 +9925,14 @@
     "sha256": "431397799704e4e03af547a23c89fac6dd040bf7ee743128fa156938af8d3393"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/reading-320px.png",
-    "bytes": 211038,
-    "sha256": "87b353212731149e9dc045ed38874d7b70320d474aaa2e015e2cb97c843f6c74"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/README.md",
     "bytes": 11859,
     "sha256": "df1f10cecc4d41878b18ae950b1431cc5176e17f2e2e6c8ea69410db66811cf4"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/reading-320px.png",
+    "bytes": 211038,
+    "sha256": "87b353212731149e9dc045ed38874d7b70320d474aaa2e015e2cb97c843f6c74"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/14_衍射/source-001.png",
@@ -7435,14 +9995,14 @@
     "sha256": "3dc6de6aa232d281511283d9f0f4ecf236e736450d6782b28bccb86e92b68b55"
   },
   {
-    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/reading-320px.png",
-    "bytes": 343863,
-    "sha256": "a381e4ec1212633a2021b3c376891edfdd3b6c02ad61ddd88161f7134cb61c87"
-  },
-  {
     "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/README.md",
     "bytes": 14011,
     "sha256": "be59c4198e00352246db736c8dd623485031416a638f5a5dcccf5bc8c371aa0f"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/reading-320px.png",
+    "bytes": 343863,
+    "sha256": "a381e4ec1212633a2021b3c376891edfdd3b6c02ad61ddd88161f7134cb61c87"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/15_偏振/source-001.png",
@@ -7516,8 +10076,8 @@
   },
   {
     "path": "物理/40_派生视图/大物上/上册题面复核_2026-11-06.md",
-    "bytes": 7979,
-    "sha256": "105be83c18a103eb753724fa0893aba8843f85cdfbd372b32e9c16eac9d95985"
+    "bytes": 9017,
+    "sha256": "c48865c08154a5a16386da8384c556664d5bc5c89702da08891bb974412be96b"
   },
   {
     "path": "物理/40_派生视图/大物上/今年期末复用高可能题单.md",
@@ -7545,14 +10105,14 @@
     "sha256": "20b65f7a2c6373830734e7bfb7eff4505d1f78d5bc3d3884a3d8fb928186318a"
   },
   {
-    "path": "物理/40_派生视图/大物上/图像重绘批01/reading-320px.png",
-    "bytes": 59462,
-    "sha256": "621663713aef90abdd4a3d62ab5716d3e715f3aa8340f2a93a8453303123d5f8"
-  },
-  {
     "path": "物理/40_派生视图/大物上/图像重绘批01/README.md",
     "bytes": 9805,
     "sha256": "4a4ee9e16d4e89775e5aeab664a4d644a1e5361b70616875b09c480497fa0ee2"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像重绘批01/reading-320px.png",
+    "bytes": 59462,
+    "sha256": "621663713aef90abdd4a3d62ab5716d3e715f3aa8340f2a93a8453303123d5f8"
   },
   {
     "path": "物理/40_派生视图/大物上/图像重绘批01/source-090.png",
@@ -10941,8 +13501,8 @@
   },
   {
     "path": "物理/README.md",
-    "bytes": 2738,
-    "sha256": "2dfc00ac9f7ee145ea0529f86a2c05ee754922bb01ed66946b4b53dfd6e826c7"
+    "bytes": 3062,
+    "sha256": "00453b688306168799afae0f1bc241c5a8956e30570fdd9de4c3ea14ce33eeb4"
   },
   {
     "path": "物理/大学物理习题册 (上)(2019.3.4) (2) (1).pdf",
@@ -11675,6 +14235,11 @@
     "sha256": "9d60445a43c9e9456d3693eaa5f902eff2b91f7c85a0ed937696bdff9ea2e002"
   },
   {
+    "path": "电路分析/10_题库/README.md",
+    "bytes": 1712,
+    "sha256": "6f5f488dc5c1f038044e710eb622e5caf3eabe52d602e936900663f064d2d94c"
+  },
+  {
     "path": "电路分析/10_题库/_标签库.md",
     "bytes": 7105,
     "sha256": "a5076f15ddc2bd8bef539c339caaf1b0211ca74d3e87928316a97e50cf29f531"
@@ -12028,6 +14593,11 @@
     "path": "电路分析/10_题库/assets/ch9_dc_p300_fig_e9_17.jpg",
     "bytes": 18861,
     "sha256": "b7d027072cbb95f1d407dd5437d5332f6a72c5211aa939a5ef9511cf5f31ffdc"
+  },
+  {
+    "path": "电路分析/10_题库/assets/chapter-redraw/README.md",
+    "bytes": 1901,
+    "sha256": "4d2839d8318a9a50e9d8dbab6ddc2b6535904a3cae2d3521a2aa925da729cf34"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch03/F001.svg",
@@ -13065,11 +15635,6 @@
     "sha256": "9db679a1a58c3904c9aa500f5349ca5df8655779177e5742adf1dd7833c8bd68"
   },
   {
-    "path": "电路分析/10_题库/assets/chapter-redraw/README.md",
-    "bytes": 1901,
-    "sha256": "4d2839d8318a9a50e9d8dbab6ddc2b6535904a3cae2d3521a2aa925da729cf34"
-  },
-  {
     "path": "电路分析/10_题库/assets/chapter-redraw/requirements.txt",
     "bytes": 68,
     "sha256": "6e6c27ef338b76e9a89d058e7dcc49254d70db320dd4275d875604983b9ae455"
@@ -13228,6 +15793,11 @@
     "path": "电路分析/10_题库/assets/simulation/sim-6-6641f4f03a5f.png",
     "bytes": 50322,
     "sha256": "6641f4f03a5f73503e18cf49a5a5faf076f15dd937bb6036fd4250f44aff8e94"
+  },
+  {
+    "path": "电路分析/10_题库/assets/simulation/sim6-ideal-ac.svg",
+    "bytes": 88577,
+    "sha256": "68ea6a8f31dcf20cc84f8610d52c26b35e0a37cb538d2271499c422e58d23b08"
   },
   {
     "path": "电路分析/10_题库/assets/电子线路期末复习/97e8d7c74250bd246764d4f2ccd8ef25f7fb43f95ce2e9f69c51c2c0cadd67db.jpg",
@@ -13490,11 +16060,6 @@
     "sha256": "163e41f39e8da610b91858c4f05e27a7b1bd7bed66c3ed8d890cc7aae55f42b8"
   },
   {
-    "path": "电路分析/10_题库/README.md",
-    "bytes": 927,
-    "sha256": "4819239ece41a9da76c92a28ab8da8bc60d8c5be3cd57bc58728d83c33846e1d"
-  },
-  {
     "path": "电路分析/10_题库/仿真作业1_题面整理.md",
     "bytes": 1446,
     "sha256": "38bd6c405ec49feea3889bbf4f2fd16a446461962b94dbf9fd865b64d28c1305"
@@ -13516,13 +16081,13 @@
   },
   {
     "path": "电路分析/10_题库/仿真作业6_题面整理.md",
-    "bytes": 1283,
-    "sha256": "30243f9c98f0426efcae8c0ca56bd8c3b7f7523bd999e68824bad42daecc8264"
+    "bytes": 3395,
+    "sha256": "eec9b641bee13724da1b3a0caeb08b470b07e55ae73360c9bef4cfe2d09682b7"
   },
   {
     "path": "电路分析/10_题库/仿真作业入库说明.md",
-    "bytes": 3905,
-    "sha256": "64f4110ec1b5b80ec682e2174823c418ab8be0f89fd2c37e534c403af17fe250"
+    "bytes": 4304,
+    "sha256": "c69e0d2f6cbcff82657976d343489303008eb31f336113e4e5b1cedb1d9a0a1e"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2015-2016模拟电路期末A_5-9章题面整理.md",
@@ -13561,8 +16126,8 @@
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理.md",
-    "bytes": 5493,
-    "sha256": "489a3157c5d95ae1af8eba89a4b11e94ef7997fa0cd091a83b73178daad9f37a"
+    "bytes": 17781,
+    "sha256": "620dad25b2d52d27eb0982faba13328f796c2d67cf21857b39644cc062e2714f"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理.md",
@@ -14706,18 +17271,18 @@
   },
   {
     "path": "电路分析/10_题库/电子线路期末复习_题面整理.md",
-    "bytes": 20795,
-    "sha256": "f8559f767102960bb4df40fe181b13d8d1237d89f55008f3bc4fed2cb820b15b"
+    "bytes": 43558,
+    "sha256": "7658a0263504d3bf1b72067d8631019a0ae058f52e9f30ba1abf42da9285fc04"
   },
   {
     "path": "电路分析/10_题库/第5章课后习题_覆盖核查.md",
-    "bytes": 5928,
-    "sha256": "8642fb9b2d6f6ef0b76b7bacdda0fc39e8b7680b810e3f0b5e9b200b7c750617"
+    "bytes": 6202,
+    "sha256": "84c847a9999b0d8be2b922af002a5f4a42c244397e5489d6efbc3eec99f75423"
   },
   {
     "path": "电路分析/10_题库/第5章课后习题_题面整理.md",
-    "bytes": 6737,
-    "sha256": "116f5b54d31d8d41caefba706caab8a63df375e50cd37bd3004136f0a236fc0b"
+    "bytes": 17468,
+    "sha256": "39774f4dfe3ad54f055535c0ddb9a05a12010f1f05252d22b625a3fc41b44459"
   },
   {
     "path": "电路分析/10_题库/第6章课后习题_题面整理.md",
@@ -14741,8 +17306,8 @@
   },
   {
     "path": "电路分析/20_知识/README.md",
-    "bytes": 5077,
-    "sha256": "0ed718449ffd7626bc1f914ab390511c3d411abcb8806b326a84f6b4dc848418"
+    "bytes": 5310,
+    "sha256": "78c8eeea2295dec91feaf949dc2788239b8b4532c5243a242433c58b0fca2cb2"
   },
   {
     "path": "电路分析/20_知识/图示/06_01_共射固定偏置.jpg",
@@ -14926,18 +17491,23 @@
   },
   {
     "path": "电路分析/40_派生视图/既有题库收尾核验_20261106.md",
-    "bytes": 16827,
-    "sha256": "5f173ee4a0b31d1cc6f98e5ecc263379cdafb8af8efda8484d712fe0c9a9a860"
+    "bytes": 17319,
+    "sha256": "acde65580566a9426fdac7419d88157f11ceb3286d3f4435ce9ddca87d845acd"
   },
   {
     "path": "电路分析/40_派生视图/考频矩阵.md",
     "bytes": 33968,
-    "sha256": "a6f45f2be0b72ef873d38f4f60a9179188bdbb0f44ee60d6ac86c64e1c248f11"
+    "sha256": "191fd9a02612549427041d0f6f9136b89a8cf485894eed1cfe9d943650027e38"
+  },
+  {
+    "path": "电路分析/40_派生视图/解答完成索引.md",
+    "bytes": 7641,
+    "sha256": "a7b08a3d045059dc61b2cafe92170ceb4ac9b7368642aa81776dd2de67cd64e1"
   },
   {
     "path": "电路分析/40_派生视图/逐章图像重绘/全科重绘进度与待确认.md",
-    "bytes": 3279,
-    "sha256": "ed7c2c7ebe2ad193c5ff69b3bb2569abed62aaadd9601b9b1a306ad571cfc6d6"
+    "bytes": 3369,
+    "sha256": "7f2e6b84b28a1baae3c7c17bc42a1c2b464fc4d237e39427ae1a669893624c21"
   },
   {
     "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/01c695fa3fbad29fabbe499e9643ae21cf8d50d186d24f9fa5c7a7a9e36475f5.jpg",
@@ -15057,7 +17627,7 @@
   {
     "path": "电路分析/90_缓存/s2-frequency-analysis.json",
     "bytes": 268873,
-    "sha256": "c3e27a8f04d6ea1003d396a8ec2dea7d23827cf8da12ac3f0c12d756f520156f"
+    "sha256": "086470cf0dd77a4d569e1d9b335584d3526b9cc39e193712accbb24a8e0f19de"
   },
   {
     "path": "电路分析/90_缓存/s8-solo-20260909/chapter06-visual-sources.json",
@@ -15078,5 +17648,1375 @@
     "path": "电路分析/90_缓存/s8-solo-20260909/chapter09-visual-sources.json",
     "bytes": 2656,
     "sha256": "1cd7fc7a8fd61441122a4d7e6c7abc1d5adc5b009b5514357d89e89e03c4c2e3"
+  },
+  {
+    "path": "电路分析/README.md",
+    "bytes": 1682,
+    "sha256": "2d8149a887c9296f98ae67b8e04e6f8f6b07bc95f156f54bbbdd2540fae21ce8"
+  },
+  {
+    "path": "结构化大学物理实验/00_原材料/结构化大学物理实验.pdf",
+    "bytes": 157610566,
+    "sha256": "80c17882b12f2f54c8e144f2e559e32d502e26ca6a0cc48c196797efb92a7189"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/README.md",
+    "bytes": 2772,
+    "sha256": "bd2fc7fb7f4cffbf533263d44891c3e8d4927c66dfa74aac0cb9cb49e49aff60"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/_标签库.md",
+    "bytes": 7890,
+    "sha256": "347fcf48b8422ae2f39c5222d6f5db34df4ea417677a9d490e797163c550d1d6"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/assets/图11.3-3.jpg",
+    "bytes": 29952,
+    "sha256": "2e76780259ab91128f751c4917145b351cf7d3e3077845704192b35d8dc29400"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/assets/第1章_习题11_拟合.svg",
+    "bytes": 36422,
+    "sha256": "b806f1a87461ee05678a7be20875d058f9cd25f968ff7095a22ad6bb3dd5b9cb"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/assets/第1章_习题12_拟合.svg",
+    "bytes": 39217,
+    "sha256": "cddc12e71969783e1dde61c4c025a4888f4af43e84d0c97a341e54f7f5c4533c"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/第01章_误差与数据处理_习题_题面整理.md",
+    "bytes": 21233,
+    "sha256": "be99a87003213e213bac447ba604f877e38711cd65840a6af18ced932b254e21"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/第02章_时间的测量_思考题_题面整理.md",
+    "bytes": 6933,
+    "sha256": "8e5537403bec76e7571fecacff482b3cdffd289fe650848dae34a1821de4e866"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/第03章_长度与角度的测量_思考题_题面整理.md",
+    "bytes": 17629,
+    "sha256": "dc2f04e76d92003622ecf68da26c600a5c456dd346a13442da9a14f088440358"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/第04章_相互作用的测量_思考题_题面整理.md",
+    "bytes": 10974,
+    "sha256": "cd915aeb4cb38d7f0cfb17d5bb664c991a5b294e96548846838451c96dfffdd8"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/第05章_场的测量_思考题_题面整理.md",
+    "bytes": 20300,
+    "sha256": "ae2f5be36c796e6527d44a10a1763d180a3b448f37ab5590301908449db6e45d"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/第06章_物理常量的测量_思考题_题面整理.md",
+    "bytes": 4909,
+    "sha256": "3584446c696a663bdc897de705470c9908fb9e30e4e3903ac36b3c2e6c588bc1"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/第07章_随机运动的研究_思考题_题面整理.md",
+    "bytes": 2945,
+    "sha256": "489c0f69b06308f932cf822e2a234d435013219dbacabc86f1f98809f7dc6f54"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/第08章_混沌现象的研究_思考题_题面整理.md",
+    "bytes": 2732,
+    "sha256": "20894c4287de0b52eca0c5ab835a41742be9d6eca98320ff205f23b70cf67542"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/第09章_数值模拟实验_思考题_题面整理.md",
+    "bytes": 2534,
+    "sha256": "b86baad77c76aadba66961fcf98f4e9bc995ae1288cf987c6df614756d0fe270"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/第10章_信息物理实验_思考题_题面整理.md",
+    "bytes": 9072,
+    "sha256": "43da332e2a87bf675cb2ed33ed1fff36ff0e7a203c7f8b66e3eaa2f0cb38f78a"
+  },
+  {
+    "path": "结构化大学物理实验/10_题库/第11章_设计与研究式实验_思考题_题面整理.md",
+    "bytes": 36218,
+    "sha256": "b38aae29630231a4a33dbf2957ed63631f6ce83a3b22519f14089e8b2414c160"
+  },
+  {
+    "path": "结构化大学物理实验/README.md",
+    "bytes": 1730,
+    "sha256": "65fdf4c836c85ca1ccb4df80d225c1c7f105c5aa2d47a4e1124d4776b7653047"
+  },
+  {
+    "path": "结构化大学物理实验/课程口径.md",
+    "bytes": 338,
+    "sha256": "6fa15358011b7cf676ad7cc888c6e11d5f9e411fc4a477bdce85cfe8f634398f"
+  },
+  {
+    "path": "软件技术基础/.gitattributes",
+    "bytes": 55,
+    "sha256": "7ef1b126eb7a8b97a0b6d28e9623213befe7baee74a7051ac30fffaac25846a2"
+  },
+  {
+    "path": "软件技术基础/00_原材料/软件技术基础_第4版_扫描版.pdf",
+    "bytes": 419152349,
+    "sha256": "49ef8f8ef681b4b2286bb5912261dce8f055bcb4ab538718e39777556a38697a"
+  },
+  {
+    "path": "软件技术基础/10_题库/_标签库.md",
+    "bytes": 6369,
+    "sha256": "c5a0c9f60a81d102c87f0db22abea6f3465a1771a2b924170e9f03537f99405d"
+  },
+  {
+    "path": "软件技术基础/10_题库/assets/教材习题1_图1.50-1.51.jpg",
+    "bytes": 23178,
+    "sha256": "0ca5fe0663e068fa13b84bb508c97dfafb8e25d2266306a08224374d95723c32"
+  },
+  {
+    "path": "软件技术基础/10_题库/assets/教材习题1_图1.52.jpg",
+    "bytes": 55056,
+    "sha256": "05320e896320bac801a58a04e1c5bd62812340311722d5778ba5bc8f4ce2f3e6"
+  },
+  {
+    "path": "软件技术基础/10_题库/assets/教材习题2_图1.jpg",
+    "bytes": 10309,
+    "sha256": "b49677cc15d3a50065720c3929feab5e58ccc0cf794e8e5e21b9f223cdcc28d3"
+  },
+  {
+    "path": "软件技术基础/10_题库/assets/教材习题2_图2.jpg",
+    "bytes": 16463,
+    "sha256": "859234769cbf8a6f0140ef1768aa32ce2962cf1c8fa2ded0c21147cbdbd72dfe"
+  },
+  {
+    "path": "软件技术基础/10_题库/教材习题1_题面整理.md",
+    "bytes": 44699,
+    "sha256": "052a0f4068ad3e8cf348999a82bc4f51ebafaf351e6c8e3e644e525af329243d"
+  },
+  {
+    "path": "软件技术基础/10_题库/教材习题2_题面整理.md",
+    "bytes": 68818,
+    "sha256": "2ddc88dbf199cb10c45c5c6021f08cbedd730b9d5d37f1cf4a3cb8ec663fd4db"
+  },
+  {
+    "path": "软件技术基础/10_题库/教材习题3_题面整理.md",
+    "bytes": 29179,
+    "sha256": "29ba330ddaf2df3710326390b648b88afb6d0cdeef4784747cc787258a64fc8a"
+  },
+  {
+    "path": "软件技术基础/10_题库/教材习题4_题面整理.md",
+    "bytes": 25619,
+    "sha256": "83c9a2bf0aa9245b00b095360987d8050bd4135bba0667b9939813dbe808f53a"
+  },
+  {
+    "path": "软件技术基础/10_题库/教材习题5_题面整理.md",
+    "bytes": 32419,
+    "sha256": "f1f8e35ecaf2fc634d9e3e64a76cd6664c8c53198fbfdb6cfc1c423111a88d7f"
+  },
+  {
+    "path": "软件技术基础/20_知识/README.md",
+    "bytes": 2091,
+    "sha256": "94079eb9bebb27e408194f28db12224597ffccd84d17a69a6f23173839ce4692"
+  },
+  {
+    "path": "软件技术基础/20_知识/S10启动卡/第01章_数据结构_S10启动卡.md",
+    "bytes": 1605,
+    "sha256": "97fce2b6a43e6269f2a4db5bf9c6fb49e6345a0b9927eef406e68775f992ed90"
+  },
+  {
+    "path": "软件技术基础/20_知识/S10启动卡/第02章_操作系统_S10启动卡.md",
+    "bytes": 1843,
+    "sha256": "2e8e8600dfc987068ae1f57e945d2f0c76ac70fa40a4fb5d3bc99c64c1344275"
+  },
+  {
+    "path": "软件技术基础/20_知识/S10启动卡/第03章_软件工程方法_S10启动卡.md",
+    "bytes": 1856,
+    "sha256": "d2c8c1e2e2bcb33adf93841264fcfe7c4e7eb64f34a77b8e90c948acc155a8d8"
+  },
+  {
+    "path": "软件技术基础/20_知识/S10启动卡/第04章_数据库技术_S10启动卡.md",
+    "bytes": 1531,
+    "sha256": "f88a4485308b9488929e355f6b09482af3d5b9be80b7f84a78fba1759e3960b9"
+  },
+  {
+    "path": "软件技术基础/20_知识/S10启动卡/第05章_网络技术基础_S10启动卡.md",
+    "bytes": 1474,
+    "sha256": "c6b33ab540a83d7114cbe99d6694e960ef1497f6ef75883425293037030151fa"
+  },
+  {
+    "path": "软件技术基础/20_知识/grounding/第01章_数据结构_grounding.md",
+    "bytes": 3079,
+    "sha256": "112784c1b7720fcf37a0c6ea80945afb3665a4c8649e4b1bb57a42f351578096"
+  },
+  {
+    "path": "软件技术基础/20_知识/grounding/第02章_操作系统_grounding.md",
+    "bytes": 3408,
+    "sha256": "43a86450dadfbe7fc70b85cb5a545900882f23d018b8951f89789573f3858070"
+  },
+  {
+    "path": "软件技术基础/20_知识/grounding/第03章_软件工程方法_grounding.md",
+    "bytes": 3351,
+    "sha256": "64cb29f8c5b33eb0052aca8e21236e9261cecf3c86808c2fc21cb5f9faf86fd4"
+  },
+  {
+    "path": "软件技术基础/20_知识/grounding/第04章_数据库技术_grounding.md",
+    "bytes": 3234,
+    "sha256": "3c116b249a68d55e8ec7098e0d6c018aa79383ede98c8b932ae78085daf28acc"
+  },
+  {
+    "path": "软件技术基础/20_知识/grounding/第05章_网络技术基础_grounding.md",
+    "bytes": 3320,
+    "sha256": "e10aabe2b12852b6e2bb70f6b6bcd99ae75eb2aefd3ac965d8367d4df420a9ff"
+  },
+  {
+    "path": "软件技术基础/20_知识/主干讲解/第01章_数据结构_主干讲解.md",
+    "bytes": 13874,
+    "sha256": "ebda5b78a8d01587f2df98893a62f96f937e511dbc7363db0f22d9a8c0708e3e"
+  },
+  {
+    "path": "软件技术基础/20_知识/主干讲解/第02章_操作系统_主干讲解.md",
+    "bytes": 13641,
+    "sha256": "11f73e149efc04afbd41bcfd2f3869d2a47fa2f8a20cf8958fb12261e0d815ca"
+  },
+  {
+    "path": "软件技术基础/20_知识/主干讲解/第03章_软件工程方法_主干讲解.md",
+    "bytes": 14061,
+    "sha256": "b5d23c2246d3117c401fec4db83c13db708f4c32b526cb97fca1d7d1fb5beddf"
+  },
+  {
+    "path": "软件技术基础/20_知识/主干讲解/第04章_数据库技术_主干讲解.md",
+    "bytes": 13577,
+    "sha256": "03b7b63d4aee4138215c8a48138d4e8af5a3c1cad479c41c705a27ca2a03b9bf"
+  },
+  {
+    "path": "软件技术基础/20_知识/主干讲解/第05章_网络技术基础_主干讲解.md",
+    "bytes": 13513,
+    "sha256": "ac80ced20af7e06a77a9624cd9ce5faa10c328aa870d90345ec64ea290fedb39"
+  },
+  {
+    "path": "软件技术基础/40_派生视图/教材习题解答完成索引.md",
+    "bytes": 4025,
+    "sha256": "fbdd8521d1fa16ff0a0f72ebedaf857afc9b4b7b711a08969594763a189ed023"
+  },
+  {
+    "path": "软件技术基础/40_派生视图/教材知识点题号索引.md",
+    "bytes": 23947,
+    "sha256": "ff348d2218be50ee2836395d6956ebcb98fcef793b6c44dd7ad7b850487da44f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_001.jpg",
+    "bytes": 9732,
+    "sha256": "25fcd6b27fb68a6b1751cf5c889828e2e37f22a28b4668d882fa26fbaa13edc7"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_002.jpg",
+    "bytes": 26833,
+    "sha256": "d27066973a854a5ea972ccc057968a541df2d75ca8c87a74d76d4f4bab3b896a"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_007.jpg",
+    "bytes": 5068,
+    "sha256": "164df89ee9420f46ace8621da7cb7868c91ab0515099b23c2ea6c941aa5e1f20"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_008.jpg",
+    "bytes": 66087,
+    "sha256": "dad9e4e595269d150bcaa749f14fb63d23985c3589dd3b794cfc7fdb796c730a"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_009.jpg",
+    "bytes": 18108,
+    "sha256": "ad7984997606400b99a51ef28d9b7c0da39a7453c3187b3eed5fbc6f2ee10942"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_010.jpg",
+    "bytes": 44442,
+    "sha256": "69c549047550d13ad326e8c1663b28bccf5feeb1947a6bb5f9a5e4e4f52d1c35"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_011.jpg",
+    "bytes": 32491,
+    "sha256": "a10ec757f52b0daf33bf6917b1cc8e55d836cbb47acb5b0cea5eae011e37afaf"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_013.jpg",
+    "bytes": 59104,
+    "sha256": "b801e975f153bce1eb1c9a0194a994980c781681ba5d50aba38f1b6a59257e4e"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_014.jpg",
+    "bytes": 42458,
+    "sha256": "dab8cc57f8580ccfcc59d230b5c3a7b1798cbe10cdac6eb603ece8ab76ee0a0f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_015.jpg",
+    "bytes": 37921,
+    "sha256": "9eaaf712d907e047da3cf7050e0354656d39f1e49b4e5cf03634efc008b31593"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_016.jpg",
+    "bytes": 3399,
+    "sha256": "9ae10b6348b119113dee68a1b9ff0a0435488f6fb80308cba446dabea1073837"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_018.jpg",
+    "bytes": 7106,
+    "sha256": "6de47b75fb352f676cfbba2493d9187a58322a9f3c4979cf097f06ab70ffc8b5"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_019.jpg",
+    "bytes": 34257,
+    "sha256": "f63d844c37b24c47a58618e191dc86a1f93f03977bbe2b7aef0a8b6947f26af8"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_021.jpg",
+    "bytes": 15055,
+    "sha256": "048fd2466ed0bf15ac41ec2ef7c8c92a28a1e1f57941c1dcfe52dd96f33567af"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_023.jpg",
+    "bytes": 6617,
+    "sha256": "f55871e170a89e3d4c30c26abd3673854a2e009de97c97bb44a91bbd87198416"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_024.jpg",
+    "bytes": 13594,
+    "sha256": "9789d988ab71c57fc93b5d0caf52921ec263c19a2d61a446efa1208cbf5ca8d3"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_027.jpg",
+    "bytes": 23799,
+    "sha256": "3dea389f853125a9af7b38128d7643e3895ababac9ae62bb7c8057028ce7725a"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_028.jpg",
+    "bytes": 9077,
+    "sha256": "ebb931e7ac9b39e2007bb6ef7293018418ab16f4cf59bb9d1500cde69786add7"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_029.jpg",
+    "bytes": 2049,
+    "sha256": "a15d712132b274fdb93b6c9b470cc8e0b27cdf5a82834063b9828b0d9ac001ed"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_030.jpg",
+    "bytes": 10309,
+    "sha256": "b49677cc15d3a50065720c3929feab5e58ccc0cf794e8e5e21b9f223cdcc28d3"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_031.jpg",
+    "bytes": 21981,
+    "sha256": "be75ef725d855ecffbfc258da2927277660fa6d613a6c3559aa473ea0e5fb1cd"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_032.jpg",
+    "bytes": 22557,
+    "sha256": "9413e356923ac9e0e7a7abc345a7f2a42c4eefe1a6375fc38b8dba3755fb21d8"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_034.jpg",
+    "bytes": 9968,
+    "sha256": "ba2bc2d5e0aa7cbc8a90615728772803773a7579ebb1c106d59517c8742cea38"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_036.jpg",
+    "bytes": 9821,
+    "sha256": "9a684fdc32fd8506d0b561fa0acbb97ee40bd9612a2ffc14aeef2c1ff05e2a0d"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_037.jpg",
+    "bytes": 13469,
+    "sha256": "23f6b19c078d8311e71fa7557e2973d03356cc11b868b65a141dc6a018f58fe0"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_040.jpg",
+    "bytes": 71646,
+    "sha256": "9483b617aaa23bf6dff45b08c6c2fb5a321882ab82db5ea0170032209301027b"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_042.jpg",
+    "bytes": 6462,
+    "sha256": "8b5d92b881b86db69b8cc62ffc9429f3a089f59688983ce3bfccc75aac79a147"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_043.jpg",
+    "bytes": 35217,
+    "sha256": "332ebf55f7821602b1248e4fc46bff658f8982036b9b1e2f6f1a8d24319d5ee9"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_044.jpg",
+    "bytes": 65762,
+    "sha256": "4c764271fe227ace2ed999468b7236273161ca7407bdec7833aded941efa7a39"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_045.jpg",
+    "bytes": 78743,
+    "sha256": "13dacd4dea3b09331ebe6595cc892ee6881fbe5c5d06ce5125e7f4af86b61f0f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_046.jpg",
+    "bytes": 19236,
+    "sha256": "02cadd9bc6231fa2bdd5c9b74019cdb72dc5e23d9146a0fb23176e49d25f069b"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_047.jpg",
+    "bytes": 18738,
+    "sha256": "ebfbeb505dd456dfa8c2f92cf2443e3bb4dd4d2ec53884cb10c57efa48cb1c42"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_049.jpg",
+    "bytes": 45040,
+    "sha256": "566daf97b90284a02ceebff5747bd3c98e811b9a7c7978d8d5f1cea9aa8d4aba"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_050.jpg",
+    "bytes": 27913,
+    "sha256": "5311ba6ac831c1d08f84606e4d20320246a114e6914ac707f841022c6b0d9ff7"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_051.jpg",
+    "bytes": 16183,
+    "sha256": "28558532b674589058af101dcb14c6cdfc0cd492bda0c2aaa5afb938ab12b6da"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_053.jpg",
+    "bytes": 51611,
+    "sha256": "a44f9dcaef9a52bc0fc6fa7f7d1f37c1e91248a645cf2d3ecdb1a33df0e1e9e9"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_054.jpg",
+    "bytes": 9082,
+    "sha256": "e608ca2ac04bd8a1db14d44b6a9a7543935a249264988912a93c2d2c05a0df1a"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_055.jpg",
+    "bytes": 10685,
+    "sha256": "6b7b7e4f5a4808d66c2499fdb57663610a3e39be76aaba8899f70cac850a430f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_056.jpg",
+    "bytes": 49129,
+    "sha256": "0479edf3c146a1bd9ac26fe8b17e5fbca5123577276b906a70b495dbcd21edf2"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_057.jpg",
+    "bytes": 2027,
+    "sha256": "a4e65afcb3a3f3b74bd289849102de1cae1eb99492c7e1880266631c67c3ce93"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_058.jpg",
+    "bytes": 140341,
+    "sha256": "a09cb89ea2004aea1b7938384ff1c5b1e049a01e213758ae0252135830a69d8b"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_059.jpg",
+    "bytes": 29034,
+    "sha256": "55e5caf533d840ab996688f49ab9629ac0f6a386ea94a8b89b84907abd57b63e"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_062.jpg",
+    "bytes": 70431,
+    "sha256": "20cd2d34ab5a9117106c1df5333d02b529dc2bb570e8dc67aa00479d3c08c538"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_064.jpg",
+    "bytes": 4915,
+    "sha256": "d544d84034dd698f1bdc0f86895614a807e2a2d89479028b58da306409de95fb"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_065.jpg",
+    "bytes": 23178,
+    "sha256": "0ca5fe0663e068fa13b84bb508c97dfafb8e25d2266306a08224374d95723c32"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_069.jpg",
+    "bytes": 73880,
+    "sha256": "9afc168e4cd679c35adf4d6a047e6358034759bf289ae64983dfa9dc6062828c"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_070.jpg",
+    "bytes": 16042,
+    "sha256": "1582b2a3ae836fec7377b8a8defd07ab99e6718adf59f22018585b8f19fd198d"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_071.jpg",
+    "bytes": 41038,
+    "sha256": "3fd315c15be65f068806dc335bd60f819ec478f80bb5091627fce4560f6a4a09"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_072.jpg",
+    "bytes": 21075,
+    "sha256": "1f5197c4c5cdac7bb322e8365357771f655a23b5cef9c1684ac4e4cddd9cb815"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_074.jpg",
+    "bytes": 42645,
+    "sha256": "1367cc437c71f6443660d0c24ea095667081922f2388029aaf6af8d876d0b967"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_075.jpg",
+    "bytes": 24951,
+    "sha256": "5961042d04ed4d31e6b16546c356b08e3fbe63964cd7de85e65111f0a4c2cb4a"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_077.jpg",
+    "bytes": 14282,
+    "sha256": "37d099408597690a0c2bdd5ba79f286e5055184a8379a873ce515b03cd63fe0e"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_078.jpg",
+    "bytes": 36045,
+    "sha256": "664495ca4a8de02c204de872bdb07eaad963f4af2d5fa92f6a0830c43bf6738a"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_080.jpg",
+    "bytes": 37644,
+    "sha256": "3d640036f3d0099d63a94b28bb729bd5ee6befb14871f3711fc2b0ae2babe821"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_081.jpg",
+    "bytes": 25801,
+    "sha256": "4d88037513bc0a3d1d9154742f809bc8f273766e792d8a7071b83f076a76ec01"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_082.jpg",
+    "bytes": 77024,
+    "sha256": "6d9c4bebcea67ee3e6bbf61fa369c991a50e12b7ddc23eb738f2554f898dccc6"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_083.jpg",
+    "bytes": 62486,
+    "sha256": "643f5340f0919b9c79e29ed7343fc994b08db897b871b3493e0aec4df87a5f16"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_084.jpg",
+    "bytes": 7596,
+    "sha256": "045bb31cb144b618dc291ed3dbc0ceaeb8e0312438d1be672cf7b8373eaa3234"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_085.jpg",
+    "bytes": 13067,
+    "sha256": "a97ddf1c107a026ec8da83538d0431fff78da7a45cf59862b340d2f57ece2f46"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_087.jpg",
+    "bytes": 18420,
+    "sha256": "0aca8340dffdda5e17432b2dba2e5c254bed0dfa4a6a3be2a5a566606591421e"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_088.jpg",
+    "bytes": 41803,
+    "sha256": "9209bc77c917797e3428e3fa175b7eec77319031f05e2e581bc60a116fc6f6a9"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_089.jpg",
+    "bytes": 16965,
+    "sha256": "05fde524cf6c5ff4698628893906586497d344563ddbafd85bf0f6eb4b25e78b"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_090.jpg",
+    "bytes": 12864,
+    "sha256": "3cdfaf3a587fb2f32fd0e3347b3075527a4ff5f9e8d6a58004b73280d549b3e8"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_092.jpg",
+    "bytes": 22557,
+    "sha256": "1735ee2532ff2271cabd1e3b1303c6e7f088dc1cd9c08af50f8cccaa8f65674c"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_093.jpg",
+    "bytes": 14035,
+    "sha256": "b714c040beed27747298c6b3ae0ea642ed8b325c0bb4a500c3f718228d7255c5"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_095.jpg",
+    "bytes": 42968,
+    "sha256": "4993278c91576a68ebed95dadf08c3047033fc219f9889088d5a65813da6566a"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_096.jpg",
+    "bytes": 29912,
+    "sha256": "56b148f92da5e2e9760104415973576af8bef4b6444272c236f19db160b33843"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_098.jpg",
+    "bytes": 9553,
+    "sha256": "85283c7c1cd96338825a3bd1a2379092feb80cc4d85e19c0d4b59c560a9ac096"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_099.jpg",
+    "bytes": 15779,
+    "sha256": "6d5d18c43e445d7301f56a98eb5ee7ecf9fd0a17e661adc9e9116295bae2b36f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_101.jpg",
+    "bytes": 21512,
+    "sha256": "8d2394190c2113a0cbcd7ff88c6fa17bf96767c855ef2c0659ab8f1afc1288b1"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_102.jpg",
+    "bytes": 22490,
+    "sha256": "6d6db970c82501dfdf4d29fe6d443dfdf8d3a69296ed8b69c752326a839a1720"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_103.jpg",
+    "bytes": 22854,
+    "sha256": "8472943173dbac2c2897ee0c989134b8a32e4bfe16698a8824bab8fa86a7b4a1"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_105.jpg",
+    "bytes": 127289,
+    "sha256": "3fa9ba2409421423fb14a035db90727009cfe67670b604b0b6a9c7ed497ffdc8"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_106.jpg",
+    "bytes": 23598,
+    "sha256": "7892132699ddd26e6dde2d7b45402b67d8cea7351432d5fb67211bd2c938d7df"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_107.jpg",
+    "bytes": 8099,
+    "sha256": "b8238dcf5c088ac29180b05169639c40f74daeb61cfc01242ed0928aaa6a793b"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_108.jpg",
+    "bytes": 31733,
+    "sha256": "99bd29e875828fbadeaab330dc0f8dd775555e571e5c61634e6cc4b8235b3276"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_111.jpg",
+    "bytes": 21549,
+    "sha256": "a2ed0dcfed063a3a1759ca0573b53d493c9a0713c5b5b1f645e283fc69251df5"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_114.jpg",
+    "bytes": 72245,
+    "sha256": "684001c4594e0ba815de62f0ccab52779df42cf82c7ac4884199d1e2eedc5e73"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_115.jpg",
+    "bytes": 93168,
+    "sha256": "c0a1ecba016c4ec9e45139ddb88083d7eb5bbb01143374bdeab36a1a77532782"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_116.jpg",
+    "bytes": 54659,
+    "sha256": "290bba316e992569bd2fe3a91ba4cfcf63db7191472427b0564190a4ee931705"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_117.jpg",
+    "bytes": 22734,
+    "sha256": "2bb5e6a6730fc8240f153122d1242ba5994c87cb176291d5d2d4fa6d7a781db4"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_123.jpg",
+    "bytes": 15897,
+    "sha256": "a6e9b69e69b49d64cf6e18ad15b348cdf39733f20fee8b9aed8b5a1bd841d426"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_124.jpg",
+    "bytes": 17892,
+    "sha256": "12557f4e92127d5195c812172d3f379a65708bc374a1a7735997a47019af3424"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_126.jpg",
+    "bytes": 12195,
+    "sha256": "23a352bcb4a5aaf799068c5e5e44610e354a2bb0af7957167771581f857ad209"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_128.jpg",
+    "bytes": 10693,
+    "sha256": "f7653d56363dae34f5b2d51e90e71820da765da2fbcdd47875ab8920bb3ffb3f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_129.jpg",
+    "bytes": 7061,
+    "sha256": "7eaae9473a83d16b017750adebec9110704046768019e6b27f0879ef3b21bece"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_130.jpg",
+    "bytes": 21564,
+    "sha256": "09713c918cc570a61b453245cbc672897aa8acf7053638a1237c309880547952"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_131.jpg",
+    "bytes": 19466,
+    "sha256": "d3d84ee843d2c1a1ba8cb3706cb415ad3d5c519717d7ab8675e9570fb87720f1"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_132.jpg",
+    "bytes": 6511,
+    "sha256": "9b758d31e1ec77b1ae7b4ce22f47f9932cba43562a6d0a740cc6853140738cbb"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_134.jpg",
+    "bytes": 16693,
+    "sha256": "4ef091478ceedc06f2b3121b4e99eda927a03406cf76341cae4536ea57dc02e4"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_135.jpg",
+    "bytes": 10547,
+    "sha256": "5395eb0601d46882da725187a9715902591537be3b2c4d8fc0d93be55dba22da"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_136.jpg",
+    "bytes": 20902,
+    "sha256": "1ca3948702e5ff2312671438d82999eed62c133b0e19ebed585481c619731095"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_137.jpg",
+    "bytes": 55056,
+    "sha256": "05320e896320bac801a58a04e1c5bd62812340311722d5778ba5bc8f4ce2f3e6"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_138.jpg",
+    "bytes": 10221,
+    "sha256": "2496df1d0bd3c4707a50214cdf032a5b0ec043c74c03534b1e5f645a5aed6597"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_139.jpg",
+    "bytes": 13433,
+    "sha256": "a0569653416925f686ab792911da218dddc7e7074cbd3c8577953d694d307ba4"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_141.jpg",
+    "bytes": 46943,
+    "sha256": "bd5df0d44a4ddd745c573cee0374f1598195f05ba4c87ab8c48f09960bcf1c89"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_142.jpg",
+    "bytes": 29674,
+    "sha256": "70a079e9f95a5ef92b5e7e3d96092a92b0b46280e4831557276cc250a4da67d7"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_143.jpg",
+    "bytes": 22958,
+    "sha256": "c904ba0cdb5acfacbe95b50e20887950a34c3055acc97561a95c846a79244d23"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_145.jpg",
+    "bytes": 54497,
+    "sha256": "6b8600e86c41c366d7e2e123a366aaf41aa089bb7718d432ec1838358c9221c5"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_147.jpg",
+    "bytes": 37854,
+    "sha256": "00459da6d12abdab81600035dad8ef13270515e6d86da6a67212005936ffb2ae"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_149.jpg",
+    "bytes": 39327,
+    "sha256": "3fb574f1d73ac84c508b7b553574ea968b947c8dac9b75cebf424b9002a046c9"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_150.jpg",
+    "bytes": 53980,
+    "sha256": "7196b0fe2318d64e63d5568a5bdc5211fdfd73616d1cbd3ea46db67ca8a0a0fc"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_151.jpg",
+    "bytes": 14911,
+    "sha256": "e55e9ebce7a595c4b453275153a6e96f0ceb83d87fb2122d8e4a7192075525d0"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_153.jpg",
+    "bytes": 6731,
+    "sha256": "e40eed9647141aa99bf46fed6d7697f465f66c3bf2c2839db14c4cb0bec66464"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_154.jpg",
+    "bytes": 47039,
+    "sha256": "f509cf21ca426ab97e783a4a65894d0033b0d4f4153100cc78f47a75a8f6cf5f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_155.jpg",
+    "bytes": 12561,
+    "sha256": "0b7ab4b99f709328c1288bbe258a783acce6e013c2d1f7e60d176d538dca7a61"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_157.jpg",
+    "bytes": 20202,
+    "sha256": "fde511f826ad25e440f0f3665b1523ae3a534c74d94daeb96ad3ca7c9b4c621c"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_158.jpg",
+    "bytes": 76397,
+    "sha256": "8d962fae8f99d1b21b3f2d3e091b66baf0befbab7b166eee60169980344c9875"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_159.jpg",
+    "bytes": 30853,
+    "sha256": "18baa36b64ff9e7f361d26f08446491109a4562abae724ff6722bb8df1214a15"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_160.jpg",
+    "bytes": 59385,
+    "sha256": "e38939c61f58bbd7bb0dc3c14fff0120be57ae5afbee838a3c4b4b8b09b94b97"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_161.jpg",
+    "bytes": 50944,
+    "sha256": "e6e5efa761e86f5f79bbe7bd70dd2e5a34564ae23cc0e467e62681d65afafbe0"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_163.jpg",
+    "bytes": 83080,
+    "sha256": "50bd3866a1362dc802a1eab8cbf6ec97b2a6d61e60195e5a1fc20d40563620e0"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_167.jpg",
+    "bytes": 17552,
+    "sha256": "b3627fca40e93e41c96ff51a9d92f7ae2a0ebcaf53c353b408363b075c6b20ab"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_168.jpg",
+    "bytes": 6906,
+    "sha256": "2dfd379295a54be4b1c48987584b24a698115fef0fbe33198571c23bf10e1854"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_170.jpg",
+    "bytes": 23000,
+    "sha256": "03d58e1d53c1690ee8d1a3610b304506beaa5e6354d37625461e7b008e483f07"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_172.jpg",
+    "bytes": 33139,
+    "sha256": "91a3cce54fe2856eb8c293b51eff31c835c678e8555590a5a24063f9a99e2b45"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_173.jpg",
+    "bytes": 8692,
+    "sha256": "ae188e0c287f0d4e1c2b3d251d4e8669a4fe61be7ef2e06c1b161ee95ad06bc9"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_174.jpg",
+    "bytes": 78959,
+    "sha256": "f8296232324d1cd8c981c2f0439608c462d9bde087117cbc32292d781002f66b"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_176.jpg",
+    "bytes": 20361,
+    "sha256": "8ecea48f1a755e4e2dd498d32e955ab2f6a2cebc9fe88034351ef36a18a2cc73"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_178.jpg",
+    "bytes": 119656,
+    "sha256": "7d1eee1656762f5e5e81da15116cad3b4d4260dcdb805876f40be17c2724d81f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_180.jpg",
+    "bytes": 35768,
+    "sha256": "a8c8d21c547dd9bfca5217d962f241366b36e2fa2d7d1e0c93b28e8112e22914"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_184.jpg",
+    "bytes": 50916,
+    "sha256": "75621388861ff07f5447f199b9365c0658c90a56ae41118506bdc2a7d0d04e11"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_187.jpg",
+    "bytes": 10829,
+    "sha256": "04dc9e4f7718381ab04c5d6370060f2e7c8058dd051509c31d34b64e3c9d7995"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_190.jpg",
+    "bytes": 18191,
+    "sha256": "c2003a67da855e78c38508d67964bbd3c8eeba555f93824384efbf288bd01099"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_192.jpg",
+    "bytes": 3422,
+    "sha256": "2f1a0f33f5aaa63e9a6490a1c84529181829e2df08a13cc209be2bf7382450c8"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_196.jpg",
+    "bytes": 29035,
+    "sha256": "19f5fa16874239aefd1db1cc96a47bfcd70cabadc3e3043e5be4460a4f4ba2f6"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_198.jpg",
+    "bytes": 32634,
+    "sha256": "fdd98f163e2ce4c0197bcf94adff5665aa5e9dce30086ff0c1abfa766128001c"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_200.jpg",
+    "bytes": 36766,
+    "sha256": "512e705bf907bc605906049a6d62b4f598f6d04fc9240d75cca50c1442a24edc"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_201.jpg",
+    "bytes": 55421,
+    "sha256": "b3c806698daa74b6f8555fa10c6ddfc6ec1ba564cd3b3f1afe5c23ddd5bbed09"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_202.jpg",
+    "bytes": 10722,
+    "sha256": "ed58a6fea322dcc4a8725bf54433dcbb0e3dd62eb1bd639cd8171d403085a51c"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_203.jpg",
+    "bytes": 58100,
+    "sha256": "ed72bfa783ee71a36f71192a853142e48481832d67590e8882684e555e9737d4"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0001-0180_205.jpg",
+    "bytes": 3748,
+    "sha256": "922075410ee6aec03238cb6a33b7b9cc4a09de391e94128ebddc41a5693e4f04"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_002.jpg",
+    "bytes": 10414,
+    "sha256": "306572af7926977ec81927c59c994a691641277c5706c9fce539430584312fb1"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_004.jpg",
+    "bytes": 34092,
+    "sha256": "46cf6e325cc89e36d96cdcf1e86c16758e00e6ef44a38f61dd65f31d67cc5cb3"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_005.jpg",
+    "bytes": 47650,
+    "sha256": "7a14ec8e9573d37d86e6bac2b12b223a2b43649572d7cec050e7a9f7543206b9"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_006.jpg",
+    "bytes": 31633,
+    "sha256": "4010dd080378cc6623b825dbd6cfe0cab6b66ea5d759cbb50fb9e27babed0f09"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_007.jpg",
+    "bytes": 37697,
+    "sha256": "4f360c70a1664cbb45ff9ad460c9d895308b2e99f10ce4b3620a6a967cf07eca"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_009.jpg",
+    "bytes": 111202,
+    "sha256": "b5fd3d58d3af4f0ab77c0de9f5433c09ea258614d102a31cbacb146bc5ae9754"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_010.jpg",
+    "bytes": 94935,
+    "sha256": "ca9fac8f201ff6f86197fcb60dd9532f77f381c396bfc7d22e37f33c2ee2eb22"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_011.jpg",
+    "bytes": 44582,
+    "sha256": "2d3b92721bb97aa29d87615bf7cd11705f5371dae7315e3f70e2943fc9e8fdc4"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_012.jpg",
+    "bytes": 23272,
+    "sha256": "07a74940a3650e2bf2b2faae48eddf7812757d7e61c1f255067df57bdf603ff7"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_013.jpg",
+    "bytes": 32651,
+    "sha256": "a0a58232a7f7b71335a8256c2e91c579fb65410eb6b5784e4df6f836e4afee6c"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_015.jpg",
+    "bytes": 29999,
+    "sha256": "421a5b1e74c73614876a2e112dc493792b0061260fe2e337196ff2a523ddcdb3"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_016.jpg",
+    "bytes": 47514,
+    "sha256": "4b41d4c3dc67cf5f52581b1aa051f4db4d8d1dcccc78016449c82e946ed5fca7"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_017.jpg",
+    "bytes": 72463,
+    "sha256": "ab989e24f6136c8bff2c9503ad7d53abbb1fefb94c21fdaeec63137fd960cdb1"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_018.jpg",
+    "bytes": 51309,
+    "sha256": "36aeaa2d4f8351e97f36ff553e47b4c2b7093bec019646471e0a551cbc66312f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_019.jpg",
+    "bytes": 26422,
+    "sha256": "7a9d5ba6f3cd20d15d536f68c56006388bab9c8bf2ecda829dedde2307d77d22"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_020.jpg",
+    "bytes": 49655,
+    "sha256": "b01d5d83ec830c60ba34df158ea12389c2609ee634dc81efbaffaf9bfe9913e8"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_021.jpg",
+    "bytes": 11521,
+    "sha256": "9a9f6d9e2948c5d6380e07cdda2745f9bfbea871804c9bb6a53347aeca6610b1"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_022.jpg",
+    "bytes": 10083,
+    "sha256": "e2ed484ceefe3d61e469edc4a9fe38acff19bc986475ea5f13043daf459ec254"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_023.jpg",
+    "bytes": 52754,
+    "sha256": "21648d842e4d41acdc23f9cf65dde360897712df6262f773c6957c088a0a9098"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_024.jpg",
+    "bytes": 22137,
+    "sha256": "a92092f6d2582a9d20011a5c637ddd91ad0353bf9f745118d84f5422312a789d"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_025.jpg",
+    "bytes": 133661,
+    "sha256": "b76777d58b6f93b5ddf8d5958982914a19cb7a62271f0a80c3c1b3c00cdd99ee"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_026.jpg",
+    "bytes": 50954,
+    "sha256": "719a5a69249c879df4a95e3da55586814c07f7d4f25887bcdc6a946ec072e619"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_027.jpg",
+    "bytes": 69788,
+    "sha256": "a3dd8883045ca26c2f35a2046b5f030e73faa6ab8ca4a52a0bbc70262693ea22"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_028.jpg",
+    "bytes": 27468,
+    "sha256": "4333ffcb12fae4c122327e14458cf4db42ca66f27b5e6ab3ff56c1f067d1af6c"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_030.jpg",
+    "bytes": 47055,
+    "sha256": "4ba5ac1d6ed384be4426cc2c5dcfc8c4b1ba1120acdbd5450a362eee6b0a2067"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_031.jpg",
+    "bytes": 8017,
+    "sha256": "58aabf5f9364f864122300fdf9474e18c6930f429811891217aff4f8a43876ad"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_032.jpg",
+    "bytes": 16463,
+    "sha256": "859234769cbf8a6f0140ef1768aa32ce2962cf1c8fa2ded0c21147cbdbd72dfe"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_033.jpg",
+    "bytes": 15593,
+    "sha256": "49833e0e9a95a118d4efdac5e9ef50b88abe65f594b8dc61c30c669f0659dced"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_034.jpg",
+    "bytes": 14078,
+    "sha256": "dce862890851244a981ef35898b5eec79bd731b4d3e95f2c15b7e805291e9cfe"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_036.jpg",
+    "bytes": 10645,
+    "sha256": "6aa7492cada09b9d356426496d3041b6b2b5ec87a350eac64b1e0e936524124f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_037.jpg",
+    "bytes": 65883,
+    "sha256": "bb15ead33f278df4b23cb67a2c1e32a53be54ee0102c1b8790ecb1aa2bee738c"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_038.jpg",
+    "bytes": 31804,
+    "sha256": "8ea9b9dcf27c97ff365b8ac954e6e222dae32dac7695387d17aeaa7581a0eb80"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_039.jpg",
+    "bytes": 6857,
+    "sha256": "b721af38766b447ee976f9139c9bbf57de06f61446bf01e62222be317afcc69d"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_041.jpg",
+    "bytes": 20082,
+    "sha256": "bc2b890dfd471586662f02adc767b3678db35bbd8e45df42952fd5cc2edb50bd"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_042.jpg",
+    "bytes": 7613,
+    "sha256": "b14212ef866a5ecfafae78867a668c3afd123ae0aa2138c991f9f7f330253c52"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_043.jpg",
+    "bytes": 73068,
+    "sha256": "c6cc4e88c93095777009d55fa5303d4b584cb2c9200c000339ff5d4ee46d513f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_045.jpg",
+    "bytes": 41442,
+    "sha256": "7bd57cc2c8165bb238a9eb27c4335c3fdd211db8b2552e1738542e91c6c73a41"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_046.jpg",
+    "bytes": 20610,
+    "sha256": "ca91ec40af8591507a4a73468dd540251989b1148f75a5a673a00b528a48e281"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_047.jpg",
+    "bytes": 56031,
+    "sha256": "c3956a013e73681e3e2422a3dbd281d83e5ae9580b600142501a47a670c20074"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_048.jpg",
+    "bytes": 67279,
+    "sha256": "63dfd8be49ce404960274a72aa869df9a6ff4a4eedb9d926dcdf606d2a5a58be"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_049.jpg",
+    "bytes": 13198,
+    "sha256": "82fbf2f62e822c7718ff072b0d05a897f46a2e1fef3ebf37b5144db05fa1a1a2"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_050.jpg",
+    "bytes": 42557,
+    "sha256": "c916e22d0b4c495220f119ac35068b7a28239696c0039bed7a86e906faa4bbeb"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_051.jpg",
+    "bytes": 83017,
+    "sha256": "512093ec806232961ff3e1eaaa7d7725a3c597cd497fe1cc2682c049bc8c5442"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_052.jpg",
+    "bytes": 75027,
+    "sha256": "1cfbe53381e1c033f6e160b3da4da183855ee8fcb83a9426677f25e04a66a0f3"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_053.jpg",
+    "bytes": 71645,
+    "sha256": "38e160221bc895f7ceb4f5ed93939e9499dd819ee413810aa23bfa674ef2ead6"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_054.jpg",
+    "bytes": 36168,
+    "sha256": "ca95ebe21dd5bf0092d436febd3b1261748d09ffa82caa0bb2d94449919143d0"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_055.jpg",
+    "bytes": 29402,
+    "sha256": "d8bd48ae1a71d75b2501102d284717f7719780087f912063b929853fec7c586e"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_056.jpg",
+    "bytes": 20985,
+    "sha256": "df9d7f109628f59db0ba9db8d07439865e97748e27ee2b84ee25a2c064de67fc"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_057.jpg",
+    "bytes": 10358,
+    "sha256": "020d53acc24ea073ece5c4981ecd0b6c69fcb1f6bee92c15fbf557c48f9eed3b"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_058.jpg",
+    "bytes": 16945,
+    "sha256": "2ac6c322e8fb6c7ce0cc5563d56770a737292c923cd8783784349ab58b564fa3"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_060.jpg",
+    "bytes": 25640,
+    "sha256": "f1133d835e3eeb7b729695c3787fa0e472c22322b2b89695139090bcaac8a8f7"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_061.jpg",
+    "bytes": 77476,
+    "sha256": "e15b90dbfafaa551b2ea573b7199ae267a221352335f6d8a7368fdbcedd049dd"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_062.jpg",
+    "bytes": 38986,
+    "sha256": "066fafc133439dd97efa70f50fa8501853964d3359488d386e05a9b03bfa24cf"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_063.jpg",
+    "bytes": 40784,
+    "sha256": "b5e49d8712d827f95580cf8414f72c6553ff427474a945f1e0094748c36fa637"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_065.jpg",
+    "bytes": 30774,
+    "sha256": "83319bb0959bc01215282ca5fdfe5fea25dea88f561e09a1b30f56dd814b357e"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_066.jpg",
+    "bytes": 17816,
+    "sha256": "abc8c79c69af706ddf6cee4a7a226b9b09e8f3b7288034c2f1991d9ee3ab359b"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_069.jpg",
+    "bytes": 39676,
+    "sha256": "7cfd44ca76d8c32de1c217ab472816afee9ec8179465476cabd45a53121d9df8"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_071.jpg",
+    "bytes": 20569,
+    "sha256": "0cd415e506c6146fad12bb6175722de63d0f2e40b75fc2a6e9061fa9ee56536f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_072.jpg",
+    "bytes": 57077,
+    "sha256": "6e79aa2c7aa9812781ab142e5e99c849a4f801a7c30391063599c6e81be272e8"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_073.jpg",
+    "bytes": 25006,
+    "sha256": "73f92aad51163d49032ae504933a7f61c412b2701a701cfae83f900573232300"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_075.jpg",
+    "bytes": 17172,
+    "sha256": "8bb2ffc52a919e00e2c83a3aa12defa6aa304fa67119d8a62bef1850af567836"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_076.jpg",
+    "bytes": 45690,
+    "sha256": "aae30898989f2cd59d6411dad377269b76b6a7445231c199d97f4583578bd33c"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_077.jpg",
+    "bytes": 25671,
+    "sha256": "bf5ec11cef245efbdaed58729079652e928ae3b75ad24e94fbdb8aaa7c577152"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0181-0270_078.jpg",
+    "bytes": 95489,
+    "sha256": "3f3ea3ccc6c8149bc4d5ac5386fd62f31d1f6322ed62a78d9bfd1a6518994464"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_002.jpg",
+    "bytes": 37171,
+    "sha256": "f74c918f3655c175262561c7c92abd3fcc6158127972850064151145558dc8ce"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_009.jpg",
+    "bytes": 24405,
+    "sha256": "1ef01448b86b498cf20e9b09e82307de80da6847f78c1b90603ab098efcf5194"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_011.jpg",
+    "bytes": 5333,
+    "sha256": "e5f9eb3457f9730d1b35bcc956da22c6436a0d5488276f24ce918ec4efe97672"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_013.jpg",
+    "bytes": 48115,
+    "sha256": "4480096dbc0dc62180e8e8164c50434072d2fb82034543604f2cac9b9910faa3"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_018.jpg",
+    "bytes": 27050,
+    "sha256": "1e58ea7c1f52167960965ba345b6ae180b4ecc85404c10d828257c629fcb4420"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_020.jpg",
+    "bytes": 41717,
+    "sha256": "b14e5aa1dfd4aaafe14be19a6b8b9aaf7b08938428a04b52441ca2eb91b08a54"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_022.jpg",
+    "bytes": 21722,
+    "sha256": "73f24572fa75371ecd196bd4649ed515c10f4b3860f8c071ddb87fbf442a9614"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_024.jpg",
+    "bytes": 22257,
+    "sha256": "ab615ffcf4a14e76e849536e603c783a0e48e66d5aebfeed2ef06a052c0b23b3"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_025.jpg",
+    "bytes": 19372,
+    "sha256": "61cc88ad0c92dceee179e2c1702d25ee85f2dd37639929adbdce9b4ad30c0857"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_026.jpg",
+    "bytes": 21537,
+    "sha256": "43276fc69e24ff4e30e74007a9a3424462370116ea967b28d688ed60a989b02c"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_030.jpg",
+    "bytes": 113332,
+    "sha256": "a99b2c3f655e4d2004cab1cdee6534af5cf761421c89bfe96c00a762002f0aed"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_031.jpg",
+    "bytes": 99726,
+    "sha256": "c82663b19af1afa9d1221cbd591cba00e7bd01df4ea5178e95b26d32b70cc45d"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_033.jpg",
+    "bytes": 21791,
+    "sha256": "2eb7c581aa25eac3d18428527478ea451de800f1ea61eab988569baf0fe39454"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_034.jpg",
+    "bytes": 49044,
+    "sha256": "8ae90670c08d2fa94c9c8d0b5c29d816540452e9d9d8c51286e2b90301500235"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_036.jpg",
+    "bytes": 30689,
+    "sha256": "556bdf8894a159f5eb6eb295c8cb9245091262cf471368ac423f25d68a612b44"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_037.jpg",
+    "bytes": 90563,
+    "sha256": "2e55ea9b90277fdff40069780d0542117ed9bd2bbd6a900b786fb011cbb40304"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_038.jpg",
+    "bytes": 70850,
+    "sha256": "27b6397954ed7a596a3f1817005d9b2c3e9e824295e78897243e29cc2e393d67"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_045.jpg",
+    "bytes": 80481,
+    "sha256": "cfae4bd3f5939b1ff8f40a3e136cd95dd6bf167dd1b09adfefd25882c76bf6a7"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_048.jpg",
+    "bytes": 13849,
+    "sha256": "3a3b7ce75e93d629e4da015412edf661df90d277d615656a9c972743a993c327"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_049.jpg",
+    "bytes": 64179,
+    "sha256": "165cc21c30896c3aaa12eb1b0d068fb79f7cc34fe296cabe2b8240dd6611b8dc"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_053.jpg",
+    "bytes": 14880,
+    "sha256": "dfb3fe40810ff002633ee7da7d2a6a3012d1fce1c339df7b81b1387ff39f887f"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_054.jpg",
+    "bytes": 37635,
+    "sha256": "df6de2f3b1ff74255911347aa2e51e2fa4c52cec2c7c472c0a52bd46a903c533"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_055.jpg",
+    "bytes": 35097,
+    "sha256": "bb25020a3bc0accdc3a2094e6a2ed4d8b2f239d6a3edd309449c70a432d66130"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0271-0360_056.jpg",
+    "bytes": 20329,
+    "sha256": "572d281024aadef76293d623e5868c03713b738466b0dce7128d88bcbccadc20"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/assets/final/p0361-0379_001.jpg",
+    "bytes": 38422,
+    "sha256": "e1b5aee8a1e53bb3bebe5b82d426498d5c6178f3d516d328e3ebffb44e9bb051"
+  },
+  {
+    "path": "软件技术基础/90_缓存/pdf-to-markdown/软件技术基础_第4版_扫描版/final.md",
+    "bytes": 940327,
+    "sha256": "8d588b56be8b81b65cc9604ce869df1233722eb68c720cde56ee94c138ef3a65"
+  },
+  {
+    "path": "软件技术基础/README.md",
+    "bytes": 1303,
+    "sha256": "e26c42f9b0cc76a29d90547363fb33ad4390b9560b8ecab14159d3ae7981b280"
+  },
+  {
+    "path": "软件技术基础/课程口径.md",
+    "bytes": 344,
+    "sha256": "f585f53bac41b535072c9d8d402f80d1d5f2a5c78aa8ae0071c99bdb0e6a3c3f"
   }
 ]
