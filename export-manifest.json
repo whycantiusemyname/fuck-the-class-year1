@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 198962,
-    "sha256": "1c1e8b68e5e71531ddff3ea4e93c8240b9628e4698bd68106d51e0613c242866"
+    "bytes": 201703,
+    "sha256": "c90452610865f2dbd0b8d9a50acf7a8fc0d085de9bebbe26ef328278c8a3c599"
   },
   {
     "path": "tools/verify_share.py",
@@ -231,118 +231,118 @@
   },
   {
     "path": "微积分/10_题库/2010-2011期中_题面整理.md",
-    "bytes": 12953,
-    "sha256": "702a662f24aaed0202dd5049ccd81219097be87b567c3c0c2d4533e679292740"
+    "bytes": 17536,
+    "sha256": "c73c593c70217ddc3d9e7bd0603e5c1cab56aa075f2b28b85b6156533fb0ac85"
   },
   {
     "path": "微积分/10_题库/2010-2011期末_带解答.md",
-    "bytes": 22664,
-    "sha256": "fe43a0878aa62b65ab1642730d33804304fc39d3338f417c63fd1c5e20524952"
+    "bytes": 27442,
+    "sha256": "f02a089a85855968bd5e5d49f3700dc63c92c72104dfdca11426675b928c9c38"
   },
   {
     "path": "微积分/10_题库/2010-2011期末_题面整理.md",
-    "bytes": 23178,
-    "sha256": "68aeaf73d6acda0c65a8f0144b268b90fbaa009bf636f3045a3db4cc0062cf27"
+    "bytes": 27956,
+    "sha256": "ff0f667efc652fb65aef9e805d9480169bf8fa747c650c4cfd8f26ceb6e208ed"
   },
   {
     "path": "微积分/10_题库/2011-2012期中_题面整理.md",
-    "bytes": 14155,
-    "sha256": "591385209e547c6da4d19c7912521abe130e86f893a4c38093bac074c95c6472"
+    "bytes": 18954,
+    "sha256": "ccc6f3a629a2ed5cd5308b83933bb78a65689aa8912a15aeca5a4f173984d86d"
   },
   {
     "path": "微积分/10_题库/2011-2012期末A_题面整理.md",
-    "bytes": 13027,
-    "sha256": "e39308c3067410a9a6e64b49e62e4b22771d820cfa5b3ff156100c4d012beef7"
+    "bytes": 17345,
+    "sha256": "97288e6880a0527936f827c5510ad31066ff712f26bfdb9020022e9260bac0a0"
   },
   {
     "path": "微积分/10_题库/2012-2013期中A_题面整理.md",
-    "bytes": 10852,
-    "sha256": "1de90527df5a826846526e1cee07300123c4538e0418ea6f2ae9771af5846f9c"
+    "bytes": 14915,
+    "sha256": "f08ddef14a9bd3125d5029c67d613915ac1f42dd98514a0b7e5c28f6d13cbd47"
   },
   {
     "path": "微积分/10_题库/2013-2014期中A_题面整理.md",
-    "bytes": 14208,
-    "sha256": "16d0cd5b1659c9097196ecb8bd067084c0b61db469fe3655dc860d08c2784dbb"
+    "bytes": 18780,
+    "sha256": "e4e90f97b7fad94c0714f102c2c7fe18b20d30ce9f7876a431b7c51063325d56"
   },
   {
     "path": "微积分/10_题库/2013-2014期末_题面整理.md",
-    "bytes": 18415,
-    "sha256": "1d4854225798aca0c3ae2f186abcfc67f4025e902f630a1915c0bcd00f0db0b7"
+    "bytes": 23495,
+    "sha256": "db3de93d42e2f29d37b82439e70ec67663a99c5bfa8899e0198e4ab8b89d2289"
   },
   {
     "path": "微积分/10_题库/2014-2015期中A_题面整理.md",
-    "bytes": 15007,
-    "sha256": "550fe5b41b199d95e691319f8b237a71d273e86fa1b0b7185be04961cbbe7683"
+    "bytes": 19685,
+    "sha256": "c516e3b534337ee92e15e049649baad8433114fc60119e5432f1b8eef3e4873f"
   },
   {
     "path": "微积分/10_题库/2015-2016期中_题面整理.md",
-    "bytes": 13672,
-    "sha256": "5230f2b3e85dbbebbaadb2896cb3e78023e6019ea1c532876a987602fdd647e9"
+    "bytes": 18301,
+    "sha256": "655097c9e14b183b8cbe41dc475d04548fa25da8c9749c35484fad2d4ff882c6"
   },
   {
     "path": "微积分/10_题库/2015-2016期末_题面整理.md",
-    "bytes": 15294,
-    "sha256": "d7844a535e70aa6db158e4eaf92e99959d0fbcd07a8ef8954449cd539d3132e8"
+    "bytes": 20141,
+    "sha256": "6ee9ba939a5ebe7f85baeca5682ca4c9d6291791c09b83f491de1b6ffbf59655"
   },
   {
     "path": "微积分/10_题库/2016-2017期中_题面整理.md",
-    "bytes": 13000,
-    "sha256": "ece16eb34d98cc03ed12096f3eb90af35e6abe55bc3ed86fbcfade01f92794d5"
+    "bytes": 17572,
+    "sha256": "7c1fb6de7bc83aadee1d41b3d4028f73861910ca5e0a5f0c377057c944765fe2"
   },
   {
     "path": "微积分/10_题库/2016-2017期末_题面整理.md",
-    "bytes": 13968,
-    "sha256": "634730e33352eb1842ce55e34e0be8fd387713904ba215ec4f7736d5dd05d1ad"
+    "bytes": 19433,
+    "sha256": "7ea32dab81526839453796cbfec3b05a1f7a05d202693545c993272bc9aab433"
   },
   {
     "path": "微积分/10_题库/2018-2019期中_题面整理.md",
-    "bytes": 14595,
-    "sha256": "ac70dc90ad19136639fbe4824dfb8d89c1e8a3002772bc239fa2ff89b35629b5"
+    "bytes": 19351,
+    "sha256": "9470b96ec4e5f90e1e2a7081a0cba928a559c1b8e973f75a303be3fbe16aab15"
   },
   {
     "path": "微积分/10_题库/2018-2019期末_题面整理.md",
-    "bytes": 12755,
-    "sha256": "af2ff62ca2f98dc153b6e5fbab361b47e9ac0f1fac163cfe0c43bc71e82ac27c"
+    "bytes": 17073,
+    "sha256": "f06fed04bdf8e65f0ea21221ea8bb1dfcac0a9019c7357b3eb84fb4cd90fb818"
   },
   {
     "path": "微积分/10_题库/2019-2020期末_题面整理.md",
-    "bytes": 15373,
-    "sha256": "dccd89ca60e074d979362e1eb5606cb7bec67401a6d763d1070eca32bfa2738b"
+    "bytes": 20104,
+    "sha256": "07caabadd7a0169e9380086a659017cb67181ec1ea8b56a356bdcfc46d41d782"
   },
   {
     "path": "微积分/10_题库/2020-2021期中_题面整理.md",
-    "bytes": 15286,
-    "sha256": "fb3d5f6c55f8a9eb076c5cc006d8d6cddcfafb3d1ae3d38aeeb225f3fe491871"
+    "bytes": 19962,
+    "sha256": "c34a0a10d45a6658c25c2cd8d8ac93c5df6d99fd9b0d5415f1909349c9bb2bee"
   },
   {
     "path": "微积分/10_题库/2020-2021期末_题面整理.md",
-    "bytes": 14671,
-    "sha256": "d024923be1395bf40ede248ccf51b1208aca4055faef66211daa8c593443438e"
+    "bytes": 19354,
+    "sha256": "9b16f256ba1348ea162a59658fe71edf5e9e9ddeb58b78340787fc131a6e408b"
   },
   {
     "path": "微积分/10_题库/2022-2023期中_题面整理.md",
-    "bytes": 13299,
-    "sha256": "f20b93b9a9acc0735ab8993ef6030668df8fc9881526951c479f8dcf99becf4c"
+    "bytes": 17331,
+    "sha256": "78b38ed69af706019052831484d2b74a5cab065269952edf40ce3fb8908bfa1b"
   },
   {
     "path": "微积分/10_题库/2022-2023期末A_题面整理.md",
-    "bytes": 13859,
-    "sha256": "9c4703aba94db72e061c63fa17d9853b38aa62391a432852d32e492643648e38"
+    "bytes": 18336,
+    "sha256": "3a4cbe7a0cc752646b0b46bf27a45f124dcd355706da0ec22055626c119d0a4f"
   },
   {
     "path": "微积分/10_题库/2023-2024期中_题面整理.md",
-    "bytes": 13108,
-    "sha256": "fcc7d7d98bcb5cb6bd059b610a4e8366cf93734051899f4d04ed5289c2ae59fd"
+    "bytes": 17493,
+    "sha256": "21dba85ceb490565b6b46b3b79e85ad66e13313f322fb2045d241486d255daa6"
   },
   {
     "path": "微积分/10_题库/2023-2024期末A_题面整理.md",
-    "bytes": 15811,
-    "sha256": "aa52a897f718ba7c2b987001d9f0047f8d70ad89ada00ba944c27c5992882d6c"
+    "bytes": 20558,
+    "sha256": "35f9b8741aec9b8658acf7af5e564cad6c9190be34962a3f2cb5e67b04b37397"
   },
   {
     "path": "微积分/10_题库/2024-2025期末_题面整理.md",
-    "bytes": 14133,
-    "sha256": "7a1948177fd567fff834e0ef44dd6bcde8747a5db51b7998efc9b00a6c7110fc"
+    "bytes": 18587,
+    "sha256": "d1b3a59a3ab55f8d964edf7452af9fdf98476f388e2f73f7c24274db742c6adc"
   },
   {
     "path": "微积分/10_题库/_标签库.md",
@@ -546,8 +546,8 @@
   },
   {
     "path": "微积分/10_题库/缺卷头期末P52-54_题面整理.md",
-    "bytes": 13890,
-    "sha256": "dcecf27199c94bb211d36d24e0f7e107161e18a58370618a2fd737457a3f96a1"
+    "bytes": 18208,
+    "sha256": "68b80339ba7ff88f6a2268c3adb52af1fdaf7bcad0c9d5a260c25c623404a801"
   },
   {
     "path": "微积分/20_知识/README.md",
@@ -685,9 +685,39 @@
     "sha256": "170915d3be3dbcc082433bc4ea20c601a2d211f4866641b47365c1c717852052"
   },
   {
+    "path": "微积分/40_派生视图/解答复核_20261106/README.md",
+    "bytes": 6909,
+    "sha256": "b2200086738e6ef495642671a8229c0000343bd207e7b6ff7806ddc936d72e93"
+  },
+  {
+    "path": "微积分/40_派生视图/解答复核_20261106/priority_checks.py",
+    "bytes": 1704,
+    "sha256": "263fe7cbf5af1761e32eb7c5101375fa463a24e03c6c963699e93b020206ee46"
+  },
+  {
+    "path": "微积分/40_派生视图/解答复核_20261106/regression_checks.py",
+    "bytes": 4872,
+    "sha256": "c9b2b7e1a88aa94525f2aa873f659727eb9390528c939663732304bb3f309565"
+  },
+  {
+    "path": "微积分/40_派生视图/解答复核_20261106/参考来源.json",
+    "bytes": 37294,
+    "sha256": "7f81b2c220da283d1ed23537b9623bc31808821d1418517dbddf23c5714f65aa"
+  },
+  {
+    "path": "微积分/40_派生视图/解答复核_20261106/核验结果.json",
+    "bytes": 12986,
+    "sha256": "d3a46beaf6ceaf0f97314f6b17d5afc2ffeba5a8f3894f21316c4693470c5194"
+  },
+  {
+    "path": "微积分/40_派生视图/解答复核_20261106/逐题审计.json",
+    "bytes": 305673,
+    "sha256": "2584dc19b9ad66a6c560a513f627674ad8ba66203bc8d41a27ec344df8a44f53"
+  },
+  {
     "path": "微积分/40_派生视图/解答完成索引.md",
-    "bytes": 6053,
-    "sha256": "0d304904956d0368321e599c1bf0c08fea041d2a3975047d392721b005bb07da"
+    "bytes": 4577,
+    "sha256": "29261a39df30cd168cd297c05517f885106ed30637c2b856802af54290ef491f"
   },
   {
     "path": "微积分/40_派生视图/递进刷题跳转清单.md",

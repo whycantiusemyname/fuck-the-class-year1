@@ -1,6 +1,6 @@
 {
-  "files": 3160,
-  "MiB": 1058.34,
+  "files": 3171,
+  "MiB": 1059.74,
   "retained_cache_files": 699,
   "preexisting_unresolved_links": [],
   "excluded_private_dependencies": [
@@ -2723,5 +2723,57 @@
     "prior_commit_preserved": "9a60445c6fc864a1fa3b14133c0eefdc597fb804",
     "checks": "local/share S1 S9 S2, analysis and view verify, review intake, 53 protected hashes passed",
     "figure_audit_metadata": "C14 source error cleared; C3 caveat narrowed; all ten SVG/PNG hashes unchanged"
+  },
+  "calculus_solution_review_20261106": {
+    "solution_files": 24,
+    "solution_blocks": 420,
+    "real_question_numbers": 421,
+    "distinct_question_numbers": 403,
+    "status_counts": {
+      "已对照一致": 407,
+      "与参考答案不一致（已裁决）": 13
+    },
+    "reference_documents": 23,
+    "reference_images_catalogued": 111,
+    "math_checks": 33,
+    "priority_checks": 6,
+    "formulae_rendered": 3232,
+    "protected_export_sources_verified": 41,
+    "source_and_learning_records": "read-only; no writes",
+    "question_text_and_metadata": "exactly identical outside solution blocks",
+    "changed_files": [
+      "微积分/10_题库/2010-2011期中_题面整理.md",
+      "微积分/10_题库/2010-2011期末_带解答.md",
+      "微积分/10_题库/2010-2011期末_题面整理.md",
+      "微积分/10_题库/2011-2012期中_题面整理.md",
+      "微积分/10_题库/2011-2012期末A_题面整理.md",
+      "微积分/10_题库/2012-2013期中A_题面整理.md",
+      "微积分/10_题库/2013-2014期中A_题面整理.md",
+      "微积分/10_题库/2013-2014期末_题面整理.md",
+      "微积分/10_题库/2014-2015期中A_题面整理.md",
+      "微积分/10_题库/2015-2016期中_题面整理.md",
+      "微积分/10_题库/2015-2016期末_题面整理.md",
+      "微积分/10_题库/2016-2017期中_题面整理.md",
+      "微积分/10_题库/2016-2017期末_题面整理.md",
+      "微积分/10_题库/2018-2019期中_题面整理.md",
+      "微积分/10_题库/2018-2019期末_题面整理.md",
+      "微积分/10_题库/2019-2020期末_题面整理.md",
+      "微积分/10_题库/2020-2021期中_题面整理.md",
+      "微积分/10_题库/2020-2021期末_题面整理.md",
+      "微积分/10_题库/2022-2023期中_题面整理.md",
+      "微积分/10_题库/2022-2023期末A_题面整理.md",
+      "微积分/10_题库/2023-2024期中_题面整理.md",
+      "微积分/10_题库/2023-2024期末A_题面整理.md",
+      "微积分/10_题库/2024-2025期末_题面整理.md",
+      "微积分/10_题库/缺卷头期末P52-54_题面整理.md",
+      "微积分/40_派生视图/解答完成索引.md",
+      "微积分/40_派生视图/解答复核_20261106/priority_checks.py",
+      "微积分/40_派生视图/解答复核_20261106/README.md",
+      "微积分/40_派生视图/解答复核_20261106/regression_checks.py",
+      "微积分/40_派生视图/解答复核_20261106/参考来源.json",
+      "微积分/40_派生视图/解答复核_20261106/核验结果.json",
+      "微积分/40_派生视图/解答复核_20261106/逐题审计.json"
+    ],
+    "s9": "passed; 0 controls, 0 LaTeX anomalies, 0 broken links; two heuristic bare-math warnings manually reviewed"
   }
 }
