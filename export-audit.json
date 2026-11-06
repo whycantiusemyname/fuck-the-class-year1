@@ -1,7 +1,7 @@
 {
-  "files": 3541,
+  "files": 3545,
   "MiB": 1084.64,
-  "retained_cache_files": 706,
+  "retained_cache_files": 707,
   "preexisting_unresolved_links": [],
   "excluded_private_dependencies": [
     {
@@ -3820,5 +3820,19 @@
       "电路分析/40_派生视图/逐章图像重绘/第06章_排版复核.md"
     ],
     "preserved_head": "31958d8e1bf22a94d3f9192ef5a53ff4e4f62558"
+  },
+  "physics_readability_ch02_20261106": {
+    "assets": 86,
+    "references": 106,
+    "fixed": 0,
+    "report": "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/README.md",
+    "changed_files": [
+      "物理/40_派生视图/大物上/图像可读性复核_20261106/README.md",
+      "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/README.md",
+      "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/逐图核验.json",
+      "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/阅读预览.html",
+      "物理/90_缓存/image-readability-20261106/02/final.json"
+    ],
+    "primary_visual_acceptance": true
   }
 }

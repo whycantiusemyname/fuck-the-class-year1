@@ -1,0 +1,1398 @@
+{
+  "chapter": "02",
+  "asset_count": 86,
+  "reference_count": 106,
+  "primary_review": "Parent visually checked chapter contact sheets; all repaired assets checked after rendering at full size and reduced size.",
+  "entries": [
+    {
+      "id": 1,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/001.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/001.svg",
+      "final_sha256": "51c82c31d3bde1ad7001b5016ddddb8ba829353dff62a6909ca7107c00c1b868",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
+          "anchor": "习题册-章节04-题2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/001.svg"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/04_习题四 质点运动的描述（四）.md",
+          "anchor": "2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/001.svg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/002.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/002.svg",
+      "final_sha256": "78da79dac85b918051904896f0694d3c9abd8362929a778dd36f9b141d2ca6a4",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
+          "anchor": "习题册-章节04-题3",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/002.svg"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/04_习题四 质点运动的描述（四）.md",
+          "anchor": "3",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/002.svg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/003.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/003.svg",
+      "final_sha256": "f3d1d6afe4889ecc66d8c78f16c9d07189fa646cf5a657499d371bf82b22946b",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
+          "anchor": "习题册-章节04-题5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/003.svg"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/04_习题四 质点运动的描述（四）.md",
+          "anchor": "5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/003.svg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/004-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/004-extracted.png",
+      "final_sha256": "d2f3180507c33d1a55aaacf85b113b5a5d3c10cfa0e3c375400e9bd4526246b1",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+          "anchor": "习题册-章节05-题1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/004-extracted.png"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+          "anchor": "1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/004-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/005-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/005-extracted.png",
+      "final_sha256": "1e417dd3e254697b56327efb23b7739103316e6d49a3ceec7e2aaab56043d317",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+          "anchor": "习题册-章节05-题2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/005-extracted.png"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+          "anchor": "2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/005-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/006.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/006.svg",
+      "final_sha256": "838568969f7985511f7c6a4b6e5274a5ee8ebb4a1b3730b5916d6d5ad9a0f832",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+          "anchor": "习题册-章节05-题3",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/006.svg"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+          "anchor": "3",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/006.svg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/007.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/007.svg",
+      "final_sha256": "c52d9f05b416a498ad2453089242c67196c9dc835e49f385f5607976c57fb987",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+          "anchor": "习题册-章节05-题4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/007.svg"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+          "anchor": "4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/007.svg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/008.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/008.svg",
+      "final_sha256": "26637272a4fac94cec66121ba253557dc2dc82273d6bf66dfcedad485193cb07",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
+          "anchor": "习题册-章节05-题6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/008.svg"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/05_习题五 质点运动的描述（五）.md",
+          "anchor": "6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/008.svg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/009-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/009-extracted.png",
+      "final_sha256": "68ea2d1b0c16ca9b4cc35f7b2319ca33fa1167ba1b9291d6171008ea38e325d3",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_06_能量守恒一_题面整理.md",
+          "anchor": "习题册-章节06-题4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/009-extracted.png"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/06_习题六 能量守恒（一）.md",
+          "anchor": "4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/009-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/010.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/010.svg",
+      "final_sha256": "1e9f429b37e703bc062e87b9a2662daaa422e4df3d380ece2ddb618088643246",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_06_能量守恒一_题面整理.md",
+          "anchor": "习题册-章节06-题6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/010.svg"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/06_习题六 能量守恒（一）.md",
+          "anchor": "6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/010.svg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/011.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/011.svg",
+      "final_sha256": "54e89b39b3097435fcf4e664eaf00df941d13d157dad5492e6f75551ecdd1ae8",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_07_能量守恒二_题面整理.md",
+          "anchor": "习题册-章节07-题4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/011.svg"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/07_习题七 能量守恒（二）.md",
+          "anchor": "4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/011.svg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/012.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/012.svg",
+      "final_sha256": "642cdeb413f957a5e5695e5a3468388172cd6100eb4f7d2823cafaac06a99938",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_07_能量守恒二_题面整理.md",
+          "anchor": "习题册-章节07-题5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/012.svg"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/07_习题七 能量守恒（二）.md",
+          "anchor": "5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/012.svg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/013.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/013.svg",
+      "final_sha256": "e069cd7f89e1dfbfec14de528185b56687b22feebef9b7ea67c8596474b52eaf",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_07_能量守恒二_题面整理.md",
+          "anchor": "习题册-章节07-题6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/013.svg"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/07_习题七 能量守恒（二）.md",
+          "anchor": "6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/013.svg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/014-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/014-extracted.png",
+      "final_sha256": "b96bf9db20ae215c6da720e5884841d1512f25dc92e90430f394392c9649c163",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+          "anchor": "习题册-章节08-题1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/014-extracted.png"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+          "anchor": "1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/014-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/015.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/015.svg",
+      "final_sha256": "c1393ddbc0926d5f9749ade1e8735af2c6d0cfc767209b36d7fb65ba803822f0",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+          "anchor": "习题册-章节08-题4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/015.svg"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+          "anchor": "4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/015.svg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/016-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/016-extracted.png",
+      "final_sha256": "f6682e79d815c2f3bfd0502c947b3cbd84f9844bc9531b4631207e8fcb934b16",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+          "anchor": "习题册-章节08-题5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/016-extracted.png"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+          "anchor": "5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/016-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/017-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/017-extracted.png",
+      "final_sha256": "15f0f38add330cbd9a28ff2bf3e7a0e1287daf137a7064277e1307d494744487",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
+          "anchor": "习题册-章节08-题6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/017-extracted.png"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/08_习题八 动量守恒（一）.md",
+          "anchor": "6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/017-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/018-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/018-extracted.png",
+      "final_sha256": "ea53bd9100c482d6c45f2775fa109381a4c7b47ac1050f58d5386e2a24ae5ec3",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_09_动量守恒二_题面整理.md",
+          "anchor": "习题册-章节09-题2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/018-extracted.png"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/09_习题九 动量守恒（二）.md",
+          "anchor": "2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/018-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/019-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/019-extracted.png",
+      "final_sha256": "9ab17ae5c3e64e5f78e3b3fe11bc0d6f062a9f01db5dfefe4f41d35325aeabff",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_09_动量守恒二_题面整理.md",
+          "anchor": "习题册-章节09-题5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/019-extracted.png"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/09_习题九 动量守恒（二）.md",
+          "anchor": "5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/019-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/020-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/020-extracted.png",
+      "final_sha256": "c1f8e11b5a364ee671f5570660a5a5c6c0410d4d1e620eed7c0c99b98b92b3d4",
+      "refs": [
+        {
+          "document": "物理/10_题库/习题册/大学物理习题册_09_动量守恒二_题面整理.md",
+          "anchor": "习题册-章节09-题6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/020-extracted.png"
+        },
+        {
+          "document": "物理/大学物理习题册（上）/09_习题九 动量守恒（二）.md",
+          "anchor": "6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/020-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/021.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/021.svg",
+      "final_sha256": "eb98ea919657ecfc8cb9594101ebaac90f4e80c4a4fd7189b81d1f7a909c4b85",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+          "anchor": "11-12期中-选2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/021.svg"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/022-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/022-extracted.png",
+      "final_sha256": "26d9340fd15ad23cdfeb5213a002595061ba287eaafb69688f3d595703dba303",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+          "anchor": "11-12期中-选4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/022-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/023.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/023.svg",
+      "final_sha256": "8373eb73f09ad9cf707331a8de172318bc91ed4c9f3803b26413732741c4e9ee",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+          "anchor": "11-12期中-选5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/023.svg"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/024.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/024.svg",
+      "final_sha256": "15ab3ce8371e208844651a4d1d8401bb78f7b6264d29cb55996f7f34bb1b82e4",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+          "anchor": "11-12期中-选6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/024.svg"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/025.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/025.svg",
+      "final_sha256": "103f02291f2b07881328d94ab46e18ea247aeff88b3251771b9ebe83ecf93d0a",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+          "anchor": "11-12期中-选9",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/025.svg"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "status": "source-uncertain",
+      "note": "原题图中心的手写 N/mg、半径和受力标记互相覆盖；来源映射注明这是保留手写标注的原扫描，无法可靠分离印刷符号与手写答案，因此不重绘、不替换。",
+      "original_path": "物理/10_题库/_assets/历年试卷合集_2018-2024/ba3c2064faf99181eafef1071df9a03b23e251c0277038cf8abf632f082f89fb.jpg",
+      "final_path": "物理/10_题库/_assets/历年试卷合集_2018-2024/ba3c2064faf99181eafef1071df9a03b23e251c0277038cf8abf632f082f89fb.jpg",
+      "final_sha256": "0977ade18c6e26751b017fb98348619046a99067df61ad788a94c5b34c98bd05",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+          "anchor": "11-12期中-选11",
+          "final_path": "物理/10_题库/_assets/历年试卷合集_2018-2024/ba3c2064faf99181eafef1071df9a03b23e251c0277038cf8abf632f082f89fb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/027.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/027.svg",
+      "final_sha256": "c1844377bdada6356ab139f31383bb23348e40dae8c1b21a1f938539580acd40",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+          "anchor": "11-12期中-选17",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/027.svg"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/028.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/028.svg",
+      "final_sha256": "642cdeb413f957a5e5695e5a3468388172cd6100eb4f7d2823cafaac06a99938",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
+          "anchor": "11-12期中-计1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/028.svg"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/029-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/029-extracted.png",
+      "final_sha256": "ac231255ec36874e78ece36ccf2a8789e3ccc8f11ef111f626701a7e02a795aa",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+          "anchor": "15-16期中-选2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/029-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/030.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/030.svg",
+      "final_sha256": "15ab3ce8371e208844651a4d1d8401bb78f7b6264d29cb55996f7f34bb1b82e4",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+          "anchor": "15-16期中-选3",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/030.svg"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/031-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/031-extracted.png",
+      "final_sha256": "7951ebd3a8626a1976e199daea94883affe7910d42de512eb0582f07ff20b3c5",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+          "anchor": "15-16期中-选4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/031-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/032-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/032-extracted.png",
+      "final_sha256": "6d2861ff8c85b4b7a5bed8cb136ff5dd593204bce36c7447ce928c0279e524b1",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+          "anchor": "15-16期中-选6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/032-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/033.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/033.svg",
+      "final_sha256": "656773166f2b23b64188542cb5606b06150f28ff796259bfd90f3955f7abd77b",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+          "anchor": "15-16期中-填4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/033.svg"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/034-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/034-extracted.png",
+      "final_sha256": "14f9b2a8c729e1650c2e4847b04da2622d30af585127b01c6910fe3b8464e462",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
+          "anchor": "15-16期中-问1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/034-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/035.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/035.svg",
+      "final_sha256": "1ec298480f5eebbede6087cd7123ac42055045a32b55fad13cb59ae4501b38f2",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+          "anchor": "16-17期中-选3",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/035.svg"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/036.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/036.svg",
+      "final_sha256": "0304a409cba94ff88808deda31162bc2ed79e92036d43580620d2a3f03395131",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+          "anchor": "16-17期中-选5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/036.svg"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/037.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/037.svg",
+      "final_sha256": "0e2cc4f58df17386c1bc99ef7be5509c89ada250e000ea4e0c104ee60878f4ca",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+          "anchor": "16-17期中-选6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/037.svg"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/038.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/038.svg",
+      "final_sha256": "395b3b80ba774a78b336ccdd988fc7b8c4f7009266fef9da2509b6382a6f7198",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
+          "anchor": "16-17期中-计1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/038.svg"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/039.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/039.svg",
+      "final_sha256": "679cd228aa488d84818d595b622f0af25571bd81f4ce969ec95a5aff667e0d8d",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+          "anchor": "18-19期中-选2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/039.svg"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/040.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/040.svg",
+      "final_sha256": "b86731e480e81b855438ed4edd63b42aa7a9778b2a965cd3fb7c84eb311931ca",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+          "anchor": "18-19期中-多选1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/040.svg"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/041.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/041.svg",
+      "final_sha256": "2c178fc83f79ba6b9d317067fb9f023e09641188c9e252941a7a170ae4385438",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+          "anchor": "18-19期中-填3",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/041.svg"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/042-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/042-extracted.png",
+      "final_sha256": "d14a38637e2ee8f4c4b06b82757c51bfc691e5f3202ca5889f8925ccea74a955",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
+          "anchor": "18-19期中-证1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/042-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/043-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/043-extracted.png",
+      "final_sha256": "901d148fae3c875d942f0fa3e407e793efe3703ecfe1efcdbf8376370f75635b",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+          "anchor": "20-21期中-选2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/043-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/044.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/044.svg",
+      "final_sha256": "6972b188c40257ed9ce9affb1a896f27796d932e7b2afd47289188720ef1215b",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+          "anchor": "20-21期中-选3",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/044.svg"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/045.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/045.svg",
+      "final_sha256": "103f02291f2b07881328d94ab46e18ea247aeff88b3251771b9ebe83ecf93d0a",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+          "anchor": "20-21期中-选4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/045.svg"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/046-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/046-extracted.png",
+      "final_sha256": "54d40523e47f9f695b7d979e784406b3ca96eb448f0b7a53264642f242e39e8f",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+          "anchor": "20-21期中-选5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/046-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/047-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/047-extracted.png",
+      "final_sha256": "d926b2fbc543a73c3ca5d523563c0633d632bd22e1c430986282c8759e104fbf",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+          "anchor": "20-21期中-计3",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/047-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/048-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/048-extracted.png",
+      "final_sha256": "1e311b0be4f2d3cde5dfd3d0be9577a48f3fca472200a694b2c25158d6743b6c",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
+          "anchor": "20-21期中-证1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/048-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/049.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/049.svg",
+      "final_sha256": "484f13a77482a4618fadbbb5d8e4d1f79bf6cb1eb93443ad8d17e518985b02bc",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+          "anchor": "22-23期中-选2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/049.svg"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/050.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/050.svg",
+      "final_sha256": "1ec298480f5eebbede6087cd7123ac42055045a32b55fad13cb59ae4501b38f2",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+          "anchor": "22-23期中-选6",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/050.svg"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/051.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/051.svg",
+      "final_sha256": "0304a409cba94ff88808deda31162bc2ed79e92036d43580620d2a3f03395131",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+          "anchor": "22-23期中-选8",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/051.svg"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/052-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/052-extracted.png",
+      "final_sha256": "fbc5f55d4f76898f702dd060e2a487e11b017600bd99c7a8b88f21031e3831b4",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+          "anchor": "22-23期中-填1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/052-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/053.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/053.svg",
+      "final_sha256": "73f4c047ed1c798dccdc2ffcce2ba3e27cf465ce394cf23c097f6e1ed76ac1ad",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
+          "anchor": "22-23期中-问2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/053.svg"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/054-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/054-extracted.png",
+      "final_sha256": "50e49f91a471491e39c50cdd75d93230792f03a5b55d8c0e741f9c7de560fae4",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+          "anchor": "23-24期中-选4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/054-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/055.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/055.svg",
+      "final_sha256": "15ab3ce8371e208844651a4d1d8401bb78f7b6264d29cb55996f7f34bb1b82e4",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+          "anchor": "23-24期中-选5",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/055.svg"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/056-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/056-extracted.png",
+      "final_sha256": "8f8417fb70d75428190e09f07e709ef5bcd15256c4068b29c04553b9aee0047d",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+          "anchor": "23-24期中-选7",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/056-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/057.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/057.svg",
+      "final_sha256": "eb136e4802f9e36e53dfa43e3afb7ae4b7c73d7a064a0522ccc98e1ea8efc131",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+          "anchor": "23-24期中-选8",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/057.svg"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/058-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/058-extracted.png",
+      "final_sha256": "1e9d0797f92e228fd44ab6cc091c3b756b426040610500c139f60a961291f625",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+          "anchor": "23-24期中-计2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/058-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/059-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/059-extracted.png",
+      "final_sha256": "77c909b311cf64a9584386186e76160cd3d0d3766c7d3b66b676184b689a78c6",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
+          "anchor": "23-24期中-计4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/059-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/060-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/060-extracted.png",
+      "final_sha256": "78a045e4297460d15560409130cebbfa3e0b3fcbec5fa95876df36ef06113a58",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+          "anchor": "24-25期中-计1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/060-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/061-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/061-extracted.png",
+      "final_sha256": "d489155fcb686d0dd445296409f1336296895c4f27d34551ca38480e13a5efb9",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+          "anchor": "24-25期中-计2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/061-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "status": "source-uncertain",
+      "note": "链条和端点关系在低对比度原扫描中不可可靠辨认；来源映射也标记为 retained_uncertain，遵循 S1 待复核，不推测几何、不重绘、不替换。",
+      "original_path": "物理/10_题库/_assets/期中试卷_2020-2025/3f3ea74389a3f9d3f2367c2e395b92f718a5cc14a33221126e94b3b0e694ca49.jpg",
+      "final_path": "物理/10_题库/_assets/期中试卷_2020-2025/3f3ea74389a3f9d3f2367c2e395b92f718a5cc14a33221126e94b3b0e694ca49.jpg",
+      "final_sha256": "90377603a470bbe766ec1576f7ea3171c44e0dd221099beb1ba4f2aa509947fb",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
+          "anchor": "24-25期中-计6",
+          "final_path": "物理/10_题库/_assets/期中试卷_2020-2025/3f3ea74389a3f9d3f2367c2e395b92f718a5cc14a33221126e94b3b0e694ca49.jpg"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/063-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/063-extracted.png",
+      "final_sha256": "732bd225b01406ca121cef5b52d7fb463d8590bcfd304e1fb5797ec05eaa2040",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
+          "anchor": "19-20期末-简1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/063-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/064-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/064-extracted.png",
+      "final_sha256": "e2985234d40e134efb42bba3fd0dce8be480f5bb4d08eb4b639a7efc6bc2bed4",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+          "anchor": "未标年份-期末二-选1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/064-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/065-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/065-extracted.png",
+      "final_sha256": "9c49cd291f982cf4bc80d8f455346b6ff2df1ac9689133317bd91a566f8d5051",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+          "anchor": "未标年份-期末二-选4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/065-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/067-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/067-extracted.png",
+      "final_sha256": "20b60e1a173dde75d465116568f0c1c05088ee505040c893c79a37671add0864",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/067-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/068-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/068-extracted.png",
+      "final_sha256": "cced0994a6540b312fb70fb0db1d46a70d5cc82c553f79330138691170709fa1",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-1",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/068-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/069-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/069-extracted.png",
+      "final_sha256": "4c67e7d4b89b5d0f76b4ab15eb57945ea56169eddcb69f7cfeaf547cc3dc02df",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/069-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/070-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/070-extracted.png",
+      "final_sha256": "c6ce4babe82535d5191e13cca438da6b43743d3b42a1ed2da5d1ad6d487b3700",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/070-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/071.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/071.svg",
+      "final_sha256": "dc28613575e682d59be50ba6e9e90680aa6e4e7bddf6627c85c91bfa874970be",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-2",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/071.svg"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/072-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/072-extracted.png",
+      "final_sha256": "6ce827bcd57bf574421b5d9dd4183cb1e7902449754de08fa80692d8a5971ffa",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-3",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/072-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.svg",
+      "final_path": "物理/10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.svg",
+      "final_sha256": "804ca8145f1d025c708e1437c71bf4ef9d4c3091143af5a0ea4f9f4c69b50886",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-3",
+          "final_path": "物理/10_题库/_assets/重绘_上册_批01/01-cone-2-3-b.svg"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.svg",
+      "final_path": "物理/10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.svg",
+      "final_sha256": "b1ce9694479d49b430c2acb08df4b33904acbecc97f5fa27ba4dcce30bd4f4a1",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-3",
+          "final_path": "物理/10_题库/_assets/重绘_上册_批01/02-cone-2-3-c.svg"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/075-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/075-extracted.png",
+      "final_sha256": "ea4b6910dbfcd23a76203388609de9a56b30c177992c725993c2269d2be3e9f1",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/075-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/076-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/076-extracted.png",
+      "final_sha256": "cf36009984953b7424a8378aef3293626d331007d58bb02cf9ca26a19a2719d9",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-4",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/076-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/077-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/077-extracted.png",
+      "final_sha256": "456b83740dbb5b81c5ac4435cf6d18e80ca040118b54aee07770bdfc8ac73e44",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-8",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/077-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/078-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/078-extracted.png",
+      "final_sha256": "ef114206fe98d609300dd1a0220b077d98e9b904bf6adfb82c733d1db04fa035",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-10",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/078-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-12.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-12.png",
+      "final_sha256": "db3aba8ab61f9d8a69b4d25f7e1935062a11b49bc2fb99c7c339283670ce910b",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-12",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-12.png"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/079-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/079-extracted.png",
+      "final_sha256": "14d3922d57b38ef78361ff5beb32015dc4f44f7b96ec11572d222a1bb1967499",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-13",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/079-extracted.png"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-14.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-14.png",
+      "final_sha256": "0acb40475af491d503836259fd97e43620e06ce4494997271c7642801445c48e",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-14",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-14.png"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-15.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-15.png",
+      "final_sha256": "26a676c3f63ce401642a58d47eb86bead7aaa417c4373f455f54fab6f73d34c6",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-例题-2-15",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-15.png"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch02-think2-1.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-think2-1.png",
+      "final_sha256": "46c4d2a761f61981deba3e2beff4bdcb958f7f2831a3311b661b9277014cf0aa",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-思考题-2-1",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-think2-1.png"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch02-think2-2.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-think2-2.png",
+      "final_sha256": "f190bac86f45b95a906080bbc37c2913b91851531529c02d4479c926d883ebcf",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-思考题-2-2",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-think2-2.png"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/080.svg",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/080.svg",
+      "final_sha256": "1e9f429b37e703bc062e87b9a2662daaa422e4df3d380ece2ddb618088643246",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-习题-2-3",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/080.svg"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "status": "pass",
+      "note": "已按章节 contact sheet 检查；未见线条穿过文字、标签遮叠或裁切、链接错误及影响辨认的缩放问题。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch02-prob2-4.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-prob2-4.png",
+      "final_sha256": "cb24cbeb0383b0279a81f4dab7969053a41c863375a010ac864f4b2d5d88e4d4",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
+          "anchor": "学习指导-第02章-习题-2-4",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch02-prob2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "status": "pass",
+      "note": "主代理确认功与能题的圆弧槽图、M标注与滑块清楚，题图属于未标年份期末二选9。",
+      "original_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/066-extracted.png",
+      "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/066-extracted.png",
+      "final_sha256": "ad0221f1207b7550ba06df038e86e9519f1280626ce5d742f5908f1e60b3eef7",
+      "refs": [
+        {
+          "document": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
+          "anchor": "未标年份-期末二-选9",
+          "final_path": "物理/10_题库/_assets/上册逐章/02_动力学与守恒/066-extracted.png"
+        }
+      ]
+    }
+  ]
+}

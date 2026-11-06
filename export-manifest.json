@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 258397,
-    "sha256": "63c0c5c395a0855836793f975032ac4d0a9766d8aaf57aa9ae58ed16d213d21e"
+    "bytes": 259109,
+    "sha256": "e913b0c6cb97f5344fa04f2614e1f4c85c08ec73c2d883d29a7978d315eef08f"
   },
   {
     "path": "tools/verify_share.py",
@@ -8431,8 +8431,8 @@
   },
   {
     "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/README.md",
-    "bytes": 224,
-    "sha256": "ff857dd1b85d4188ef8273d2ba94273ddb2ebc6915f89b2a405266352bbef837"
+    "bytes": 279,
+    "sha256": "1b76f5ccd333d829ac25e76bb168512dffc4e0d7ce096b6553db2da8a9774d8c"
   },
   {
     "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/README.md",
@@ -8453,6 +8453,21 @@
     "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/阅读预览.html",
     "bytes": 3726,
     "sha256": "fee91b21e4edb903b81edffa31028738ca9dae8c414ab2c82cb8f54d6efb450a"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/README.md",
+    "bytes": 13200,
+    "sha256": "0eb52bb6ff3f61804188ff5b9397a682559965477ab7a5af135fdac98bcf21e2"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/逐图核验.json",
+    "bytes": 73192,
+    "sha256": "e6a3ece6f14c1c9b66ca53dd62dba70a0c86875067b210fd91cda4350d88a325"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第02章/阅读预览.html",
+    "bytes": 30622,
+    "sha256": "3e39b90da1d0af178b751dd6b060921b375fee864800980d5fb6f2f4f831ee1c"
   },
   {
     "path": "物理/40_派生视图/大物上/图像重绘批01/README.md",
@@ -8568,6 +8583,11 @@
     "path": "物理/40_派生视图/通用审计/S8单章重做与学习指导格式审计报告.md",
     "bytes": 7268,
     "sha256": "975aa6c89e9606e31ea80b6ec74b197154965b8cdb50f1d17845f9bc2f8c87d5"
+  },
+  {
+    "path": "物理/90_缓存/image-readability-20261106/02/final.json",
+    "bytes": 18051,
+    "sha256": "ab69756313171319e48177dd34626e3f6f9d65d8b85d33c55e2ac571f0546974"
   },
   {
     "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/certified.md",
