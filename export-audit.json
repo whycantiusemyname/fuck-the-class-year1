@@ -1,6 +1,6 @@
 {
-  "files": 3154,
-  "MiB": 1057.02,
+  "files": 3159,
+  "MiB": 1058.34,
   "retained_cache_files": 699,
   "preexisting_unresolved_links": [],
   "excluded_private_dependencies": [
@@ -2654,5 +2654,41 @@
     "report": "电路分析/40_派生视图/逐章图像重绘/第03章_核验报告.md",
     "style": "STIX/black/IEC; original and answer evidence retained",
     "prior_commits_preserved": "a5b4d6f033d1ba9a639f159b6ba00d5c59421146"
+  },
+  "circuit_existing_bank_closure_20261106": {
+    "question_count": 246,
+    "reviewed_pending_paper_questions": 38,
+    "additional_source_verified_question": "章节卷-E8-3",
+    "remaining_ocr_pending": 5,
+    "remaining_uncertain_solutions": 2,
+    "source_and_learning_files_unchanged": 53,
+    "metadata_and_counts": "already repaired by previous tasks; counts verified 9/2/16, real PDF source/page pointers strengthened",
+    "corrections": [
+      "filter requested resistor labels",
+      "filter original two grounded R topology and transfer function; strict cutoff R≈11.49kΩ remains uncertain against inconsistent source answer",
+      "E8-3 original F versus reference calculation μF conflict preserved"
+    ],
+    "files": [
+      "电路分析/10_题库/成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理.md",
+      "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md",
+      "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
+      "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理.md",
+      "电路分析/10_题库/第8章课后习题_题面整理.md",
+      "电路分析/10_题库/README.md",
+      "电路分析/40_派生视图/既有题库收尾核验_20261106.md",
+      "电路分析/10_题库/assets/s9_answer_evidence/E8-3_source_p278.png",
+      "电路分析/10_题库/assets/s9_answer_evidence/E8-3_answer_p279.png",
+      "电路分析/10_题库/成惠团队期末卷_5-9章/assets/s9_answer_evidence/2018-2019电子基础_参考答案_p64.png",
+      "README.md",
+      "电路分析/90_缓存/s2-frequency-analysis.json",
+      "电路分析/40_派生视图/考频矩阵.md",
+      "电路分析/40_派生视图/主题题表.md",
+      "电路分析/90_缓存/closure-20261106/validation-summary.json"
+    ],
+    "report": "电路分析/40_派生视图/既有题库收尾核验_20261106.md",
+    "validation": "local/share S1 S9 S2 + analyzer verify + renderer verify; 3 intake and 3 completion checks passed",
+    "prior_commit_preserved": "a6d371ca80f60e557d443ed5624858306ea3b1b6",
+    "no_new_intake": true,
+    "no_redraw": true
   }
 }

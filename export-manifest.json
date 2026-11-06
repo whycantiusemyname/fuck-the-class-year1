@@ -11,13 +11,13 @@
   },
   {
     "path": "README.md",
-    "bytes": 3292,
-    "sha256": "97bc8f5a1c2532bf4a6ffdae3dd047579d2ac4b2d64e42ea5a4374d2c32d61c7"
+    "bytes": 3482,
+    "sha256": "55efd42f12154cc0158146b5190c8f79b05e41f91f5bb3d5c1557022280e181a"
   },
   {
     "path": "export-audit.json",
-    "bytes": 194636,
-    "sha256": "5293daa394426fab6b09a483cf88bf5704da5a27cc9e100afbb19c1434e4c224"
+    "bytes": 196928,
+    "sha256": "b8a3b25c6e0079c421a1b5da3b8867e903bb7f24537c3a222243750fec9d4e98"
   },
   {
     "path": "tools/verify_share.py",
@@ -12311,8 +12311,8 @@
   },
   {
     "path": "电路分析/10_题库/README.md",
-    "bytes": 735,
-    "sha256": "70f36857aef9905b33c6ef45cf276c4c2151bcdaa3ef30780b23d5a7e9be9f59"
+    "bytes": 927,
+    "sha256": "ad0f1ac0fd13f08e9688426a20553d4a9ab395b3187f1f2bae85b1eac47fd5f8"
   },
   {
     "path": "电路分析/10_题库/_标签库.md",
@@ -13860,6 +13860,16 @@
     "sha256": "e034e0a0c461b297ecbdaa2c2bd702fc0694125cefab21be67548f1cb85753f8"
   },
   {
+    "path": "电路分析/10_题库/assets/s9_answer_evidence/E8-3_answer_p279.png",
+    "bytes": 446889,
+    "sha256": "bfc5ee9d34f86ebbec4538841a8064e48b3ec342f920027b3fc8b9a2142ca59f"
+  },
+  {
+    "path": "电路分析/10_题库/assets/s9_answer_evidence/E8-3_source_p278.png",
+    "bytes": 559061,
+    "sha256": "8febf3e69c7cc1fe99f6d8834dd7f65ca0b52247318641876e9d8df53fa2d1b3"
+  },
+  {
     "path": "电路分析/10_题库/assets/simulation/intake-ledger.json",
     "bytes": 5152,
     "sha256": "6ca29d83d28fcde2f3ef0eca032896ba16835f03355c1acd0b03b8cd571858a3"
@@ -14216,18 +14226,18 @@
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理.md",
-    "bytes": 10046,
-    "sha256": "001d6baaae5148d11fd58d5cf33dd04a1e9f94ea96308c38eb5a8c80606e6214"
+    "bytes": 10631,
+    "sha256": "3ee4cb8742d00e493784e48b6bb6aba4e07723577c3115e7a48176fa6977e85d"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md",
-    "bytes": 12732,
-    "sha256": "57f1d9c52d420bfff02e590a4d76d4789f446a9de2d8d137bf39e9a7ca0a89b4"
+    "bytes": 14406,
+    "sha256": "977f5422eeef30a6549b132786946929932f8ed52b6328e3f0266f6c320d1ba5"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
-    "bytes": 10902,
-    "sha256": "d355c1f1675c6c639dc805eafc5a015b04ea823c0a8ee8978a56da425c2fbaae"
+    "bytes": 11628,
+    "sha256": "e5307cf2abe1616ea76ef87c76abdacb47da6d8aec95d421e8acc9d6baa18618"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理.md",
@@ -14236,8 +14246,8 @@
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理.md",
-    "bytes": 4882,
-    "sha256": "91c8edc75d8cf1b63796dc16f5fe4baf6d1fe0b8b0fb875e4905835c92549941"
+    "bytes": 5631,
+    "sha256": "efec93320552fb127f4fa57ca474bcb03a5b4bbaf12993849abf89e8ce8bd140"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理.md",
@@ -14985,6 +14995,11 @@
     "sha256": "9011ca0acdc2960600e2d56fcd83d9cbf9df2eb0d808531c289202ce75901f70"
   },
   {
+    "path": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/s9_answer_evidence/2018-2019电子基础_参考答案_p64.png",
+    "bytes": 315068,
+    "sha256": "53f274032f54371c0cd2616520cf51f5fd5e27e160710fc774b8a2ec883bd06c"
+  },
+  {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/s9_answers/01_2022-2023电路分析期中参考答案/01_4cfaaad2e403.jpg",
     "bytes": 219553,
     "sha256": "4cfaaad2e403c1bf95ffbfcea931a6090ab6f40d55ebf0b2952cb77fc6877001"
@@ -15401,8 +15416,8 @@
   },
   {
     "path": "电路分析/10_题库/第8章课后习题_题面整理.md",
-    "bytes": 14185,
-    "sha256": "8457c4257178d80c7f1f6dd35c5538e06a418730cf712d7fd8f2925dbe096954"
+    "bytes": 14635,
+    "sha256": "c2393839f078998d91b13ed30ff57f7c202846b0a343bd33cfff2f9244fffe14"
   },
   {
     "path": "电路分析/10_题库/第9章课后习题_题面整理.md",
@@ -15591,8 +15606,8 @@
   },
   {
     "path": "电路分析/40_派生视图/主题题表.md",
-    "bytes": 9947,
-    "sha256": "6fb9a389735f6a20d8cb5601ab77953008b56b39a4a0590e55d716cf2f849703"
+    "bytes": 13453,
+    "sha256": "a1822abe2943a6411a7f4b9d2a4e0863a92ce230b21d12c48257bdfed388e2c6"
   },
   {
     "path": "电路分析/40_派生视图/成惠团队期末卷_5-9章_章节考点题表.md",
@@ -15600,9 +15615,14 @@
     "sha256": "6a86dfb50fd3f9800fca1c03d8a681a99df3ee55a9450053b2d92ab2da445921"
   },
   {
+    "path": "电路分析/40_派生视图/既有题库收尾核验_20261106.md",
+    "bytes": 15025,
+    "sha256": "e756666f48684270e241d2845b2f3c02f4bdd4e9e1580a4c84761a44bcf07dff"
+  },
+  {
     "path": "电路分析/40_派生视图/考频矩阵.md",
-    "bytes": 30649,
-    "sha256": "bd0bb2a531aef283724c2e5cb2d40badd87e05c9238cd9695024f01e22aab5ed"
+    "bytes": 33968,
+    "sha256": "c39689ceb158af916d6a2502d2e00edd96dc134093e31ff62329446a5dad0d75"
   },
   {
     "path": "电路分析/40_派生视图/逐章图像重绘/第03章_核验报告.md",
@@ -15618,6 +15638,11 @@
     "path": "电路分析/40_派生视图/逐章图像重绘/第06章_核验报告.md",
     "bytes": 13138,
     "sha256": "a256686906c16fcf1777ba683e3f9623c7ce2055bcecb4e677a14851309033e8"
+  },
+  {
+    "path": "电路分析/90_缓存/closure-20261106/validation-summary.json",
+    "bytes": 1865,
+    "sha256": "ed24753cc89fe09cf19c9fe8697b20fceb3c400b46b891adfb0719b27dd14128"
   },
   {
     "path": "电路分析/90_缓存/pdf-to-markdown/夸克扫描王_电子线路期末复习/images/01c695fa3fbad29fabbe499e9643ae21cf8d50d186d24f9fa5c7a7a9e36475f5.jpg",
@@ -15741,8 +15766,8 @@
   },
   {
     "path": "电路分析/90_缓存/s2-frequency-analysis.json",
-    "bytes": 251902,
-    "sha256": "32b7d0f97cfe7967f1263ec431e8aac13fac89e61cf12aaa1fe17ea7e4abf7d6"
+    "bytes": 268873,
+    "sha256": "27f5b9d8e337e51756de646d32d27f1e70d8344143fd248e61948835c2c8f694"
   },
   {
     "path": "电路分析/90_缓存/s8-solo-20260909/chapter06-visual-sources.json",

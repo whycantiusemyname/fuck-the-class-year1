@@ -1,0 +1,98 @@
+{
+  "scope": "existing circuit question bank closure, not new intake or redraw",
+  "checks": [
+    {
+      "check": "share-analyze",
+      "exit_code": 0
+    },
+    {
+      "check": "share-render",
+      "exit_code": 0
+    },
+    {
+      "check": "local-s1",
+      "exit_code": 0
+    },
+    {
+      "check": "local-s9",
+      "exit_code": 0
+    },
+    {
+      "check": "local-s2",
+      "exit_code": 0
+    },
+    {
+      "check": "local-frequency-verify",
+      "exit_code": 0
+    },
+    {
+      "check": "local-renderer-verify",
+      "exit_code": 0
+    },
+    {
+      "check": "share-s1",
+      "exit_code": 0
+    },
+    {
+      "check": "share-s9",
+      "exit_code": 0
+    },
+    {
+      "check": "share-s2",
+      "exit_code": 0
+    },
+    {
+      "check": "share-frequency-verify",
+      "exit_code": 0
+    },
+    {
+      "check": "share-renderer-verify",
+      "exit_code": 0
+    },
+    {
+      "check": "intake-0",
+      "exit_code": 0
+    },
+    {
+      "check": "intake-1",
+      "exit_code": 0
+    },
+    {
+      "check": "intake-2",
+      "exit_code": 0
+    },
+    {
+      "check": "completion-0",
+      "exit_code": 0
+    },
+    {
+      "check": "completion-1",
+      "exit_code": 0
+    },
+    {
+      "check": "completion-2",
+      "exit_code": 0
+    }
+  ],
+  "protected_files_unchanged": 53,
+  "question_count": 246,
+  "ocr_status": {
+    "待复核": 5,
+    "已做结构修复": 81,
+    "已对照 PDF 复核": 160
+  },
+  "uncertain_solutions": 2,
+  "pending_anchors": [
+    "电子复习-A4",
+    "电子复习-A7",
+    "电子复习-C3",
+    "电子复习-C14",
+    "仿真作业-1"
+  ],
+  "exam_scope": {
+    "papers": 13,
+    "questions": 114
+  },
+  "independent_filter_cutoff_R_ohm": 11493.946848049087,
+  "reference_agreement_claimed": false
+}

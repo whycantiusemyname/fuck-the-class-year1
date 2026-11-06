@@ -1,89 +1,92 @@
 {
   "schema_version": "2.1",
   "status": "complete",
-  "input_fingerprint": "793e0d9747b913569e800fa9059952c8fa1071d7ae5d5384f3d3e52dd5cf006d",
+  "input_fingerprint": "8b6aa806a4b6c3551797f5be79c3e55af93383499ceee1dc21aa8b634abe5ad0",
   "input_files": [
     {
       "path": "10_题库/_标签库.md",
-      "sha256": "c8e4a3a47de91a068b740b266ee8d8f3b05388db5f4e8b76686060c5cc2a13f1"
+      "sha256": "a5076f15ddc2bd8bef539c339caaf1b0211ca74d3e87928316a97e50cf29f531"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2015-2016模拟电路期末A_5-9章题面整理.md",
-      "sha256": "743ee966e49f0ad981d1c7cee6631f04f71f1914cdf9ea80cfee548551185fc2"
+      "sha256": "f2e430a74d3ecb3605aed11127827d6a994d5da3ac1f2d4511a24185da71c26e"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2016-2017模拟电路期末A_5-9章题面整理.md",
-      "sha256": "298cf3ea486fac7715a5be81dadb355ad8efecd20efd21d199883f77bbefef29"
+      "sha256": "86a946887ec2a1de6b958b6dfee3ad5dfb5ad52d87aba6c6f4197106d4016acd"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2016-2017第二学期期末A_5-9章题面整理.md",
-      "sha256": "24b1d1355ba22eef8aca7dca88836c95483c891ada93a7fdc2a6b8b138f5de03"
+      "sha256": "c471708cd229b556231182476cd426d86d8b7147424f8cf1413360eee4422332"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理.md",
-      "sha256": "fece0b586c9527a9c0b758efacd4409a041a60addc9a43828558afc1fe3d6810"
+      "sha256": "3ee4cb8742d00e493784e48b6bb6aba4e07723577c3115e7a48176fa6977e85d"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md",
-      "sha256": "5142e26056113331ba9c45c0a0d93c0d99696beaca37577103c407509347cff8"
+      "sha256": "977f5422eeef30a6549b132786946929932f8ed52b6328e3f0266f6c320d1ba5"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
-      "sha256": "845f294c19d95987ff8574fe9549dae342c9381492ea435371ae50e8f45dad03"
+      "sha256": "e5307cf2abe1616ea76ef87c76abdacb47da6d8aec95d421e8acc9d6baa18618"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理.md",
-      "sha256": "eefc4ac018cf89c70d2a79fb36004066d3247b68a47f81a80eb8610199cdedb5"
+      "sha256": "41313664b4697df8b03ccb881b294c41882fde9135eb3b5b0b6e3a4453ecfe6f"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理.md",
-      "sha256": "34cdf1e3be3d3f694a61412ebc34270da3ae169a59ecd8307873fb13a5140a7e"
+      "sha256": "efec93320552fb127f4fa57ca474bcb03a5b4bbaf12993849abf89e8ce8bd140"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理.md",
-      "sha256": "8a2000dacbfdc570f5f9f205e2dc2c98e2bb51add3d21954cd7d2cea397173f4"
+      "sha256": "b2a08d8998a1ea8f25ee317da90cdb543bc65f8195bbb8efcc90c02b54353adf"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2020-2021期末_5-9章题面整理.md",
-      "sha256": "8bbcba0eaefacbb540b0eb6a040e47fdbc454f783ccb0a39d052426e7016a497"
+      "sha256": "9a7e923c23aa75d87a56bd838480289b21dadcf88a35af082927ecf9abbfd758"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2021-2022期末A_5-9章题面整理.md",
-      "sha256": "7566d915b4016fb632830669d8f9c6194601f62bef16431f0175586b9e714688"
+      "sha256": "758e414e5af847d326a4b2f4a0f8dc389b42ef4f944ae9a87bb326fe13204ea9"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2022-2023期末评测_5-9章题面整理.md",
-      "sha256": "7d3fe37a6f7dab2548c7b9c0ebf4857f427c6448af64edd73fc68b0b09ec9617"
+      "sha256": "626b77925d04a7b26f3e38e39ecde8b6f24a320846c2d7ff3eebddcbc966aa0a"
     },
     {
       "path": "10_题库/成惠团队期末卷_5-9章/2023-2024期末A_5-9章题面整理.md",
-      "sha256": "799bc474c18c78ec4046b9a146db9adcf2ac9fa6a61a38dd83b6b36192e583f3"
+      "sha256": "8d4db6e1dd4ccc6c319b6a8d2c3f9c9161a5c672f50c3d5d350c0d874f700755"
     }
   ],
   "parameters": {
     "recent_year_span": 5,
     "qbank_subdir": "成惠团队期末卷_5-9章"
   },
+  "paper_grouping_version": "document-source-pdf-locators-v2",
   "scope": {
     "source_scope": "10_题库/成惠团队期末卷_5-9章",
     "qbank_subdir": "成惠团队期末卷_5-9章",
-    "question_count": 106,
-    "unique_anchor_count": 106,
+    "question_count": 114,
+    "unique_anchor_count": 114,
     "paper_count": 13,
-    "tag_count": 38,
-    "theme_count": 10,
+    "tag_count": 40,
+    "theme_count": 11,
+    "observed_tag_count": 27,
+    "observed_theme_count": 10,
     "paper_types": {
       "期末": 13
     }
   },
   "quality": {
-    "question_form_explicit": 106,
+    "question_form_explicit": 114,
     "question_form_inferred": 0,
     "question_form_unknown": 0,
-    "ocr_status_explicit": 106,
+    "ocr_status_explicit": 114,
     "ocr_status_legacy_default": 0,
     "ocr_status_counts": {
-      "待复核": 106
+      "已对照 PDF 复核": 114
     },
     "unknown_year_paper_count": 0,
     "unknown_year_papers": [],
@@ -93,7 +96,7 @@
   "themes": [
     {
       "name": "功放与反馈频响能力簇",
-      "question_count": 24,
+      "question_count": 25,
       "known_score_total": 0,
       "exam_profiles": {
         "期末": {
@@ -115,16 +118,16 @@
             "year_coverage_numerator": 4,
             "year_coverage_denominator": 4,
             "year_coverage_rate": 1.0,
-            "average_questions_per_paper": 2.875,
-            "known_form_count": 23,
+            "average_questions_per_paper": 3.0,
+            "known_form_count": 24,
             "form_distribution": {
-              "填空题": 0.2429,
+              "填空题": 0.2571,
               "应用题": 0.2714,
-              "简答题": 0.2214,
-              "综合题": 0.2357,
+              "简答题": 0.2143,
+              "综合题": 0.2286,
               "计算题": 0.0286
             },
-            "long_ratio": 0.5357,
+            "long_ratio": 0.5286,
             "known_score_count": 0,
             "known_score_total": 0,
             "known_score_per_paper": 0.0,
@@ -169,15 +172,15 @@
           "secondary_trends": [],
           "tag_change": {
             "historical_distribution": {
-              "放大电路｜功率放大输出级": 0.0643,
-              "放大电路｜负反馈组态判断": 0.65,
-              "放大电路｜频率响应": 0.2857
+              "放大电路｜功率放大输出级": 0.0571,
+              "放大电路｜负反馈组态判断": 0.6286,
+              "放大电路｜频率响应": 0.3143
             },
             "recent_distribution": {
               "放大电路｜频率响应": 1.0
             },
             "historical_dominant_tag": "放大电路｜负反馈组态判断",
-            "historical_dominant_share": 0.65,
+            "historical_dominant_share": 0.6286,
             "recent_dominant_tag": "放大电路｜频率响应",
             "recent_dominant_share": 1.0,
             "recent_dominant_tag_years": 1,
@@ -218,7 +221,7 @@
               "academic_year": "2016-2017",
               "present": true,
               "paper_count": 2,
-              "question_count": 9
+              "question_count": 10
             },
             {
               "academic_year": "2017-2018",
@@ -268,7 +271,7 @@
     },
     {
       "name": "半导体二极管能力簇",
-      "question_count": 8,
+      "question_count": 12,
       "known_score_total": 0,
       "exam_profiles": {
         "期末": {
@@ -290,8 +293,8 @@
             "year_coverage_numerator": 1,
             "year_coverage_denominator": 4,
             "year_coverage_rate": 0.25,
-            "average_questions_per_paper": 0.5,
-            "known_form_count": 4,
+            "average_questions_per_paper": 0.625,
+            "known_form_count": 5,
             "form_distribution": {
               "简答题": 0.3333,
               "计算题": 0.5,
@@ -313,50 +316,51 @@
             ],
             "year_count": 5,
             "paper_count": 5,
-            "coverage_numerator": 3,
+            "coverage_numerator": 5,
             "coverage_denominator": 5,
-            "coverage_rate": 0.6,
-            "year_coverage_numerator": 3,
+            "coverage_rate": 1.0,
+            "year_coverage_numerator": 5,
             "year_coverage_denominator": 5,
-            "year_coverage_rate": 0.6,
-            "average_questions_per_paper": 0.8,
-            "known_form_count": 4,
+            "year_coverage_rate": 1.0,
+            "average_questions_per_paper": 1.4,
+            "known_form_count": 7,
             "form_distribution": {
-              "综合题": 0.8333,
-              "计算题": 0.1667
+              "填空题": 0.2,
+              "综合题": 0.4,
+              "计算题": 0.4
             },
-            "long_ratio": 1.0,
+            "long_ratio": 0.8,
             "known_score_count": 0,
             "known_score_total": 0,
             "known_score_per_paper": 0.0,
             "median_score": null
           },
-          "coverage_delta": 0.35,
+          "coverage_delta": 0.75,
           "first_seen_year": "2018-2019",
-          "last_seen_year": "2022-2023",
-          "current_consecutive_present": 0,
-          "current_consecutive_absent": 1,
-          "transition_count": 4,
-          "primary_trend": "平稳观察",
-          "trend_priority": 6,
-          "importance_role": "中频主干",
-          "secondary_trends": [
-            "大题化"
-          ],
+          "last_seen_year": "2023-2024",
+          "current_consecutive_present": 6,
+          "current_consecutive_absent": 0,
+          "transition_count": 1,
+          "primary_trend": "新近升温",
+          "trend_priority": 3,
+          "importance_role": "高频主力",
+          "secondary_trends": [],
           "tag_change": {
             "historical_distribution": {
               "二极管｜PN结与器件基础": 0.1667,
               "二极管｜导通截止与模型选择": 0.3333,
-              "二极管｜小信号分析": 0.5
+              "二极管｜小信号分析": 0.25,
+              "二极管｜限幅整流与应用": 0.25
             },
             "recent_distribution": {
-              "二极管｜导通截止与模型选择": 0.1667,
-              "二极管｜小信号分析": 0.8333
+              "二极管｜导通截止与模型选择": 0.5,
+              "二极管｜小信号分析": 0.4,
+              "二极管｜限幅整流与应用": 0.1
             },
-            "historical_dominant_tag": "二极管｜小信号分析",
-            "historical_dominant_share": 0.5,
-            "recent_dominant_tag": "二极管｜小信号分析",
-            "recent_dominant_share": 0.8333,
+            "historical_dominant_tag": "二极管｜导通截止与模型选择",
+            "historical_dominant_share": 0.3333,
+            "recent_dominant_tag": "二极管｜导通截止与模型选择",
+            "recent_dominant_share": 0.5,
             "recent_dominant_tag_years": 3,
             "migrated": false
           },
@@ -364,22 +368,22 @@
             "historical": [
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理",
-                "anchor": "成惠-18-19期末-算3",
+                "anchor": "成惠-18-19期末-简2",
                 "source": "成惠团队2018-2019期末",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "计算题",
-                "tag": "二极管｜小信号分析"
+                "tag": "二极管｜限幅整流与应用"
               }
             ],
             "recent": [
               {
-                "file": "成惠团队期末卷_5-9章/2022-2023期末评测_5-9章题面整理",
-                "anchor": "成惠-22-23期末评测-算4",
-                "source": "成惠团队2022-2023期末评测",
-                "academic_year": "2022-2023",
+                "file": "成惠团队期末卷_5-9章/2023-2024期末A_5-9章题面整理",
+                "anchor": "成惠-23-24期末A-填5-1",
+                "source": "成惠团队2023-2024期末A",
+                "academic_year": "2023-2024",
                 "score": null,
-                "question_form": "计算题",
+                "question_form": "填空题",
                 "tag": "二极管｜导通截止与模型选择"
               },
               {
@@ -416,19 +420,19 @@
               "academic_year": "2018-2019",
               "present": true,
               "paper_count": 4,
-              "question_count": 4
+              "question_count": 5
             },
             {
               "academic_year": "2019-2020",
               "present": true,
               "paper_count": 1,
-              "question_count": 1
+              "question_count": 2
             },
             {
               "academic_year": "2020-2021",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2021-2022",
@@ -444,9 +448,9 @@
             },
             {
               "academic_year": "2023-2024",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             }
           ]
         }
@@ -454,7 +458,7 @@
     },
     {
       "name": "器件识别与工作区判断能力簇",
-      "question_count": 2,
+      "question_count": 3,
       "known_score_total": 0,
       "exam_profiles": {
         "期末": {
@@ -476,11 +480,12 @@
             "year_coverage_numerator": 1,
             "year_coverage_denominator": 4,
             "year_coverage_rate": 0.25,
-            "average_questions_per_paper": 0.25,
-            "known_form_count": 2,
+            "average_questions_per_paper": 0.375,
+            "known_form_count": 3,
             "form_distribution": {
-              "简答题": 0.5,
-              "选择题": 0.5
+              "填空题": 0.3333,
+              "简答题": 0.3333,
+              "选择题": 0.3333
             },
             "long_ratio": 0,
             "known_score_count": 0,
@@ -539,11 +544,11 @@
             "historical": [
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理",
-                "anchor": "成惠-18-19电模期末A-析2",
-                "source": "成惠团队2018-2019电路分析与模拟电路期末A",
+                "anchor": "成惠-18-19电模期末A-填5-9",
+                "source": "成惠团队2018-2019电路分析与模拟电路期末A｜扫描件原PDF物理第60页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
-                "question_form": "简答题",
+                "question_form": "填空题",
                 "tag": "BJT｜管型与工作状态判断"
               }
             ],
@@ -572,7 +577,7 @@
               "academic_year": "2018-2019",
               "present": true,
               "paper_count": 4,
-              "question_count": 2
+              "question_count": 3
             },
             {
               "academic_year": "2019-2020",
@@ -610,7 +615,7 @@
     },
     {
       "name": "场效应管迁移分析能力簇",
-      "question_count": 9,
+      "question_count": 11,
       "known_score_total": 0,
       "exam_profiles": {
         "期末": {
@@ -626,20 +631,21 @@
             ],
             "year_count": 4,
             "paper_count": 8,
-            "coverage_numerator": 1,
+            "coverage_numerator": 2,
             "coverage_denominator": 4,
-            "coverage_rate": 0.25,
-            "year_coverage_numerator": 1,
+            "coverage_rate": 0.5,
+            "year_coverage_numerator": 2,
             "year_coverage_denominator": 4,
-            "year_coverage_rate": 0.25,
-            "average_questions_per_paper": 0.5,
-            "known_form_count": 4,
+            "year_coverage_rate": 0.5,
+            "average_questions_per_paper": 0.75,
+            "known_form_count": 6,
             "form_distribution": {
-              "简答题": 0.5,
-              "综合题": 0.3333,
-              "计算题": 0.1667
+              "填空题": 0.25,
+              "简答题": 0.4167,
+              "综合题": 0.25,
+              "计算题": 0.0833
             },
-            "long_ratio": 0.5,
+            "long_ratio": 0.3333,
             "known_score_count": 0,
             "known_score_total": 0,
             "known_score_per_paper": 0.0,
@@ -672,10 +678,10 @@
             "known_score_per_paper": 0.0,
             "median_score": null
           },
-          "coverage_delta": 0.75,
-          "first_seen_year": "2018-2019",
+          "coverage_delta": 0.5,
+          "first_seen_year": "2017-2018",
           "last_seen_year": "2023-2024",
-          "current_consecutive_present": 6,
+          "current_consecutive_present": 7,
           "current_consecutive_absent": 0,
           "transition_count": 1,
           "primary_trend": "新近升温",
@@ -686,13 +692,14 @@
           ],
           "tag_change": {
             "historical_distribution": {
-              "FET｜基本放大电路": 1.0
+              "FET｜基本放大电路": 0.75,
+              "FET｜转移特性与跨导": 0.25
             },
             "recent_distribution": {
               "FET｜基本放大电路": 1.0
             },
             "historical_dominant_tag": "FET｜基本放大电路",
-            "historical_dominant_share": 1.0,
+            "historical_dominant_share": 0.75,
             "recent_dominant_tag": "FET｜基本放大电路",
             "recent_dominant_share": 1.0,
             "recent_dominant_tag_years": 5,
@@ -746,15 +753,15 @@
             },
             {
               "academic_year": "2017-2018",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
               "present": true,
               "paper_count": 4,
-              "question_count": 4
+              "question_count": 5
             },
             {
               "academic_year": "2019-2020",
@@ -882,7 +889,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理",
                 "anchor": "成惠-18-19电子基础期末-算3",
-                "source": "成惠团队2018-2019电子电路基础期末",
+                "source": "成惠团队2018-2019电子电路基础期末｜扫描件原PDF物理第51页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "计算题",
@@ -1038,7 +1045,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理",
                 "anchor": "成惠-18-19电模期末A-算6",
-                "source": "成惠团队2018-2019电路分析与模拟电路期末A",
+                "source": "成惠团队2018-2019电路分析与模拟电路期末A｜扫描件原PDF物理第63页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "简答题",
@@ -1197,7 +1204,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理",
                 "anchor": "成惠-18-19电子基础期末-算6",
-                "source": "成惠团队2018-2019电子电路基础期末",
+                "source": "成惠团队2018-2019电子电路基础期末｜扫描件原PDF物理第52页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "计算题",
@@ -1356,7 +1363,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理",
                 "anchor": "成惠-18-19电子基础期末-算7",
-                "source": "成惠团队2018-2019电子电路基础期末",
+                "source": "成惠团队2018-2019电子电路基础期末｜扫描件原PDF物理第52页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "计算题",
@@ -1389,6 +1396,147 @@
               "present": true,
               "paper_count": 4,
               "question_count": 2
+            },
+            {
+              "academic_year": "2019-2020",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2020-2021",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2021-2022",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2022-2023",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2023-2024",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "相量与阻抗分析能力簇",
+      "question_count": 0,
+      "known_score_total": 0,
+      "exam_profiles": {
+        "期末": {
+          "paper_type": "期末",
+          "recent_start_year": "2019-2020",
+          "latest_year": "2023-2024",
+          "historical": {
+            "years": [
+              "2015-2016",
+              "2016-2017",
+              "2017-2018",
+              "2018-2019"
+            ],
+            "year_count": 4,
+            "paper_count": 8,
+            "coverage_numerator": 0,
+            "coverage_denominator": 4,
+            "coverage_rate": 0.0,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 4,
+            "year_coverage_rate": 0.0,
+            "average_questions_per_paper": 0.0,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": 0.0,
+            "median_score": null
+          },
+          "recent": {
+            "years": [
+              "2019-2020",
+              "2020-2021",
+              "2021-2022",
+              "2022-2023",
+              "2023-2024"
+            ],
+            "year_count": 5,
+            "paper_count": 5,
+            "coverage_numerator": 0,
+            "coverage_denominator": 5,
+            "coverage_rate": 0.0,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 5,
+            "year_coverage_rate": 0.0,
+            "average_questions_per_paper": 0.0,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": 0.0,
+            "median_score": null
+          },
+          "coverage_delta": 0.0,
+          "first_seen_year": null,
+          "last_seen_year": null,
+          "current_consecutive_present": 0,
+          "current_consecutive_absent": 9,
+          "transition_count": 0,
+          "primary_trend": "平稳观察",
+          "trend_priority": 6,
+          "importance_role": "该卷型未覆盖",
+          "secondary_trends": [],
+          "tag_change": {
+            "historical_distribution": {},
+            "recent_distribution": {},
+            "historical_dominant_tag": null,
+            "historical_dominant_share": null,
+            "recent_dominant_tag": null,
+            "recent_dominant_share": null,
+            "recent_dominant_tag_years": 0,
+            "migrated": false
+          },
+          "representatives": {
+            "historical": [],
+            "recent": []
+          },
+          "year_series": [
+            {
+              "academic_year": "2015-2016",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2016-2017",
+              "present": false,
+              "paper_count": 2,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2017-2018",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2018-2019",
+              "present": false,
+              "paper_count": 4,
+              "question_count": 0
             },
             {
               "academic_year": "2019-2020",
@@ -1713,7 +1861,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理",
                 "anchor": "成惠-18-19电模期末A-简5",
-                "source": "成惠团队2018-2019电路分析与模拟电路期末A",
+                "source": "成惠团队2018-2019电路分析与模拟电路期末A｜扫描件原PDF物理第62页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "简答题",
@@ -1881,7 +2029,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理",
                 "anchor": "成惠-18-19电模期末A-算6",
-                "source": "成惠团队2018-2019电路分析与模拟电路期末A",
+                "source": "成惠团队2018-2019电路分析与模拟电路期末A｜扫描件原PDF物理第63页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "简答题",
@@ -2221,7 +2369,7 @@
       "name": "BJT｜管型与工作状态判断",
       "chapter": "第六章",
       "theme": "器件识别与工作区判断能力簇",
-      "question_count": 2,
+      "question_count": 3,
       "known_score_total": 0,
       "exam_profiles": {
         "期末": {
@@ -2243,11 +2391,12 @@
             "year_coverage_numerator": 1,
             "year_coverage_denominator": 4,
             "year_coverage_rate": 0.25,
-            "average_questions_per_paper": 0.25,
-            "known_form_count": 2,
+            "average_questions_per_paper": 0.375,
+            "known_form_count": 3,
             "form_distribution": {
-              "简答题": 0.5,
-              "选择题": 0.5
+              "填空题": 0.3333,
+              "简答题": 0.3333,
+              "选择题": 0.3333
             },
             "long_ratio": 0,
             "known_score_count": 0,
@@ -2295,11 +2444,11 @@
             "historical": [
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理",
-                "anchor": "成惠-18-19电模期末A-析2",
-                "source": "成惠团队2018-2019电路分析与模拟电路期末A",
+                "anchor": "成惠-18-19电模期末A-填5-9",
+                "source": "成惠团队2018-2019电路分析与模拟电路期末A｜扫描件原PDF物理第60页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
-                "question_form": "简答题",
+                "question_form": "填空题",
                 "tag": "BJT｜管型与工作状态判断"
               }
             ],
@@ -2328,7 +2477,7 @@
               "academic_year": "2018-2019",
               "present": true,
               "paper_count": 4,
-              "question_count": 2
+              "question_count": 3
             },
             {
               "academic_year": "2019-2020",
@@ -2368,7 +2517,7 @@
       "name": "FET｜基本放大电路",
       "chapter": "第六章",
       "theme": "场效应管迁移分析能力簇",
-      "question_count": 9,
+      "question_count": 10,
       "known_score_total": 0,
       "exam_profiles": {
         "期末": {
@@ -2390,14 +2539,14 @@
             "year_coverage_numerator": 1,
             "year_coverage_denominator": 4,
             "year_coverage_rate": 0.25,
-            "average_questions_per_paper": 0.5,
-            "known_form_count": 4,
+            "average_questions_per_paper": 0.625,
+            "known_form_count": 5,
             "form_distribution": {
-              "简答题": 0.5,
+              "简答题": 0.5556,
               "综合题": 0.3333,
-              "计算题": 0.1667
+              "计算题": 0.1111
             },
-            "long_ratio": 0.5,
+            "long_ratio": 0.4444,
             "known_score_count": 0,
             "known_score_total": 0,
             "known_score_per_paper": 0.0,
@@ -2499,7 +2648,7 @@
               "academic_year": "2018-2019",
               "present": true,
               "paper_count": 4,
-              "question_count": 4
+              "question_count": 5
             },
             {
               "academic_year": "2019-2020",
@@ -2539,7 +2688,7 @@
       "name": "FET｜转移特性与跨导",
       "chapter": "第六章",
       "theme": "场效应管迁移分析能力簇",
-      "question_count": 0,
+      "question_count": 1,
       "known_score_total": 0,
       "exam_profiles": {
         "期末": {
@@ -2555,16 +2704,18 @@
             ],
             "year_count": 4,
             "paper_count": 8,
-            "coverage_numerator": 0,
+            "coverage_numerator": 1,
             "coverage_denominator": 4,
-            "coverage_rate": 0.0,
-            "year_coverage_numerator": 0,
+            "coverage_rate": 0.25,
+            "year_coverage_numerator": 1,
             "year_coverage_denominator": 4,
-            "year_coverage_rate": 0.0,
-            "average_questions_per_paper": 0.0,
-            "known_form_count": 0,
-            "form_distribution": {},
-            "long_ratio": null,
+            "year_coverage_rate": 0.25,
+            "average_questions_per_paper": 0.125,
+            "known_form_count": 1,
+            "form_distribution": {
+              "填空题": 1.0
+            },
+            "long_ratio": 0,
             "known_score_count": 0,
             "known_score_total": 0,
             "known_score_per_paper": 0.0,
@@ -2595,19 +2746,29 @@
             "known_score_per_paper": 0.0,
             "median_score": null
           },
-          "coverage_delta": 0.0,
-          "first_seen_year": null,
-          "last_seen_year": null,
+          "coverage_delta": -0.25,
+          "first_seen_year": "2017-2018",
+          "last_seen_year": "2017-2018",
           "current_consecutive_present": 0,
-          "current_consecutive_absent": 9,
-          "transition_count": 0,
+          "current_consecutive_absent": 6,
+          "transition_count": 2,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
           "importance_role": "该卷型未覆盖",
           "secondary_trends": [],
           "tag_change": null,
           "representatives": {
-            "historical": [],
+            "historical": [
+              {
+                "file": "成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理",
+                "anchor": "成惠-17-18期末-填6",
+                "source": "成惠团队2017-2018期末｜扫描件原PDF物理第46页（2026-11-06逐题核对）",
+                "academic_year": "2017-2018",
+                "score": null,
+                "question_form": "填空题",
+                "tag": "FET｜转移特性与跨导"
+              }
+            ],
             "recent": []
           },
           "year_series": [
@@ -2625,9 +2786,9 @@
             },
             {
               "academic_year": "2017-2018",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -2747,7 +2908,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理",
                 "anchor": "成惠-18-19电模期末A-简3",
-                "source": "成惠团队2018-2019电路分析与模拟电路期末A",
+                "source": "成惠团队2018-2019电路分析与模拟电路期末A｜扫描件原PDF物理第62页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "简答题",
@@ -2819,7 +2980,7 @@
       "name": "二极管｜导通截止与模型选择",
       "chapter": "第五章",
       "theme": "半导体二极管能力簇",
-      "question_count": 3,
+      "question_count": 5,
       "known_score_total": 0,
       "exam_profiles": {
         "期末": {
@@ -2863,32 +3024,33 @@
             ],
             "year_count": 5,
             "paper_count": 5,
-            "coverage_numerator": 1,
+            "coverage_numerator": 3,
             "coverage_denominator": 5,
-            "coverage_rate": 0.2,
-            "year_coverage_numerator": 1,
+            "coverage_rate": 0.6,
+            "year_coverage_numerator": 3,
             "year_coverage_denominator": 5,
-            "year_coverage_rate": 0.2,
-            "average_questions_per_paper": 0.2,
-            "known_form_count": 1,
+            "year_coverage_rate": 0.6,
+            "average_questions_per_paper": 0.6,
+            "known_form_count": 3,
             "form_distribution": {
-              "计算题": 1.0
+              "填空题": 0.3333,
+              "计算题": 0.6667
             },
-            "long_ratio": 1.0,
+            "long_ratio": 0.6667,
             "known_score_count": 0,
             "known_score_total": 0,
             "known_score_per_paper": 0.0,
             "median_score": null
           },
-          "coverage_delta": -0.05,
+          "coverage_delta": 0.35,
           "first_seen_year": "2018-2019",
-          "last_seen_year": "2022-2023",
-          "current_consecutive_present": 0,
-          "current_consecutive_absent": 1,
-          "transition_count": 4,
-          "primary_trend": "平稳观察",
-          "trend_priority": 6,
-          "importance_role": "低频观察",
+          "last_seen_year": "2023-2024",
+          "current_consecutive_present": 2,
+          "current_consecutive_absent": 0,
+          "transition_count": 5,
+          "primary_trend": "新近升温",
+          "trend_priority": 3,
+          "importance_role": "中频主干",
           "secondary_trends": [],
           "tag_change": null,
           "representatives": {
@@ -2896,7 +3058,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理",
                 "anchor": "成惠-18-19电模期末A-析1",
-                "source": "成惠团队2018-2019电路分析与模拟电路期末A",
+                "source": "成惠团队2018-2019电路分析与模拟电路期末A｜扫描件原PDF物理第61页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "简答题",
@@ -2904,6 +3066,15 @@
               }
             ],
             "recent": [
+              {
+                "file": "成惠团队期末卷_5-9章/2023-2024期末A_5-9章题面整理",
+                "anchor": "成惠-23-24期末A-填5-1",
+                "source": "成惠团队2023-2024期末A",
+                "academic_year": "2023-2024",
+                "score": null,
+                "question_form": "填空题",
+                "tag": "二极管｜导通截止与模型选择"
+              },
               {
                 "file": "成惠团队期末卷_5-9章/2022-2023期末评测_5-9章题面整理",
                 "anchor": "成惠-22-23期末评测-算4",
@@ -2948,9 +3119,9 @@
             },
             {
               "academic_year": "2020-2021",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2021-2022",
@@ -2966,9 +3137,9 @@
             },
             {
               "academic_year": "2023-2024",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             }
           ]
         }
@@ -3279,6 +3450,164 @@
       "name": "二极管｜限幅整流与应用",
       "chapter": "第五章",
       "theme": "半导体二极管能力簇",
+      "question_count": 2,
+      "known_score_total": 0,
+      "exam_profiles": {
+        "期末": {
+          "paper_type": "期末",
+          "recent_start_year": "2019-2020",
+          "latest_year": "2023-2024",
+          "historical": {
+            "years": [
+              "2015-2016",
+              "2016-2017",
+              "2017-2018",
+              "2018-2019"
+            ],
+            "year_count": 4,
+            "paper_count": 8,
+            "coverage_numerator": 1,
+            "coverage_denominator": 4,
+            "coverage_rate": 0.25,
+            "year_coverage_numerator": 1,
+            "year_coverage_denominator": 4,
+            "year_coverage_rate": 0.25,
+            "average_questions_per_paper": 0.125,
+            "known_form_count": 1,
+            "form_distribution": {
+              "计算题": 1.0
+            },
+            "long_ratio": 1.0,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": 0.0,
+            "median_score": null
+          },
+          "recent": {
+            "years": [
+              "2019-2020",
+              "2020-2021",
+              "2021-2022",
+              "2022-2023",
+              "2023-2024"
+            ],
+            "year_count": 5,
+            "paper_count": 5,
+            "coverage_numerator": 1,
+            "coverage_denominator": 5,
+            "coverage_rate": 0.2,
+            "year_coverage_numerator": 1,
+            "year_coverage_denominator": 5,
+            "year_coverage_rate": 0.2,
+            "average_questions_per_paper": 0.2,
+            "known_form_count": 1,
+            "form_distribution": {
+              "计算题": 1.0
+            },
+            "long_ratio": 1.0,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": 0.0,
+            "median_score": null
+          },
+          "coverage_delta": -0.05,
+          "first_seen_year": "2018-2019",
+          "last_seen_year": "2019-2020",
+          "current_consecutive_present": 0,
+          "current_consecutive_absent": 4,
+          "transition_count": 2,
+          "primary_trend": "平稳观察",
+          "trend_priority": 6,
+          "importance_role": "低频观察",
+          "secondary_trends": [],
+          "tag_change": null,
+          "representatives": {
+            "historical": [
+              {
+                "file": "成惠团队期末卷_5-9章/2018-2019电路分析与电子线路期末_5-9章题面整理",
+                "anchor": "成惠-18-19期末-简2",
+                "source": "成惠团队2018-2019期末",
+                "academic_year": "2018-2019",
+                "score": null,
+                "question_form": "计算题",
+                "tag": "二极管｜限幅整流与应用"
+              }
+            ],
+            "recent": [
+              {
+                "file": "成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理",
+                "anchor": "成惠-19-20期末-简3",
+                "source": "成惠团队2019-2020期末",
+                "academic_year": "2019-2020",
+                "score": null,
+                "question_form": "计算题",
+                "tag": "二极管｜限幅整流与应用"
+              }
+            ]
+          },
+          "year_series": [
+            {
+              "academic_year": "2015-2016",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2016-2017",
+              "present": false,
+              "paper_count": 2,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2017-2018",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2018-2019",
+              "present": true,
+              "paper_count": 4,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2019-2020",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2020-2021",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2021-2022",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2022-2023",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2023-2024",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "交流电路｜RC串联阻抗",
+      "chapter": "第三章",
+      "theme": "相量与阻抗分析能力簇",
       "question_count": 0,
       "known_score_total": 0,
       "exam_profiles": {
@@ -3634,7 +3963,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理",
                 "anchor": "成惠-18-19电子基础期末-算6",
-                "source": "成惠团队2018-2019电子电路基础期末",
+                "source": "成惠团队2018-2019电子电路基础期末｜扫描件原PDF物理第52页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "计算题",
@@ -4610,7 +4939,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理",
                 "anchor": "成惠-18-19电子基础期末-算3",
-                "source": "成惠团队2018-2019电子电路基础期末",
+                "source": "成惠团队2018-2019电子电路基础期末｜扫描件原PDF物理第51页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "计算题",
@@ -4891,7 +5220,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理",
                 "anchor": "成惠-18-19电模期末A-简4",
-                "source": "成惠团队2018-2019电路分析与模拟电路期末A",
+                "source": "成惠团队2018-2019电路分析与模拟电路期末A｜扫描件原PDF物理第62页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "简答题",
@@ -4924,6 +5253,140 @@
               "present": true,
               "paper_count": 4,
               "question_count": 1
+            },
+            {
+              "academic_year": "2019-2020",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2020-2021",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2021-2022",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2022-2023",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2023-2024",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "放大电路｜放大本质与性能指标",
+      "chapter": "第六章",
+      "theme": "小信号模型与基本接法能力簇",
+      "question_count": 0,
+      "known_score_total": 0,
+      "exam_profiles": {
+        "期末": {
+          "paper_type": "期末",
+          "recent_start_year": "2019-2020",
+          "latest_year": "2023-2024",
+          "historical": {
+            "years": [
+              "2015-2016",
+              "2016-2017",
+              "2017-2018",
+              "2018-2019"
+            ],
+            "year_count": 4,
+            "paper_count": 8,
+            "coverage_numerator": 0,
+            "coverage_denominator": 4,
+            "coverage_rate": 0.0,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 4,
+            "year_coverage_rate": 0.0,
+            "average_questions_per_paper": 0.0,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": 0.0,
+            "median_score": null
+          },
+          "recent": {
+            "years": [
+              "2019-2020",
+              "2020-2021",
+              "2021-2022",
+              "2022-2023",
+              "2023-2024"
+            ],
+            "year_count": 5,
+            "paper_count": 5,
+            "coverage_numerator": 0,
+            "coverage_denominator": 5,
+            "coverage_rate": 0.0,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 5,
+            "year_coverage_rate": 0.0,
+            "average_questions_per_paper": 0.0,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": 0.0,
+            "median_score": null
+          },
+          "coverage_delta": 0.0,
+          "first_seen_year": null,
+          "last_seen_year": null,
+          "current_consecutive_present": 0,
+          "current_consecutive_absent": 9,
+          "transition_count": 0,
+          "primary_trend": "平稳观察",
+          "trend_priority": 6,
+          "importance_role": "该卷型未覆盖",
+          "secondary_trends": [],
+          "tag_change": null,
+          "representatives": {
+            "historical": [],
+            "recent": []
+          },
+          "year_series": [
+            {
+              "academic_year": "2015-2016",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2016-2017",
+              "present": false,
+              "paper_count": 2,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2017-2018",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2018-2019",
+              "present": false,
+              "paper_count": 4,
+              "question_count": 0
             },
             {
               "academic_year": "2019-2020",
@@ -5392,7 +5855,7 @@
       "name": "放大电路｜频率响应",
       "chapter": "第六章",
       "theme": "功放与反馈频响能力簇",
-      "question_count": 7,
+      "question_count": 8,
       "known_score_total": 0,
       "exam_profiles": {
         "期末": {
@@ -5414,15 +5877,15 @@
             "year_coverage_numerator": 4,
             "year_coverage_denominator": 4,
             "year_coverage_rate": 1.0,
-            "average_questions_per_paper": 0.75,
-            "known_form_count": 6,
+            "average_questions_per_paper": 0.875,
+            "known_form_count": 7,
             "form_distribution": {
-              "填空题": 0.25,
-              "简答题": 0.3333,
-              "综合题": 0.3333,
-              "计算题": 0.0833
+              "填空题": 0.4,
+              "简答题": 0.2667,
+              "综合题": 0.2667,
+              "计算题": 0.0667
             },
-            "long_ratio": 0.4166,
+            "long_ratio": 0.3334,
             "known_score_count": 0,
             "known_score_total": 0,
             "known_score_per_paper": 0.0,
@@ -5471,7 +5934,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理",
                 "anchor": "成惠-18-19第二期末-简2",
-                "source": "成惠团队2018-2019第二学期期末",
+                "source": "成惠团队2018-2019第二学期期末｜扫描件原PDF物理第53页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "简答题",
@@ -5501,7 +5964,7 @@
               "academic_year": "2016-2017",
               "present": true,
               "paper_count": 2,
-              "question_count": 1
+              "question_count": 2
             },
             {
               "academic_year": "2017-2018",
@@ -6187,7 +6650,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理",
                 "anchor": "成惠-18-19电子基础期末-算7",
-                "source": "成惠团队2018-2019电子电路基础期末",
+                "source": "成惠团队2018-2019电子电路基础期末｜扫描件原PDF物理第52页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "计算题",
@@ -6805,7 +7268,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理",
                 "anchor": "成惠-18-19电模期末A-简5",
-                "source": "成惠团队2018-2019电路分析与模拟电路期末A",
+                "source": "成惠团队2018-2019电路分析与模拟电路期末A｜扫描件原PDF物理第62页（2026-11-06逐题核对）",
                 "academic_year": "2018-2019",
                 "score": null,
                 "question_form": "简答题",
@@ -7290,7 +7753,7 @@
               {
                 "file": "成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理",
                 "anchor": "成惠-17-18期末-填8",
-                "source": "成惠团队2017-2018期末",
+                "source": "成惠团队2017-2018期末｜扫描件原PDF物理第46页（2026-11-06逐题核对）",
                 "academic_year": "2017-2018",
                 "score": null,
                 "question_form": "填空题",
@@ -7402,9 +7865,9 @@
       "paper_type": "期末",
       "academic_year": "2016-2017",
       "paper_count": 2,
-      "question_count": 32,
+      "question_count": 33,
       "theme_counts": {
-        "功放与反馈频响能力簇": 9,
+        "功放与反馈频响能力簇": 10,
         "多级与差分结构能力簇": 2,
         "小信号模型与基本接法能力簇": 1,
         "振荡与波形生成能力簇": 5,
@@ -7420,7 +7883,7 @@
         "放大电路｜功率放大输出级": 1,
         "放大电路｜多级与级间负载": 2,
         "放大电路｜负反馈组态判断": 7,
-        "放大电路｜频率响应": 1,
+        "放大电路｜频率响应": 2,
         "直流电源｜电容滤波": 1,
         "直流电源｜集成稳压器应用": 1,
         "运放｜差分比例运算": 2,
@@ -7435,13 +7898,15 @@
       "paper_type": "期末",
       "academic_year": "2017-2018",
       "paper_count": 1,
-      "question_count": 7,
+      "question_count": 8,
       "theme_counts": {
         "功放与反馈频响能力簇": 1,
+        "场效应管迁移分析能力簇": 1,
         "运放动态与非线性能力簇": 5,
         "运放线性应用能力簇": 1
       },
       "tag_counts": {
+        "FET｜转移特性与跨导": 1,
         "放大电路｜频率响应": 1,
         "运放｜有源滤波器判断": 3,
         "运放｜比例运算基础": 1,
@@ -7452,12 +7917,12 @@
       "paper_type": "期末",
       "academic_year": "2018-2019",
       "paper_count": 4,
-      "question_count": 32,
+      "question_count": 35,
       "theme_counts": {
         "功放与反馈频响能力簇": 8,
-        "半导体二极管能力簇": 4,
-        "器件识别与工作区判断能力簇": 2,
-        "场效应管迁移分析能力簇": 4,
+        "半导体二极管能力簇": 5,
+        "器件识别与工作区判断能力簇": 3,
+        "场效应管迁移分析能力簇": 5,
         "多级与差分结构能力簇": 2,
         "小信号模型与基本接法能力簇": 2,
         "振荡与波形生成能力簇": 1,
@@ -7467,11 +7932,12 @@
       },
       "tag_counts": {
         "BJT｜共射小信号分析": 2,
-        "BJT｜管型与工作状态判断": 2,
-        "FET｜基本放大电路": 4,
+        "BJT｜管型与工作状态判断": 3,
+        "FET｜基本放大电路": 5,
         "二极管｜PN结与器件基础": 1,
         "二极管｜导通截止与模型选择": 2,
         "二极管｜小信号分析": 1,
+        "二极管｜限幅整流与应用": 1,
         "振荡电路｜三角波发生电路": 1,
         "放大电路｜多级与级间负载": 1,
         "放大电路｜差分与共模抑制": 1,
@@ -7486,15 +7952,16 @@
       "paper_type": "期末",
       "academic_year": "2019-2020",
       "paper_count": 1,
-      "question_count": 4,
+      "question_count": 5,
       "theme_counts": {
-        "半导体二极管能力簇": 1,
+        "半导体二极管能力簇": 2,
         "场效应管迁移分析能力簇": 1,
         "运放动态与非线性能力簇": 2
       },
       "tag_counts": {
         "FET｜基本放大电路": 1,
         "二极管｜小信号分析": 1,
+        "二极管｜限幅整流与应用": 1,
         "运放｜有源滤波器判断": 1,
         "运放｜比较器与传输特性": 1
       }
@@ -7503,14 +7970,16 @@
       "paper_type": "期末",
       "academic_year": "2020-2021",
       "paper_count": 1,
-      "question_count": 3,
+      "question_count": 4,
       "theme_counts": {
         "功放与反馈频响能力簇": 1,
+        "半导体二极管能力簇": 1,
         "场效应管迁移分析能力簇": 1,
         "运放动态与非线性能力簇": 1
       },
       "tag_counts": {
         "FET｜基本放大电路": 1,
+        "二极管｜导通截止与模型选择": 1,
         "放大电路｜频率响应": 1,
         "运放｜有源滤波器判断": 1
       }
@@ -7555,13 +8024,15 @@
       "paper_type": "期末",
       "academic_year": "2023-2024",
       "paper_count": 1,
-      "question_count": 3,
+      "question_count": 4,
       "theme_counts": {
+        "半导体二极管能力簇": 1,
         "场效应管迁移分析能力簇": 1,
         "运放线性应用能力簇": 2
       },
       "tag_counts": {
         "FET｜基本放大电路": 1,
+        "二极管｜导通截止与模型选择": 1,
         "运放｜比例运算基础": 2
       }
     }
@@ -7603,9 +8074,9 @@
       "source": "成惠团队2016-2017模拟电路期末A",
       "paper_type": "期末",
       "academic_year": "2016-2017",
-      "question_count": 14,
+      "question_count": 15,
       "theme_counts": {
-        "功放与反馈频响能力簇": 4,
+        "功放与反馈频响能力簇": 5,
         "振荡与波形生成能力簇": 2,
         "运放动态与非线性能力簇": 7,
         "运放线性应用能力簇": 1
@@ -7614,6 +8085,7 @@
         "振荡电路｜正弦振荡条件判断": 2,
         "放大电路｜功率放大输出级": 1,
         "放大电路｜负反馈组态判断": 3,
+        "放大电路｜频率响应": 1,
         "运放｜差分比例运算": 1,
         "运放｜有源滤波器判断": 3,
         "运放｜比较器与传输特性": 1,
@@ -7652,18 +8124,20 @@
       }
     },
     {
-      "paper_key": "成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理|成惠团队2017-2018期末",
+      "paper_key": "成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理|扫描件_成惠团队电路分析考试真题(1)(1).pdf｜PDF物理页46—49",
       "file": "成惠团队期末卷_5-9章/2017-2018电路分析与电子线路期末_5-9章题面整理",
-      "source": "成惠团队2017-2018期末",
+      "source": "扫描件_成惠团队电路分析考试真题(1)(1).pdf｜PDF物理页46—49",
       "paper_type": "期末",
       "academic_year": "2017-2018",
-      "question_count": 7,
+      "question_count": 8,
       "theme_counts": {
         "功放与反馈频响能力簇": 1,
+        "场效应管迁移分析能力簇": 1,
         "运放动态与非线性能力簇": 5,
         "运放线性应用能力簇": 1
       },
       "tag_counts": {
+        "FET｜转移特性与跨导": 1,
         "放大电路｜频率响应": 1,
         "运放｜有源滤波器判断": 3,
         "运放｜比例运算基础": 1,
@@ -7671,22 +8145,22 @@
       }
     },
     {
-      "paper_key": "成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理|成惠团队2018-2019电子电路基础期末",
+      "paper_key": "成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理|扫描件_成惠团队电路分析考试真题(1)(1).pdf｜PDF物理页50—52",
       "file": "成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理",
-      "source": "成惠团队2018-2019电子电路基础期末",
+      "source": "扫描件_成惠团队电路分析考试真题(1)(1).pdf｜PDF物理页50—52",
       "paper_type": "期末",
       "academic_year": "2018-2019",
-      "question_count": 9,
+      "question_count": 10,
       "theme_counts": {
         "功放与反馈频响能力簇": 2,
-        "场效应管迁移分析能力簇": 2,
+        "场效应管迁移分析能力簇": 3,
         "多级与差分结构能力簇": 1,
         "振荡与波形生成能力簇": 1,
         "电源整流与稳压能力簇": 1,
         "运放动态与非线性能力簇": 2
       },
       "tag_counts": {
-        "FET｜基本放大电路": 2,
+        "FET｜基本放大电路": 3,
         "振荡电路｜三角波发生电路": 1,
         "放大电路｜多级与级间负载": 1,
         "放大电路｜负反馈组态判断": 2,
@@ -7695,22 +8169,22 @@
       }
     },
     {
-      "paper_key": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理|成惠团队2018-2019电路分析与模拟电路期末A",
+      "paper_key": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理|扫描件_成惠团队电路分析考试真题(1)(1).pdf｜PDF物理页60—63",
       "file": "成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理",
-      "source": "成惠团队2018-2019电路分析与模拟电路期末A",
+      "source": "扫描件_成惠团队电路分析考试真题(1)(1).pdf｜PDF物理页60—63",
       "paper_type": "期末",
       "academic_year": "2018-2019",
-      "question_count": 9,
+      "question_count": 10,
       "theme_counts": {
         "半导体二极管能力簇": 3,
-        "器件识别与工作区判断能力簇": 2,
+        "器件识别与工作区判断能力簇": 3,
         "多级与差分结构能力簇": 1,
         "小信号模型与基本接法能力簇": 1,
         "运放线性应用能力簇": 2
       },
       "tag_counts": {
         "BJT｜共射小信号分析": 1,
-        "BJT｜管型与工作状态判断": 2,
+        "BJT｜管型与工作状态判断": 3,
         "二极管｜PN结与器件基础": 1,
         "二极管｜导通截止与模型选择": 2,
         "放大电路｜差分与共模抑制": 1,
@@ -7723,24 +8197,25 @@
       "source": "成惠团队2018-2019期末",
       "paper_type": "期末",
       "academic_year": "2018-2019",
-      "question_count": 4,
+      "question_count": 5,
       "theme_counts": {
         "功放与反馈频响能力簇": 1,
-        "半导体二极管能力簇": 1,
+        "半导体二极管能力簇": 2,
         "场效应管迁移分析能力簇": 1,
         "运放动态与非线性能力簇": 1
       },
       "tag_counts": {
         "FET｜基本放大电路": 1,
         "二极管｜小信号分析": 1,
+        "二极管｜限幅整流与应用": 1,
         "放大电路｜负反馈组态判断": 1,
         "运放｜有源滤波器判断": 1
       }
     },
     {
-      "paper_key": "成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理|成惠团队2018-2019第二学期期末",
+      "paper_key": "成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理|扫描件_成惠团队电路分析考试真题(1)(1).pdf｜PDF物理页53—56",
       "file": "成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理",
-      "source": "成惠团队2018-2019第二学期期末",
+      "source": "扫描件_成惠团队电路分析考试真题(1)(1).pdf｜PDF物理页53—56",
       "paper_type": "期末",
       "academic_year": "2018-2019",
       "question_count": 10,
@@ -7766,15 +8241,16 @@
       "source": "成惠团队2019-2020期末",
       "paper_type": "期末",
       "academic_year": "2019-2020",
-      "question_count": 4,
+      "question_count": 5,
       "theme_counts": {
-        "半导体二极管能力簇": 1,
+        "半导体二极管能力簇": 2,
         "场效应管迁移分析能力簇": 1,
         "运放动态与非线性能力簇": 2
       },
       "tag_counts": {
         "FET｜基本放大电路": 1,
         "二极管｜小信号分析": 1,
+        "二极管｜限幅整流与应用": 1,
         "运放｜有源滤波器判断": 1,
         "运放｜比较器与传输特性": 1
       }
@@ -7785,14 +8261,16 @@
       "source": "成惠团队2020-2021期末",
       "paper_type": "期末",
       "academic_year": "2020-2021",
-      "question_count": 3,
+      "question_count": 4,
       "theme_counts": {
         "功放与反馈频响能力簇": 1,
+        "半导体二极管能力簇": 1,
         "场效应管迁移分析能力簇": 1,
         "运放动态与非线性能力簇": 1
       },
       "tag_counts": {
         "FET｜基本放大电路": 1,
+        "二极管｜导通截止与模型选择": 1,
         "放大电路｜频率响应": 1,
         "运放｜有源滤波器判断": 1
       }
@@ -7843,13 +8321,15 @@
       "source": "成惠团队2023-2024期末A",
       "paper_type": "期末",
       "academic_year": "2023-2024",
-      "question_count": 3,
+      "question_count": 4,
       "theme_counts": {
+        "半导体二极管能力簇": 1,
         "场效应管迁移分析能力簇": 1,
         "运放线性应用能力簇": 2
       },
       "tag_counts": {
         "FET｜基本放大电路": 1,
+        "二极管｜导通截止与模型选择": 1,
         "运放｜比例运算基础": 2
       }
     }
