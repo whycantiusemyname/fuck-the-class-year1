@@ -3,7 +3,7 @@
 ## 来源与边界
 
 - 章节来源：`扫描件_普通高等教育十三五规划教材.pdf` 第5章“波动学基础”。
-- 严格来源 gate：该教材当前 `$pdf-to-markdown` completion 为旧 schema，`verify_completion.py` 未通过；本轮不能把旧 final Markdown 当作认证来源。已确认可用的辅助证据包括：`10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md`、习题册波动（一）至（四）、`10_题库/_标签库.md` 和 `40_派生视图/考频矩阵.md`。
+- 来源核验更新（2026-11-06）：上册教材当前 `completion.json` 已经独立运行严格 `verify_completion.py` 通过，源 PDF、final Markdown 及分段修复绑定有效，unresolved_count 为 0。旧 schema 阻塞说明已过期；这不自动证明本章全部题面已逐题复核，也不补足尚缺的页码级引用。
 - 角色边界：本文件给 AI tutor 控制范围和检索入口；学生第一轮阅读使用 `第05章_波动学基础_主干讲解.md`。
 - 不引入课外证明工具；多普勒、驻波、相干叠加只按大学物理常规应试层级处理。
 
@@ -61,6 +61,6 @@
 
 ## 范围待确认
 
-- 需重新跑或补完 `扫描件_普通高等教育十三五规划教材.pdf` 的 `$pdf-to-markdown` completion，使严格 verifier 通过后，才能把教材 final Markdown 作为认证文本来源。
+- 来源核验更新（2026-11-06）：上册教材当前 `completion.json` 已经独立运行严格 `verify_completion.py` 通过，源 PDF、final Markdown 及分段修复绑定有效，unresolved_count 为 0。旧 schema 阻塞说明已过期；这不自动证明本章全部题面已逐题复核，也不补足尚缺的页码级引用。
 - 需教师/课堂口径确认：本章是否删去多普勒、切连科夫辐射、驻波边界细节中的某些内容。
-- 当前主干讲解已使用题库暴露的应试入口，但没有逐页教材页码指针；补齐 completion 后应回填页码或来源段落。
+- 来源核验更新（2026-11-06）：上册教材当前 `completion.json` 已经独立运行严格 `verify_completion.py` 通过，源 PDF、final Markdown 及分段修复绑定有效，unresolved_count 为 0。旧 schema 阻塞说明已过期；这不自动证明本章全部题面已逐题复核，也不补足尚缺的页码级引用。

@@ -60,4 +60,4 @@
 ## 范围待确认
 
 - 当前未取得教师课堂删减/补充口径；若后续有课堂重点，应同步到 `课程口径.md` 与本文件。
-- 主 PDF 的 `$pdf-to-markdown` completion 证书仍未达到新 gate 的 complete schema；本章文件已按章节边界和题库证据重做，但默认 S8 全局完成仍依赖该 PDF completion gate 修复。
+- 来源核验更新（2026-11-06）：上册教材当前 `completion.json` 已经独立运行严格 `verify_completion.py` 通过，源 PDF、final Markdown 及分段修复绑定有效，unresolved_count 为 0。旧 schema 阻塞说明已过期；这不自动证明本章全部题面已逐题复核，也不补足尚缺的页码级引用。

@@ -163,6 +163,6 @@ $$
 
 ## 范围待确认
 
-- 教材 PDF 的既有 `pdf-to-markdown` completion 当前验证未显示 complete；本轮基于已定位的第9章文本和原 PDF 来源边界重写，未做 digest bind/verify。
+- 来源核验更新（2026-11-06）：上册教材当前 `completion.json` 已经独立运行严格 `verify_completion.py` 通过，源 PDF、final Markdown 及分段修复绑定有效，unresolved_count 为 0。旧 schema 阻塞说明已过期；这不自动证明本章全部题面已逐题复核，也不补足尚缺的页码级引用。
 - 学习指导题面出现范德瓦耳斯临界点关系，但教材第9章主文未把临界常数推导列为主线。后续若要把 $V_k,T_k,p_k$ 关系写成必会公式，应走 S9 或由教师口径确认。
 - 教师课堂是否删减 9.3 固体和液体热性质、9.4 相变，当前未确认；暂按教材第9章全章保留。

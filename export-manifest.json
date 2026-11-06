@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 201703,
-    "sha256": "c90452610865f2dbd0b8d9a50acf7a8fc0d085de9bebbe26ef328278c8a3c599"
+    "bytes": 213988,
+    "sha256": "4156938046f54eef9fbaa7eb71372ef8460ac33d5bea541814ba8f9a5d6df73d"
   },
   {
     "path": "tools/verify_share.py",
@@ -1276,8 +1276,8 @@
   },
   {
     "path": "物理/00_大学物理习题册（上）索引.md",
-    "bytes": 4698,
-    "sha256": "f7cbe3a738f3ea5c16520a1412c8d0e98e56521ba7597c7f02c711fb6fdec710"
+    "bytes": 5062,
+    "sha256": "dab8bf0b3de12643490378a8435a6c196297615fe683d80cc3e50e894b889560"
   },
   {
     "path": "物理/01_振动前刷题总表.md",
@@ -1328,6 +1328,291 @@
     "path": "物理/10_题库/_assets/2024-2025期末截图/f6d529dd8428adbcf5a7c57f04e60e27a2a44cd98236ae65f15d0d0a94316eb3.jpg",
     "bytes": 21430,
     "sha256": "6b6cfb3fdaadf76367f41757b2821d8a97db5e516cf4cb4e65cadfa517b0bb83"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-exams/16-17-final-fill3.png",
+    "bytes": 33137,
+    "sha256": "7494818c5836b9b39893db7d7088536f9ccc00f457a8e23be4d4c1939fc144ab"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-12.png",
+    "bytes": 40320,
+    "sha256": "db3aba8ab61f9d8a69b4d25f7e1935062a11b49bc2fb99c7c339283670ce910b"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-14.png",
+    "bytes": 70375,
+    "sha256": "0acb40475af491d503836259fd97e43620e06ce4494997271c7642801445c48e"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch02-ex2-15.png",
+    "bytes": 35770,
+    "sha256": "26a676c3f63ce401642a58d47eb86bead7aaa417c4373f455f54fab6f73d34c6"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch02-prob2-4.png",
+    "bytes": 53229,
+    "sha256": "cb24cbeb0383b0279a81f4dab7969053a41c863375a010ac864f4b2d5d88e4d4"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch02-think2-1.png",
+    "bytes": 63551,
+    "sha256": "46c4d2a761f61981deba3e2beff4bdcb958f7f2831a3311b661b9277014cf0aa"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch02-think2-2.png",
+    "bytes": 39143,
+    "sha256": "f190bac86f45b95a906080bbc37c2913b91851531529c02d4479c926d883ebcf"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-ex3-2.png",
+    "bytes": 51603,
+    "sha256": "0a52d2b6b0e3865143d74b16c111d6a6199ccac4d6de44c8fb1c7dc02ecc1340"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-ex3-3.png",
+    "bytes": 85811,
+    "sha256": "0c4fd62eb71bcdb7c705afca11973af72721a4d6d73977d86895e15d641fc7de"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-ex3-5.png",
+    "bytes": 88780,
+    "sha256": "36249008452bd56dac1002f31d80599a2aca9c65e7daeb70daed9ba851bbff37"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-ex3-6.png",
+    "bytes": 72279,
+    "sha256": "4fd87b58470d41c9b94749a5c47f419224f2d0c0c87da4e2bd869a5b1d76b5b7"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-ex3-8.png",
+    "bytes": 67269,
+    "sha256": "577006bdc8999ec67d5d063df67e9973a84ae850c42ea85efd3f80d3709c4f4e"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-ex3-9.png",
+    "bytes": 76376,
+    "sha256": "f9951cb915311ded2a59caf63ef6a7638a64e298e491ab1c339417c98ffc4348"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-prob3-11.png",
+    "bytes": 47212,
+    "sha256": "bb1f2f64c31fcd925989aebd422cbbd7661e0ca665db88e5afa8c21d9fd4c197"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-prob3-4.png",
+    "bytes": 57364,
+    "sha256": "032054bba47e8d920680109a37af8098808d9d23d9b1424368385f1a33c22d88"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-prob3-5.png",
+    "bytes": 65339,
+    "sha256": "f218d8909a0b456f9ccc871b0a1db2f12b600cc28a243fad9a18a5525e263a08"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-prob3-6.png",
+    "bytes": 55853,
+    "sha256": "9e07943307d70ba1aa34816a0187ba52f524245f3e2f2ecd109b1f27042f2739"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-prob3-9.png",
+    "bytes": 48852,
+    "sha256": "81e7e77e07adc54d3ea7dbc32278a393d6f609bbff00dbd50e67002f7ffd7add"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-think3-2.png",
+    "bytes": 44295,
+    "sha256": "209b06f463d78e96a24eba98061dea0a571b25f57f623274125e4393b079ba00"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-think3-3.png",
+    "bytes": 32998,
+    "sha256": "613b4b0304e82d62b5f9443acbba128ee160d5e077206a9a53e14e2cb49f256d"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch03-think3-6.png",
+    "bytes": 44584,
+    "sha256": "e7421dc2c20324fbcb014ea8ec1250b007bd053ce46e23428ab44303b570e446"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch04-ex4-1.png",
+    "bytes": 68805,
+    "sha256": "e9ae1bcab3080ce0bb270622fb85323e8c48b87b7329b1cb2e31c8decf9308e3"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch04-ex4-3.png",
+    "bytes": 74656,
+    "sha256": "627c50aa8f4c9a56d0d6face8f8aa18eed5518d923ece3e8a4e01b8ad7a6e993"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch04-ex4-8.png",
+    "bytes": 183564,
+    "sha256": "ae01523ed6758d936606f82580b2127ba04bd4ba809b5426659577ea40feb718"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch04-prob4-18.png",
+    "bytes": 66270,
+    "sha256": "5ba634101a0e4cbf53a1be5e855170384f68fc618e6a8efe7dbdfa18641ef71d"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch04-think4-11.png",
+    "bytes": 48744,
+    "sha256": "12f64f65f1f8cb69a4996334f777ee1b8643d5054cbe8a0da4c8882acad63c3a"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch04-think4-12.png",
+    "bytes": 66056,
+    "sha256": "18aae5707b587fbfe2f80c42f28b997d2b8382ad7e5900f0f72a26d819a01718"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch05-ex5-4.png",
+    "bytes": 67115,
+    "sha256": "b3edf9aea51b6d2206dff16c80d4aaf9b801854797f49c8c48401501b72194c9"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch05-prob5-1.png",
+    "bytes": 45695,
+    "sha256": "6a0c0a820a916f68c24c0750311df96730f6b690ac0893003e06ec9d7e42730a"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch05-prob5-13.png",
+    "bytes": 61652,
+    "sha256": "c59a0524624e1930aaef4ddcd4d348116bc2822bdec521ce8106aeb3ee14bfbb"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch05-prob5-17.png",
+    "bytes": 30123,
+    "sha256": "6038992cf059c04e07ce8fbcb6bc231e0c7ee6d2c2fc7678d6a17687a31be837"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch05-prob5-2.png",
+    "bytes": 45024,
+    "sha256": "56d0f75be8fd7fb2b1611a92a3aa081572ce6c5aa7bde281e316b7d6a34ab4b5"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch05-prob5-9.png",
+    "bytes": 37148,
+    "sha256": "4fb094fc348ae8e2ce6fef54ccb5b89a9daa667cc84c426948ab244771bae434"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch05-think5-20.png",
+    "bytes": 216993,
+    "sha256": "cdfe7575ee6aa704c06fc6f652990112c8494acdc4c5b22e6896045e8eecd19f"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch06-ex6-4.png",
+    "bytes": 64785,
+    "sha256": "b12d79dac50a70d734270c756ff68d37fe53ace5cb2ce3c17f887b6f9987da6f"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch06-prob6-6.png",
+    "bytes": 70806,
+    "sha256": "3fa19dbb1d6947779554f416cc835f3db7f690e515eba1c7bf48c6edf2758c34"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch08-ex8-1.png",
+    "bytes": 68571,
+    "sha256": "96c0d98ab1c25cdbf5a6142034a72c9f1487fac049b565a33cbbeb0614e15695"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch08-ex8-3.png",
+    "bytes": 62919,
+    "sha256": "11495437e0a09184214d677ea8e18f7b26bd8363ba9af18d3aed0b0396838bc7"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch08-prob8-13.png",
+    "bytes": 55977,
+    "sha256": "46999ddcb7872e59c6a79d3f5b88deebae88f3309eb69f85a856cd4179b05659"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch08-prob8-2.png",
+    "bytes": 61884,
+    "sha256": "c0ef6e9e2491c06fa0f0c8cbc81642db6980a33ed18ad75c5ca138c6dd4945b7"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch08-think8-10.png",
+    "bytes": 57144,
+    "sha256": "bb687a67f421b7508ed19e79937606250d1b4c20b8992aa95adee52d796a42cf"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch08-think8-11.png",
+    "bytes": 62686,
+    "sha256": "c6db9c728286a78ea3329610e7f8c5b8a7e1b8bd5294996d7de70544fe7ac9d7"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/ch08-think8-14.png",
+    "bytes": 53108,
+    "sha256": "cae6b38c6f731f0e8d70d3d452c349492d8db7116711ab7e9d9db37f3c458361"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/chapter01-example-1-10.pdf18.png",
+    "bytes": 39400,
+    "sha256": "b79c06fd30f6b72a772a88eb7b2c8d7085b8af2fc06254c2028b84b343da78e1"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/chapter01-example-1-12.pdf19.png",
+    "bytes": 150924,
+    "sha256": "ae6ebd921feff7d52a7950d0e3ac31f197ad0b7708b4749ffda6272d856a0fca"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/chapter01-example-1-3.pdf14.png",
+    "bytes": 53653,
+    "sha256": "c55ee607c5e16a711ce6fd2731443eb1488af3b1c6406208f7762c2444fc570e"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/chapter01-example-1-4.pdf14.png",
+    "bytes": 49633,
+    "sha256": "09534123cad8d2f5800cca5e0dce78a5abbd7fb6b2152efa0f71d0ff3c3e96da"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/chapter01-example-1-6.pdf16.png",
+    "bytes": 132799,
+    "sha256": "cf028dd4eaf0fe4b0d6930c6358581c18df2fbd494a24e9e03ba615657c44a73"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/optics-ex13-4.png",
+    "bytes": 55354,
+    "sha256": "78a4917862a2352dc13ee1f3237451b477eb964cbc6afbc9c34e140cac679599"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-guide/optics-prob14-4.png",
+    "bytes": 97856,
+    "sha256": "c0038789d8d2040e6db8a089042b31767ed4f9db12fc6aaa5a92ca89c8522415"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-optics/ch13-ex13-5.png",
+    "bytes": 22902,
+    "sha256": "34f79de816bcceba88aea650cc5df3ea6f63e4198c98e7c0ebbc13d6c7a0ee00"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-optics/ch13-prob13-11.png",
+    "bytes": 65365,
+    "sha256": "f460f6449be366dcc4007535f546b3eeb0e8d4151241e07e7a2fcb6c3dd19900"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-optics/ch13-prob13-9.png",
+    "bytes": 24739,
+    "sha256": "4d0e020692ea648a9b74379442e64be73383d7111a940ee1d735f33abe16e5c9"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-optics/ch13-think13-12.png",
+    "bytes": 37017,
+    "sha256": "7a94550a71ebf43a1d3a09e046ecbeacda26fc965349af04436e8c7491a73552"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-tsinghua/q225.png",
+    "bytes": 5935,
+    "sha256": "16697b8976b53bdff0c108d94dea7be16585942dbf487c674c545cdf362d1a30"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-tsinghua/q290.png",
+    "bytes": 6269,
+    "sha256": "dfa66475f95605cd0d31bf13eae07ae48e49998b3f52ad705d3ee985d5c81c1b"
+  },
+  {
+    "path": "物理/10_题库/_assets/upper-review-tsinghua/q358.png",
+    "bytes": 8785,
+    "sha256": "6157ac3cd892405c460ff22d9483f2dac7dceec2d35e51897745c2ee437f5168"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/01-circle-position.png",
@@ -5301,288 +5586,288 @@
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_01_质点运动描述一_题面整理.md",
-    "bytes": 3182,
-    "sha256": "d9692fc38b4610c4aede05ff2b425544c167d087ad0476e0a2701e66d735f122"
+    "bytes": 3248,
+    "sha256": "4f26cbff948a0e645bb809e1c2dad7a197e06fde61dfeafe168df59c1eb58fb6"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_02_质点运动描述二_题面整理.md",
-    "bytes": 3977,
-    "sha256": "824becb854560ef960486d3e26e0b297aca81b1facd9a9b7d0dae33774639f27"
+    "bytes": 4043,
+    "sha256": "6227034b2c35ce46daa04c4b845cf08dbb6c8651707bc1115f06398b6ddbbe25"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_03_质点运动描述三_题面整理.md",
-    "bytes": 3708,
-    "sha256": "dbeceb716f8646e1c6ff226c95e422a370646d3f333629ea6b8be89daa91fbb1"
+    "bytes": 3774,
+    "sha256": "3c7f0de4a3b9e0368f0e830b5aeed809b2512d7db48b044d30470975bddebd67"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_04_质点运动描述四_题面整理.md",
-    "bytes": 3744,
-    "sha256": "94169f88e3fa727dd57d6edb23e3ce9eab0f0d52af658b1cced4e971203fd485"
+    "bytes": 3810,
+    "sha256": "0a850c574f530b6724b8566685e6d18d346d37660e69d224cedbf7097b3b98a5"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_05_质点运动描述五_题面整理.md",
-    "bytes": 4222,
-    "sha256": "7719a513db863c69fa0bd8ff13ac2b8401749bc9bb36509a6d46028d85020312"
+    "bytes": 4288,
+    "sha256": "1f155e6cebc9311433f1ecd7c3f859212db091c2cdfb5ddf412dd647fbbe422d"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_06_能量守恒一_题面整理.md",
-    "bytes": 4017,
-    "sha256": "7cdcf06df604bba58ea766448fd2e75f97148fac140509d73f2ebc7e09d8d6a6"
+    "bytes": 4083,
+    "sha256": "ae20adbfeb48f9b3f9ac2e0ef30ae671e08f3b96515432e5837648607fc4d0aa"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_07_能量守恒二_题面整理.md",
-    "bytes": 4150,
-    "sha256": "a1231202a10bd91f901180fa964160c11e0aa7e1ed3fb5208e41b987d98b198b"
+    "bytes": 4216,
+    "sha256": "e1a3af0acc86aaf0afd605f71b82a1c74fd74b78a5425f4178ae97f1128c4de6"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_08_动量守恒一_题面整理.md",
-    "bytes": 3763,
-    "sha256": "9d9aba1bb30ede07815d6897c503211082d961e7b055cc1911bc1d4812da93f6"
+    "bytes": 3829,
+    "sha256": "ee97070fc67b4a38275e1450093c8ca19cdf2f97b76847f9f45027d297d71b64"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_09_动量守恒二_题面整理.md",
-    "bytes": 3744,
-    "sha256": "1268c58215c9cd962e1223e74e9d994e23bb4f3a6d7f77651fd5e6aa34320705"
+    "bytes": 3810,
+    "sha256": "b4c9e1aa27458aa0944efa2463337e38aebf0ee875a326dc875e534d00303345"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_10_角动量守恒一_题面整理.md",
-    "bytes": 4466,
-    "sha256": "440f0aa46789159828e2d2b46210f2ff400a49d179e70434800c98480a28c27b"
+    "bytes": 4543,
+    "sha256": "ce6b664fb40eb2128c47a650cbbd7bd987f834f42eef860f60853fda68ec76f4"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_11_角动量守恒（二）_题面整理.md",
-    "bytes": 4185,
-    "sha256": "cead00b93d0e3de57fc86abb855ae59397ccfe9d90d954b92655945f7c16bf88"
+    "bytes": 4251,
+    "sha256": "fa36eac6bde2f5b037a680e8c33a0741d1f909b10b6274d42c9c32b13b5347be"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_12_角动量守恒（三）_题面整理.md",
-    "bytes": 3362,
-    "sha256": "f2cb335e562f507c2b2bc98d6e7aa4da2a35a98635c5cb8df5f29668a8034ec7"
+    "bytes": 3417,
+    "sha256": "4f098263a6b5c4e7da9aa5dc333b87df1c6963c6db494ddeec832c312d62b2b6"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_13_振动（一）_题面整理.md",
-    "bytes": 3414,
-    "sha256": "7b3c132affb4a4432d9d7e2ecaa1683c85bd5086b99d1655b38f879935389fc1"
+    "bytes": 3480,
+    "sha256": "2d56cda69dfcbe210ae641c8e230474e4450dc04e75fb10734235c2c6550813a"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_14_振动（二）_题面整理.md",
-    "bytes": 3450,
-    "sha256": "2d4b7dae83a5ec14cf78ba3c60839e36a05b8051c9b848452c0183b7900c067d"
+    "bytes": 3516,
+    "sha256": "b005749bd3c04c6f4d2c379b2c7236abeaa3d2ae1f4f87076fc89ed2e1e0646a"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_15_振动（三）_题面整理.md",
-    "bytes": 3398,
-    "sha256": "fbd6f8d02f60e60f079337d12ea098890132375435c2767cc2a57cbee1cb500f"
+    "bytes": 3464,
+    "sha256": "1460836b5d03e5791a9eecc35003411d6352c8383affb401f79868f9cff0a662"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_16_相对论（一）_题面整理.md",
-    "bytes": 3926,
-    "sha256": "4285b02eec4bb8cd257031f043b8d31535739bd7b89831aed5867a1628ce5337"
+    "bytes": 3992,
+    "sha256": "d868d25074f31ecee5d53749ae81a33f5964c1585605cce5a49400be53d3a677"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_17_相对论（二）_题面整理.md",
-    "bytes": 3426,
-    "sha256": "610544fba41b327ebd8eaf01e5bbc230a3114ea754510198c7b6b12bb717cd71"
+    "bytes": 3503,
+    "sha256": "120b8ba7b5bf898d583716865212297efdde4404cb3a3ab047c39ba8bf85dda7"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_18_相对论（三）_题面整理.md",
-    "bytes": 3396,
-    "sha256": "1fbc4738702939535b5691d63669721e60f1744efa412ae0468036b2c3c8dff5"
+    "bytes": 3462,
+    "sha256": "efe08392d3d9ead0f3371d6e1e0c01776e1940a7400f1421d6c634ac41ee4ce4"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_19_波动（一）_题面整理.md",
-    "bytes": 3539,
-    "sha256": "3b1ce767e0377b1474ad10b7e3327b23fa5f3f433f8713c1a633991dc720b4d0"
+    "bytes": 3605,
+    "sha256": "54670dee1512aafb85e8c68f7075a075a71b3195ae1ad92a606c869a6921aa44"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_20_波动（二）_题面整理.md",
-    "bytes": 3408,
-    "sha256": "7c207899310f880ae06f27cf3ff8b303f39a145573d37e60badc8e656c11f8f3"
+    "bytes": 3474,
+    "sha256": "7f61a6201717389bd9725ffc0d6f8a680892f5954d0edb57397adf30dc375ae9"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_21_波动（三）_题面整理.md",
-    "bytes": 3978,
-    "sha256": "642378b6de3aaed8c375ab1566736cfffedc9136c93b87624a6540b3353d16b0"
+    "bytes": 4047,
+    "sha256": "4d5fa5edd6c3ef576ed9a7d3953f89e42fc873c2b1a2d368ae67fc6dbb159003"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_22_波动（四）_题面整理.md",
-    "bytes": 3128,
-    "sha256": "ab1b48a0edfa078df84f360083aa87551c3bf6f057df0730b149a6c8af73e5ba"
+    "bytes": 3183,
+    "sha256": "4b36d6f4356e801e5c785229a748b95ff627c063d7e3dc7f0d792a8e996f5c55"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_23_光的偏振（一）_题面整理.md",
-    "bytes": 3387,
-    "sha256": "728b1cce90924be0d8f558dac88af012cbb350f710a63c8f2c9a3078ce6d4611"
+    "bytes": 3453,
+    "sha256": "680ffc5b854f30793bfbf200d4bc9039238dd46915c439322dfde5149f9c686f"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_24_光的偏振（二）_题面整理.md",
-    "bytes": 4233,
-    "sha256": "3e090611726caa583cb2e13c55baf524a8133235459b35d56754360f6bc5d3b6"
+    "bytes": 4310,
+    "sha256": "d59f377451ca9524e2b459a594c67dea0b762ffcbf59570ff4244601b129f5b1"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_25_光的干涉（一）_题面整理.md",
-    "bytes": 3455,
-    "sha256": "08b35f893c4fdca8475c8d6f695aeaa33c9b3f15dc2828117f12ad91b8673eea"
+    "bytes": 3521,
+    "sha256": "3e6a818c8bf4de499ac0b2619ccc2a17321ba8265925e296841560d31d9cf0d7"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_26_光的干涉（二）_题面整理.md",
-    "bytes": 3777,
-    "sha256": "6e2e5c5e5d9e72aa59a696082d6abf331f02fc44eab04f9269a3774ff2bef1fe"
+    "bytes": 3843,
+    "sha256": "acbe1299d9b1ad1408af2caaae669b1baea6147de5d30331958b76ec2a0544c0"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_27_光的干涉（三）_题面整理.md",
-    "bytes": 4067,
-    "sha256": "5c47e6cb0e67b2dc445709e6031f247bb3170ca6a6e5283428df2d8832de98dc"
+    "bytes": 4133,
+    "sha256": "943244ab3d4234259516612846e84b851a700d438350cfbcf9a8f294ea7eba82"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_28_光的干涉（四）_题面整理.md",
-    "bytes": 3633,
-    "sha256": "ee3e1136f084943ce09e7f2aa2a2c9760389967028eafaa65c66b1a0ccc1d41b"
+    "bytes": 3699,
+    "sha256": "cd4ca878b1e7adcbfd3148239c536f5dddc9d79adaa099724161bea5de48ea62"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_29_光的衍射（一）_题面整理.md",
-    "bytes": 3305,
-    "sha256": "612540bf081bf31cdf16c087862ad769a46e8ab3bfdcc29cd284d11040875f70"
+    "bytes": 3371,
+    "sha256": "3314fb24280f63cd75bc0b2124ab4cf18903b6ad5076373d9a3e2b2b10b509fd"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_30_光的衍射（二）_题面整理.md",
-    "bytes": 3485,
-    "sha256": "9f45a208fa90f29f8d28790f4a9f216148ee9fdfd3334ac9362d8ff26f922cd9"
+    "bytes": 3551,
+    "sha256": "d18a028ed582201a0220d43e2c7f7482f3030c0c95cffabec82a772ab1fd1439"
   },
   {
     "path": "物理/10_题库/习题册/大学物理习题册_31_光的衍射（三）_题面整理.md",
-    "bytes": 3249,
-    "sha256": "d5909b47119dd1b42de9f389a96101302800486c616d757a93c56137121c2bc0"
+    "bytes": 3315,
+    "sha256": "0257a0f16077416159adbec0db27d3f74891d6e0ad615fc29b8626c43f3fcb2e"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2011-2012学年大学物理I期中题面整理.md",
-    "bytes": 16043,
-    "sha256": "e5c33c52a88699c7b609173a15736ab86b71bc02b634db5ceefb3fe008629dd4"
+    "bytes": 16329,
+    "sha256": "498eeadd8d8c0b3bba802ca5fa57905e9f9772c745a8afccde77a374f9fbc5e2"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2015-2016学年大学物理I期中题面整理.md",
-    "bytes": 12539,
-    "sha256": "e2a3acb8e41b5348152b421f2144e288aeaf83647031c007afd322b18dff48b2"
+    "bytes": 12759,
+    "sha256": "34cb807c008acf8456b6cd3dcf4625978bf739a7a7baec635100fcca78c5df49"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2016-2017学年大学物理I期中题面整理.md",
-    "bytes": 12593,
-    "sha256": "ac8b0770d5bc4d48c16924cdecee9bd7679f8fdb9d8db9b4d73175d303d07f54"
+    "bytes": 12824,
+    "sha256": "7b129a54e8500047cbbc12ae657e1f8fd2356a7bccdf6e8327db6de58f88512a"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2018-2019学年大学物理I期中题面整理.md",
-    "bytes": 12324,
-    "sha256": "c96f65f74ff0a7cf8bf63464a736b9631acbde57bd6579c74e523fdd74c204fb"
+    "bytes": 12555,
+    "sha256": "90725cc238eec1101729a15e342238463f44715b648a1c6d4a5407e11515e771"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2020-2021学年大学物理I期中题面整理.md",
-    "bytes": 15758,
-    "sha256": "6757dd612bc20e482a28733a233056842a712fce36c5529e8535d182052b5b5b"
+    "bytes": 16011,
+    "sha256": "3c28a3b24853e9462c48cc6652d7076921f9e62af39ff73d2e7c35ca544f8eb0"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2022-2023学年大学物理I期中题面整理.md",
-    "bytes": 15118,
-    "sha256": "ab683355d5073c8c949e7ef0f8e27a382fca9a8814010a62f6b4b3544766a3a4"
+    "bytes": 15382,
+    "sha256": "d9203703236d816f88d2a5b0f44eecb495edaedd98e8c5ed5ef7a829deb0b3a9"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2023-2024学年大学物理I期中题面整理.md",
-    "bytes": 13099,
-    "sha256": "41667ce9395dd30cfd1a0320dbabe5c67eae09775e9fe80b626847065526e571"
+    "bytes": 13326,
+    "sha256": "498822d179b8db543deb11a9bef6e3c4aaefd1382a9e45c02dc03170ea18b92c"
   },
   {
     "path": "物理/10_题库/历年真题/期中/2024-2025学年大学物理I期中题面整理.md",
-    "bytes": 12598,
-    "sha256": "8a47323ab7af6c5c22b9eef45b6c8e863b5e1d2a2f71da87a8d53bc8ccdbad2c"
+    "bytes": 12807,
+    "sha256": "79e972328dcdb6621b262b2ed98e1531db044366d6780845fd8d4c256c8db5c9"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2016-2017学年大学物理I期末题面整理.md",
-    "bytes": 13654,
-    "sha256": "cd1343b0fcb6a180221873e7e19375012d335d41db71fba3728b7576135ef556"
+    "bytes": 13992,
+    "sha256": "3adfd45536e6ad9d41d9b2871bceffcf3b8d8f6c6ed5386a4e8bf69335497fad"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2018-2019学年大学物理I期末题面整理.md",
-    "bytes": 10379,
-    "sha256": "97f4ea3e2b59872341d67364f951d2c2273ae33d41827805a4fe9c4d9da99509"
+    "bytes": 10586,
+    "sha256": "a3c82e05b40d17ef22934479faf805d2bef75b477ac26294c9e2ffddd36e51ea"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2019-2020学年大学物理I期末题面整理.md",
-    "bytes": 13116,
-    "sha256": "5d63ee81d79f883344456f97e6f5ec22423e40f5de323e997cdeb5c23395a733"
+    "bytes": 13369,
+    "sha256": "c06a6a7e88047012c405ca0bceaef405955326b2fe0670400944afacb6a27792"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2020-2021学年大学物理I期末题面整理.md",
-    "bytes": 12238,
-    "sha256": "d136458e4834f252dfc215112e50c4711fc05a02e8aceca3a98d6ecb6a61b0dc"
+    "bytes": 12469,
+    "sha256": "700b1c16c78f96b0abaf11fd126da6be93be5fe1afc9bdc719d144de09d2dd70"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2022-2023学年大学物理I期末题面整理.md",
-    "bytes": 14610,
-    "sha256": "5b13f1e823b4b66a851073b7b6db9fd1acf6128f138321a5f9b99a9ce6826177"
+    "bytes": 14863,
+    "sha256": "ac2a80066c11239217ca55ce48b39db81f861fa226308873d47c8c80ce72daf9"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2023-2024学年大学物理I期末题面整理.md",
-    "bytes": 16062,
-    "sha256": "346c3eb11aa2a5016baa8a8b78b4ca7d342172fe95b7d0ac2307f4bcd863249a"
+    "bytes": 16350,
+    "sha256": "bbc931cfdb11ff7530b0595e71051cd26551d0ef704e986e3fc64d471651d465"
   },
   {
     "path": "物理/10_题库/历年真题/期末/2024-2025学年大学物理I期末题面整理.md",
-    "bytes": 13033,
-    "sha256": "e6a2ee113a1a2565a713fce876c8034b1add9df914dd67da92fd05c502d6203a"
+    "bytes": 13336,
+    "sha256": "ca6cef263e13900c11baae30e56c5e7477252c005e583e1e46ec5599ea479098"
   },
   {
     "path": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题一题面整理.md",
-    "bytes": 13759,
-    "sha256": "a58d5324c70492d264e67c82c6a9572aac8005bbf72a2877ffe8994723b22acc"
+    "bytes": 14023,
+    "sha256": "0daf3770d2ffe3ecd2aab9d5a4aa24dc4d98bfdc979ed1b58d5bc6503d0e95c9"
   },
   {
     "path": "物理/10_题库/历年真题/期末/未标年份_大学物理上期末考题二题面整理.md",
-    "bytes": 15152,
-    "sha256": "5b7976511bf5713600e77973f5ca0281329280a88b7cc2fbb3017513e4f219e9"
+    "bytes": 15427,
+    "sha256": "1063778c575c16a30ff2e729ee413de0cf22a342bf890178776169aebc6393a4"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第01章_运动学_题面整理.md",
-    "bytes": 15410,
-    "sha256": "e8ce3798a291ba4bbc486add3713a440457f710c8ab6c2baaa41d48a175fd8b8"
+    "bytes": 15807,
+    "sha256": "6ddd8eaf0dd66841df3015ab7f47cda75bc466abba1ac46f1403038eed43371c"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第02章_质点动力学_题面整理.md",
-    "bytes": 22599,
-    "sha256": "53d28cefea33c1248dd32ddd34f215448f2bbf8f5761c04f118ca4826746af20"
+    "bytes": 23080,
+    "sha256": "5c0922790615a9d1b800fd030832510c96ebc57520b6b012b89fd6edb74ceb16"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第03章_刚体力学_题面整理.md",
-    "bytes": 27544,
-    "sha256": "20f85f68af4bf5ada0191b65966ed1920346ecb3917421f364edecbc17bff362"
+    "bytes": 28576,
+    "sha256": "33ab30ffd4d1e25b09d5c4a19093478eda88443b02cd7ed1d7eec42de0babd25"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第04章_振动学基础_题面整理.md",
-    "bytes": 29608,
-    "sha256": "a049b1e5d7fcdfc07e6dd67a2eb424af4f1ec0f421a71fe0bb48e490ca4aef31"
+    "bytes": 30117,
+    "sha256": "65ebeeb47b5e2c113e213b3f0370fbcc2719876c1d54f915765bc72e76557a35"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第05章_波动学基础_题面整理.md",
-    "bytes": 33278,
-    "sha256": "8005f272a190ce16098a1e18de0bf0cbd248caaeff9931295221d20777b07bf9"
+    "bytes": 33862,
+    "sha256": "d7c592153bd94e169a4d74e34bfe7e5710eec464b81bdd281cade1562d9a5377"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第06章_狭义相对论_题面整理.md",
-    "bytes": 17381,
-    "sha256": "8ce2ee878f3742583a09c7ae2a97e82c38bfda0b0206ce3862c56a7416949bf9"
+    "bytes": 17565,
+    "sha256": "b5eec4bae68726df5438d2e42f6690e25f5c4ea14e03e6c35dcd643795df6883"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第07章_统计物理初步_题面整理.md",
-    "bytes": 21637,
-    "sha256": "dd64e16962d0332dc8ec59140fa1a3de88434fd1b8f5c3fbc6df032af6b11373"
+    "bytes": 21778,
+    "sha256": "687874620a4a23666bd92b970fa466c70b0254f234e637a75ba59b6a26df2b78"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
-    "bytes": 23186,
-    "sha256": "6db3cad97e1ee45b2a5668c41fb6f8a73acd52572d6ab4b63dad3f84ac578d0d"
+    "bytes": 23825,
+    "sha256": "cbf8f77a497e5f39c7e1f87d686abcf08f304f957e3782abe8436965b55d6255"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第09章_气体和凝聚态_题面整理.md",
-    "bytes": 7232,
-    "sha256": "fb8a4a35b99213dcdc96b40507f2aafaf67ed7325d952653c0907338d2653e1a"
+    "bytes": 7260,
+    "sha256": "ab057d99eaba78cdb47ee06b4ea761c33ad558da12f60bf0349ea6bd3a3686e2"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第10章_静电学_题面整理.md",
@@ -5596,18 +5881,18 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第13章_光的干涉_题面整理.md",
-    "bytes": 25345,
-    "sha256": "9a1235f15b73853facd890913176d76f27ee7c8a92ded446efa75c57917bdcfa"
+    "bytes": 25781,
+    "sha256": "2081186454a5275f3af180299e6b373cbcab7f36921c523768bf33b4b1f40697"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第14章_光的衍射_题面整理.md",
-    "bytes": 22737,
-    "sha256": "c62b731591bed1a9a48e42599b9358cb670c124ef82616a84725cdb91a2ce16f"
+    "bytes": 22861,
+    "sha256": "358617e9d44f7d61bb08b6513a529dee207fbe30bafa5b4174f5b71f341e6c3d"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第15章_光的偏振_题面整理.md",
-    "bytes": 17920,
-    "sha256": "265ffef27a4b9dd9ec65d5f2ac1492f7882726434accb4595ba4f733c4116b34"
+    "bytes": 18005,
+    "sha256": "aa9fb3cb0d15e205899a4fdb365be5aab1d657c9cc0368225633ae375e952aec"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第16章_早期量子理论_题面整理.md",
@@ -5626,23 +5911,23 @@
   },
   {
     "path": "物理/10_题库/清华题库/清华题库_第03章_相对论_题面整理.md",
-    "bytes": 23778,
-    "sha256": "080521e96e887f4574517ecca755e0df388b3201066c210a3d6b049c82af8833"
+    "bytes": 25708,
+    "sha256": "78a5509979aaedebd829d5a152d3ba994a063fa37bfd11fd061d5ca4eab62a23"
   },
   {
     "path": "物理/10_题库/清华题库/清华题库_第04章_机械振动_题面整理.md",
-    "bytes": 36889,
-    "sha256": "398de1d0d0ef26dcd161c98c468e6433599f235d27802ca76df93db47d221459"
+    "bytes": 36011,
+    "sha256": "a26b16057a3c1561887b05710ab2af5c6e629862092a57b08ebc5d0364a54453"
   },
   {
     "path": "物理/10_题库/清华题库/清华题库_第05章_机械波_题面整理.md",
-    "bytes": 57208,
-    "sha256": "a0af8b517ed63a26b3e86064658232c5d473215f4663374b8fce1913037ab664"
+    "bytes": 55624,
+    "sha256": "073aa657e0c4dafd4081f92793a07c6e8251cb2ad32b894d629eebd9bab81989"
   },
   {
     "path": "物理/10_题库/清华题库/清华题库_第06章_光学_题面整理.md",
-    "bytes": 65458,
-    "sha256": "fc9462b23fa7fb2271e3128de3c4217e5b44c815db00a41d4fdb7320aa9b3dee"
+    "bytes": 64785,
+    "sha256": "d9e154fe2fa4c1d1e66b7b92ded5d865b7622f4a65135d09b2051e2a6b6cf874"
   },
   {
     "path": "物理/20_知识/README.md",
@@ -5751,48 +6036,48 @@
   },
   {
     "path": "物理/20_知识/grounding/第01章_运动学_grounding.md",
-    "bytes": 5346,
-    "sha256": "1ea209de8d6cb4b580c4f26d0af8f88c4729e15529a36b349fbba7f12e7804cb"
+    "bytes": 5675,
+    "sha256": "aa99a31258d0df612b03621a5761fe8451cfd8c4be7be1a4edcdfd24146c59b8"
   },
   {
     "path": "物理/20_知识/grounding/第02章_质点动力学_grounding.md",
-    "bytes": 5175,
-    "sha256": "c0a353740c0347299948c974ef449b8f5b1922786b854dda3271c91186854a49"
+    "bytes": 5504,
+    "sha256": "be3817f8afe1f7fadce2e835c2b33b538c7040c065bfa16b2809ba23f01ac3c3"
   },
   {
     "path": "物理/20_知识/grounding/第03章_刚体力学_grounding.md",
-    "bytes": 5165,
-    "sha256": "16bdba97bce406ad71ebee29609a436993167bd2fd408472b84e52d85372150b"
+    "bytes": 5292,
+    "sha256": "4b1ccc03a1f0fafec0e2d7f7b51fc8eabc03a6cb8d3a6cb38136d69e00e2336d"
   },
   {
     "path": "物理/20_知识/grounding/第04章_振动学基础_grounding.md",
-    "bytes": 5306,
-    "sha256": "05143119da61d88a3e99a9c763d7c1349733d41aa85aa4d7c715b3119a69d770"
+    "bytes": 5616,
+    "sha256": "638aed0dab077e7eec81a73edce1bc9b8b67816cde13ddd412d647ebabcf49b6"
   },
   {
     "path": "物理/20_知识/grounding/第05章_波动学基础_grounding.md",
-    "bytes": 5695,
-    "sha256": "84a6096ff8b6ca22675270160e3a0dcad5f9baa412d1f300c2e60d78e5063cce"
+    "bytes": 5965,
+    "sha256": "ea43373a99bb59a6875489562db49805e1d1f71cf04c9d7c72eb2340bad828ae"
   },
   {
     "path": "物理/20_知识/grounding/第06章_狭义相对论_grounding.md",
-    "bytes": 5903,
-    "sha256": "838af1adc3d0f368c9837668e3dbe708e2cdfdb4a251934f780c18d78e84a47d"
+    "bytes": 6276,
+    "sha256": "97589a3c3a9b1970c0c5682235efe1eebd6f0bca63438350fb93f4ee0b140f67"
   },
   {
     "path": "物理/20_知识/grounding/第07章_统计物理初步_grounding.md",
-    "bytes": 3976,
-    "sha256": "5cadee1115e0657dace72322cd273ece61b2d9bb9e60c73823a9157798ee43a6"
+    "bytes": 4103,
+    "sha256": "b64b68b2798255cca93afaa7ddb4accb7eda029726da6175b4ac008b88886564"
   },
   {
     "path": "物理/20_知识/grounding/第08章_热力学_grounding.md",
-    "bytes": 4021,
-    "sha256": "08b78a6c9a57e8afcca624fd50c8ac483c0aecec2a1cb2d5eaaee0d490685f36"
+    "bytes": 4148,
+    "sha256": "ec19aa43e9bed5de8c9143e02cb4500d471b480d4a94421d205a7deb04e3e434"
   },
   {
     "path": "物理/20_知识/grounding/第09章_气体和凝聚态_grounding.md",
-    "bytes": 8554,
-    "sha256": "fb2c1d068ddf58e468bca780ecc10bd2973489b67ceff4f9b698fa43c0d5bba9"
+    "bytes": 8713,
+    "sha256": "72cb4cb924f8332251adb88c8eb57eed26f355a690b52d1965c4f7eeeda5bdf2"
   },
   {
     "path": "物理/20_知识/grounding/第10章_静电学_grounding.md",
@@ -5951,8 +6236,8 @@
   },
   {
     "path": "物理/40_派生视图/大物上/README.md",
-    "bytes": 1704,
-    "sha256": "272ecec6d3d076aa1d3a78151bbc89dba755933bc736c51d26d9e873a2901930"
+    "bytes": 1820,
+    "sha256": "a79dad3d726ed8a3b377d9b9eb2a424e74e9a69ff12fabdd7b4ee0d9af0dddd1"
   },
   {
     "path": "物理/40_派生视图/大物上/上册逐章/01_运动学/README.md",
@@ -8110,6 +8395,16 @@
     "sha256": "0fac395dbdbf91a3f906dab87d5daa2fd6a4ab2265f16d803536859d2c691463"
   },
   {
+    "path": "物理/40_派生视图/大物上/上册逐题复核台账_2026-11-06.json",
+    "bytes": 836856,
+    "sha256": "37abc7b7551fabb8ae3a95d347fa3fb4869fb216a39b2bc0c2a35880919b9b98"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/上册题面复核_2026-11-06.md",
+    "bytes": 7996,
+    "sha256": "17641e85f25efb5a3d1c5e8662ad8fc4bd145617acf11720157e759b54cd364e"
+  },
+  {
     "path": "物理/40_派生视图/大物上/今年期末复用高可能题单.md",
     "bytes": 15513,
     "sha256": "db48924515c11e35db61b93845edab5b6338d6b36afc716ac52ac3a0815d4415"
@@ -8243,6 +8538,11 @@
     "path": "物理/40_派生视图/大物上/清华题库高回报路线.md",
     "bytes": 5548,
     "sha256": "5a0b0c5d8c5946b060a8cfb22eb5fb753e85dab0d43cf605ab2efc7e03f1b8f4"
+  },
+  {
+    "path": "物理/40_派生视图/通用审计/S8单章重做与学习指导格式审计报告.md",
+    "bytes": 7268,
+    "sha256": "975aa6c89e9606e31ea80b6ec74b197154965b8cdb50f1d17845f9bc2f8c87d5"
   },
   {
     "path": "物理/90_缓存/pdf-to-markdown/大学物理习题册（上）/certified.md",
@@ -11603,6 +11903,16 @@
     "path": "物理/90_缓存/s2-frequency-analysis.json",
     "bytes": 1165948,
     "sha256": "a8f5ab5abdfcd9b9516cfb386724af4b4c76eb31d3c78f54b959ee5b54fb0981"
+  },
+  {
+    "path": "物理/90_缓存/扫描整理/2024-2025期末/2024-2025学年大学物理I期末_方向校正合并_补19.pdf",
+    "bytes": 3276095,
+    "sha256": "b9d23b2a58b160d46a7591e7bb4f28f3861cde949e3784d6372ba408601e591b"
+  },
+  {
+    "path": "物理/90_缓存/清华题库章节拆分/清华题库_相对论_机械振动_机械波_光学_题目页p031-p083.pdf",
+    "bytes": 805780,
+    "sha256": "364d7583f0483c4c40e9c92efaee2ef9399db20347f5ed0035e02d6797919384"
   },
   {
     "path": "物理/README.md",

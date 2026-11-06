@@ -9,7 +9,7 @@
   - `10_题库/大学物理习题册_17_相对论（二）_题面整理.md`
   - `10_题库/大学物理习题册_18_相对论（三）_题面整理.md`
 - 题库只用于题型信号、常见入口和 S10 probe，不把题库解析写入 S8。
-- 当前上册教材 PDF 的严格 `$pdf-to-markdown` completion gate 尚未闭合；不得把页码级 final Markdown 当已认证来源。需要在后续修复 completion 后补页码锚点。
+- 来源核验更新（2026-11-06）：上册教材当前 `completion.json` 已经独立运行严格 `verify_completion.py` 通过，源 PDF、final Markdown 及分段修复绑定有效，unresolved_count 为 0。旧 schema 阻塞说明已过期；这不自动证明本章全部题面已逐题复核，也不补足尚缺的页码级引用。
 - 本文件用于 AI tutor 控制边界；学生第一轮阅读使用同章 `主干讲解.md`。
 
 ## 本章主线
@@ -71,6 +71,6 @@
 
 ## 范围待确认
 
-- 上册教材 PDF 的严格 `$pdf-to-markdown` completion gate 待修复；当前不能写页码级教材锚点。
+- 来源核验更新（2026-11-06）：上册教材当前 `completion.json` 已经独立运行严格 `verify_completion.py` 通过，源 PDF、final Markdown 及分段修复绑定有效，unresolved_count 为 0。旧 schema 阻塞说明已过期；这不自动证明本章全部题面已逐题复核，也不补足尚缺的页码级引用。
 - 学习指导例 6-11 用狭义相对论估算黑洞半径，可能属于拓展/类比题；S10 中只作为题库题面处理，不提升为本章主线。
 - 若教师课堂有删减、补充或强调“只考基本原理/只考计算”，需要写入 `课程口径.md` 后再收窄本章 S8。

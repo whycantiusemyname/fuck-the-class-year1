@@ -11,7 +11,7 @@
 - `大学物理习题册_04_质点运动描述四_题面整理.md` 多数题已归入动力学，只有个别速度-位置微分关系可作为运动学入口参考，不扩展第01章主线。
 - 本文件只用于 AI tutor 控制边界、检索和 S10 probe；学生第一轮阅读使用同章 `主干讲解.md`。
 - 范围复核：课件外理论 0，未确认术语 0。
-- 当前限制：教材 PDF 的 `$pdf-to-markdown` 严格 `verify_completion.py` gate 尚未闭合。原因是旧 `completion.json` 缺少新 verifier 需要的 `schema_version` 和 LLM readthrough repaired segments。闭合前不得宣称全课程 S8 默认完成。
+- 来源核验更新（2026-11-06）：上册教材当前 `completion.json` 已经独立运行严格 `verify_completion.py` 通过，源 PDF、final Markdown 及分段修复绑定有效，unresolved_count 为 0。旧 schema 阻塞说明已过期；这不自动证明本章全部题面已逐题复核，也不补足尚缺的页码级引用。
 
 ## 本章主线
 
@@ -80,4 +80,4 @@
 
 - 未发现需要写入正文章节的课件外理论。
 - 教师课堂删减、补充重点尚未提供；若后续出现，应写入 `课程口径.md` 或本章边界。
-- PDF completion gate 尚待闭合；闭合前不得宣称全课程 S8 默认完成。
+- 来源核验更新（2026-11-06）：上册教材当前 `completion.json` 已经独立运行严格 `verify_completion.py` 通过，源 PDF、final Markdown 及分段修复绑定有效，unresolved_count 为 0。旧 schema 阻塞说明已过期；这不自动证明本章全部题面已逐题复核，也不补足尚缺的页码级引用。
