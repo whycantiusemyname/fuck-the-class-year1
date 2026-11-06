@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 250119,
-    "sha256": "6c2f2f342c6063c800d99b04aac47cfaed26b01c1d494bdd350c4a3fb9a85045"
+    "bytes": 245835,
+    "sha256": "b385944cda9be5c12ec265875cf47943e2e465003f1c90f7ec1ca3308e4f0878"
   },
   {
     "path": "tools/verify_share.py",
@@ -8451,8 +8451,8 @@
   },
   {
     "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/阅读预览.html",
-    "bytes": 4098,
-    "sha256": "f639b9bb2bd902fc453fe2ca1e3d7584e2b6096d7fc7ca45a1a70a0aebd45da4"
+    "bytes": 3726,
+    "sha256": "fee91b21e4edb903b81edffa31028738ca9dae8c414ab2c82cb8f54d6efb450a"
   },
   {
     "path": "物理/40_派生视图/大物上/图像重绘批01/README.md",

@@ -3278,15 +3278,6 @@
     "fixed": 2,
     "report": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/README.md",
     "changed_files": [
-      "物理/10_题库/_assets/上册逐章/01_运动学/01-circle-position.png",
-      "物理/10_题库/_assets/上册逐章/01_运动学/01-circle-position.svg",
-      "物理/10_题库/_assets/上册逐章/01_运动学/07-projectile-tangent-30deg.png",
-      "物理/10_题库/_assets/上册逐章/01_运动学/07-projectile-tangent-30deg.svg",
-      "物理/10_题库/_assets/上册逐章/01_运动学/generate.py",
-      "物理/40_派生视图/大物上/图像可读性复核_20261106/README.md",
-      "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/README.md",
-      "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/对照-01.png",
-      "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/逐图核验.json",
       "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/阅读预览.html"
     ],
     "primary_visual_acceptance": true
