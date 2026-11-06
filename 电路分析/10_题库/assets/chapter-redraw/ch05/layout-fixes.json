@@ -1,0 +1,4 @@
+{
+  "F032": [{"text":"$220\\,\\mathrm{V}$","from":[-1.1,4.5],"to":[-1.1,5.3],"reason":"Separate primary voltage from the AC marker."}],
+  "F144": [{"text":"$i$","from":[6,3],"to":[6.65,3.35],"reason":"Keep the current label separate from the voltage polarity."}]
+}

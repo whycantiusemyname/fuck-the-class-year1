@@ -119,9 +119,19 @@ c=C('F010','A9 circuit',size=(8,4));ports(c,3,0,8);c.part('R',(0,3),(3,3),'$R$')
 fig,axs=plt.subplots(2,1,figsize=(7,5.5),sharex=True)
 for ax in axs:
  ax.set_xlim(0,6.7);ax.set_ylim(-4.5,4.5);ax.spines[['top','right']].set_visible(False);ax.spines['left'].set_position('zero');ax.spines['bottom'].set_position('zero');ax.set_xticks(range(7));ax.set_yticks([-3,-2,-1,0,1,2,3]);ax.set_xlabel(r'$t/\mathrm{s}$',loc='right',fontsize=17);ax.tick_params(labelbottom=True,labelsize=14)
-axs[0].plot([0,1,2,3,4,5,6,6.5],[0,3,0,-3,0,3,0,-1.5],color='black',lw=1.65);axs[0].set_ylabel(r'$u_i/\mathrm{V}$',fontsize=17);axs[1].set_yticks(range(-4,5));axs[1].set_ylabel(r'$u_o/\mathrm{V}$',fontsize=17);saveplot(fig,'F011')
+axs[0].plot([0,1,2,3,4,5,6,6.5],[0,3,0,-3,0,3,0,-1.5],color='black',lw=1.65);axs[0].set_ylabel(r'$u_i/\mathrm{V}$',fontsize=17);axs[1].set_yticks(range(-4,5));axs[1].set_ylabel(r'$u_o/\mathrm{V}$',fontsize=17)
+for ax in axs:
+ ax.set_xlabel('');ax.text(1.02,.52,r'$t/\mathrm{s}$',transform=ax.transAxes,ha='left',va='bottom',fontsize=17)
+saveplot(fig,'F011')
 # Actual SVG rendering also serves PNG export for assembled figures.
 for key in ['F002','F010','F011','F024','F025','F026','F027','F028','F029','F030','F031','F032','F131','F133','F134','F140','F141','F144','F155','F158','F164','F170','F173','F176']:
  d=fitz.open(HERE/(key+'.svg'));pdf=fitz.open('pdf',d.convert_to_pdf());pdf[0].get_pixmap(matrix=fitz.Matrix(2,2)).save(HERE/(key+'.png'))
 (HERE/'geometry.json').write_bytes((json.dumps(M.records,ensure_ascii=False,indent=2)+'\n').encode())
+# Compose the two native renders: MuPDF's SVG conversion loses dash patterns.
+from PIL import Image,ImageDraw,ImageFont
+imgs=[Image.open(HERE/(k+'.png')).convert('RGB') for k in ['F155-a','F155-b']]
+w=max(im.width for im in imgs);out=Image.new('RGB',(w,sum(im.height+70 for im in imgs)),'white');draw=ImageDraw.Draw(out);y=0
+for im,label in zip(imgs,['(a)','(b)']):
+ out.paste(im,((w-im.width)//2,y));draw.text((w/2,y+im.height+5),label,anchor='mt',font=ImageFont.truetype('C:/Windows/Fonts/times.ttf',40),fill='black');y+=im.height+70
+out.save(HERE/'F155.png')
 print('24 exact vector figures rendered; F008 source uncertainty intentionally retained')
