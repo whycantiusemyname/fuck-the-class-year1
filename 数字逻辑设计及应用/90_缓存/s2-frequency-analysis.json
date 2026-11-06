@@ -1,0 +1,355 @@
+{
+  "schema_version": "2.1",
+  "status": "complete",
+  "input_fingerprint": "aec13f3ddec892497c42c4345b4da26b5afadb96fe9e47e9d5e13f75d7fe7b4f",
+  "input_files": [
+    {
+      "path": "10_题库/_标签库.md",
+      "sha256": "45917472cd10045c1fd17661af820253a0695f02b57a9bb42276fb87ab73be91"
+    },
+    {
+      "path": "10_题库/教材第2章_2.1至2.6题面整理.md",
+      "sha256": "e498427f6b602397ad0e6752944d8bd2ccc7962d0431732fbeaf72df82e7a30d"
+    }
+  ],
+  "parameters": {
+    "recent_year_span": 5,
+    "qbank_subdir": null
+  },
+  "paper_grouping_version": "document-source-pdf-locators-v2",
+  "scope": {
+    "source_scope": "10_题库",
+    "qbank_subdir": null,
+    "question_count": 6,
+    "unique_anchor_count": 6,
+    "paper_count": 1,
+    "tag_count": 3,
+    "theme_count": 1,
+    "observed_tag_count": 3,
+    "observed_theme_count": 1,
+    "paper_types": {
+      "其他": 1
+    }
+  },
+  "quality": {
+    "question_form_explicit": 6,
+    "question_form_inferred": 0,
+    "question_form_unknown": 0,
+    "ocr_status_explicit": 6,
+    "ocr_status_legacy_default": 0,
+    "ocr_status_counts": {
+      "已对照 PDF 复核": 6
+    },
+    "unknown_year_paper_count": 1,
+    "unknown_year_papers": [
+      "教材第2章_2.1至2.6题面整理|数字逻辑设计及应用教材第2章"
+    ],
+    "tag_count_matches": true,
+    "theme_mapping_complete": true
+  },
+  "themes": [
+    {
+      "name": "数制表达与转换",
+      "question_count": 6,
+      "known_score_total": 0,
+      "exam_profiles": {
+        "其他": {
+          "paper_type": "其他",
+          "recent_start_year": null,
+          "latest_year": null,
+          "historical": {
+            "years": [],
+            "year_count": 0,
+            "paper_count": 0,
+            "coverage_numerator": 0,
+            "coverage_denominator": 0,
+            "coverage_rate": null,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 0,
+            "year_coverage_rate": null,
+            "average_questions_per_paper": null,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": null,
+            "median_score": null
+          },
+          "recent": {
+            "years": [],
+            "year_count": 0,
+            "paper_count": 0,
+            "coverage_numerator": 0,
+            "coverage_denominator": 0,
+            "coverage_rate": null,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 0,
+            "year_coverage_rate": null,
+            "average_questions_per_paper": null,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": null,
+            "median_score": null
+          },
+          "coverage_delta": 0.0,
+          "first_seen_year": null,
+          "last_seen_year": null,
+          "current_consecutive_present": 0,
+          "current_consecutive_absent": 0,
+          "transition_count": 0,
+          "primary_trend": "样本不足",
+          "trend_priority": 7,
+          "importance_role": "该卷型未覆盖",
+          "secondary_trends": [],
+          "tag_change": {
+            "historical_distribution": {},
+            "recent_distribution": {},
+            "historical_dominant_tag": null,
+            "historical_dominant_share": null,
+            "recent_dominant_tag": null,
+            "recent_dominant_share": null,
+            "recent_dominant_tag_years": 0,
+            "migrated": false
+          },
+          "representatives": {
+            "historical": [],
+            "recent": []
+          },
+          "year_series": []
+        }
+      }
+    }
+  ],
+  "tags": [
+    {
+      "name": "数制转换｜位权与分组转换",
+      "chapter": "第二章",
+      "theme": "数制表达与转换",
+      "question_count": 4,
+      "known_score_total": 0,
+      "exam_profiles": {
+        "其他": {
+          "paper_type": "其他",
+          "recent_start_year": null,
+          "latest_year": null,
+          "historical": {
+            "years": [],
+            "year_count": 0,
+            "paper_count": 0,
+            "coverage_numerator": 0,
+            "coverage_denominator": 0,
+            "coverage_rate": null,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 0,
+            "year_coverage_rate": null,
+            "average_questions_per_paper": null,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": null,
+            "median_score": null
+          },
+          "recent": {
+            "years": [],
+            "year_count": 0,
+            "paper_count": 0,
+            "coverage_numerator": 0,
+            "coverage_denominator": 0,
+            "coverage_rate": null,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 0,
+            "year_coverage_rate": null,
+            "average_questions_per_paper": null,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": null,
+            "median_score": null
+          },
+          "coverage_delta": 0.0,
+          "first_seen_year": null,
+          "last_seen_year": null,
+          "current_consecutive_present": 0,
+          "current_consecutive_absent": 0,
+          "transition_count": 0,
+          "primary_trend": "样本不足",
+          "trend_priority": 7,
+          "importance_role": "该卷型未覆盖",
+          "secondary_trends": [],
+          "tag_change": null,
+          "representatives": {
+            "historical": [],
+            "recent": []
+          },
+          "year_series": []
+        }
+      }
+    },
+    {
+      "name": "数制转换｜字节边界拆分",
+      "chapter": "第二章",
+      "theme": "数制表达与转换",
+      "question_count": 1,
+      "known_score_total": 0,
+      "exam_profiles": {
+        "其他": {
+          "paper_type": "其他",
+          "recent_start_year": null,
+          "latest_year": null,
+          "historical": {
+            "years": [],
+            "year_count": 0,
+            "paper_count": 0,
+            "coverage_numerator": 0,
+            "coverage_denominator": 0,
+            "coverage_rate": null,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 0,
+            "year_coverage_rate": null,
+            "average_questions_per_paper": null,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": null,
+            "median_score": null
+          },
+          "recent": {
+            "years": [],
+            "year_count": 0,
+            "paper_count": 0,
+            "coverage_numerator": 0,
+            "coverage_denominator": 0,
+            "coverage_rate": null,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 0,
+            "year_coverage_rate": null,
+            "average_questions_per_paper": null,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": null,
+            "median_score": null
+          },
+          "coverage_delta": 0.0,
+          "first_seen_year": null,
+          "last_seen_year": null,
+          "current_consecutive_present": 0,
+          "current_consecutive_absent": 0,
+          "transition_count": 0,
+          "primary_trend": "样本不足",
+          "trend_priority": 7,
+          "importance_role": "该卷型未覆盖",
+          "secondary_trends": [],
+          "tag_change": null,
+          "representatives": {
+            "historical": [],
+            "recent": []
+          },
+          "year_series": []
+        }
+      }
+    },
+    {
+      "name": "数制转换｜未知基数求解",
+      "chapter": "第二章",
+      "theme": "数制表达与转换",
+      "question_count": 1,
+      "known_score_total": 0,
+      "exam_profiles": {
+        "其他": {
+          "paper_type": "其他",
+          "recent_start_year": null,
+          "latest_year": null,
+          "historical": {
+            "years": [],
+            "year_count": 0,
+            "paper_count": 0,
+            "coverage_numerator": 0,
+            "coverage_denominator": 0,
+            "coverage_rate": null,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 0,
+            "year_coverage_rate": null,
+            "average_questions_per_paper": null,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": null,
+            "median_score": null
+          },
+          "recent": {
+            "years": [],
+            "year_count": 0,
+            "paper_count": 0,
+            "coverage_numerator": 0,
+            "coverage_denominator": 0,
+            "coverage_rate": null,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 0,
+            "year_coverage_rate": null,
+            "average_questions_per_paper": null,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": null,
+            "median_score": null
+          },
+          "coverage_delta": 0.0,
+          "first_seen_year": null,
+          "last_seen_year": null,
+          "current_consecutive_present": 0,
+          "current_consecutive_absent": 0,
+          "transition_count": 0,
+          "primary_trend": "样本不足",
+          "trend_priority": 7,
+          "importance_role": "该卷型未覆盖",
+          "secondary_trends": [],
+          "tag_change": null,
+          "representatives": {
+            "historical": [],
+            "recent": []
+          },
+          "year_series": []
+        }
+      }
+    }
+  ],
+  "year_series": [],
+  "paper_series": [
+    {
+      "paper_key": "教材第2章_2.1至2.6题面整理|数字逻辑设计及应用教材第2章",
+      "file": "教材第2章_2.1至2.6题面整理",
+      "source": "数字逻辑设计及应用教材第2章",
+      "paper_type": "其他",
+      "academic_year": null,
+      "question_count": 6,
+      "theme_counts": {
+        "数制表达与转换": 6
+      },
+      "tag_counts": {
+        "数制转换｜位权与分组转换": 4,
+        "数制转换｜字节边界拆分": 1,
+        "数制转换｜未知基数求解": 1
+      }
+    }
+  ],
+  "warnings": [
+    "1 份试卷缺少可用学年，只参加总频次"
+  ]
+}
