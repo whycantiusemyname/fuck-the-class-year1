@@ -134,8 +134,25 @@
       ],
       "evidence": false,
       "already_vector": false,
-      "status": "pending_source",
-      "verification": "C3手写原图右侧/下缘电路不全，供电及连线无法裁决；保留原图。"
+      "status": "verified",
+      "verification": "据未裁原照片16139e9cc73fa00690f9250ca6bcd131.jpg逐项核验：R0后节点接RL到地及A2同相输入，A2反相端接自身输出；A1上方反馈电阻原样不标号、不补阻值。图连接已核验，题目条件仍待复核。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F017.svg",
+      "svg_sha256": "57d63fdfd8fc0170d9a3cdcb10855c1da54bcca81fe7b36217addbfc6fbd370f",
+      "png_sha256": "c4c539e5dee427b14f69add8f761f70ea3e60be172c94fca31bfff5c07fdc0c9",
+      "source_evidence": {
+        "photo": "00_原材料/16139e9cc73fa00690f9250ca6bcd131.jpg",
+        "photo_sha256": "2077bc01ecdf56b81641633db5f5d52b5247cdafaf1a6150f2461ac772907e05",
+        "detail": "source-evidence/C3-uncropped-photo-detail.png",
+        "detail_sha256": "1e79dc553ecfa6459729562b59dd8078d4fab4aaf1f339dc528a8e7e5ed1e3b9"
+      },
+      "question_condition": "pending: upper feedback resistor has no source label/value",
+      "replacements": [
+        {
+          "document": "10_题库/电子线路期末复习_题面整理.md",
+          "old": "![原扫描题图：保留待确认](assets/电子线路期末复习/C3.png)",
+          "new": "![重绘题图：反馈电阻原样不标号](assets/chapter-redraw/ch06/F017.svg)"
+        }
+      ]
     },
     {
       "id": "F021",
@@ -640,10 +657,10 @@
       "evidence": false,
       "already_vector": false,
       "status": "verified",
-      "verification": "两子图分别电容耦合RF/CF回第一基极，以及RF1回第一发射极、RF2从R1/R2中点回第一基极；跨线不相接，旁路范围照原图。",
+      "verification": "两子图分别电容耦合RF/CF回第一基极，以及RF1回第一发射极、RF2从R1/R2中点回第一基极；跨线不相接，旁路范围照原图。 RF2回路线绕开CE2电容本体，并以跨线桥跨公共底线。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch06/F046.svg",
-      "svg_sha256": "43680ef748e9e502c6ae71b2f1656effa98ff698ff285f7252dcb84eb07100e4",
-      "png_sha256": "e53c37974640ba816ded5e42aaa4abcefdb975f86c31874099819b84dd3fb61a",
+      "svg_sha256": "6ff1fd766eda64aad01c6785468e0b797025c456cb7906fb22717240b3d3faa7",
+      "png_sha256": "4b8d50dc4b1e39cbe75c18817934573c1bae14eb191c65b7d700ecf5d0e99d69",
       "replacements": [
         {
           "document": "10_题库/第6章课后习题_题面整理.md",
@@ -2251,8 +2268,19 @@
     "10_题库/成惠团队期末卷_5-9章/2023-2024期末A_5-9章题面整理.md": "35ffe00e044f56546f0afb0b3709bd28352900d9233ce1432d56f8a777d03e4b",
     "20_知识/第06章_晶体管放大电路基础_主干重点.md": "9d2bf58faec07abeb557905f14d61cd6d68f6835c3fa0cd1885a0b7d494d3f72"
   },
-  "verified": 49,
-  "pending": 1,
+  "verified": 50,
+  "pending": 0,
   "evidence_retained": 15,
-  "reused_vectors": 4
+  "reused_vectors": 4,
+  "question_condition_pending": [
+    "F017"
+  ],
+  "supplemental_adoptions": [
+    {
+      "id": "F017",
+      "before_sha256": "076a73e5d59513c1fbb67e8c070db08ec717ad5efceb62303c4c45cebacb8902",
+      "after_sha256": "94d9d8b5a14f14e6aa70a6a7274d15e12abfa8e2464ac334997950f9ce4baaaf",
+      "changes": "image embed plus source clarification only; question, answer, anchors, OCR state unchanged"
+    }
+  ]
 }

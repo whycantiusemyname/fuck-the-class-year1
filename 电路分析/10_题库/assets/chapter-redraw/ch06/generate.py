@@ -132,7 +132,7 @@ for letter in ['a','b']:
   c.wire(t1.collector,(8,t1.collector.y),(8,5),t2.base)
   c.wire(t1.emitter,(t1.emitter.x,2.5));c.part('R',(t1.emitter.x,2.5),(t1.emitter.x,0),'$R_{E1}$');c.wire((t1.emitter.x,2.5),(9,2.5),(9,4.8));c.ax.add_patch(M.plt.matplotlib.patches.Arc((9,5),.4,.4,theta1=-90,theta2=90,color='black',lw=1.65));c.wire((9,5.2),(9,7));c.part('R',(9,7),(t2.collector.x,7),'$R_{F1}$');c.wire((t2.collector.x,7),t2.collector)
   c.wire(t2.emitter,(t2.emitter.x,3.5));c.part('R',(t2.emitter.x,3.5),(t2.emitter.x,2.5),'$R_{E2}$');c.part('R',(t2.emitter.x,2.5),(t2.emitter.x,1.3),'$R_1$');c.part('R',(t2.emitter.x,1.3),(t2.emitter.x,0),'$R_2$');c.wire((t2.emitter.x,2.5),(15,2.5));cap(c,(15,2.5),(15,0),'C_{E2}','a')
-  c.wire((3,5),(3,.2));c.ax.add_patch(M.plt.matplotlib.patches.Arc((3,0),.4,.4,theta1=-90,theta2=90,color='black',lw=1.65));c.wire((3,-.2),(3,-1));c.part('R',(3,-1),(17,-1),'$R_{F2}$');c.wire((17,-1),(17,1.3),(t2.emitter.x,1.3));c.dot((3,5));c.dot((t2.emitter.x,1.3));c.dot((t2.emitter.x,2.5));c.dot(t2.collector)
+  c.wire((3,5),(3,.2));c.ax.add_patch(M.plt.matplotlib.patches.Arc((3,0),.4,.4,theta1=-90,theta2=90,color='black',lw=1.65));c.wire((3,-.2),(3,-1));c.part('R',(3,-1),(11.5,-1),'$R_{F2}$');c.wire((11.5,-1),(11.5,-.2));c.ax.add_patch(M.plt.matplotlib.patches.Arc((11.5,0),.4,.4,theta1=-90,theta2=90,color='black',lw=1.65));c.wire((11.5,.2),(11.5,1.3),(t2.emitter.x,1.3));c.dot((3,5));c.dot((t2.emitter.x,1.3));c.dot((t2.emitter.x,2.5));c.dot(t2.collector)
  output(c,t2.collector,x=17,caplabel='C_3' if letter=='a' else 'C_2');c.save()
 combine(HERE,'F046',['F046-a','F046-b'],['(a)','(b)'])
 

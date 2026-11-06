@@ -48,10 +48,12 @@
     "F184": "三级端口等效：后级输入电阻接前级输出，源阻、各级输入/输出电阻及受控电压源、RL、虚线边界与省略连接均保留；分析要点原义照录。",
     "F185": "差模对称半电路，两只NPN镜像、Rb1/Rb2、RC1/RC2、分裂RL/2到虚地；±uid/2输入及±vod/2输出极性保留，虚地对称轴为点线。",
     "F186": "OCL/OTL并列知识图，R1/R2、两只二极管、互补管、单/双电源、隔直C及RL照录；POM公式分别VCC²/(2RL)、VCC²/(8RL)。",
-    "F187": "同相负反馈，R2回负端、R1到地、RL到地；保留uI/uo及uD/uF的正负参考极性。"
+    "F187": "同相负反馈，R2回负端、R1到地、RL到地；保留uI/uo及uD/uF的正负参考极性。",
+    "F017": "据未裁原照片16139e9cc73fa00690f9250ca6bcd131.jpg逐项核验：R0后节点接RL到地及A2同相输入，A2反相端接自身输出；A1上方反馈电阻原样不标号、不补阻值。图连接已核验，题目条件仍待复核。"
   },
-  "pending": {
-    "F017": "C3手写原图右侧/下缘电路不全，供电及连线无法裁决；保留原图。"
-  },
-  "render_command": "python finish_knowledge.py"
+  "pending": {},
+  "render_command": "python finish_knowledge.py",
+  "question_condition_pending": {
+    "F017": "Upper feedback resistor has no printed label/value; no condition inferred"
+  }
 }

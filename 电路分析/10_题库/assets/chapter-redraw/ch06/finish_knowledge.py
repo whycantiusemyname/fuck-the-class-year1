@@ -47,4 +47,5 @@ for otl in [False,True]:
  for p in [(2,7),(2,5),(2,3),(q1.emitter.x,5)]:c.dot(p)
  c.text(5,-1.7,'OTL：单电源' if otl else 'OCL：双电源',size=17);c.text(5,-3,r'$P_{OM}=\frac{(V_{CC}/2)^2}{2R_L}=\frac{V_{CC}^2}{8R_L}$' if otl else r'$P_{OM}=\frac{V_{CC}^2}{2R_L}$',size=22);c.save()
 combine(HERE,'F186',['F186-OCL','F186-OTL'])
+import recover_C3
 render_all();print('full chapter 6 rendered')
