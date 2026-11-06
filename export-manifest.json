@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 237139,
-    "sha256": "7e49bc6dbd4cb707c8ebdb27cd8676406df6a3f57403813b4a75cdfe61f735ef"
+    "bytes": 238301,
+    "sha256": "3ab6877326af1741f1884748d9119a14a525274d9d9555033d4dae219b2de6b1"
   },
   {
     "path": "tools/verify_share.py",
@@ -1616,13 +1616,13 @@
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/01-circle-position.png",
-    "bytes": 45391,
-    "sha256": "785ceb91d8ea48ec5be4d034488b236cc43b13c2dc112b47e706c8faa496a885"
+    "bytes": 45420,
+    "sha256": "323f2076a0a633a4daa6d237d148b8d584a0177b47f8a4cb088f6633199ed5e3"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/01-circle-position.svg",
-    "bytes": 12611,
-    "sha256": "e6ccbd5adda274ae5c2873231ca8d36fdc41f237be73c82d19d171522d02f069"
+    "bytes": 12612,
+    "sha256": "8f095e3301520f289b592165ae848eb4b8e7f940cc17948343ca2b4a34f3d731"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/02-circle-P.png",
@@ -1676,18 +1676,18 @@
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/07-projectile-tangent-30deg.png",
-    "bytes": 32897,
-    "sha256": "e65c78a2ccebd47413c0c7e7d8cd2c752ca91707624c707cf8e224fd65a4bda7"
+    "bytes": 33142,
+    "sha256": "7c72394fb2e38ab74e00b34fc6e84a8c28c5008f3b8f1c40f3fd5163eb49f4a2"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/07-projectile-tangent-30deg.svg",
     "bytes": 8518,
-    "sha256": "c8fe7c56240f5e5700410d85bcc5ba9f127744c143a1c1ce7cc7d7a8560d588a"
+    "sha256": "ef3acf1523dc6840fe2a5300725589f90d90627c7b1ca7cedd30b061d29efc06"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/generate.py",
-    "bytes": 5792,
-    "sha256": "4890b55ca2a6dbb563fc4ed83e03b290022a672b390f3674248575c53578ed1c"
+    "bytes": 5930,
+    "sha256": "e3c0f5107b47bf244fa515447490bada6f9e184b23941ee7a9f98e447f448f40"
   },
   {
     "path": "物理/10_题库/_assets/上册逐章/01_运动学/mapping.json",
@@ -8428,6 +8428,31 @@
     "path": "物理/40_派生视图/大物上/历史期末考频矩阵.md",
     "bytes": 40887,
     "sha256": "20b65f7a2c6373830734e7bfb7eff4505d1f78d5bc3d3884a3d8fb928186318a"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/README.md",
+    "bytes": 224,
+    "sha256": "ff857dd1b85d4188ef8273d2ba94273ddb2ebc6915f89b2a405266352bbef837"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/README.md",
+    "bytes": 1897,
+    "sha256": "11fd169e50f347589a3d3762555021baa495d990c862ae3a905c28fbf3d31cb5"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/对照-01.png",
+    "bytes": 38224,
+    "sha256": "5de8c7fb08afb9c80afa1bd7a7b7e2b77dbea263f74c80407da2b17893dd2f4c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/逐图核验.json",
+    "bytes": 8536,
+    "sha256": "f4a21e80409d72eb906a518db53ca904819ce3c35ed4de191f3b2e5a57061f7c"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/阅读预览.html",
+    "bytes": 4098,
+    "sha256": "f639b9bb2bd902fc453fe2ca1e3d7584e2b6096d7fc7ca45a1a70a0aebd45da4"
   },
   {
     "path": "物理/40_派生视图/大物上/图像重绘批01/README.md",

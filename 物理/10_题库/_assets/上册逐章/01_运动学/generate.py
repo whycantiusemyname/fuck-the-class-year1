@@ -27,7 +27,7 @@ def circle_position():
  label(a,1.50,-.12,'$x$');label(a,-.12,1.49,'$y$');label(a,-.12,-.12,'$O$')
  p=(np.cos(.65),np.sin(.65));arrow(a,(0,0),p)
  label(a,.30,.39,'$\\vec r$');label(a,p[0]+.13,p[1]+.13,'$(x,y)$')
- arrow(a,(0,0),(.34,0));arrow(a,(0,0),(0,.34));label(a,.31,-.15,'$\\vec i$');label(a,-.13,.30,'$\\vec j$')
+ arrow(a,(0,0),(.34,0));arrow(a,(0,0),(0,.34));label(a,.31,-.25,'$\\vec i$');label(a,-.18,.30,'$\\vec j$')
  arc(a,(0,0),1.21,48,78);q=np.deg2rad(78);arrow(a,(1.21*np.cos(q-.10),1.21*np.sin(q-.10)),(1.21*np.cos(q),1.21*np.sin(q)))
  label(a,.64,1.14,'$\\omega$');save(f,'01-circle-position')
 def circle_p():
@@ -85,7 +85,9 @@ def projectile_tangent():
  ya=h-c*(xa-xv)**2;point=np.array([xa,ya]);a.plot(*point,'ko',ms=4)
  arrow(a,point,tuple(point+1.25*np.array([np.cos(np.pi/6),.5])))
  line(a,[xa,xa+1.18],[ya,ya],ls=(0,(4,3)),lw=1.1)
- arc(a,tuple(point),.55,0,30);label(a,xa+.76,ya+.22,'$30^\\circ$')
+ # Keep the angle label below the horizontal guide: the narrow wedge is
+ # crossed by the physical trajectory, which must remain visible.
+ arc(a,tuple(point),.55,0,30);label(a,xa+.78,ya-.18,'$30^\\circ$')
  label(a,xa-.18,ya-.07,'$A$');label(a,xa+1.10,ya+.78,'$\\vec v$');save(f,'07-projectile-tangent-30deg')
 if __name__=='__main__':
  circle_position();circle_p();boat();sphere();projectile();quarter_track();projectile_tangent()
