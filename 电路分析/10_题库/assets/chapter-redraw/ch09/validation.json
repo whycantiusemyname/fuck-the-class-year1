@@ -1,0 +1,23 @@
+{
+  "status": "image_scope_verified",
+  "redrawn": 20,
+  "pending_source": 0,
+  "answer_evidence_retained": 0,
+  "reused_vectors": 0,
+  "question_text_only_image_replacements": true,
+  "s1": "passed",
+  "intake_manifests": [
+    "90_缓存/s1-intake/扫描件_成惠团队电路分析考试真题(1)(1)-361c98a5/intake.json"
+  ],
+  "readonly_source_hashes_checked": 40,
+  "source_images": "original image hashes retained in ledger",
+  "document_invariants": "portable reverse-image replacement matches original document hashes; headings and non-image text unchanged",
+  "visual_review": "each rendered image viewed and compared with source; corrected crossings, polarities and label collisions; 320px grayscale sheets checked",
+  "image_update_digest_manifests": [
+    "90_缓存/s8-digest/第09章图像引用更新20261106-0/digest.json"
+  ],
+  "s8_lint_exit": 2,
+  "s8_full_exit": 2,
+  "s8_scope_note": "Full S8 has preexisting temp-note structure, framework heading links, and stale course-wide digest coverage. New image-only digests bind changed notes to original figures; no claim of renewed whole-text ingestion.",
+  "share": "passed: portable verifier and tools/verify_share.py; final hash check repeated before commit"
+}

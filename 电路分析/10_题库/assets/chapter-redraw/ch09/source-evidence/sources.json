@@ -1,0 +1,15 @@
+{
+  "source": "扫描件_电路与模拟电子技术(1).pdf",
+  "physical_pages": [
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    299,
+    300,
+    301
+  ],
+  "handling": "Full textbook question figures visually checked apart from worked answers; E9-9 inputs intentionally unsigned; E9-1 lower DC switch contact intentionally open; simulation measured nodes checked against original PNG."
+}
