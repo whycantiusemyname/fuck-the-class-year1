@@ -1,130 +1,133 @@
 {
   "schema_version": "2.1",
   "status": "complete",
-  "input_fingerprint": "30ca0dc1cb37d5ef84bad49cf8a8cd6dae090001ed4925e47dc6248e69edbccd",
+  "input_fingerprint": "a0e2c5d75fcef320f80a159c1f6c52253db4eb8a999b07daf071d42c83cdf624",
   "input_files": [
     {
       "path": "10_题库/_标签库.md",
-      "sha256": "eb88d4bf313c3ae80ff1f426f591c485ddfb2d503581d5af0a838f22900d0bc5"
+      "sha256": "2def108baf463590a2e75c0a23cca6157814fabbfaa69b20d7c48f7e9dc8bccc"
     },
     {
       "path": "10_题库/2010-2011期中_题面整理.md",
-      "sha256": "2481c8da8e3639108c0edb5390b85ab1b57a56d12195e753f43747beed727a1e"
+      "sha256": "c73c593c70217ddc3d9e7bd0603e5c1cab56aa075f2b28b85b6156533fb0ac85"
     },
     {
       "path": "10_题库/2010-2011期末_题面整理.md",
-      "sha256": "a9117a2a628c44535ade1b78292f6ddd10329dbf21b9f16232e469686efd8e3e"
+      "sha256": "ff0f667efc652fb65aef9e805d9480169bf8fa747c650c4cfd8f26ceb6e208ed"
     },
     {
       "path": "10_题库/2011-2012期中_题面整理.md",
-      "sha256": "29e5b57e82422c0e9d9017bf9dd0a56f84b151ead980d0d32b21b7879cfd3bb5"
+      "sha256": "ccc6f3a629a2ed5cd5308b83933bb78a65689aa8912a15aeca5a4f173984d86d"
     },
     {
       "path": "10_题库/2011-2012期末A_题面整理.md",
-      "sha256": "f1261d52fce7557fcc047ee1cef736539027a578ce9772a680c11eaa9cf9eebf"
+      "sha256": "97288e6880a0527936f827c5510ad31066ff712f26bfdb9020022e9260bac0a0"
     },
     {
       "path": "10_题库/2012-2013期中A_题面整理.md",
-      "sha256": "fad76c34c9703eb26e97dc63ce3b718a42b25ce6f7c8a6c0cb815f6555f3500c"
+      "sha256": "f08ddef14a9bd3125d5029c67d613915ac1f42dd98514a0b7e5c28f6d13cbd47"
     },
     {
       "path": "10_题库/2013-2014期中A_题面整理.md",
-      "sha256": "5f9bf108fde224e21badd9b894b12b2cc74e6099929ea9a63a528a6128c99af7"
+      "sha256": "e4e90f97b7fad94c0714f102c2c7fe18b20d30ce9f7876a431b7c51063325d56"
     },
     {
       "path": "10_题库/2013-2014期末_题面整理.md",
-      "sha256": "764005e714d80c2195398924fd00ba07f9c2636c98c15f1efea4e93070d08621"
+      "sha256": "db3de93d42e2f29d37b82439e70ec67663a99c5bfa8899e0198e4ab8b89d2289"
     },
     {
       "path": "10_题库/2014-2015期中A_题面整理.md",
-      "sha256": "fc110b2f97e1b3bbfb8af05a37929dcd90aa0520baf44dc6678d09239f19115a"
+      "sha256": "c516e3b534337ee92e15e049649baad8433114fc60119e5432f1b8eef3e4873f"
     },
     {
       "path": "10_题库/2015-2016期中_题面整理.md",
-      "sha256": "4d7f0227995da8d2d00e043b18945910d90e13b598665a4690132e3aedac9bb7"
+      "sha256": "9835ca5a757e916bc5aa08ba2b67303953ab6cde949ba63276eb6aabf8188e9a"
     },
     {
       "path": "10_题库/2015-2016期末_题面整理.md",
-      "sha256": "a356a072fb6edf1a603770cd3c9f7e2cd376c24b6a46315fa9d4af6aaaeae7e2"
+      "sha256": "3e68438a40d657a8ae717136009ffcbdb321538913d7292af699234b48d7906f"
     },
     {
       "path": "10_题库/2016-2017期中_题面整理.md",
-      "sha256": "89b5f50da5ce0343d898576520a5639b9057589289d6ff13375efd7584909a15"
+      "sha256": "fde544e201100cdc36b4df6b86e9035b586eb3533d3ec5563174b0d7bf17b64d"
     },
     {
       "path": "10_题库/2016-2017期末_题面整理.md",
-      "sha256": "d357a84a2ec506c7dcef4e9f718ce25581c3c0aeb25df70719e3e26b2537bd42"
+      "sha256": "1f63c827a9db4e7fc2d6d237f07bc5fe5eb00ccac9a2a74451e7bcf6b3e73066"
     },
     {
       "path": "10_题库/2018-2019期中_题面整理.md",
-      "sha256": "66df1e548c3d8aade35903a1a8994468d983ecb17b87b66199847fddf2ece69d"
+      "sha256": "9470b96ec4e5f90e1e2a7081a0cba928a559c1b8e973f75a303be3fbe16aab15"
     },
     {
       "path": "10_题库/2018-2019期末_题面整理.md",
-      "sha256": "10a5ac1371e8ac9cdd0cf6013aa1be14f6daa6abcdeafb055e949c860087bd0e"
+      "sha256": "f06fed04bdf8e65f0ea21221ea8bb1dfcac0a9019c7357b3eb84fb4cd90fb818"
     },
     {
       "path": "10_题库/2019-2020期末_题面整理.md",
-      "sha256": "15e5d4767247f77521aba2d95469d2dddf830113fd70139be72b64fac7059d9f"
+      "sha256": "07caabadd7a0169e9380086a659017cb67181ec1ea8b56a356bdcfc46d41d782"
     },
     {
       "path": "10_题库/2020-2021期中_题面整理.md",
-      "sha256": "88c9a88c45598b85b4b160817a8c264001f97903d0ae77360b5925d9d65a76fe"
+      "sha256": "8684ff39ed85873ee29e25f1a68c14221ca2015853fa78eba754dc48146a32b3"
     },
     {
       "path": "10_题库/2020-2021期末_题面整理.md",
-      "sha256": "8fe01ad314b321ad22a521b455fda0c15252306e14eb933243f763812b220ddd"
+      "sha256": "9b16f256ba1348ea162a59658fe71edf5e9e9ddeb58b78340787fc131a6e408b"
     },
     {
       "path": "10_题库/2022-2023期中_题面整理.md",
-      "sha256": "5988265507f9e0c83cb803bbec847cbd938e2eef5f7d3d07d8c5010f54b3dfe9"
+      "sha256": "78b38ed69af706019052831484d2b74a5cab065269952edf40ce3fb8908bfa1b"
     },
     {
       "path": "10_题库/2022-2023期末A_题面整理.md",
-      "sha256": "6349263bb0ce73e0d38d28a39b38485ed0699d965779e54b08912dfb53d3bf54"
+      "sha256": "3a4cbe7a0cc752646b0b46bf27a45f124dcd355706da0ec22055626c119d0a4f"
     },
     {
       "path": "10_题库/2023-2024期中_题面整理.md",
-      "sha256": "12564e1fb284d0234fa052edb1bb0c9edcbd9576f6a854863dd65522171c8385"
+      "sha256": "21dba85ceb490565b6b46b3b79e85ad66e13313f322fb2045d241486d255daa6"
     },
     {
       "path": "10_题库/2023-2024期末A_题面整理.md",
-      "sha256": "0b069ede04391316150631c46b52b4a8cc54486fce0c3184a834b576e685f76a"
+      "sha256": "35f9b8741aec9b8658acf7af5e564cad6c9190be34962a3f2cb5e67b04b37397"
     },
     {
       "path": "10_题库/2024-2025期末_题面整理.md",
-      "sha256": "4911ce8a8705df44c5a8220a00bd96edeb48f73476c84df9b44a7b3de9fbcf09"
+      "sha256": "d1b3a59a3ab55f8d964edf7452af9fdf98476f388e2f73f7c24274db742c6adc"
     },
     {
       "path": "10_题库/缺卷头期末P52-54_题面整理.md",
-      "sha256": "405f433b94708681196ec38701dd2f5d44d338dcdf693446ffd626db0daef933"
+      "sha256": "68b80339ba7ff88f6a2268c3adb52af1fdaf7bcad0c9d5a260c25c623404a801"
     }
   ],
   "parameters": {
     "recent_year_span": 5,
     "qbank_subdir": null
   },
+  "paper_grouping_version": "document-source-pdf-locators-v2",
   "scope": {
     "source_scope": "10_题库",
     "qbank_subdir": null,
-    "question_count": 378,
-    "unique_anchor_count": 378,
+    "question_count": 402,
+    "unique_anchor_count": 402,
     "paper_count": 23,
     "tag_count": 68,
     "theme_count": 12,
+    "observed_tag_count": 68,
+    "observed_theme_count": 12,
     "paper_types": {
       "期中": 11,
       "期末": 12
     }
   },
   "quality": {
-    "question_form_explicit": 378,
+    "question_form_explicit": 402,
     "question_form_inferred": 0,
     "question_form_unknown": 0,
-    "ocr_status_explicit": 378,
+    "ocr_status_explicit": 402,
     "ocr_status_legacy_default": 0,
     "ocr_status_counts": {
-      "已做结构修复": 328,
+      "已做结构修复": 352,
       "已对照 PDF 复核": 50
     },
     "unknown_year_paper_count": 1,
@@ -137,8 +140,8 @@
   "themes": [
     {
       "name": "三重积分与物理应用能力簇",
-      "question_count": 35,
-      "known_score_total": 221.0,
+      "question_count": 38,
+      "known_score_total": 245.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -157,23 +160,23 @@
             ],
             "year_count": 8,
             "paper_count": 8,
-            "coverage_numerator": 7,
+            "coverage_numerator": 8,
             "coverage_denominator": 8,
-            "coverage_rate": 0.875,
-            "year_coverage_numerator": 7,
+            "coverage_rate": 1.0,
+            "year_coverage_numerator": 8,
             "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.875,
-            "average_questions_per_paper": 2.125,
-            "known_form_count": 17,
+            "year_coverage_rate": 1.0,
+            "average_questions_per_paper": 2.375,
+            "known_form_count": 19,
             "form_distribution": {
-              "填空题": 0.119,
-              "计算题": 0.7619,
-              "选择题": 0.119
+              "填空题": 0.1042,
+              "计算题": 0.7917,
+              "选择题": 0.1042
             },
-            "long_ratio": 0.7619,
-            "known_score_count": 17,
-            "known_score_total": 120.0,
-            "known_score_per_paper": 15.0,
+            "long_ratio": 0.7917,
+            "known_score_count": 19,
+            "known_score_total": 136.0,
+            "known_score_per_paper": 17.0,
             "median_score": 8.0
           },
           "recent": {
@@ -203,23 +206,24 @@
             "known_score_per_paper": 12.3333,
             "median_score": 9.0
           },
-          "coverage_delta": 0.125,
+          "coverage_delta": 0.0,
           "first_seen_year": "2010-2011",
           "last_seen_year": "2023-2024",
-          "current_consecutive_present": 4,
+          "current_consecutive_present": 11,
           "current_consecutive_absent": 0,
-          "transition_count": 2,
+          "transition_count": 0,
           "primary_trend": "稳定核心",
           "trend_priority": 5,
           "importance_role": "高分杠杆",
           "secondary_trends": [],
           "tag_change": {
             "historical_distribution": {
-              "三重积分": 0.4881,
-              "三重积分｜对称性": 0.1548,
-              "三重积分｜球坐标": 0.0833,
-              "形心与质量｜形心": 0.0357,
-              "形心与质量｜质量": 0.2381
+              "三重积分": 0.3646,
+              "三重积分｜对称性": 0.1354,
+              "三重积分｜球坐标": 0.1979,
+              "形心与质量｜形心": 0.0312,
+              "形心与质量｜质心": 0.0625,
+              "形心与质量｜质量": 0.2083
             },
             "recent_distribution": {
               "三重积分": 0.5556,
@@ -227,7 +231,7 @@
               "三重积分｜质量": 0.3333
             },
             "historical_dominant_tag": "三重积分",
-            "historical_dominant_share": 0.4881,
+            "historical_dominant_share": 0.3646,
             "recent_dominant_tag": "三重积分",
             "recent_dominant_share": 0.5556,
             "recent_dominant_tag_years": 2,
@@ -301,13 +305,13 @@
               "academic_year": "2015-2016",
               "present": true,
               "paper_count": 1,
-              "question_count": 1
+              "question_count": 2
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -357,18 +361,18 @@
             "year_coverage_numerator": 7,
             "year_coverage_denominator": 7,
             "year_coverage_rate": 1.0,
-            "average_questions_per_paper": 1.1429,
-            "known_form_count": 8,
+            "average_questions_per_paper": 1.2857,
+            "known_form_count": 9,
             "form_distribution": {
-              "填空题": 0.2143,
+              "填空题": 0.1429,
               "应用题": 0.2857,
-              "计算题": 0.5
+              "计算题": 0.5714
             },
-            "long_ratio": 0.7857,
-            "known_score_count": 4,
-            "known_score_total": 24.0,
-            "known_score_per_paper": 3.4286,
-            "median_score": 6.0
+            "long_ratio": 0.8571,
+            "known_score_count": 5,
+            "known_score_total": 32.0,
+            "known_score_per_paper": 4.5714,
+            "median_score": 8.0
           },
           "recent": {
             "years": [
@@ -405,9 +409,7 @@
           "primary_trend": "稳定核心",
           "trend_priority": 5,
           "importance_role": "高分杠杆",
-          "secondary_trends": [
-            "大题化"
-          ],
+          "secondary_trends": [],
           "tag_change": {
             "historical_distribution": {
               "三重积分": 0.2143,
@@ -484,7 +486,7 @@
               "academic_year": "2015-2016",
               "present": true,
               "paper_count": 1,
-              "question_count": 1
+              "question_count": 2
             },
             {
               "academic_year": "2016-2017",
@@ -534,8 +536,8 @@
     },
     {
       "name": "二重积分能力簇",
-      "question_count": 41,
-      "known_score_total": 185.0,
+      "question_count": 43,
+      "known_score_total": 203.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -560,17 +562,18 @@
             "year_coverage_numerator": 8,
             "year_coverage_denominator": 8,
             "year_coverage_rate": 1.0,
-            "average_questions_per_paper": 2.125,
-            "known_form_count": 17,
+            "average_questions_per_paper": 2.25,
+            "known_form_count": 18,
             "form_distribution": {
               "填空题": 0.1875,
+              "应用题": 0.0625,
               "计算题": 0.3125,
-              "选择题": 0.5
+              "选择题": 0.4375
             },
-            "long_ratio": 0.3125,
-            "known_score_count": 17,
-            "known_score_total": 90.0,
-            "known_score_per_paper": 11.25,
+            "long_ratio": 0.375,
+            "known_score_count": 18,
+            "known_score_total": 100.0,
+            "known_score_per_paper": 12.5,
             "median_score": 3.0
           },
           "recent": {
@@ -608,13 +611,11 @@
           "primary_trend": "稳定核心",
           "trend_priority": 5,
           "importance_role": "高频主力",
-          "secondary_trends": [
-            "考法迁移"
-          ],
+          "secondary_trends": [],
           "tag_change": {
             "historical_distribution": {
-              "二重积分": 0.2708,
-              "二重积分｜换序": 0.3125,
+              "二重积分": 0.3333,
+              "二重积分｜换序": 0.25,
               "二重积分｜极坐标": 0.1667,
               "二重积分｜极坐标｜区域识别": 0.1042,
               "二重积分｜比较大小": 0.1458
@@ -625,12 +626,12 @@
               "二重积分｜极坐标｜区域识别": 0.1944,
               "二重积分｜比较大小": 0.1111
             },
-            "historical_dominant_tag": "二重积分｜换序",
-            "historical_dominant_share": 0.3125,
+            "historical_dominant_tag": "二重积分",
+            "historical_dominant_share": 0.3333,
             "recent_dominant_tag": "二重积分",
             "recent_dominant_share": 0.5278,
             "recent_dominant_tag_years": 3,
-            "migrated": true
+            "migrated": false
           },
           "representatives": {
             "historical": [
@@ -706,7 +707,7 @@
               "academic_year": "2016-2017",
               "present": true,
               "paper_count": 1,
-              "question_count": 1
+              "question_count": 2
             },
             {
               "academic_year": "2018-2019",
@@ -756,17 +757,17 @@
             "year_coverage_numerator": 7,
             "year_coverage_denominator": 7,
             "year_coverage_rate": 1.0,
-            "average_questions_per_paper": 1.4286,
-            "known_form_count": 10,
+            "average_questions_per_paper": 1.5714,
+            "known_form_count": 11,
             "form_distribution": {
               "填空题": 0.4286,
-              "计算题": 0.0714,
-              "选择题": 0.5
+              "计算题": 0.1429,
+              "选择题": 0.4286
             },
-            "long_ratio": 0.0714,
-            "known_score_count": 9,
-            "known_score_total": 27.0,
-            "known_score_per_paper": 3.8571,
+            "long_ratio": 0.1429,
+            "known_score_count": 10,
+            "known_score_total": 35.0,
+            "known_score_per_paper": 5.0,
             "median_score": 3.0
           },
           "recent": {
@@ -808,10 +809,10 @@
           "secondary_trends": [],
           "tag_change": {
             "historical_distribution": {
-              "二重积分": 0.2857,
+              "二重积分": 0.3571,
               "二重积分｜换序": 0.1429,
               "二重积分｜极坐标｜区域识别": 0.4286,
-              "二重积分｜比较大小": 0.1429
+              "二重积分｜比较大小": 0.0714
             },
             "recent_distribution": {
               "二重积分": 0.25,
@@ -882,7 +883,7 @@
               "academic_year": "2015-2016",
               "present": true,
               "paper_count": 1,
-              "question_count": 1
+              "question_count": 2
             },
             {
               "academic_year": "2016-2017",
@@ -932,8 +933,8 @@
     },
     {
       "name": "偏导与复合求导能力簇",
-      "question_count": 59,
-      "known_score_total": 251.0,
+      "question_count": 63,
+      "known_score_total": 275.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -958,17 +959,17 @@
             "year_coverage_numerator": 8,
             "year_coverage_denominator": 8,
             "year_coverage_rate": 1.0,
-            "average_questions_per_paper": 2.875,
-            "known_form_count": 23,
+            "average_questions_per_paper": 3.125,
+            "known_form_count": 25,
             "form_distribution": {
-              "填空题": 0.4896,
-              "计算题": 0.4167,
-              "选择题": 0.0938
+              "填空题": 0.4708,
+              "计算题": 0.4542,
+              "选择题": 0.075
             },
-            "long_ratio": 0.4167,
-            "known_score_count": 22,
-            "known_score_total": 110.0,
-            "known_score_per_paper": 13.75,
+            "long_ratio": 0.4542,
+            "known_score_count": 24,
+            "known_score_total": 124.0,
+            "known_score_per_paper": 15.5,
             "median_score": 3.0
           },
           "recent": {
@@ -985,14 +986,14 @@
             "year_coverage_numerator": 3,
             "year_coverage_denominator": 3,
             "year_coverage_rate": 1.0,
-            "average_questions_per_paper": 3.6667,
-            "known_form_count": 11,
+            "average_questions_per_paper": 4.3333,
+            "known_form_count": 13,
             "form_distribution": {
-              "填空题": 0.4667,
-              "计算题": 0.3556,
+              "填空题": 0.3778,
+              "计算题": 0.4444,
               "选择题": 0.1778
             },
-            "long_ratio": 0.3556,
+            "long_ratio": 0.4444,
             "known_score_count": 11,
             "known_score_total": 63.0,
             "known_score_per_paper": 21.0,
@@ -1010,33 +1011,34 @@
           "secondary_trends": [],
           "tag_change": {
             "historical_distribution": {
-              "全微分": 0.1667,
-              "坐标变换与偏导": 0.0312,
+              "全微分": 0.1604,
+              "坐标变换与偏导": 0.025,
               "复合函数｜一阶偏导": 0.1562,
-              "复合函数｜二阶偏导": 0.2188,
-              "积分定义函数｜求导": 0.1042,
-              "积分方程｜反求函数": 0.0625,
+              "复合函数｜二阶偏导": 0.2375,
+              "积分定义函数｜求导": 0.0917,
+              "积分方程｜反求函数": 0.0875,
               "隐函数｜二阶偏导": 0.0312,
               "隐函数｜方程组｜求导": 0.0417,
-              "隐函数｜求值": 0.0938,
-              "隐函数｜求导": 0.0312,
-              "高阶偏导｜二阶偏导": 0.0625
+              "隐函数｜求值": 0.0875,
+              "隐函数｜求导": 0.025,
+              "高阶偏导｜二阶偏导": 0.0563
             },
             "recent_distribution": {
               "全微分": 0.1778,
-              "坐标变换与偏导": 0.1111,
+              "坐标变换与偏导": 0.0667,
               "复合函数｜一阶偏导": 0.0667,
-              "复合函数｜二阶偏导": 0.1778,
+              "复合函数｜二阶偏导": 0.2444,
               "积分定义函数｜求导": 0.0667,
-              "隐函数｜求值": 0.1111,
+              "隐函数｜方程组｜求导": 0.0667,
+              "隐函数｜求值": 0.0667,
               "隐函数｜求导": 0.1778,
-              "高阶偏导｜二阶偏导": 0.1111
+              "高阶偏导｜二阶偏导": 0.0667
             },
             "historical_dominant_tag": "复合函数｜二阶偏导",
-            "historical_dominant_share": 0.2188,
-            "recent_dominant_tag": "全微分",
-            "recent_dominant_share": 0.1778,
-            "recent_dominant_tag_years": 2,
+            "historical_dominant_share": 0.2375,
+            "recent_dominant_tag": "复合函数｜二阶偏导",
+            "recent_dominant_share": 0.2444,
+            "recent_dominant_tag_years": 3,
             "migrated": false
           },
           "representatives": {
@@ -1107,13 +1109,13 @@
               "academic_year": "2015-2016",
               "present": true,
               "paper_count": 1,
-              "question_count": 4
+              "question_count": 5
             },
             {
               "academic_year": "2016-2017",
               "present": true,
               "paper_count": 1,
-              "question_count": 4
+              "question_count": 5
             },
             {
               "academic_year": "2018-2019",
@@ -1125,7 +1127,7 @@
               "academic_year": "2020-2021",
               "present": true,
               "paper_count": 1,
-              "question_count": 3
+              "question_count": 5
             },
             {
               "academic_year": "2022-2023",
@@ -1172,9 +1174,9 @@
               "选择题": 0.2143
             },
             "long_ratio": 0.3333,
-            "known_score_count": 13,
-            "known_score_total": 50.0,
-            "known_score_per_paper": 7.1429,
+            "known_score_count": 14,
+            "known_score_total": 60.0,
+            "known_score_per_paper": 8.5714,
             "median_score": 3.0
           },
           "recent": {
@@ -1345,8 +1347,8 @@
     },
     {
       "name": "几何应用与方向导数能力簇",
-      "question_count": 49,
-      "known_score_total": 188.0,
+      "question_count": 51,
+      "known_score_total": 208.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -1371,17 +1373,18 @@
             "year_coverage_numerator": 8,
             "year_coverage_denominator": 8,
             "year_coverage_rate": 1.0,
-            "average_questions_per_paper": 2.625,
-            "known_form_count": 21,
+            "average_questions_per_paper": 2.75,
+            "known_form_count": 22,
             "form_distribution": {
-              "填空题": 0.3833,
+              "填空题": 0.3625,
+              "应用题": 0.0417,
               "计算题": 0.2958,
-              "选择题": 0.3208
+              "选择题": 0.3
             },
-            "long_ratio": 0.2958,
-            "known_score_count": 21,
-            "known_score_total": 91.0,
-            "known_score_per_paper": 11.375,
+            "long_ratio": 0.3375,
+            "known_score_count": 22,
+            "known_score_total": 101.0,
+            "known_score_per_paper": 12.625,
             "median_score": 3.0
           },
           "recent": {
@@ -1425,14 +1428,14 @@
             "historical_distribution": {
               "切平面与法线｜切平面": 0.0917,
               "切平面与法线｜性质证明": 0.1042,
-              "切平面与法线｜法向量": 0.125,
+              "切平面与法线｜法向量": 0.1042,
               "方向导数｜与偏导关系": 0.025,
               "方向导数｜最值": 0.0833,
-              "方向导数｜计算": 0.2292,
+              "方向导数｜计算": 0.2083,
               "梯度｜方向": 0.0875,
               "梯度｜计算": 0.0625,
               "空间曲线｜切向量": 0.025,
-              "空间曲线｜切线": 0.0625,
+              "空间曲线｜切线": 0.1042,
               "空间曲线｜切线与法平面": 0.1042
             },
             "recent_distribution": {
@@ -1443,7 +1446,7 @@
               "空间曲线｜切向量": 0.25
             },
             "historical_dominant_tag": "方向导数｜计算",
-            "historical_dominant_share": 0.2292,
+            "historical_dominant_share": 0.2083,
             "recent_dominant_tag": "切平面与法线｜性质证明",
             "recent_dominant_share": 0.25,
             "recent_dominant_tag_years": 2,
@@ -1523,7 +1526,7 @@
               "academic_year": "2016-2017",
               "present": true,
               "paper_count": 1,
-              "question_count": 2
+              "question_count": 3
             },
             {
               "academic_year": "2018-2019",
@@ -1567,24 +1570,24 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 6,
+            "coverage_numerator": 7,
             "coverage_denominator": 7,
-            "coverage_rate": 0.8571,
-            "year_coverage_numerator": 6,
+            "coverage_rate": 1.0,
+            "year_coverage_numerator": 7,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.8571,
-            "average_questions_per_paper": 1.5714,
-            "known_form_count": 11,
+            "year_coverage_rate": 1.0,
+            "average_questions_per_paper": 1.7143,
+            "known_form_count": 12,
             "form_distribution": {
-              "填空题": 0.5833,
-              "应用题": 0.1667,
-              "计算题": 0.1667,
-              "选择题": 0.0833
+              "填空题": 0.5,
+              "应用题": 0.1429,
+              "计算题": 0.2857,
+              "选择题": 0.0714
             },
-            "long_ratio": 0.3334,
-            "known_score_count": 9,
-            "known_score_total": 39.0,
-            "known_score_per_paper": 5.5714,
+            "long_ratio": 0.4286,
+            "known_score_count": 10,
+            "known_score_total": 49.0,
+            "known_score_per_paper": 7.0,
             "median_score": 3.0
           },
           "recent": {
@@ -1616,25 +1619,25 @@
             "known_score_per_paper": 5.5,
             "median_score": 3.0
           },
-          "coverage_delta": -0.1071,
+          "coverage_delta": -0.25,
           "first_seen_year": "2010-2011",
           "last_seen_year": "2024-2025",
           "current_consecutive_present": 1,
           "current_consecutive_absent": 0,
-          "transition_count": 4,
+          "transition_count": 2,
           "primary_trend": "稳定核心",
           "trend_priority": 5,
           "importance_role": "高频主力",
           "secondary_trends": [],
           "tag_change": {
             "historical_distribution": {
-              "切平面与法线｜切平面": 0.1667,
-              "切平面与法线｜性质证明": 0.0833,
-              "切平面与法线｜法向量": 0.0833,
-              "方向导数｜最值": 0.1667,
-              "方向导数｜计算": 0.25,
-              "梯度｜计算": 0.1667,
-              "空间曲线｜切线与法平面": 0.0833
+              "切平面与法线｜切平面": 0.2857,
+              "切平面与法线｜性质证明": 0.0714,
+              "切平面与法线｜法向量": 0.0714,
+              "方向导数｜最值": 0.1429,
+              "方向导数｜计算": 0.2143,
+              "梯度｜计算": 0.1429,
+              "空间曲线｜切线与法平面": 0.0714
             },
             "recent_distribution": {
               "切平面与法线｜切平面": 0.3333,
@@ -1643,8 +1646,8 @@
               "方向导数｜计算": 0.1667,
               "空间曲线｜切线与法平面": 0.1111
             },
-            "historical_dominant_tag": "方向导数｜计算",
-            "historical_dominant_share": 0.25,
+            "historical_dominant_tag": "切平面与法线｜切平面",
+            "historical_dominant_share": 0.2857,
             "recent_dominant_tag": "切平面与法线｜切平面",
             "recent_dominant_share": 0.3333,
             "recent_dominant_tag_years": 2,
@@ -1704,9 +1707,9 @@
             },
             {
               "academic_year": "2015-2016",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2016-2017",
@@ -1756,8 +1759,8 @@
     },
     {
       "name": "场论与全微分方程能力簇",
-      "question_count": 11,
-      "known_score_total": 34.0,
+      "question_count": 12,
+      "known_score_total": 44.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -1929,17 +1932,17 @@
             "year_coverage_numerator": 5,
             "year_coverage_denominator": 7,
             "year_coverage_rate": 0.7143,
-            "average_questions_per_paper": 0.8571,
-            "known_form_count": 6,
+            "average_questions_per_paper": 1.0,
+            "known_form_count": 7,
             "form_distribution": {
-              "填空题": 0.5,
-              "计算题": 0.1,
+              "填空题": 0.4,
+              "计算题": 0.2,
               "选择题": 0.4
             },
-            "long_ratio": 0.1,
-            "known_score_count": 6,
-            "known_score_total": 25.0,
-            "known_score_per_paper": 3.5714,
+            "long_ratio": 0.2,
+            "known_score_count": 7,
+            "known_score_total": 35.0,
+            "known_score_per_paper": 5.0,
             "median_score": 3.0
           },
           "recent": {
@@ -1978,22 +1981,24 @@
           "primary_trend": "沉寂后回归",
           "trend_priority": 2,
           "importance_role": "高频主力",
-          "secondary_trends": [],
+          "secondary_trends": [
+            "考法迁移"
+          ],
           "tag_change": {
             "historical_distribution": {
-              "全微分方程｜恰当性与势函数": 0.5,
-              "场论｜散度与旋度": 0.5
+              "全微分方程｜恰当性与势函数": 0.6,
+              "场论｜散度与旋度": 0.4
             },
             "recent_distribution": {
               "全微分方程｜恰当性与势函数": 0.3333,
               "场论｜散度与旋度": 0.6667
             },
             "historical_dominant_tag": "全微分方程｜恰当性与势函数",
-            "historical_dominant_share": 0.5,
+            "historical_dominant_share": 0.6,
             "recent_dominant_tag": "场论｜散度与旋度",
             "recent_dominant_share": 0.6667,
             "recent_dominant_tag_years": 2,
-            "migrated": false
+            "migrated": true
           },
           "representatives": {
             "historical": [
@@ -2057,7 +2062,7 @@
               "academic_year": "2016-2017",
               "present": true,
               "paper_count": 1,
-              "question_count": 1
+              "question_count": 2
             },
             {
               "academic_year": "2018-2019",
@@ -2101,8 +2106,8 @@
     },
     {
       "name": "极值与条件极值能力簇",
-      "question_count": 22,
-      "known_score_total": 133.0,
+      "question_count": 23,
+      "known_score_total": 143.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -2318,17 +2323,18 @@
             "year_coverage_numerator": 6,
             "year_coverage_denominator": 7,
             "year_coverage_rate": 0.8571,
-            "average_questions_per_paper": 1.0,
-            "known_form_count": 7,
+            "average_questions_per_paper": 1.1429,
+            "known_form_count": 8,
             "form_distribution": {
+              "应用题": 0.0833,
               "计算题": 0.5833,
-              "选择题": 0.4167
+              "选择题": 0.3333
             },
-            "long_ratio": 0.5833,
-            "known_score_count": 5,
-            "known_score_total": 29.0,
-            "known_score_per_paper": 4.1429,
-            "median_score": 3.0
+            "long_ratio": 0.6666,
+            "known_score_count": 6,
+            "known_score_total": 39.0,
+            "known_score_per_paper": 5.5714,
+            "median_score": 6.5
           },
           "recent": {
             "years": [
@@ -2367,13 +2373,12 @@
           "trend_priority": 6,
           "importance_role": "中频主干",
           "secondary_trends": [
-            "大题化",
             "考法迁移"
           ],
           "tag_change": {
             "historical_distribution": {
-              "条件极值｜几何最值": 0.0833,
-              "条件极值｜闭区域最值": 0.5,
+              "条件极值｜几何最值": 0.1667,
+              "条件极值｜闭区域最值": 0.4167,
               "极值｜判定": 0.3333,
               "极值｜必要条件": 0.0833
             },
@@ -2382,7 +2387,7 @@
               "极值｜判定": 0.75
             },
             "historical_dominant_tag": "条件极值｜闭区域最值",
-            "historical_dominant_share": 0.5,
+            "historical_dominant_share": 0.4167,
             "recent_dominant_tag": "极值｜判定",
             "recent_dominant_share": 0.75,
             "recent_dominant_tag_years": 2,
@@ -2450,7 +2455,7 @@
               "academic_year": "2016-2017",
               "present": true,
               "paper_count": 1,
-              "question_count": 1
+              "question_count": 2
             },
             {
               "academic_year": "2018-2019",
@@ -2885,8 +2890,8 @@
     },
     {
       "name": "第一类线面积分能力簇",
-      "question_count": 39,
-      "known_score_total": 151.0,
+      "question_count": 42,
+      "known_score_total": 174.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -2911,18 +2916,18 @@
             "year_coverage_numerator": 7,
             "year_coverage_denominator": 8,
             "year_coverage_rate": 0.875,
-            "average_questions_per_paper": 2.0,
-            "known_form_count": 16,
+            "average_questions_per_paper": 2.25,
+            "known_form_count": 18,
             "form_distribution": {
-              "填空题": 0.2976,
-              "计算题": 0.5238,
+              "填空题": 0.2024,
+              "计算题": 0.619,
               "选择题": 0.1786
             },
-            "long_ratio": 0.5238,
-            "known_score_count": 14,
-            "known_score_total": 79.0,
-            "known_score_per_paper": 9.875,
-            "median_score": 4.0
+            "long_ratio": 0.619,
+            "known_score_count": 16,
+            "known_score_total": 99.0,
+            "known_score_per_paper": 12.375,
+            "median_score": 6.5
           },
           "recent": {
             "years": [
@@ -2959,24 +2964,22 @@
           "primary_trend": "稳定核心",
           "trend_priority": 5,
           "importance_role": "高频主力",
-          "secondary_trends": [
-            "考法迁移"
-          ],
+          "secondary_trends": [],
           "tag_change": {
             "historical_distribution": {
-              "第一类曲线积分": 0.4048,
-              "第一类曲面积分": 0.5952
+              "第一类曲线积分": 0.4524,
+              "第一类曲面积分": 0.5476
             },
             "recent_distribution": {
               "第一类曲线积分": 0.6667,
               "第一类曲面积分": 0.3333
             },
             "historical_dominant_tag": "第一类曲面积分",
-            "historical_dominant_share": 0.5952,
+            "historical_dominant_share": 0.5476,
             "recent_dominant_tag": "第一类曲线积分",
             "recent_dominant_share": 0.6667,
             "recent_dominant_tag_years": 3,
-            "migrated": true
+            "migrated": false
           },
           "representatives": {
             "historical": [
@@ -3046,7 +3049,7 @@
               "academic_year": "2015-2016",
               "present": true,
               "paper_count": 1,
-              "question_count": 1
+              "question_count": 3
             },
             {
               "academic_year": "2016-2017",
@@ -3102,17 +3105,17 @@
             "year_coverage_numerator": 6,
             "year_coverage_denominator": 7,
             "year_coverage_rate": 0.8571,
-            "average_questions_per_paper": 1.4286,
-            "known_form_count": 10,
+            "average_questions_per_paper": 1.5714,
+            "known_form_count": 11,
             "form_distribution": {
               "填空题": 0.4167,
-              "计算题": 0.4167,
-              "选择题": 0.1667
+              "计算题": 0.3333,
+              "选择题": 0.25
             },
-            "long_ratio": 0.4167,
-            "known_score_count": 7,
-            "known_score_total": 27.0,
-            "known_score_per_paper": 3.8571,
+            "long_ratio": 0.3333,
+            "known_score_count": 8,
+            "known_score_total": 30.0,
+            "known_score_per_paper": 4.2857,
             "median_score": 3.0
           },
           "recent": {
@@ -3156,15 +3159,15 @@
           ],
           "tag_change": {
             "historical_distribution": {
-              "第一类曲线积分": 0.3333,
-              "第一类曲面积分": 0.6667
+              "第一类曲线积分": 0.4167,
+              "第一类曲面积分": 0.5833
             },
             "recent_distribution": {
               "第一类曲线积分": 0.75,
               "第一类曲面积分": 0.25
             },
             "historical_dominant_tag": "第一类曲面积分",
-            "historical_dominant_share": 0.6667,
+            "historical_dominant_share": 0.5833,
             "recent_dominant_tag": "第一类曲线积分",
             "recent_dominant_share": 0.75,
             "recent_dominant_tag_years": 4,
@@ -3232,7 +3235,7 @@
               "academic_year": "2016-2017",
               "present": true,
               "paper_count": 1,
-              "question_count": 1
+              "question_count": 2
             },
             {
               "academic_year": "2018-2019",
@@ -3276,699 +3279,8 @@
     },
     {
       "name": "第二类曲线积分能力簇",
-      "question_count": 12,
-      "known_score_total": 63.0,
-      "exam_profiles": {
-        "期中": {
-          "paper_type": "期中",
-          "recent_start_year": "2019-2020",
-          "latest_year": "2023-2024",
-          "historical": {
-            "years": [
-              "2010-2011",
-              "2011-2012",
-              "2012-2013",
-              "2013-2014",
-              "2014-2015",
-              "2015-2016",
-              "2016-2017",
-              "2018-2019"
-            ],
-            "year_count": 8,
-            "paper_count": 8,
-            "coverage_numerator": 0,
-            "coverage_denominator": 8,
-            "coverage_rate": 0.0,
-            "year_coverage_numerator": 0,
-            "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.0,
-            "average_questions_per_paper": 0.0,
-            "known_form_count": 0,
-            "form_distribution": {},
-            "long_ratio": null,
-            "known_score_count": 0,
-            "known_score_total": 0,
-            "known_score_per_paper": 0.0,
-            "median_score": null
-          },
-          "recent": {
-            "years": [
-              "2020-2021",
-              "2022-2023",
-              "2023-2024"
-            ],
-            "year_count": 3,
-            "paper_count": 3,
-            "coverage_numerator": 0,
-            "coverage_denominator": 3,
-            "coverage_rate": 0.0,
-            "year_coverage_numerator": 0,
-            "year_coverage_denominator": 3,
-            "year_coverage_rate": 0.0,
-            "average_questions_per_paper": 0.0,
-            "known_form_count": 0,
-            "form_distribution": {},
-            "long_ratio": null,
-            "known_score_count": 0,
-            "known_score_total": 0,
-            "known_score_per_paper": 0.0,
-            "median_score": null
-          },
-          "coverage_delta": 0.0,
-          "first_seen_year": null,
-          "last_seen_year": null,
-          "current_consecutive_present": 0,
-          "current_consecutive_absent": 11,
-          "transition_count": 0,
-          "primary_trend": "平稳观察",
-          "trend_priority": 6,
-          "importance_role": "该卷型未覆盖",
-          "secondary_trends": [],
-          "tag_change": {
-            "historical_distribution": {},
-            "recent_distribution": {},
-            "historical_dominant_tag": null,
-            "historical_dominant_share": null,
-            "recent_dominant_tag": null,
-            "recent_dominant_share": null,
-            "recent_dominant_tag_years": 0,
-            "migrated": false
-          },
-          "representatives": {
-            "historical": [],
-            "recent": []
-          },
-          "year_series": [
-            {
-              "academic_year": "2010-2011",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2011-2012",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2012-2013",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2013-2014",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2014-2015",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2015-2016",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2016-2017",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2018-2019",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2020-2021",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2022-2023",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2023-2024",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            }
-          ]
-        },
-        "期末": {
-          "paper_type": "期末",
-          "recent_start_year": "2020-2021",
-          "latest_year": "2024-2025",
-          "historical": {
-            "years": [
-              "2010-2011",
-              "2011-2012",
-              "2013-2014",
-              "2015-2016",
-              "2016-2017",
-              "2018-2019",
-              "2019-2020"
-            ],
-            "year_count": 7,
-            "paper_count": 7,
-            "coverage_numerator": 5,
-            "coverage_denominator": 7,
-            "coverage_rate": 0.7143,
-            "year_coverage_numerator": 5,
-            "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.7143,
-            "average_questions_per_paper": 0.7143,
-            "known_form_count": 5,
-            "form_distribution": {
-              "计算题": 1.0
-            },
-            "long_ratio": 1.0,
-            "known_score_count": 3,
-            "known_score_total": 28.0,
-            "known_score_per_paper": 4.0,
-            "median_score": 9.0
-          },
-          "recent": {
-            "years": [
-              "2020-2021",
-              "2022-2023",
-              "2023-2024",
-              "2024-2025"
-            ],
-            "year_count": 4,
-            "paper_count": 4,
-            "coverage_numerator": 4,
-            "coverage_denominator": 4,
-            "coverage_rate": 1.0,
-            "year_coverage_numerator": 4,
-            "year_coverage_denominator": 4,
-            "year_coverage_rate": 1.0,
-            "average_questions_per_paper": 1.25,
-            "known_form_count": 5,
-            "form_distribution": {
-              "填空题": 0.125,
-              "计算题": 0.875
-            },
-            "long_ratio": 0.875,
-            "known_score_count": 4,
-            "known_score_total": 35.0,
-            "known_score_per_paper": 8.75,
-            "median_score": 10.0
-          },
-          "coverage_delta": 0.2857,
-          "first_seen_year": "2010-2011",
-          "last_seen_year": "2024-2025",
-          "current_consecutive_present": 6,
-          "current_consecutive_absent": 0,
-          "transition_count": 2,
-          "primary_trend": "沉寂后回归",
-          "trend_priority": 2,
-          "importance_role": "高分杠杆",
-          "secondary_trends": [],
-          "tag_change": {
-            "historical_distribution": {
-              "第二类曲线积分｜格林公式": 0.8,
-              "第二类曲线积分｜直接计算": 0.2
-            },
-            "recent_distribution": {
-              "第二类曲线积分｜斯托克斯公式": 0.25,
-              "第二类曲线积分｜格林公式": 0.625,
-              "第二类曲线积分｜路径无关": 0.125
-            },
-            "historical_dominant_tag": "第二类曲线积分｜格林公式",
-            "historical_dominant_share": 0.8,
-            "recent_dominant_tag": "第二类曲线积分｜格林公式",
-            "recent_dominant_share": 0.625,
-            "recent_dominant_tag_years": 3,
-            "migrated": false
-          },
-          "representatives": {
-            "historical": [
-              {
-                "file": "2019-2020期末_题面整理",
-                "anchor": "19-20期末-算3-4",
-                "source": "2019-2020期末",
-                "academic_year": "2019-2020",
-                "score": null,
-                "question_form": "计算题",
-                "tag": "第二类曲线积分｜格林公式"
-              }
-            ],
-            "recent": [
-              {
-                "file": "2024-2025期末_题面整理",
-                "anchor": "24-25期末-算6",
-                "source": "2024-2025期末",
-                "academic_year": "2024-2025",
-                "score": 10.0,
-                "question_form": "计算题",
-                "tag": "第二类曲线积分｜格林公式"
-              },
-              {
-                "file": "2023-2024期末A_题面整理",
-                "anchor": "23-24期末A-算7",
-                "source": "2023-2024期末A",
-                "academic_year": "2023-2024",
-                "score": 12.0,
-                "question_form": "计算题",
-                "tag": "第二类曲线积分｜斯托克斯公式"
-              }
-            ]
-          },
-          "year_series": [
-            {
-              "academic_year": "2010-2011",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2011-2012",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2013-2014",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2015-2016",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2016-2017",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2018-2019",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2019-2020",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2020-2021",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2022-2023",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 2
-            },
-            {
-              "academic_year": "2023-2024",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2024-2025",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "第二类曲面积分与通量能力簇",
-      "question_count": 12,
-      "known_score_total": 63.0,
-      "exam_profiles": {
-        "期中": {
-          "paper_type": "期中",
-          "recent_start_year": "2019-2020",
-          "latest_year": "2023-2024",
-          "historical": {
-            "years": [
-              "2010-2011",
-              "2011-2012",
-              "2012-2013",
-              "2013-2014",
-              "2014-2015",
-              "2015-2016",
-              "2016-2017",
-              "2018-2019"
-            ],
-            "year_count": 8,
-            "paper_count": 8,
-            "coverage_numerator": 0,
-            "coverage_denominator": 8,
-            "coverage_rate": 0.0,
-            "year_coverage_numerator": 0,
-            "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.0,
-            "average_questions_per_paper": 0.0,
-            "known_form_count": 0,
-            "form_distribution": {},
-            "long_ratio": null,
-            "known_score_count": 0,
-            "known_score_total": 0,
-            "known_score_per_paper": 0.0,
-            "median_score": null
-          },
-          "recent": {
-            "years": [
-              "2020-2021",
-              "2022-2023",
-              "2023-2024"
-            ],
-            "year_count": 3,
-            "paper_count": 3,
-            "coverage_numerator": 0,
-            "coverage_denominator": 3,
-            "coverage_rate": 0.0,
-            "year_coverage_numerator": 0,
-            "year_coverage_denominator": 3,
-            "year_coverage_rate": 0.0,
-            "average_questions_per_paper": 0.0,
-            "known_form_count": 0,
-            "form_distribution": {},
-            "long_ratio": null,
-            "known_score_count": 0,
-            "known_score_total": 0,
-            "known_score_per_paper": 0.0,
-            "median_score": null
-          },
-          "coverage_delta": 0.0,
-          "first_seen_year": null,
-          "last_seen_year": null,
-          "current_consecutive_present": 0,
-          "current_consecutive_absent": 11,
-          "transition_count": 0,
-          "primary_trend": "平稳观察",
-          "trend_priority": 6,
-          "importance_role": "该卷型未覆盖",
-          "secondary_trends": [],
-          "tag_change": {
-            "historical_distribution": {},
-            "recent_distribution": {},
-            "historical_dominant_tag": null,
-            "historical_dominant_share": null,
-            "recent_dominant_tag": null,
-            "recent_dominant_share": null,
-            "recent_dominant_tag_years": 0,
-            "migrated": false
-          },
-          "representatives": {
-            "historical": [],
-            "recent": []
-          },
-          "year_series": [
-            {
-              "academic_year": "2010-2011",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2011-2012",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2012-2013",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2013-2014",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2014-2015",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2015-2016",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2016-2017",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2018-2019",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2020-2021",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2022-2023",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2023-2024",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            }
-          ]
-        },
-        "期末": {
-          "paper_type": "期末",
-          "recent_start_year": "2020-2021",
-          "latest_year": "2024-2025",
-          "historical": {
-            "years": [
-              "2010-2011",
-              "2011-2012",
-              "2013-2014",
-              "2015-2016",
-              "2016-2017",
-              "2018-2019",
-              "2019-2020"
-            ],
-            "year_count": 7,
-            "paper_count": 7,
-            "coverage_numerator": 5,
-            "coverage_denominator": 7,
-            "coverage_rate": 0.7143,
-            "year_coverage_numerator": 5,
-            "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.7143,
-            "average_questions_per_paper": 0.8571,
-            "known_form_count": 6,
-            "form_distribution": {
-              "计算题": 0.7,
-              "证明题": 0.2,
-              "选择题": 0.1
-            },
-            "long_ratio": 0.9,
-            "known_score_count": 4,
-            "known_score_total": 26.0,
-            "known_score_per_paper": 3.7143,
-            "median_score": 7.0
-          },
-          "recent": {
-            "years": [
-              "2020-2021",
-              "2022-2023",
-              "2023-2024",
-              "2024-2025"
-            ],
-            "year_count": 4,
-            "paper_count": 4,
-            "coverage_numerator": 4,
-            "coverage_denominator": 4,
-            "coverage_rate": 1.0,
-            "year_coverage_numerator": 4,
-            "year_coverage_denominator": 4,
-            "year_coverage_rate": 1.0,
-            "average_questions_per_paper": 1.25,
-            "known_form_count": 5,
-            "form_distribution": {
-              "计算题": 0.875,
-              "选择题": 0.125
-            },
-            "long_ratio": 0.875,
-            "known_score_count": 4,
-            "known_score_total": 37.0,
-            "known_score_per_paper": 9.25,
-            "median_score": 11.0
-          },
-          "coverage_delta": 0.2857,
-          "first_seen_year": "2010-2011",
-          "last_seen_year": "2024-2025",
-          "current_consecutive_present": 6,
-          "current_consecutive_absent": 0,
-          "transition_count": 2,
-          "primary_trend": "沉寂后回归",
-          "trend_priority": 2,
-          "importance_role": "高分杠杆",
-          "secondary_trends": [
-            "大题化"
-          ],
-          "tag_change": {
-            "historical_distribution": {
-              "第二类曲面积分｜直接计算": 0.3,
-              "第二类曲面积分｜高斯公式": 0.7
-            },
-            "recent_distribution": {
-              "第二类曲面积分｜直接计算": 0.25,
-              "第二类曲面积分｜高斯公式": 0.75
-            },
-            "historical_dominant_tag": "第二类曲面积分｜高斯公式",
-            "historical_dominant_share": 0.7,
-            "recent_dominant_tag": "第二类曲面积分｜高斯公式",
-            "recent_dominant_share": 0.75,
-            "recent_dominant_tag_years": 3,
-            "migrated": false
-          },
-          "representatives": {
-            "historical": [
-              {
-                "file": "2019-2020期末_题面整理",
-                "anchor": "19-20期末-算3-5",
-                "source": "2019-2020期末",
-                "academic_year": "2019-2020",
-                "score": null,
-                "question_form": "计算题",
-                "tag": "第二类曲面积分｜高斯公式"
-              }
-            ],
-            "recent": [
-              {
-                "file": "2024-2025期末_题面整理",
-                "anchor": "24-25期末-算7",
-                "source": "2024-2025期末",
-                "academic_year": "2024-2025",
-                "score": 12.0,
-                "question_form": "计算题",
-                "tag": "第二类曲面积分｜直接计算"
-              },
-              {
-                "file": "2023-2024期末A_题面整理",
-                "anchor": "23-24期末A-算6",
-                "source": "2023-2024期末A",
-                "academic_year": "2023-2024",
-                "score": 10.0,
-                "question_form": "计算题",
-                "tag": "第二类曲面积分｜高斯公式"
-              }
-            ]
-          },
-          "year_series": [
-            {
-              "academic_year": "2010-2011",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2011-2012",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2013-2014",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 2
-            },
-            {
-              "academic_year": "2015-2016",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2016-2017",
-              "present": false,
-              "paper_count": 1,
-              "question_count": 0
-            },
-            {
-              "academic_year": "2018-2019",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2019-2020",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2020-2021",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 2
-            },
-            {
-              "academic_year": "2022-2023",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2023-2024",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            },
-            {
-              "academic_year": "2024-2025",
-              "present": true,
-              "paper_count": 1,
-              "question_count": 1
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "级数与傅里叶能力簇",
-      "question_count": 44,
-      "known_score_total": 159.0,
+      "question_count": 14,
+      "known_score_total": 73.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -4140,18 +3452,707 @@
             "year_coverage_numerator": 7,
             "year_coverage_denominator": 7,
             "year_coverage_rate": 1.0,
-            "average_questions_per_paper": 3.2857,
-            "known_form_count": 23,
+            "average_questions_per_paper": 1.0,
+            "known_form_count": 7,
             "form_distribution": {
-              "填空题": 0.25,
-              "计算题": 0.3333,
-              "证明题": 0.0476,
-              "选择题": 0.369
+              "计算题": 1.0
             },
-            "long_ratio": 0.3809,
-            "known_score_count": 19,
-            "known_score_total": 82.0,
-            "known_score_per_paper": 11.7143,
+            "long_ratio": 1.0,
+            "known_score_count": 4,
+            "known_score_total": 38.0,
+            "known_score_per_paper": 5.4286,
+            "median_score": 9.5
+          },
+          "recent": {
+            "years": [
+              "2020-2021",
+              "2022-2023",
+              "2023-2024",
+              "2024-2025"
+            ],
+            "year_count": 4,
+            "paper_count": 4,
+            "coverage_numerator": 4,
+            "coverage_denominator": 4,
+            "coverage_rate": 1.0,
+            "year_coverage_numerator": 4,
+            "year_coverage_denominator": 4,
+            "year_coverage_rate": 1.0,
+            "average_questions_per_paper": 1.25,
+            "known_form_count": 5,
+            "form_distribution": {
+              "填空题": 0.125,
+              "计算题": 0.875
+            },
+            "long_ratio": 0.875,
+            "known_score_count": 4,
+            "known_score_total": 35.0,
+            "known_score_per_paper": 8.75,
+            "median_score": 10.0
+          },
+          "coverage_delta": 0.0,
+          "first_seen_year": "2010-2011",
+          "last_seen_year": "2024-2025",
+          "current_consecutive_present": 11,
+          "current_consecutive_absent": 0,
+          "transition_count": 0,
+          "primary_trend": "稳定核心",
+          "trend_priority": 5,
+          "importance_role": "高分杠杆",
+          "secondary_trends": [],
+          "tag_change": {
+            "historical_distribution": {
+              "第二类曲线积分｜格林公式": 0.7143,
+              "第二类曲线积分｜直接计算": 0.2857
+            },
+            "recent_distribution": {
+              "第二类曲线积分｜斯托克斯公式": 0.25,
+              "第二类曲线积分｜格林公式": 0.625,
+              "第二类曲线积分｜路径无关": 0.125
+            },
+            "historical_dominant_tag": "第二类曲线积分｜格林公式",
+            "historical_dominant_share": 0.7143,
+            "recent_dominant_tag": "第二类曲线积分｜格林公式",
+            "recent_dominant_share": 0.625,
+            "recent_dominant_tag_years": 3,
+            "migrated": false
+          },
+          "representatives": {
+            "historical": [
+              {
+                "file": "2019-2020期末_题面整理",
+                "anchor": "19-20期末-算3-4",
+                "source": "2019-2020期末",
+                "academic_year": "2019-2020",
+                "score": null,
+                "question_form": "计算题",
+                "tag": "第二类曲线积分｜格林公式"
+              }
+            ],
+            "recent": [
+              {
+                "file": "2024-2025期末_题面整理",
+                "anchor": "24-25期末-算6",
+                "source": "2024-2025期末",
+                "academic_year": "2024-2025",
+                "score": 10.0,
+                "question_form": "计算题",
+                "tag": "第二类曲线积分｜格林公式"
+              },
+              {
+                "file": "2023-2024期末A_题面整理",
+                "anchor": "23-24期末A-算7",
+                "source": "2023-2024期末A",
+                "academic_year": "2023-2024",
+                "score": 12.0,
+                "question_form": "计算题",
+                "tag": "第二类曲线积分｜斯托克斯公式"
+              }
+            ]
+          },
+          "year_series": [
+            {
+              "academic_year": "2010-2011",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2011-2012",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2013-2014",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2015-2016",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2016-2017",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2018-2019",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2019-2020",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2020-2021",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2022-2023",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 2
+            },
+            {
+              "academic_year": "2023-2024",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2024-2025",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "第二类曲面积分与通量能力簇",
+      "question_count": 14,
+      "known_score_total": 82.0,
+      "exam_profiles": {
+        "期中": {
+          "paper_type": "期中",
+          "recent_start_year": "2019-2020",
+          "latest_year": "2023-2024",
+          "historical": {
+            "years": [
+              "2010-2011",
+              "2011-2012",
+              "2012-2013",
+              "2013-2014",
+              "2014-2015",
+              "2015-2016",
+              "2016-2017",
+              "2018-2019"
+            ],
+            "year_count": 8,
+            "paper_count": 8,
+            "coverage_numerator": 0,
+            "coverage_denominator": 8,
+            "coverage_rate": 0.0,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 8,
+            "year_coverage_rate": 0.0,
+            "average_questions_per_paper": 0.0,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": 0.0,
+            "median_score": null
+          },
+          "recent": {
+            "years": [
+              "2020-2021",
+              "2022-2023",
+              "2023-2024"
+            ],
+            "year_count": 3,
+            "paper_count": 3,
+            "coverage_numerator": 0,
+            "coverage_denominator": 3,
+            "coverage_rate": 0.0,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 3,
+            "year_coverage_rate": 0.0,
+            "average_questions_per_paper": 0.0,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": 0.0,
+            "median_score": null
+          },
+          "coverage_delta": 0.0,
+          "first_seen_year": null,
+          "last_seen_year": null,
+          "current_consecutive_present": 0,
+          "current_consecutive_absent": 11,
+          "transition_count": 0,
+          "primary_trend": "平稳观察",
+          "trend_priority": 6,
+          "importance_role": "该卷型未覆盖",
+          "secondary_trends": [],
+          "tag_change": {
+            "historical_distribution": {},
+            "recent_distribution": {},
+            "historical_dominant_tag": null,
+            "historical_dominant_share": null,
+            "recent_dominant_tag": null,
+            "recent_dominant_share": null,
+            "recent_dominant_tag_years": 0,
+            "migrated": false
+          },
+          "representatives": {
+            "historical": [],
+            "recent": []
+          },
+          "year_series": [
+            {
+              "academic_year": "2010-2011",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2011-2012",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2012-2013",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2013-2014",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2014-2015",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2015-2016",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2016-2017",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2018-2019",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2020-2021",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2022-2023",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2023-2024",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            }
+          ]
+        },
+        "期末": {
+          "paper_type": "期末",
+          "recent_start_year": "2020-2021",
+          "latest_year": "2024-2025",
+          "historical": {
+            "years": [
+              "2010-2011",
+              "2011-2012",
+              "2013-2014",
+              "2015-2016",
+              "2016-2017",
+              "2018-2019",
+              "2019-2020"
+            ],
+            "year_count": 7,
+            "paper_count": 7,
+            "coverage_numerator": 7,
+            "coverage_denominator": 7,
+            "coverage_rate": 1.0,
+            "year_coverage_numerator": 7,
+            "year_coverage_denominator": 7,
+            "year_coverage_rate": 1.0,
+            "average_questions_per_paper": 1.1429,
+            "known_form_count": 8,
+            "form_distribution": {
+              "计算题": 0.7857,
+              "证明题": 0.1429,
+              "选择题": 0.0714
+            },
+            "long_ratio": 0.9286,
+            "known_score_count": 6,
+            "known_score_total": 45.0,
+            "known_score_per_paper": 6.4286,
+            "median_score": 8.0
+          },
+          "recent": {
+            "years": [
+              "2020-2021",
+              "2022-2023",
+              "2023-2024",
+              "2024-2025"
+            ],
+            "year_count": 4,
+            "paper_count": 4,
+            "coverage_numerator": 4,
+            "coverage_denominator": 4,
+            "coverage_rate": 1.0,
+            "year_coverage_numerator": 4,
+            "year_coverage_denominator": 4,
+            "year_coverage_rate": 1.0,
+            "average_questions_per_paper": 1.25,
+            "known_form_count": 5,
+            "form_distribution": {
+              "计算题": 0.875,
+              "选择题": 0.125
+            },
+            "long_ratio": 0.875,
+            "known_score_count": 4,
+            "known_score_total": 37.0,
+            "known_score_per_paper": 9.25,
+            "median_score": 11.0
+          },
+          "coverage_delta": 0.0,
+          "first_seen_year": "2010-2011",
+          "last_seen_year": "2024-2025",
+          "current_consecutive_present": 11,
+          "current_consecutive_absent": 0,
+          "transition_count": 0,
+          "primary_trend": "稳定核心",
+          "trend_priority": 5,
+          "importance_role": "高分杠杆",
+          "secondary_trends": [],
+          "tag_change": {
+            "historical_distribution": {
+              "第二类曲面积分｜直接计算": 0.3571,
+              "第二类曲面积分｜高斯公式": 0.6429
+            },
+            "recent_distribution": {
+              "第二类曲面积分｜直接计算": 0.25,
+              "第二类曲面积分｜高斯公式": 0.75
+            },
+            "historical_dominant_tag": "第二类曲面积分｜高斯公式",
+            "historical_dominant_share": 0.6429,
+            "recent_dominant_tag": "第二类曲面积分｜高斯公式",
+            "recent_dominant_share": 0.75,
+            "recent_dominant_tag_years": 3,
+            "migrated": false
+          },
+          "representatives": {
+            "historical": [
+              {
+                "file": "2019-2020期末_题面整理",
+                "anchor": "19-20期末-算3-5",
+                "source": "2019-2020期末",
+                "academic_year": "2019-2020",
+                "score": null,
+                "question_form": "计算题",
+                "tag": "第二类曲面积分｜高斯公式"
+              }
+            ],
+            "recent": [
+              {
+                "file": "2024-2025期末_题面整理",
+                "anchor": "24-25期末-算7",
+                "source": "2024-2025期末",
+                "academic_year": "2024-2025",
+                "score": 12.0,
+                "question_form": "计算题",
+                "tag": "第二类曲面积分｜直接计算"
+              },
+              {
+                "file": "2023-2024期末A_题面整理",
+                "anchor": "23-24期末A-算6",
+                "source": "2023-2024期末A",
+                "academic_year": "2023-2024",
+                "score": 10.0,
+                "question_form": "计算题",
+                "tag": "第二类曲面积分｜高斯公式"
+              }
+            ]
+          },
+          "year_series": [
+            {
+              "academic_year": "2010-2011",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2011-2012",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2013-2014",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 2
+            },
+            {
+              "academic_year": "2015-2016",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2016-2017",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2018-2019",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2019-2020",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2020-2021",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 2
+            },
+            {
+              "academic_year": "2022-2023",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2023-2024",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            },
+            {
+              "academic_year": "2024-2025",
+              "present": true,
+              "paper_count": 1,
+              "question_count": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "级数与傅里叶能力簇",
+      "question_count": 47,
+      "known_score_total": 180.0,
+      "exam_profiles": {
+        "期中": {
+          "paper_type": "期中",
+          "recent_start_year": "2019-2020",
+          "latest_year": "2023-2024",
+          "historical": {
+            "years": [
+              "2010-2011",
+              "2011-2012",
+              "2012-2013",
+              "2013-2014",
+              "2014-2015",
+              "2015-2016",
+              "2016-2017",
+              "2018-2019"
+            ],
+            "year_count": 8,
+            "paper_count": 8,
+            "coverage_numerator": 0,
+            "coverage_denominator": 8,
+            "coverage_rate": 0.0,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 8,
+            "year_coverage_rate": 0.0,
+            "average_questions_per_paper": 0.0,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": 0.0,
+            "median_score": null
+          },
+          "recent": {
+            "years": [
+              "2020-2021",
+              "2022-2023",
+              "2023-2024"
+            ],
+            "year_count": 3,
+            "paper_count": 3,
+            "coverage_numerator": 0,
+            "coverage_denominator": 3,
+            "coverage_rate": 0.0,
+            "year_coverage_numerator": 0,
+            "year_coverage_denominator": 3,
+            "year_coverage_rate": 0.0,
+            "average_questions_per_paper": 0.0,
+            "known_form_count": 0,
+            "form_distribution": {},
+            "long_ratio": null,
+            "known_score_count": 0,
+            "known_score_total": 0,
+            "known_score_per_paper": 0.0,
+            "median_score": null
+          },
+          "coverage_delta": 0.0,
+          "first_seen_year": null,
+          "last_seen_year": null,
+          "current_consecutive_present": 0,
+          "current_consecutive_absent": 11,
+          "transition_count": 0,
+          "primary_trend": "平稳观察",
+          "trend_priority": 6,
+          "importance_role": "该卷型未覆盖",
+          "secondary_trends": [],
+          "tag_change": {
+            "historical_distribution": {},
+            "recent_distribution": {},
+            "historical_dominant_tag": null,
+            "historical_dominant_share": null,
+            "recent_dominant_tag": null,
+            "recent_dominant_share": null,
+            "recent_dominant_tag_years": 0,
+            "migrated": false
+          },
+          "representatives": {
+            "historical": [],
+            "recent": []
+          },
+          "year_series": [
+            {
+              "academic_year": "2010-2011",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2011-2012",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2012-2013",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2013-2014",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2014-2015",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2015-2016",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2016-2017",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2018-2019",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2020-2021",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2022-2023",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            },
+            {
+              "academic_year": "2023-2024",
+              "present": false,
+              "paper_count": 1,
+              "question_count": 0
+            }
+          ]
+        },
+        "期末": {
+          "paper_type": "期末",
+          "recent_start_year": "2020-2021",
+          "latest_year": "2024-2025",
+          "historical": {
+            "years": [
+              "2010-2011",
+              "2011-2012",
+              "2013-2014",
+              "2015-2016",
+              "2016-2017",
+              "2018-2019",
+              "2019-2020"
+            ],
+            "year_count": 7,
+            "paper_count": 7,
+            "coverage_numerator": 7,
+            "coverage_denominator": 7,
+            "coverage_rate": 1.0,
+            "year_coverage_numerator": 7,
+            "year_coverage_denominator": 7,
+            "year_coverage_rate": 1.0,
+            "average_questions_per_paper": 3.7143,
+            "known_form_count": 26,
+            "form_distribution": {
+              "填空题": 0.2071,
+              "计算题": 0.3976,
+              "证明题": 0.0762,
+              "选择题": 0.319
+            },
+            "long_ratio": 0.4738,
+            "known_score_count": 22,
+            "known_score_total": 103.0,
+            "known_score_per_paper": 14.7143,
             "median_score": 3.0
           },
           "recent": {
@@ -4195,15 +4196,15 @@
           "secondary_trends": [],
           "tag_change": {
             "historical_distribution": {
-              "傅里叶级数｜收敛值": 0.3214,
-              "傅里叶级数｜系数": 0.0476,
-              "函数展开｜幂级数": 0.1071,
+              "傅里叶级数｜收敛值": 0.2905,
+              "傅里叶级数｜系数": 0.0286,
+              "函数展开｜幂级数": 0.1357,
               "常数项级数｜概念判断": 0.0357,
-              "常数项级数｜正项判敛": 0.0833,
+              "常数项级数｜正项判敛": 0.1119,
               "常数项级数｜求和": 0.0357,
-              "常数项级数｜绝对与条件收敛": 0.1667,
-              "幂级数｜和函数": 0.119,
-              "幂级数｜收敛域": 0.0833
+              "常数项级数｜绝对与条件收敛": 0.1357,
+              "幂级数｜和函数": 0.1548,
+              "幂级数｜收敛域": 0.0714
             },
             "recent_distribution": {
               "傅里叶级数｜收敛值": 0.2375,
@@ -4215,7 +4216,7 @@
               "幂级数｜收敛域": 0.05
             },
             "historical_dominant_tag": "傅里叶级数｜收敛值",
-            "historical_dominant_share": 0.3214,
+            "historical_dominant_share": 0.2905,
             "recent_dominant_tag": "常数项级数｜绝对与条件收敛",
             "recent_dominant_share": 0.25,
             "recent_dominant_tag_years": 3,
@@ -4277,13 +4278,13 @@
               "academic_year": "2015-2016",
               "present": true,
               "paper_count": 1,
-              "question_count": 3
+              "question_count": 5
             },
             {
               "academic_year": "2016-2017",
               "present": true,
               "paper_count": 1,
-              "question_count": 3
+              "question_count": 4
             },
             {
               "academic_year": "2018-2019",
@@ -4327,8 +4328,8 @@
     },
     {
       "name": "连续与可微能力簇",
-      "question_count": 29,
-      "known_score_total": 144.0,
+      "question_count": 30,
+      "known_score_total": 154.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -4347,24 +4348,25 @@
             ],
             "year_count": 8,
             "paper_count": 8,
-            "coverage_numerator": 6,
+            "coverage_numerator": 7,
             "coverage_denominator": 8,
-            "coverage_rate": 0.75,
-            "year_coverage_numerator": 6,
+            "coverage_rate": 0.875,
+            "year_coverage_numerator": 7,
             "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.75,
-            "average_questions_per_paper": 1.625,
-            "known_form_count": 13,
+            "year_coverage_rate": 0.875,
+            "average_questions_per_paper": 1.75,
+            "known_form_count": 14,
             "form_distribution": {
-              "填空题": 0.0556,
-              "计算题": 0.4444,
-              "选择题": 0.5
+              "填空题": 0.0476,
+              "计算题": 0.381,
+              "证明题": 0.1429,
+              "选择题": 0.4286
             },
-            "long_ratio": 0.4444,
-            "known_score_count": 13,
-            "known_score_total": 82.0,
-            "known_score_per_paper": 10.25,
-            "median_score": 6.0
+            "long_ratio": 0.5239,
+            "known_score_count": 14,
+            "known_score_total": 92.0,
+            "known_score_per_paper": 11.5,
+            "median_score": 7.0
           },
           "recent": {
             "years": [
@@ -4392,31 +4394,32 @@
             "known_score_per_paper": 8.6667,
             "median_score": 3.0
           },
-          "coverage_delta": 0.25,
+          "coverage_delta": 0.125,
           "first_seen_year": "2010-2011",
           "last_seen_year": "2023-2024",
-          "current_consecutive_present": 4,
+          "current_consecutive_present": 8,
           "current_consecutive_absent": 0,
-          "transition_count": 4,
+          "transition_count": 2,
           "primary_trend": "稳定核心",
           "trend_priority": 5,
           "importance_role": "高频主力",
           "secondary_trends": [
+            "小题化",
             "考法迁移"
           ],
           "tag_change": {
             "historical_distribution": {
-              "连续与可微｜偏导有界": 0.0556,
-              "连续与可微｜关系判断": 0.3056,
-              "连续与可微｜原点": 0.4722,
-              "连续与可微｜概念判断": 0.1667
+              "连续与可微｜偏导有界": 0.0476,
+              "连续与可微｜关系判断": 0.2619,
+              "连续与可微｜原点": 0.5476,
+              "连续与可微｜概念判断": 0.1429
             },
             "recent_distribution": {
               "连续与可微｜关系判断": 0.8333,
               "连续与可微｜原点": 0.1667
             },
             "historical_dominant_tag": "连续与可微｜原点",
-            "historical_dominant_share": 0.4722,
+            "historical_dominant_share": 0.5476,
             "recent_dominant_tag": "连续与可微｜关系判断",
             "recent_dominant_share": 0.8333,
             "recent_dominant_tag_years": 3,
@@ -4494,9 +4497,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -4725,8 +4728,8 @@
       "name": "三重积分",
       "chapter": "第六章",
       "theme": "三重积分与物理应用能力簇",
-      "question_count": 13,
-      "known_score_total": 86.0,
+      "question_count": 14,
+      "known_score_total": 94.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -4924,17 +4927,17 @@
             "year_coverage_numerator": 2,
             "year_coverage_denominator": 7,
             "year_coverage_rate": 0.2857,
-            "average_questions_per_paper": 0.2857,
-            "known_form_count": 2,
+            "average_questions_per_paper": 0.4286,
+            "known_form_count": 3,
             "form_distribution": {
-              "填空题": 0.5,
-              "计算题": 0.5
+              "填空题": 0.25,
+              "计算题": 0.75
             },
-            "long_ratio": 0.5,
-            "known_score_count": 1,
-            "known_score_total": 3.0,
-            "known_score_per_paper": 0.4286,
-            "median_score": 3.0
+            "long_ratio": 0.75,
+            "known_score_count": 2,
+            "known_score_total": 11.0,
+            "known_score_per_paper": 1.5714,
+            "median_score": 5.5
           },
           "recent": {
             "years": [
@@ -4977,11 +4980,11 @@
             "historical": [
               {
                 "file": "2015-2016期末_题面整理",
-                "anchor": "15-16期末-填3",
+                "anchor": "15-16期末-算6",
                 "source": "2015-2016期末",
                 "academic_year": "2015-2016",
-                "score": 3.0,
-                "question_form": "填空题",
+                "score": 8.0,
+                "question_form": "计算题",
                 "tag": "三重积分"
               }
             ],
@@ -5020,7 +5023,7 @@
               "academic_year": "2015-2016",
               "present": true,
               "paper_count": 1,
-              "question_count": 1
+              "question_count": 2
             },
             {
               "academic_year": "2016-2017",
@@ -5398,8 +5401,8 @@
       "name": "三重积分｜球坐标",
       "chapter": "第六章",
       "theme": "三重积分与物理应用能力簇",
-      "question_count": 3,
-      "known_score_total": 16.0,
+      "question_count": 4,
+      "known_score_total": 26.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -5418,21 +5421,22 @@
             ],
             "year_count": 8,
             "paper_count": 8,
-            "coverage_numerator": 2,
+            "coverage_numerator": 3,
             "coverage_denominator": 8,
-            "coverage_rate": 0.25,
-            "year_coverage_numerator": 2,
+            "coverage_rate": 0.375,
+            "year_coverage_numerator": 3,
             "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.25,
-            "average_questions_per_paper": 0.25,
-            "known_form_count": 2,
+            "year_coverage_rate": 0.375,
+            "average_questions_per_paper": 0.375,
+            "known_form_count": 3,
             "form_distribution": {
-              "选择题": 1.0
+              "计算题": 0.3333,
+              "选择题": 0.6667
             },
-            "long_ratio": 0,
-            "known_score_count": 2,
-            "known_score_total": 6.0,
-            "known_score_per_paper": 0.75,
+            "long_ratio": 0.3333,
+            "known_score_count": 3,
+            "known_score_total": 16.0,
+            "known_score_per_paper": 2.0,
             "median_score": 3.0
           },
           "recent": {
@@ -5458,12 +5462,12 @@
             "known_score_per_paper": 0.0,
             "median_score": null
           },
-          "coverage_delta": -0.25,
+          "coverage_delta": -0.375,
           "first_seen_year": "2010-2011",
-          "last_seen_year": "2013-2014",
+          "last_seen_year": "2016-2017",
           "current_consecutive_present": 0,
-          "current_consecutive_absent": 7,
-          "transition_count": 3,
+          "current_consecutive_absent": 4,
+          "transition_count": 5,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
           "importance_role": "该卷型未覆盖",
@@ -5472,12 +5476,12 @@
           "representatives": {
             "historical": [
               {
-                "file": "2013-2014期中A_题面整理",
-                "anchor": "13-14期中A-选5",
-                "source": "2013-2014期中A",
-                "academic_year": "2013-2014",
-                "score": 3.0,
-                "question_form": "选择题",
+                "file": "2016-2017期中_题面整理",
+                "anchor": "16-17期中-算6",
+                "source": "2016-2017期中",
+                "academic_year": "2016-2017",
+                "score": 10.0,
+                "question_form": "计算题",
                 "tag": "三重积分｜球坐标"
               }
             ],
@@ -5522,9 +5526,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -6008,8 +6012,8 @@
       "name": "二重积分",
       "chapter": "第六章",
       "theme": "二重积分能力簇",
-      "question_count": 15,
-      "known_score_total": 100.0,
+      "question_count": 17,
+      "known_score_total": 118.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -6028,22 +6032,23 @@
             ],
             "year_count": 8,
             "paper_count": 8,
-            "coverage_numerator": 5,
+            "coverage_numerator": 6,
             "coverage_denominator": 8,
-            "coverage_rate": 0.625,
-            "year_coverage_numerator": 5,
+            "coverage_rate": 0.75,
+            "year_coverage_numerator": 6,
             "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.625,
-            "average_questions_per_paper": 0.625,
-            "known_form_count": 5,
+            "year_coverage_rate": 0.75,
+            "average_questions_per_paper": 0.75,
+            "known_form_count": 6,
             "form_distribution": {
-              "计算题": 1.0
+              "应用题": 0.1667,
+              "计算题": 0.8333
             },
             "long_ratio": 1.0,
-            "known_score_count": 5,
-            "known_score_total": 47.0,
-            "known_score_per_paper": 5.875,
-            "median_score": 9.0
+            "known_score_count": 6,
+            "known_score_total": 57.0,
+            "known_score_per_paper": 7.125,
+            "median_score": 9.5
           },
           "recent": {
             "years": [
@@ -6071,10 +6076,10 @@
             "known_score_per_paper": 14.6667,
             "median_score": 10.0
           },
-          "coverage_delta": 0.375,
+          "coverage_delta": 0.25,
           "first_seen_year": "2010-2011",
           "last_seen_year": "2023-2024",
-          "current_consecutive_present": 4,
+          "current_consecutive_present": 5,
           "current_consecutive_absent": 0,
           "transition_count": 2,
           "primary_trend": "沉寂后回归",
@@ -6154,9 +6159,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -6200,22 +6205,22 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 3,
+            "coverage_numerator": 4,
             "coverage_denominator": 7,
-            "coverage_rate": 0.4286,
-            "year_coverage_numerator": 3,
+            "coverage_rate": 0.5714,
+            "year_coverage_numerator": 4,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.4286,
-            "average_questions_per_paper": 0.4286,
-            "known_form_count": 3,
+            "year_coverage_rate": 0.5714,
+            "average_questions_per_paper": 0.5714,
+            "known_form_count": 4,
             "form_distribution": {
-              "计算题": 0.3333,
-              "选择题": 0.6667
+              "计算题": 0.5,
+              "选择题": 0.5
             },
-            "long_ratio": 0.3333,
-            "known_score_count": 2,
-            "known_score_total": 6.0,
-            "known_score_per_paper": 0.8571,
+            "long_ratio": 0.5,
+            "known_score_count": 3,
+            "known_score_total": 14.0,
+            "known_score_per_paper": 2.0,
             "median_score": 3.0
           },
           "recent": {
@@ -6244,14 +6249,14 @@
             "known_score_per_paper": 0.75,
             "median_score": 3.0
           },
-          "coverage_delta": -0.1786,
+          "coverage_delta": -0.3214,
           "first_seen_year": "2013-2014",
           "last_seen_year": "2022-2023",
           "current_consecutive_present": 0,
           "current_consecutive_absent": 2,
-          "transition_count": 6,
-          "primary_trend": "平稳观察",
-          "trend_priority": 6,
+          "transition_count": 4,
+          "primary_trend": "明显降温",
+          "trend_priority": 4,
           "importance_role": "低频观察",
           "secondary_trends": [],
           "tag_change": null,
@@ -6300,9 +6305,9 @@
             },
             {
               "academic_year": "2015-2016",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2016-2017",
@@ -8637,8 +8642,8 @@
       "name": "全微分方程｜恰当性与势函数",
       "chapter": "第七章",
       "theme": "场论与全微分方程能力簇",
-      "question_count": 5,
-      "known_score_total": 19.0,
+      "question_count": 6,
+      "known_score_total": 29.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -8795,23 +8800,23 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 3,
+            "coverage_numerator": 4,
             "coverage_denominator": 7,
-            "coverage_rate": 0.4286,
-            "year_coverage_numerator": 3,
+            "coverage_rate": 0.5714,
+            "year_coverage_numerator": 4,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.4286,
-            "average_questions_per_paper": 0.4286,
-            "known_form_count": 3,
+            "year_coverage_rate": 0.5714,
+            "average_questions_per_paper": 0.5714,
+            "known_form_count": 4,
             "form_distribution": {
-              "计算题": 0.3333,
-              "选择题": 0.6667
+              "计算题": 0.5,
+              "选择题": 0.5
             },
-            "long_ratio": 0.3333,
-            "known_score_count": 3,
-            "known_score_total": 16.0,
-            "known_score_per_paper": 2.2857,
-            "median_score": 3.0
+            "long_ratio": 0.5,
+            "known_score_count": 4,
+            "known_score_total": 26.0,
+            "known_score_per_paper": 3.7143,
+            "median_score": 6.5
           },
           "recent": {
             "years": [
@@ -8839,12 +8844,12 @@
             "known_score_per_paper": 0.75,
             "median_score": 3.0
           },
-          "coverage_delta": -0.1786,
+          "coverage_delta": -0.3214,
           "first_seen_year": "2013-2014",
           "last_seen_year": "2023-2024",
           "current_consecutive_present": 0,
           "current_consecutive_absent": 1,
-          "transition_count": 6,
+          "transition_count": 4,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
           "importance_role": "低频观察",
@@ -8901,9 +8906,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -8949,8 +8954,8 @@
       "name": "函数展开｜幂级数",
       "chapter": "第八章",
       "theme": "级数与傅里叶能力簇",
-      "question_count": 7,
-      "known_score_total": 37.0,
+      "question_count": 8,
+      "known_score_total": 45.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -9107,22 +9112,22 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 3,
+            "coverage_numerator": 4,
             "coverage_denominator": 7,
-            "coverage_rate": 0.4286,
-            "year_coverage_numerator": 3,
+            "coverage_rate": 0.5714,
+            "year_coverage_numerator": 4,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.4286,
-            "average_questions_per_paper": 0.4286,
-            "known_form_count": 3,
+            "year_coverage_rate": 0.5714,
+            "average_questions_per_paper": 0.5714,
+            "known_form_count": 4,
             "form_distribution": {
               "计算题": 1.0
             },
             "long_ratio": 1.0,
-            "known_score_count": 1,
-            "known_score_total": 7.0,
-            "known_score_per_paper": 1.0,
-            "median_score": 7.0
+            "known_score_count": 2,
+            "known_score_total": 15.0,
+            "known_score_per_paper": 2.1429,
+            "median_score": 7.5
           },
           "recent": {
             "years": [
@@ -9150,14 +9155,14 @@
             "known_score_per_paper": 7.5,
             "median_score": 10.0
           },
-          "coverage_delta": 0.5714,
+          "coverage_delta": 0.4286,
           "first_seen_year": "2013-2014",
           "last_seen_year": "2024-2025",
           "current_consecutive_present": 6,
           "current_consecutive_absent": 0,
           "transition_count": 3,
-          "primary_trend": "沉寂后回归",
-          "trend_priority": 2,
+          "primary_trend": "新近升温",
+          "trend_priority": 3,
           "importance_role": "高分杠杆",
           "secondary_trends": [],
           "tag_change": null,
@@ -9215,9 +9220,9 @@
             },
             {
               "academic_year": "2015-2016",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2016-2017",
@@ -9269,8 +9274,8 @@
       "name": "切平面与法线｜切平面",
       "chapter": "第五章",
       "theme": "几何应用与方向导数能力簇",
-      "question_count": 8,
-      "known_score_total": 31.0,
+      "question_count": 9,
+      "known_score_total": 41.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -9440,23 +9445,23 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 2,
+            "coverage_numerator": 3,
             "coverage_denominator": 7,
-            "coverage_rate": 0.2857,
-            "year_coverage_numerator": 2,
+            "coverage_rate": 0.4286,
+            "year_coverage_numerator": 3,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.2857,
-            "average_questions_per_paper": 0.2857,
-            "known_form_count": 2,
+            "year_coverage_rate": 0.4286,
+            "average_questions_per_paper": 0.4286,
+            "known_form_count": 3,
             "form_distribution": {
-              "应用题": 0.5,
-              "计算题": 0.5
+              "应用题": 0.3333,
+              "计算题": 0.6667
             },
             "long_ratio": 1.0,
-            "known_score_count": 1,
-            "known_score_total": 9.0,
-            "known_score_per_paper": 1.2857,
-            "median_score": 9.0
+            "known_score_count": 2,
+            "known_score_total": 19.0,
+            "known_score_per_paper": 2.7143,
+            "median_score": 9.5
           },
           "recent": {
             "years": [
@@ -9485,7 +9490,7 @@
             "known_score_per_paper": 3.25,
             "median_score": 6.5
           },
-          "coverage_delta": 0.2143,
+          "coverage_delta": 0.0714,
           "first_seen_year": "2011-2012",
           "last_seen_year": "2024-2025",
           "current_consecutive_present": 1,
@@ -9550,9 +9555,9 @@
             },
             {
               "academic_year": "2015-2016",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2016-2017",
@@ -11214,8 +11219,8 @@
       "name": "复合函数｜二阶偏导",
       "chapter": "第五章",
       "theme": "偏导与复合求导能力簇",
-      "question_count": 13,
-      "known_score_total": 77.0,
+      "question_count": 15,
+      "known_score_total": 95.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -11234,21 +11239,21 @@
             ],
             "year_count": 8,
             "paper_count": 8,
-            "coverage_numerator": 4,
+            "coverage_numerator": 5,
             "coverage_denominator": 8,
-            "coverage_rate": 0.5,
-            "year_coverage_numerator": 4,
+            "coverage_rate": 0.625,
+            "year_coverage_numerator": 5,
             "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.5,
-            "average_questions_per_paper": 0.5,
-            "known_form_count": 4,
+            "year_coverage_rate": 0.625,
+            "average_questions_per_paper": 0.625,
+            "known_form_count": 5,
             "form_distribution": {
               "计算题": 1.0
             },
             "long_ratio": 1.0,
-            "known_score_count": 3,
-            "known_score_total": 28.0,
-            "known_score_per_paper": 3.5,
+            "known_score_count": 4,
+            "known_score_total": 36.0,
+            "known_score_per_paper": 4.5,
             "median_score": 9.0
           },
           "recent": {
@@ -11259,14 +11264,14 @@
             ],
             "year_count": 3,
             "paper_count": 3,
-            "coverage_numerator": 2,
+            "coverage_numerator": 3,
             "coverage_denominator": 3,
-            "coverage_rate": 0.6667,
-            "year_coverage_numerator": 2,
+            "coverage_rate": 1.0,
+            "year_coverage_numerator": 3,
             "year_coverage_denominator": 3,
-            "year_coverage_rate": 0.6667,
-            "average_questions_per_paper": 0.6667,
-            "known_form_count": 2,
+            "year_coverage_rate": 1.0,
+            "average_questions_per_paper": 1.0,
+            "known_form_count": 3,
             "form_distribution": {
               "计算题": 1.0
             },
@@ -11276,15 +11281,15 @@
             "known_score_per_paper": 8.0,
             "median_score": 12.0
           },
-          "coverage_delta": 0.1667,
+          "coverage_delta": 0.375,
           "first_seen_year": "2010-2011",
           "last_seen_year": "2023-2024",
-          "current_consecutive_present": 2,
+          "current_consecutive_present": 6,
           "current_consecutive_absent": 0,
-          "transition_count": 6,
-          "primary_trend": "平稳观察",
-          "trend_priority": 6,
-          "importance_role": "中频主干",
+          "transition_count": 4,
+          "primary_trend": "沉寂后回归",
+          "trend_priority": 2,
+          "importance_role": "高分杠杆",
           "secondary_trends": [],
           "tag_change": null,
           "representatives": {
@@ -11353,9 +11358,9 @@
             },
             {
               "academic_year": "2015-2016",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2016-2017",
@@ -11371,9 +11376,9 @@
             },
             {
               "academic_year": "2020-2021",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2022-2023",
@@ -11419,9 +11424,9 @@
               "选择题": 0.6
             },
             "long_ratio": 0.2,
-            "known_score_count": 4,
-            "known_score_total": 12.0,
-            "known_score_per_paper": 1.7143,
+            "known_score_count": 5,
+            "known_score_total": 22.0,
+            "known_score_per_paper": 3.1429,
             "median_score": 3.0
           },
           "recent": {
@@ -11881,8 +11886,8 @@
       "name": "常数项级数｜正项判敛",
       "chapter": "第八章",
       "theme": "级数与傅里叶能力簇",
-      "question_count": 4,
-      "known_score_total": 15.0,
+      "question_count": 5,
+      "known_score_total": 22.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -12039,22 +12044,22 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 2,
+            "coverage_numerator": 3,
             "coverage_denominator": 7,
-            "coverage_rate": 0.2857,
-            "year_coverage_numerator": 2,
+            "coverage_rate": 0.4286,
+            "year_coverage_numerator": 3,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.2857,
-            "average_questions_per_paper": 0.2857,
-            "known_form_count": 2,
+            "year_coverage_rate": 0.4286,
+            "average_questions_per_paper": 0.4286,
+            "known_form_count": 3,
             "form_distribution": {
-              "计算题": 0.5,
-              "证明题": 0.5
+              "计算题": 0.3333,
+              "证明题": 0.6667
             },
             "long_ratio": 1.0,
-            "known_score_count": 1,
-            "known_score_total": 7.0,
-            "known_score_per_paper": 1.0,
+            "known_score_count": 2,
+            "known_score_total": 14.0,
+            "known_score_per_paper": 2.0,
             "median_score": 7.0
           },
           "recent": {
@@ -12084,12 +12089,12 @@
             "known_score_per_paper": 2.0,
             "median_score": 8.0
           },
-          "coverage_delta": 0.2143,
+          "coverage_delta": 0.0714,
           "first_seen_year": "2010-2011",
           "last_seen_year": "2024-2025",
           "current_consecutive_present": 1,
           "current_consecutive_absent": 0,
-          "transition_count": 6,
+          "transition_count": 8,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
           "importance_role": "中频主干",
@@ -12149,9 +12154,9 @@
             },
             {
               "academic_year": "2015-2016",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2016-2017",
@@ -12836,8 +12841,8 @@
       "name": "幂级数｜和函数",
       "chapter": "第八章",
       "theme": "级数与傅里叶能力簇",
-      "question_count": 3,
-      "known_score_total": 20.0,
+      "question_count": 4,
+      "known_score_total": 26.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -12994,21 +12999,21 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 2,
+            "coverage_numerator": 3,
             "coverage_denominator": 7,
-            "coverage_rate": 0.2857,
-            "year_coverage_numerator": 2,
+            "coverage_rate": 0.4286,
+            "year_coverage_numerator": 3,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.2857,
-            "average_questions_per_paper": 0.2857,
-            "known_form_count": 2,
+            "year_coverage_rate": 0.4286,
+            "average_questions_per_paper": 0.4286,
+            "known_form_count": 3,
             "form_distribution": {
               "计算题": 1.0
             },
             "long_ratio": 1.0,
-            "known_score_count": 2,
-            "known_score_total": 20.0,
-            "known_score_per_paper": 2.8571,
+            "known_score_count": 3,
+            "known_score_total": 26.0,
+            "known_score_per_paper": 3.7143,
             "median_score": 10.0
           },
           "recent": {
@@ -13035,12 +13040,12 @@
             "known_score_per_paper": 0.0,
             "median_score": null
           },
-          "coverage_delta": -0.2857,
+          "coverage_delta": -0.4286,
           "first_seen_year": "2010-2011",
-          "last_seen_year": "2011-2012",
+          "last_seen_year": "2016-2017",
           "current_consecutive_present": 0,
-          "current_consecutive_absent": 9,
-          "transition_count": 1,
+          "current_consecutive_absent": 6,
+          "transition_count": 3,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
           "importance_role": "该卷型未覆盖",
@@ -13049,11 +13054,11 @@
           "representatives": {
             "historical": [
               {
-                "file": "2011-2012期末A_题面整理",
-                "anchor": "11-12期末A-算3-2",
-                "source": "2011-2012期末A",
-                "academic_year": "2011-2012",
-                "score": 10.0,
+                "file": "2016-2017期末_题面整理",
+                "anchor": "16-17期末-算8",
+                "source": "2016-2017期末",
+                "academic_year": "2016-2017",
+                "score": 6.0,
                 "question_form": "计算题",
                 "tag": "幂级数｜和函数"
               }
@@ -13087,9 +13092,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -13758,8 +13763,8 @@
       "name": "形心与质量｜质心",
       "chapter": "第六章",
       "theme": "三重积分与物理应用能力簇",
-      "question_count": 1,
-      "known_score_total": 10.0,
+      "question_count": 2,
+      "known_score_total": 16.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -13778,20 +13783,22 @@
             ],
             "year_count": 8,
             "paper_count": 8,
-            "coverage_numerator": 0,
+            "coverage_numerator": 1,
             "coverage_denominator": 8,
-            "coverage_rate": 0.0,
-            "year_coverage_numerator": 0,
+            "coverage_rate": 0.125,
+            "year_coverage_numerator": 1,
             "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.0,
-            "average_questions_per_paper": 0.0,
-            "known_form_count": 0,
-            "form_distribution": {},
-            "long_ratio": null,
-            "known_score_count": 0,
-            "known_score_total": 0,
-            "known_score_per_paper": 0.0,
-            "median_score": null
+            "year_coverage_rate": 0.125,
+            "average_questions_per_paper": 0.125,
+            "known_form_count": 1,
+            "form_distribution": {
+              "计算题": 1.0
+            },
+            "long_ratio": 1.0,
+            "known_score_count": 1,
+            "known_score_total": 6.0,
+            "known_score_per_paper": 0.75,
+            "median_score": 6.0
           },
           "recent": {
             "years": [
@@ -13816,19 +13823,29 @@
             "known_score_per_paper": 0.0,
             "median_score": null
           },
-          "coverage_delta": 0.0,
-          "first_seen_year": null,
-          "last_seen_year": null,
+          "coverage_delta": -0.125,
+          "first_seen_year": "2015-2016",
+          "last_seen_year": "2015-2016",
           "current_consecutive_present": 0,
-          "current_consecutive_absent": 11,
-          "transition_count": 0,
+          "current_consecutive_absent": 5,
+          "transition_count": 2,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
           "importance_role": "该卷型未覆盖",
           "secondary_trends": [],
           "tag_change": null,
           "representatives": {
-            "historical": [],
+            "historical": [
+              {
+                "file": "2015-2016期中_题面整理",
+                "anchor": "15-16期中-算8",
+                "source": "2015-2016期中",
+                "academic_year": "2015-2016",
+                "score": 6.0,
+                "question_form": "计算题",
+                "tag": "形心与质量｜质心"
+              }
+            ],
             "recent": []
           },
           "year_series": [
@@ -13864,9 +13881,9 @@
             },
             {
               "academic_year": "2015-2016",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2016-2017",
@@ -15976,8 +15993,8 @@
       "name": "条件极值｜几何最值",
       "chapter": "第五章",
       "theme": "极值与条件极值能力簇",
-      "question_count": 6,
-      "known_score_total": 32.0,
+      "question_count": 7,
+      "known_score_total": 42.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -16159,22 +16176,23 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 1,
+            "coverage_numerator": 2,
             "coverage_denominator": 7,
-            "coverage_rate": 0.1429,
-            "year_coverage_numerator": 1,
+            "coverage_rate": 0.2857,
+            "year_coverage_numerator": 2,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.1429,
-            "average_questions_per_paper": 0.1429,
-            "known_form_count": 1,
+            "year_coverage_rate": 0.2857,
+            "average_questions_per_paper": 0.2857,
+            "known_form_count": 2,
             "form_distribution": {
-              "计算题": 1.0
+              "应用题": 0.5,
+              "计算题": 0.5
             },
             "long_ratio": 1.0,
-            "known_score_count": 0,
-            "known_score_total": 0,
-            "known_score_per_paper": 0.0,
-            "median_score": null
+            "known_score_count": 1,
+            "known_score_total": 10.0,
+            "known_score_per_paper": 1.4286,
+            "median_score": 10.0
           },
           "recent": {
             "years": [
@@ -16202,8 +16220,8 @@
             "known_score_per_paper": 0.75,
             "median_score": 3.0
           },
-          "coverage_delta": 0.1071,
-          "first_seen_year": "2018-2019",
+          "coverage_delta": -0.0357,
+          "first_seen_year": "2016-2017",
           "last_seen_year": "2023-2024",
           "current_consecutive_present": 0,
           "current_consecutive_absent": 1,
@@ -16264,9 +16282,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -19211,8 +19229,8 @@
       "name": "积分方程｜反求函数",
       "chapter": "第五章",
       "theme": "偏导与复合求导能力簇",
-      "question_count": 1,
-      "known_score_total": 8.0,
+      "question_count": 2,
+      "known_score_total": 14.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -19231,22 +19249,22 @@
             ],
             "year_count": 8,
             "paper_count": 8,
-            "coverage_numerator": 1,
+            "coverage_numerator": 2,
             "coverage_denominator": 8,
-            "coverage_rate": 0.125,
-            "year_coverage_numerator": 1,
+            "coverage_rate": 0.25,
+            "year_coverage_numerator": 2,
             "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.125,
-            "average_questions_per_paper": 0.125,
-            "known_form_count": 1,
+            "year_coverage_rate": 0.25,
+            "average_questions_per_paper": 0.25,
+            "known_form_count": 2,
             "form_distribution": {
               "计算题": 1.0
             },
             "long_ratio": 1.0,
-            "known_score_count": 1,
-            "known_score_total": 8.0,
-            "known_score_per_paper": 1.0,
-            "median_score": 8.0
+            "known_score_count": 2,
+            "known_score_total": 14.0,
+            "known_score_per_paper": 1.75,
+            "median_score": 7.0
           },
           "recent": {
             "years": [
@@ -19271,12 +19289,12 @@
             "known_score_per_paper": 0.0,
             "median_score": null
           },
-          "coverage_delta": -0.125,
+          "coverage_delta": -0.25,
           "first_seen_year": "2012-2013",
-          "last_seen_year": "2012-2013",
+          "last_seen_year": "2016-2017",
           "current_consecutive_present": 0,
-          "current_consecutive_absent": 8,
-          "transition_count": 2,
+          "current_consecutive_absent": 4,
+          "transition_count": 4,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
           "importance_role": "该卷型未覆盖",
@@ -19285,11 +19303,11 @@
           "representatives": {
             "historical": [
               {
-                "file": "2012-2013期中A_题面整理",
-                "anchor": "12-13期中A-算8",
-                "source": "2012-2013期中A",
-                "academic_year": "2012-2013",
-                "score": 8.0,
+                "file": "2016-2017期中_题面整理",
+                "anchor": "16-17期中-算8",
+                "source": "2016-2017期中",
+                "academic_year": "2016-2017",
+                "score": 6.0,
                 "question_form": "计算题",
                 "tag": "积分方程｜反求函数"
               }
@@ -19335,9 +19353,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -20130,8 +20148,8 @@
       "name": "空间曲线｜切线",
       "chapter": "第五章",
       "theme": "几何应用与方向导数能力簇",
-      "question_count": 1,
-      "known_score_total": 3.0,
+      "question_count": 2,
+      "known_score_total": 13.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -20150,22 +20168,23 @@
             ],
             "year_count": 8,
             "paper_count": 8,
-            "coverage_numerator": 1,
+            "coverage_numerator": 2,
             "coverage_denominator": 8,
-            "coverage_rate": 0.125,
-            "year_coverage_numerator": 1,
+            "coverage_rate": 0.25,
+            "year_coverage_numerator": 2,
             "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.125,
-            "average_questions_per_paper": 0.125,
-            "known_form_count": 1,
+            "year_coverage_rate": 0.25,
+            "average_questions_per_paper": 0.25,
+            "known_form_count": 2,
             "form_distribution": {
-              "填空题": 1.0
+              "填空题": 0.5,
+              "应用题": 0.5
             },
-            "long_ratio": 0,
-            "known_score_count": 1,
-            "known_score_total": 3.0,
-            "known_score_per_paper": 0.375,
-            "median_score": 3.0
+            "long_ratio": 0.5,
+            "known_score_count": 2,
+            "known_score_total": 13.0,
+            "known_score_per_paper": 1.625,
+            "median_score": 6.5
           },
           "recent": {
             "years": [
@@ -20190,12 +20209,12 @@
             "known_score_per_paper": 0.0,
             "median_score": null
           },
-          "coverage_delta": -0.125,
+          "coverage_delta": -0.25,
           "first_seen_year": "2012-2013",
-          "last_seen_year": "2012-2013",
+          "last_seen_year": "2016-2017",
           "current_consecutive_present": 0,
-          "current_consecutive_absent": 8,
-          "transition_count": 2,
+          "current_consecutive_absent": 4,
+          "transition_count": 4,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
           "importance_role": "该卷型未覆盖",
@@ -20204,12 +20223,12 @@
           "representatives": {
             "historical": [
               {
-                "file": "2012-2013期中A_题面整理",
-                "anchor": "12-13期中A-填2",
-                "source": "2012-2013期中A",
-                "academic_year": "2012-2013",
-                "score": 3.0,
-                "question_form": "填空题",
+                "file": "2016-2017期中_题面整理",
+                "anchor": "16-17期中-算5",
+                "source": "2016-2017期中",
+                "academic_year": "2016-2017",
+                "score": 10.0,
+                "question_form": "应用题",
                 "tag": "空间曲线｜切线"
               }
             ],
@@ -20254,9 +20273,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -20752,8 +20771,8 @@
       "name": "第一类曲线积分",
       "chapter": "第六章",
       "theme": "第一类线面积分能力簇",
-      "question_count": 19,
-      "known_score_total": 67.0,
+      "question_count": 21,
+      "known_score_total": 80.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -20772,24 +20791,24 @@
             ],
             "year_count": 8,
             "paper_count": 8,
-            "coverage_numerator": 6,
+            "coverage_numerator": 7,
             "coverage_denominator": 8,
-            "coverage_rate": 0.75,
-            "year_coverage_numerator": 6,
+            "coverage_rate": 0.875,
+            "year_coverage_numerator": 7,
             "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.75,
-            "average_questions_per_paper": 0.875,
-            "known_form_count": 7,
+            "year_coverage_rate": 0.875,
+            "average_questions_per_paper": 1.0,
+            "known_form_count": 8,
             "form_distribution": {
-              "填空题": 0.1667,
-              "计算题": 0.5833,
-              "选择题": 0.25
+              "填空题": 0.1429,
+              "计算题": 0.6429,
+              "选择题": 0.2143
             },
-            "long_ratio": 0.5833,
-            "known_score_count": 6,
-            "known_score_total": 37.0,
-            "known_score_per_paper": 4.625,
-            "median_score": 5.5
+            "long_ratio": 0.6429,
+            "known_score_count": 7,
+            "known_score_total": 47.0,
+            "known_score_per_paper": 5.875,
+            "median_score": 8.0
           },
           "recent": {
             "years": [
@@ -20816,16 +20835,18 @@
             "known_score_per_paper": 3.0,
             "median_score": 3.0
           },
-          "coverage_delta": 0.25,
+          "coverage_delta": 0.125,
           "first_seen_year": "2010-2011",
           "last_seen_year": "2023-2024",
-          "current_consecutive_present": 5,
+          "current_consecutive_present": 9,
           "current_consecutive_absent": 0,
-          "transition_count": 4,
+          "transition_count": 2,
           "primary_trend": "稳定核心",
           "trend_priority": 5,
           "importance_role": "高频主力",
-          "secondary_trends": [],
+          "secondary_trends": [
+            "小题化"
+          ],
           "tag_change": null,
           "representatives": {
             "historical": [
@@ -20893,9 +20914,9 @@
             },
             {
               "academic_year": "2015-2016",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2016-2017",
@@ -20945,22 +20966,23 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 4,
+            "coverage_numerator": 5,
             "coverage_denominator": 7,
-            "coverage_rate": 0.5714,
-            "year_coverage_numerator": 4,
+            "coverage_rate": 0.7143,
+            "year_coverage_numerator": 5,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.5714,
-            "average_questions_per_paper": 0.5714,
-            "known_form_count": 4,
+            "year_coverage_rate": 0.7143,
+            "average_questions_per_paper": 0.7143,
+            "known_form_count": 5,
             "form_distribution": {
-              "填空题": 0.75,
-              "计算题": 0.25
+              "填空题": 0.6,
+              "计算题": 0.2,
+              "选择题": 0.2
             },
-            "long_ratio": 0.25,
-            "known_score_count": 3,
-            "known_score_total": 9.0,
-            "known_score_per_paper": 1.2857,
+            "long_ratio": 0.2,
+            "known_score_count": 4,
+            "known_score_total": 12.0,
+            "known_score_per_paper": 1.7143,
             "median_score": 3.0
           },
           "recent": {
@@ -20990,14 +21012,14 @@
             "known_score_per_paper": 3.0,
             "median_score": 3.0
           },
-          "coverage_delta": 0.4286,
+          "coverage_delta": 0.2857,
           "first_seen_year": "2010-2011",
           "last_seen_year": "2024-2025",
           "current_consecutive_present": 5,
           "current_consecutive_absent": 0,
-          "transition_count": 2,
-          "primary_trend": "沉寂后回归",
-          "trend_priority": 2,
+          "transition_count": 4,
+          "primary_trend": "稳定核心",
+          "trend_priority": 5,
           "importance_role": "高频主力",
           "secondary_trends": [],
           "tag_change": null,
@@ -21061,9 +21083,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -21109,8 +21131,8 @@
       "name": "第一类曲面积分",
       "chapter": "第六章",
       "theme": "第一类线面积分能力簇",
-      "question_count": 20,
-      "known_score_total": 84.0,
+      "question_count": 21,
+      "known_score_total": 94.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -21135,18 +21157,18 @@
             "year_coverage_numerator": 7,
             "year_coverage_denominator": 8,
             "year_coverage_rate": 0.875,
-            "average_questions_per_paper": 1.125,
-            "known_form_count": 9,
+            "average_questions_per_paper": 1.25,
+            "known_form_count": 10,
             "form_distribution": {
-              "填空题": 0.2857,
-              "计算题": 0.5714,
+              "填空题": 0.2143,
+              "计算题": 0.6429,
               "选择题": 0.1429
             },
-            "long_ratio": 0.5714,
-            "known_score_count": 8,
-            "known_score_total": 42.0,
-            "known_score_per_paper": 5.25,
-            "median_score": 4.0
+            "long_ratio": 0.6429,
+            "known_score_count": 9,
+            "known_score_total": 52.0,
+            "known_score_per_paper": 6.5,
+            "median_score": 5.0
           },
           "recent": {
             "years": [
@@ -21252,7 +21274,7 @@
               "academic_year": "2015-2016",
               "present": true,
               "paper_count": 1,
-              "question_count": 1
+              "question_count": 2
             },
             {
               "academic_year": "2016-2017",
@@ -21766,8 +21788,8 @@
       "name": "第二类曲线积分｜格林公式",
       "chapter": "第七章",
       "theme": "第二类曲线积分能力簇",
-      "question_count": 8,
-      "known_score_total": 39.0,
+      "question_count": 9,
+      "known_score_total": 49.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -21924,22 +21946,22 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 4,
+            "coverage_numerator": 5,
             "coverage_denominator": 7,
-            "coverage_rate": 0.5714,
-            "year_coverage_numerator": 4,
+            "coverage_rate": 0.7143,
+            "year_coverage_numerator": 5,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.5714,
-            "average_questions_per_paper": 0.5714,
-            "known_form_count": 4,
+            "year_coverage_rate": 0.7143,
+            "average_questions_per_paper": 0.7143,
+            "known_form_count": 5,
             "form_distribution": {
               "计算题": 1.0
             },
             "long_ratio": 1.0,
-            "known_score_count": 2,
-            "known_score_total": 19.0,
-            "known_score_per_paper": 2.7143,
-            "median_score": 9.5
+            "known_score_count": 3,
+            "known_score_total": 29.0,
+            "known_score_per_paper": 4.1429,
+            "median_score": 10.0
           },
           "recent": {
             "years": [
@@ -21967,14 +21989,14 @@
             "known_score_per_paper": 5.0,
             "median_score": 10.0
           },
-          "coverage_delta": 0.1786,
+          "coverage_delta": 0.0357,
           "first_seen_year": "2010-2011",
           "last_seen_year": "2024-2025",
           "current_consecutive_present": 1,
           "current_consecutive_absent": 0,
           "transition_count": 6,
-          "primary_trend": "平稳观察",
-          "trend_priority": 6,
+          "primary_trend": "稳定核心",
+          "trend_priority": 5,
           "importance_role": "高分杠杆",
           "secondary_trends": [],
           "tag_change": null,
@@ -22038,9 +22060,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -22086,7 +22108,7 @@
       "name": "第二类曲线积分｜直接计算",
       "chapter": "第七章",
       "theme": "第二类曲线积分能力簇",
-      "question_count": 2,
+      "question_count": 3,
       "known_score_total": 9.0,
       "exam_profiles": {
         "期中": {
@@ -22244,14 +22266,14 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 1,
+            "coverage_numerator": 2,
             "coverage_denominator": 7,
-            "coverage_rate": 0.1429,
-            "year_coverage_numerator": 1,
+            "coverage_rate": 0.2857,
+            "year_coverage_numerator": 2,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.1429,
-            "average_questions_per_paper": 0.1429,
-            "known_form_count": 1,
+            "year_coverage_rate": 0.2857,
+            "average_questions_per_paper": 0.2857,
+            "known_form_count": 2,
             "form_distribution": {
               "计算题": 1.0
             },
@@ -22285,12 +22307,12 @@
             "known_score_per_paper": 0.0,
             "median_score": null
           },
-          "coverage_delta": -0.1429,
+          "coverage_delta": -0.2857,
           "first_seen_year": "2011-2012",
-          "last_seen_year": "2011-2012",
+          "last_seen_year": "2015-2016",
           "current_consecutive_present": 0,
-          "current_consecutive_absent": 9,
-          "transition_count": 2,
+          "current_consecutive_absent": 7,
+          "transition_count": 4,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
           "importance_role": "该卷型未覆盖",
@@ -22299,11 +22321,11 @@
           "representatives": {
             "historical": [
               {
-                "file": "2011-2012期末A_题面整理",
-                "anchor": "11-12期末A-算4-1",
-                "source": "2011-2012期末A",
-                "academic_year": "2011-2012",
-                "score": 9.0,
+                "file": "2015-2016期末_题面整理",
+                "anchor": "15-16期末-算6-7",
+                "source": "2015-2016期末",
+                "academic_year": "2015-2016",
+                "score": null,
                 "question_form": "计算题",
                 "tag": "第二类曲线积分｜直接计算"
               }
@@ -22331,9 +22353,9 @@
             },
             {
               "academic_year": "2015-2016",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2016-2017",
@@ -22684,8 +22706,8 @@
       "name": "第二类曲面积分｜直接计算",
       "chapter": "第七章",
       "theme": "第二类曲面积分与通量能力簇",
-      "question_count": 3,
-      "known_score_total": 24.0,
+      "question_count": 4,
+      "known_score_total": 34.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -22842,23 +22864,23 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 2,
+            "coverage_numerator": 3,
             "coverage_denominator": 7,
-            "coverage_rate": 0.2857,
-            "year_coverage_numerator": 2,
+            "coverage_rate": 0.4286,
+            "year_coverage_numerator": 3,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.2857,
-            "average_questions_per_paper": 0.2857,
-            "known_form_count": 2,
+            "year_coverage_rate": 0.4286,
+            "average_questions_per_paper": 0.4286,
+            "known_form_count": 3,
             "form_distribution": {
-              "计算题": 0.5,
-              "选择题": 0.5
+              "计算题": 0.6667,
+              "选择题": 0.3333
             },
-            "long_ratio": 0.5,
-            "known_score_count": 2,
-            "known_score_total": 12.0,
-            "known_score_per_paper": 1.7143,
-            "median_score": 6.0
+            "long_ratio": 0.6667,
+            "known_score_count": 3,
+            "known_score_total": 22.0,
+            "known_score_per_paper": 3.1429,
+            "median_score": 9.0
           },
           "recent": {
             "years": [
@@ -22886,12 +22908,12 @@
             "known_score_per_paper": 3.0,
             "median_score": 12.0
           },
-          "coverage_delta": -0.0357,
+          "coverage_delta": -0.1786,
           "first_seen_year": "2010-2011",
           "last_seen_year": "2024-2025",
           "current_consecutive_present": 1,
           "current_consecutive_absent": 0,
-          "transition_count": 4,
+          "transition_count": 6,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
           "importance_role": "低频观察",
@@ -22900,12 +22922,12 @@
           "representatives": {
             "historical": [
               {
-                "file": "2013-2014期末_题面整理",
-                "anchor": "13-14期末-选4",
-                "source": "2013-2014期末",
-                "academic_year": "2013-2014",
-                "score": 3.0,
-                "question_form": "选择题",
+                "file": "2016-2017期末_题面整理",
+                "anchor": "16-17期末-算6",
+                "source": "2016-2017期末",
+                "academic_year": "2016-2017",
+                "score": 10.0,
+                "question_form": "计算题",
                 "tag": "第二类曲面积分｜直接计算"
               }
             ],
@@ -22948,9 +22970,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -22996,8 +23018,8 @@
       "name": "第二类曲面积分｜高斯公式",
       "chapter": "第七章",
       "theme": "第二类曲面积分与通量能力簇",
-      "question_count": 9,
-      "known_score_total": 39.0,
+      "question_count": 10,
+      "known_score_total": 48.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -23154,22 +23176,22 @@
             ],
             "year_count": 7,
             "paper_count": 7,
-            "coverage_numerator": 4,
+            "coverage_numerator": 5,
             "coverage_denominator": 7,
-            "coverage_rate": 0.5714,
-            "year_coverage_numerator": 4,
+            "coverage_rate": 0.7143,
+            "year_coverage_numerator": 5,
             "year_coverage_denominator": 7,
-            "year_coverage_rate": 0.5714,
-            "average_questions_per_paper": 0.5714,
-            "known_form_count": 4,
+            "year_coverage_rate": 0.7143,
+            "average_questions_per_paper": 0.7143,
+            "known_form_count": 5,
             "form_distribution": {
-              "计算题": 0.75,
-              "证明题": 0.25
+              "计算题": 0.8,
+              "证明题": 0.2
             },
             "long_ratio": 1.0,
-            "known_score_count": 2,
-            "known_score_total": 14.0,
-            "known_score_per_paper": 2.0,
+            "known_score_count": 3,
+            "known_score_total": 23.0,
+            "known_score_per_paper": 3.2857,
             "median_score": 7.0
           },
           "recent": {
@@ -23199,7 +23221,7 @@
             "known_score_per_paper": 6.25,
             "median_score": 10.0
           },
-          "coverage_delta": 0.1786,
+          "coverage_delta": 0.0357,
           "first_seen_year": "2011-2012",
           "last_seen_year": "2023-2024",
           "current_consecutive_present": 0,
@@ -23264,9 +23286,9 @@
             },
             {
               "academic_year": "2015-2016",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2016-2017",
@@ -23963,8 +23985,8 @@
       "name": "连续与可微｜原点",
       "chapter": "第五章",
       "theme": "连续与可微能力簇",
-      "question_count": 11,
-      "known_score_total": 85.0,
+      "question_count": 12,
+      "known_score_total": 95.0,
       "exam_profiles": {
         "期中": {
           "paper_type": "期中",
@@ -23983,22 +24005,23 @@
             ],
             "year_count": 8,
             "paper_count": 8,
-            "coverage_numerator": 5,
+            "coverage_numerator": 6,
             "coverage_denominator": 8,
-            "coverage_rate": 0.625,
-            "year_coverage_numerator": 5,
+            "coverage_rate": 0.75,
+            "year_coverage_numerator": 6,
             "year_coverage_denominator": 8,
-            "year_coverage_rate": 0.625,
-            "average_questions_per_paper": 0.75,
-            "known_form_count": 6,
+            "year_coverage_rate": 0.75,
+            "average_questions_per_paper": 0.875,
+            "known_form_count": 7,
             "form_distribution": {
-              "计算题": 0.8,
-              "选择题": 0.2
+              "计算题": 0.6667,
+              "证明题": 0.1667,
+              "选择题": 0.1667
             },
-            "long_ratio": 0.8,
-            "known_score_count": 6,
-            "known_score_total": 53.0,
-            "known_score_per_paper": 6.625,
+            "long_ratio": 0.8334,
+            "known_score_count": 7,
+            "known_score_total": 63.0,
+            "known_score_per_paper": 7.875,
             "median_score": 10.0
           },
           "recent": {
@@ -24026,12 +24049,12 @@
             "known_score_per_paper": 4.6667,
             "median_score": 14.0
           },
-          "coverage_delta": -0.2917,
+          "coverage_delta": -0.4167,
           "first_seen_year": "2010-2011",
           "last_seen_year": "2022-2023",
           "current_consecutive_present": 0,
           "current_consecutive_absent": 1,
-          "transition_count": 7,
+          "transition_count": 5,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
           "importance_role": "低频观察",
@@ -24100,9 +24123,9 @@
             },
             {
               "academic_year": "2016-2017",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2018-2019",
@@ -24920,7 +24943,7 @@
       "name": "隐函数｜方程组｜求导",
       "chapter": "第五章",
       "theme": "偏导与复合求导能力簇",
-      "question_count": 2,
+      "question_count": 3,
       "known_score_total": 8.0,
       "exam_profiles": {
         "期中": {
@@ -24965,30 +24988,32 @@
             ],
             "year_count": 3,
             "paper_count": 3,
-            "coverage_numerator": 0,
+            "coverage_numerator": 1,
             "coverage_denominator": 3,
-            "coverage_rate": 0.0,
-            "year_coverage_numerator": 0,
+            "coverage_rate": 0.3333,
+            "year_coverage_numerator": 1,
             "year_coverage_denominator": 3,
-            "year_coverage_rate": 0.0,
-            "average_questions_per_paper": 0.0,
-            "known_form_count": 0,
-            "form_distribution": {},
-            "long_ratio": null,
+            "year_coverage_rate": 0.3333,
+            "average_questions_per_paper": 0.3333,
+            "known_form_count": 1,
+            "form_distribution": {
+              "计算题": 1.0
+            },
+            "long_ratio": 1.0,
             "known_score_count": 0,
             "known_score_total": 0,
             "known_score_per_paper": 0.0,
             "median_score": null
           },
-          "coverage_delta": -0.125,
+          "coverage_delta": 0.2083,
           "first_seen_year": "2013-2014",
-          "last_seen_year": "2013-2014",
+          "last_seen_year": "2020-2021",
           "current_consecutive_present": 0,
-          "current_consecutive_absent": 7,
-          "transition_count": 2,
+          "current_consecutive_absent": 2,
+          "transition_count": 4,
           "primary_trend": "平稳观察",
           "trend_priority": 6,
-          "importance_role": "该卷型未覆盖",
+          "importance_role": "低频观察",
           "secondary_trends": [],
           "tag_change": null,
           "representatives": {
@@ -25003,7 +25028,17 @@
                 "tag": "隐函数｜方程组｜求导"
               }
             ],
-            "recent": []
+            "recent": [
+              {
+                "file": "2020-2021期中_题面整理",
+                "anchor": "20-21期中-算4",
+                "source": "2020-2021期中",
+                "academic_year": "2020-2021",
+                "score": null,
+                "question_form": "计算题",
+                "tag": "隐函数｜方程组｜求导"
+              }
+            ]
           },
           "year_series": [
             {
@@ -25056,9 +25091,9 @@
             },
             {
               "academic_year": "2020-2021",
-              "present": false,
+              "present": true,
               "paper_count": 1,
-              "question_count": 0
+              "question_count": 1
             },
             {
               "academic_year": "2022-2023",
@@ -26698,15 +26733,15 @@
       "paper_type": "期中",
       "academic_year": "2015-2016",
       "paper_count": 1,
-      "question_count": 14,
+      "question_count": 18,
       "theme_counts": {
-        "三重积分与物理应用能力簇": 1,
+        "三重积分与物理应用能力簇": 2,
         "二重积分能力簇": 1,
-        "偏导与复合求导能力簇": 4,
+        "偏导与复合求导能力簇": 5,
         "几何应用与方向导数能力簇": 2,
         "极值与条件极值能力簇": 1,
         "极限与微分方程补充簇": 1,
-        "第一类线面积分能力簇": 1,
+        "第一类线面积分能力簇": 3,
         "连续与可微能力簇": 3
       },
       "tag_counts": {
@@ -26714,11 +26749,14 @@
         "二重积分｜换序": 1,
         "切平面与法线｜法向量": 1,
         "坐标变换与偏导": 1,
+        "复合函数｜二阶偏导": 1,
+        "形心与质量｜质心": 1,
         "方向导数｜计算": 1,
         "极值｜判定": 1,
         "极限｜振荡": 1,
         "积分定义函数｜求导": 1,
-        "第一类曲面积分": 1,
+        "第一类曲线积分": 1,
+        "第一类曲面积分": 2,
         "连续与可微｜偏导有界": 1,
         "连续与可微｜关系判断": 1,
         "连续与可微｜原点": 1,
@@ -26730,16 +26768,20 @@
       "paper_type": "期中",
       "academic_year": "2016-2017",
       "paper_count": 1,
-      "question_count": 13,
+      "question_count": 18,
       "theme_counts": {
-        "二重积分能力簇": 1,
-        "偏导与复合求导能力簇": 4,
-        "几何应用与方向导数能力簇": 2,
+        "三重积分与物理应用能力簇": 1,
+        "二重积分能力簇": 2,
+        "偏导与复合求导能力簇": 5,
+        "几何应用与方向导数能力簇": 3,
         "极值与条件极值能力簇": 2,
         "极限与微分方程补充簇": 1,
-        "第一类线面积分能力簇": 3
+        "第一类线面积分能力簇": 3,
+        "连续与可微能力簇": 1
       },
       "tag_counts": {
+        "三重积分｜球坐标": 1,
+        "二重积分": 1,
         "二重积分｜换序": 1,
         "全微分": 1,
         "切平面与法线｜法向量": 1,
@@ -26749,8 +26791,11 @@
         "极值｜判定": 1,
         "极限｜振荡": 1,
         "积分定义函数｜求导": 1,
+        "积分方程｜反求函数": 1,
+        "空间曲线｜切线": 1,
         "第一类曲线积分": 1,
         "第一类曲面积分": 2,
+        "连续与可微｜原点": 1,
         "隐函数｜求导": 1
       }
     },
@@ -26793,11 +26838,11 @@
       "paper_type": "期中",
       "academic_year": "2020-2021",
       "paper_count": 1,
-      "question_count": 16,
+      "question_count": 18,
       "theme_counts": {
         "三重积分与物理应用能力簇": 3,
         "二重积分能力簇": 2,
-        "偏导与复合求导能力簇": 3,
+        "偏导与复合求导能力簇": 5,
         "几何应用与方向导数能力簇": 2,
         "极值与条件极值能力簇": 2,
         "极限与微分方程补充簇": 1,
@@ -26811,12 +26856,14 @@
         "二重积分｜极坐标": 1,
         "切平面与法线｜性质证明": 1,
         "坐标变换与偏导": 1,
+        "复合函数｜二阶偏导": 1,
         "条件极值｜几何最值": 1,
         "极值｜判定": 1,
         "极限": 1,
         "梯度｜计算": 1,
         "第一类曲线积分": 1,
         "连续与可微｜关系判断": 2,
+        "隐函数｜方程组｜求导": 1,
         "隐函数｜求值": 1,
         "高阶偏导｜二阶偏导": 1
       }
@@ -27010,28 +27057,37 @@
       "paper_type": "期末",
       "academic_year": "2015-2016",
       "paper_count": 1,
-      "question_count": 11,
+      "question_count": 18,
       "theme_counts": {
-        "三重积分与物理应用能力簇": 1,
-        "二重积分能力簇": 1,
+        "三重积分与物理应用能力簇": 2,
+        "二重积分能力簇": 2,
         "偏导与复合求导能力簇": 2,
+        "几何应用与方向导数能力簇": 1,
         "场论与全微分方程能力簇": 1,
         "极限与微分方程补充簇": 1,
         "第一类线面积分能力簇": 1,
-        "级数与傅里叶能力簇": 3,
+        "第二类曲线积分能力簇": 1,
+        "第二类曲面积分与通量能力簇": 1,
+        "级数与傅里叶能力簇": 5,
         "连续与可微能力簇": 1
       },
       "tag_counts": {
-        "三重积分": 1,
+        "三重积分": 2,
+        "二重积分": 1,
         "二重积分｜比较大小": 1,
         "傅里叶级数｜收敛值": 1,
         "傅里叶级数｜系数": 1,
         "全微分": 1,
         "全微分方程｜恰当性与势函数": 1,
+        "函数展开｜幂级数": 1,
+        "切平面与法线｜切平面": 1,
         "复合函数｜二阶偏导": 1,
+        "常数项级数｜正项判敛": 1,
         "常数项级数｜绝对与条件收敛": 1,
         "极限｜等价替换": 1,
         "第一类曲面积分": 1,
+        "第二类曲线积分｜直接计算": 1,
+        "第二类曲面积分｜高斯公式": 1,
         "连续与可微｜关系判断": 1
       }
     },
@@ -27039,29 +27095,37 @@
       "paper_type": "期末",
       "academic_year": "2016-2017",
       "paper_count": 1,
-      "question_count": 12,
+      "question_count": 18,
       "theme_counts": {
         "三重积分与物理应用能力簇": 1,
         "二重积分能力簇": 1,
         "偏导与复合求导能力簇": 2,
         "几何应用与方向导数能力簇": 2,
-        "场论与全微分方程能力簇": 1,
-        "极值与条件极值能力簇": 1,
-        "第一类线面积分能力簇": 1,
-        "级数与傅里叶能力簇": 3
+        "场论与全微分方程能力簇": 2,
+        "极值与条件极值能力簇": 2,
+        "第一类线面积分能力簇": 2,
+        "第二类曲线积分能力簇": 1,
+        "第二类曲面积分与通量能力簇": 1,
+        "级数与傅里叶能力簇": 4
       },
       "tag_counts": {
         "三重积分｜对称性": 1,
         "二重积分": 1,
         "傅里叶级数｜收敛值": 1,
+        "全微分方程｜恰当性与势函数": 1,
         "切平面与法线｜切平面": 1,
         "场论｜散度与旋度": 1,
         "复合函数｜二阶偏导": 1,
         "常数项级数｜绝对与条件收敛": 1,
+        "幂级数｜和函数": 1,
         "幂级数｜收敛域": 1,
         "方向导数｜最值": 1,
+        "条件极值｜几何最值": 1,
         "条件极值｜闭区域最值": 1,
+        "第一类曲线积分": 1,
         "第一类曲面积分": 1,
+        "第二类曲线积分｜格林公式": 1,
+        "第二类曲面积分｜直接计算": 1,
         "高阶偏导｜二阶偏导": 1
       }
     },
@@ -27595,15 +27659,15 @@
       "source": "2015-2016期中",
       "paper_type": "期中",
       "academic_year": "2015-2016",
-      "question_count": 14,
+      "question_count": 18,
       "theme_counts": {
-        "三重积分与物理应用能力簇": 1,
+        "三重积分与物理应用能力簇": 2,
         "二重积分能力簇": 1,
-        "偏导与复合求导能力簇": 4,
+        "偏导与复合求导能力簇": 5,
         "几何应用与方向导数能力簇": 2,
         "极值与条件极值能力簇": 1,
         "极限与微分方程补充簇": 1,
-        "第一类线面积分能力簇": 1,
+        "第一类线面积分能力簇": 3,
         "连续与可微能力簇": 3
       },
       "tag_counts": {
@@ -27611,11 +27675,14 @@
         "二重积分｜换序": 1,
         "切平面与法线｜法向量": 1,
         "坐标变换与偏导": 1,
+        "复合函数｜二阶偏导": 1,
+        "形心与质量｜质心": 1,
         "方向导数｜计算": 1,
         "极值｜判定": 1,
         "极限｜振荡": 1,
         "积分定义函数｜求导": 1,
-        "第一类曲面积分": 1,
+        "第一类曲线积分": 1,
+        "第一类曲面积分": 2,
         "连续与可微｜偏导有界": 1,
         "连续与可微｜关系判断": 1,
         "连续与可微｜原点": 1,
@@ -27629,28 +27696,37 @@
       "source": "2015-2016期末",
       "paper_type": "期末",
       "academic_year": "2015-2016",
-      "question_count": 11,
+      "question_count": 18,
       "theme_counts": {
-        "三重积分与物理应用能力簇": 1,
-        "二重积分能力簇": 1,
+        "三重积分与物理应用能力簇": 2,
+        "二重积分能力簇": 2,
         "偏导与复合求导能力簇": 2,
+        "几何应用与方向导数能力簇": 1,
         "场论与全微分方程能力簇": 1,
         "极限与微分方程补充簇": 1,
         "第一类线面积分能力簇": 1,
-        "级数与傅里叶能力簇": 3,
+        "第二类曲线积分能力簇": 1,
+        "第二类曲面积分与通量能力簇": 1,
+        "级数与傅里叶能力簇": 5,
         "连续与可微能力簇": 1
       },
       "tag_counts": {
-        "三重积分": 1,
+        "三重积分": 2,
+        "二重积分": 1,
         "二重积分｜比较大小": 1,
         "傅里叶级数｜收敛值": 1,
         "傅里叶级数｜系数": 1,
         "全微分": 1,
         "全微分方程｜恰当性与势函数": 1,
+        "函数展开｜幂级数": 1,
+        "切平面与法线｜切平面": 1,
         "复合函数｜二阶偏导": 1,
+        "常数项级数｜正项判敛": 1,
         "常数项级数｜绝对与条件收敛": 1,
         "极限｜等价替换": 1,
         "第一类曲面积分": 1,
+        "第二类曲线积分｜直接计算": 1,
+        "第二类曲面积分｜高斯公式": 1,
         "连续与可微｜关系判断": 1
       }
     },
@@ -27660,16 +27736,20 @@
       "source": "2016-2017期中",
       "paper_type": "期中",
       "academic_year": "2016-2017",
-      "question_count": 13,
+      "question_count": 18,
       "theme_counts": {
-        "二重积分能力簇": 1,
-        "偏导与复合求导能力簇": 4,
-        "几何应用与方向导数能力簇": 2,
+        "三重积分与物理应用能力簇": 1,
+        "二重积分能力簇": 2,
+        "偏导与复合求导能力簇": 5,
+        "几何应用与方向导数能力簇": 3,
         "极值与条件极值能力簇": 2,
         "极限与微分方程补充簇": 1,
-        "第一类线面积分能力簇": 3
+        "第一类线面积分能力簇": 3,
+        "连续与可微能力簇": 1
       },
       "tag_counts": {
+        "三重积分｜球坐标": 1,
+        "二重积分": 1,
         "二重积分｜换序": 1,
         "全微分": 1,
         "切平面与法线｜法向量": 1,
@@ -27679,8 +27759,11 @@
         "极值｜判定": 1,
         "极限｜振荡": 1,
         "积分定义函数｜求导": 1,
+        "积分方程｜反求函数": 1,
+        "空间曲线｜切线": 1,
         "第一类曲线积分": 1,
         "第一类曲面积分": 2,
+        "连续与可微｜原点": 1,
         "隐函数｜求导": 1
       }
     },
@@ -27690,29 +27773,37 @@
       "source": "2016-2017期末",
       "paper_type": "期末",
       "academic_year": "2016-2017",
-      "question_count": 12,
+      "question_count": 18,
       "theme_counts": {
         "三重积分与物理应用能力簇": 1,
         "二重积分能力簇": 1,
         "偏导与复合求导能力簇": 2,
         "几何应用与方向导数能力簇": 2,
-        "场论与全微分方程能力簇": 1,
-        "极值与条件极值能力簇": 1,
-        "第一类线面积分能力簇": 1,
-        "级数与傅里叶能力簇": 3
+        "场论与全微分方程能力簇": 2,
+        "极值与条件极值能力簇": 2,
+        "第一类线面积分能力簇": 2,
+        "第二类曲线积分能力簇": 1,
+        "第二类曲面积分与通量能力簇": 1,
+        "级数与傅里叶能力簇": 4
       },
       "tag_counts": {
         "三重积分｜对称性": 1,
         "二重积分": 1,
         "傅里叶级数｜收敛值": 1,
+        "全微分方程｜恰当性与势函数": 1,
         "切平面与法线｜切平面": 1,
         "场论｜散度与旋度": 1,
         "复合函数｜二阶偏导": 1,
         "常数项级数｜绝对与条件收敛": 1,
+        "幂级数｜和函数": 1,
         "幂级数｜收敛域": 1,
         "方向导数｜最值": 1,
+        "条件极值｜几何最值": 1,
         "条件极值｜闭区域最值": 1,
+        "第一类曲线积分": 1,
         "第一类曲面积分": 1,
+        "第二类曲线积分｜格林公式": 1,
+        "第二类曲面积分｜直接计算": 1,
         "高阶偏导｜二阶偏导": 1
       }
     },
@@ -27838,11 +27929,11 @@
       "source": "2020-2021期中",
       "paper_type": "期中",
       "academic_year": "2020-2021",
-      "question_count": 16,
+      "question_count": 18,
       "theme_counts": {
         "三重积分与物理应用能力簇": 3,
         "二重积分能力簇": 2,
-        "偏导与复合求导能力簇": 3,
+        "偏导与复合求导能力簇": 5,
         "几何应用与方向导数能力簇": 2,
         "极值与条件极值能力簇": 2,
         "极限与微分方程补充簇": 1,
@@ -27856,12 +27947,14 @@
         "二重积分｜极坐标": 1,
         "切平面与法线｜性质证明": 1,
         "坐标变换与偏导": 1,
+        "复合函数｜二阶偏导": 1,
         "条件极值｜几何最值": 1,
         "极值｜判定": 1,
         "极限": 1,
         "梯度｜计算": 1,
         "第一类曲线积分": 1,
         "连续与可微｜关系判断": 2,
+        "隐函数｜方程组｜求导": 1,
         "隐函数｜求值": 1,
         "高阶偏导｜二阶偏导": 1
       }
