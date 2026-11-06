@@ -1,6 +1,6 @@
 {
-  "files": 3466,
-  "MiB": 1084.59,
+  "files": 3481,
+  "MiB": 1084.64,
   "retained_cache_files": 706,
   "preexisting_unresolved_links": [],
   "excluded_private_dependencies": [
@@ -3230,5 +3230,46 @@
     "report": "电路分析/40_派生视图/逐章图像重绘/第09章_核验报告.md",
     "style": "STIX/black/IEC; original and answer evidence retained",
     "prior_commits_preserved": "0fc10124e7df7ce6b3ff2d68776233ed6e5e47c2"
+  },
+  "circuit_redraw_final_20261106": {
+    "original_targets": 200,
+    "counts": {
+      "verified": 159,
+      "pending_source": 4,
+      "source_evidence_retained": 27,
+      "reused_verified_vector": 10
+    },
+    "report": "40_派生视图/逐章图像重绘/全科重绘进度与待确认.md",
+    "pending": [
+      "F008",
+      "F005",
+      "F009",
+      "F139"
+    ],
+    "s2": "regenerated and fingerprint/render verified in both source and share with unchanged historical exam scope",
+    "s8": "full-course existing failures retained in logs; image-only digests passed",
+    "files": [
+      "电路分析/10_题库/assets/chapter-redraw/README.md",
+      "电路分析/10_题库/assets/chapter-redraw/final-audit.json",
+      "电路分析/10_题库/assets/chapter-redraw/requirements.txt",
+      "电路分析/10_题库/assets/chapter-redraw/validation-logs/ch09-s8-full.log",
+      "电路分析/10_题库/assets/chapter-redraw/validation-logs/ch09-s8-lint.log",
+      "电路分析/10_题库/assets/chapter-redraw/validation-logs/current-image-references-final.json",
+      "电路分析/10_题库/assets/chapter-redraw/validation-logs/final-s2-analyze.log",
+      "电路分析/10_题库/assets/chapter-redraw/validation-logs/final-s2-fingerprint.log",
+      "电路分析/10_题库/assets/chapter-redraw/validation-logs/final-s2-gate.log",
+      "电路分析/10_题库/assets/chapter-redraw/validation-logs/final-s2-render-verify.log",
+      "电路分析/10_题库/assets/chapter-redraw/validation-logs/formal-links.json",
+      "电路分析/10_题库/assets/chapter-redraw/validation-logs/share-final-s2-fingerprint.log",
+      "电路分析/10_题库/assets/chapter-redraw/validation-logs/share-final-s2-gate.log",
+      "电路分析/10_题库/assets/chapter-redraw/validation-logs/share-final-s2-render-verify.log",
+      "电路分析/20_知识/整体知识框架.md",
+      "电路分析/40_派生视图/考频矩阵.md",
+      "电路分析/40_派生视图/逐章图像重绘/全科重绘进度与待确认.md",
+      "电路分析/90_缓存/s2-frequency-analysis.json"
+    ],
+    "previous_head": "6442f597d9f211b6bc750f005fc26d22d999e0fe",
+    "final_inventory": "fresh scan: 200 unique current images, 202 references, no unaccounted targets",
+    "share_checks": "S1/S9, both S2 gates, six chapter image verifiers and tools/verify_share.py passed"
   }
 }
