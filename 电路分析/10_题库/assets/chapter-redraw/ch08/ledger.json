@@ -1,0 +1,541 @@
+{
+  "chapter": 8,
+  "scope": "formal referenced images only; original answers/screenshots read-only",
+  "figures": [
+    {
+      "id": "F072",
+      "original": "10_题库/assets/ch8_signal_p277_fig_01.png",
+      "sha256": "8d6ef59a8b23dc2ba1a689f6faabd34a25ccb781ed4c34f33cd93c030691d6c8",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "line": 25,
+          "question": "章节卷-E8-1",
+          "heading": "### 章节卷-E8-1",
+          "chapter": 8,
+          "raw": "电路分析/10_题库/assets/ch8_signal_p277_fig_01.png",
+          "target": "10_题库/assets/ch8_signal_p277_fig_01.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "两幅共基LC：CB接基极交流地，CC从集电极到谐振上端，CE从发射极到L1/L2或C1/C2中点；RE/RB1/RB2/RC及公共地保留，不把抽头短接地。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F072.svg",
+      "svg_sha256": "4f7d47d2c853273df230b2ffe64d768a8bafca05287048edbe692edb97ad61a0",
+      "png_sha256": "b9ba6c1b946ff291b1fd31276e244c05b10749dff1c78a6b2fbc353fc2b69904",
+      "replacements": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "old": "![[电路分析/10_题库/assets/ch8_signal_p277_fig_01.png]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch08/F072.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F073",
+      "original": "10_题库/assets/ch8_signal_p278_fig_01.png",
+      "sha256": "5f0d9baaa332bc4f99cbbe8afb271556b4033c4e4cdab37a7914f77251c8cf7b",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "line": 53,
+          "question": "章节卷-E8-2",
+          "heading": "### 章节卷-E8-2",
+          "chapter": 8,
+          "raw": "电路分析/10_题库/assets/ch8_signal_p278_fig_01.png",
+          "target": "10_题库/assets/ch8_signal_p278_fig_01.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "E8-2原题初级同名点在下端；上次级1/2端尚未标同名端，不补作答黑点；独立负载绕组与RL保留，反馈1端经C1接基极、2端地。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F073.svg",
+      "svg_sha256": "08b22cd270890c682613bed5c751738866ae2bac1d43f54c745705ff4d14eee4",
+      "png_sha256": "4316bd85f6f2f3f850c0297aad4c2e5cf5f3bfc07352d31463ac7bb1e0d375fd",
+      "replacements": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "old": "![[电路分析/10_题库/assets/ch8_signal_p278_fig_01.png]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch08/F073.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F074",
+      "original": "10_题库/assets/ch8_signal_p279_fig_01.png",
+      "sha256": "bb771a2df33fa2ccf54341e7cc11136294c0873b1659676f4ccb548acc1cf558",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "line": 80,
+          "question": "章节卷-E8-3",
+          "heading": "### 章节卷-E8-3",
+          "chapter": 8,
+          "raw": "电路分析/10_题库/assets/ch8_signal_p279_fig_01.png",
+          "target": "10_题库/assets/ch8_signal_p279_fig_01.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "E8-3初级同名点在电源上端；次级1端经C1回基极、2端地，次级与C并联；不把参考解新加的次级黑点写进题图，不在图中改写有争议的C单位。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F074.svg",
+      "svg_sha256": "ebf508ecf8ba1f3d30c7e38fe6f04d52c367e689e9bdb9cd2f3e2635754cf5cb",
+      "png_sha256": "e8e23a1b49289743f9ba52bff6868cf5017a7112ec1040ce584d601aa129609b",
+      "replacements": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "old": "![[电路分析/10_题库/assets/ch8_signal_p279_fig_01.png]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch08/F074.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F075",
+      "original": "10_题库/assets/ch8_signal_p279_fig_03.png",
+      "sha256": "507154f8fa4ee974cacbd328d26a078bc6b5d8b0fc021f1442a8dabef56ba9d6",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "line": 115,
+          "question": "章节卷-E8-4",
+          "heading": "### 章节卷-E8-4",
+          "chapter": 8,
+          "raw": "电路分析/10_题库/assets/ch8_signal_p279_fig_03.png",
+          "target": "10_题库/assets/ch8_signal_p279_fig_03.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "从完整物理279页恢复RF负反馈：R1接地、RF回输出；输出到正端为C/R串联，正端到地为R∥C。旧裁图缺顶部不可沿用。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F075.svg",
+      "svg_sha256": "5dc0d579bbd9c73cf29ec440ca50cc985e25dda34dd0f2c667bfeaff7beca645",
+      "png_sha256": "ddc02635df26485edbf4aaf1dd61e8678ff33c2c234e70e6ef8c0a23492aa08a",
+      "replacements": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "old": "![[电路分析/10_题库/assets/ch8_signal_p279_fig_03.png]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch08/F075.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F076",
+      "original": "10_题库/assets/ch8_signal_p280_fig_01.png",
+      "sha256": "37810d0914d26999215c9c59788a1f43e3d206f92c60acf2d12bff72e0b0b825",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "line": 138,
+          "question": "章节卷-E8-5",
+          "heading": "### 章节卷-E8-5",
+          "chapter": 8,
+          "raw": "电路分析/10_题库/assets/ch8_signal_p280_fig_01.png",
+          "target": "10_题库/assets/ch8_signal_p280_fig_01.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "RC网络a/b/c与差分级保持原题未接状态：上串RC、下并RC；两NPN共发射极/RE到开口电源端，RC1/RC2接+UCC，RB1/RB2各地；不代填连接答案。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F076.svg",
+      "svg_sha256": "e3984c9b212835c91d1a69e0ee46b4d5130e69787ae1f8382ba30f0e66083709",
+      "png_sha256": "d9b245787e3de023638b8d6f9bd58289e6c93b613cf37a3342d71daf8f38d3b7",
+      "replacements": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "old": "![[电路分析/10_题库/assets/ch8_signal_p280_fig_01.png]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch08/F076.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F077",
+      "original": "10_题库/assets/ch8_signal_p281_fig_01.png",
+      "sha256": "5f7b00ed0de3ef79d6ac611e2dcbb8a197290e9cf6bc42b2b255165b221c337c",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "line": 171,
+          "question": "章节卷-E8-6",
+          "heading": "### 章节卷-E8-6",
+          "chapter": 8,
+          "raw": "电路分析/10_题库/assets/ch8_signal_p281_fig_01.png",
+          "target": "10_题库/assets/ch8_signal_p281_fig_01.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "完整物理281页确认RF为接地支路、R1为带θ标记热敏反馈电阻；文氏桥仍为串联CR和并联RC，未对调RF/R1。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F077.svg",
+      "svg_sha256": "2d680cb0e3737ce03aae04c1bd0e9fa1a1fb2abbd7b8716861d885819eb786b8",
+      "png_sha256": "8039ed23bf8b649828773264556bd448cd68083f061eb1f625b9b6e3ee3ed7ce",
+      "replacements": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "old": "![[电路分析/10_题库/assets/ch8_signal_p281_fig_01.png]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch08/F077.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F078",
+      "original": "10_题库/assets/ch8_signal_p281_fig_02.png",
+      "sha256": "6cd6baef2fa6a4eb095f71f26a79e7d0a978cc75dffa4bc5c9be2fdebaf74240",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "line": 208,
+          "question": "章节卷-E8-7",
+          "heading": "### 章节卷-E8-7",
+          "chapter": 8,
+          "raw": "电路分析/10_题库/assets/ch8_signal_p281_fig_02.png",
+          "target": "10_题库/assets/ch8_signal_p281_fig_02.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "完整原题E8-7两运放均未标±，重绘保持空白；A1下输入回自身输出、上输入接并联RC节点；A2下输入R1地/R2输出，上输入接A1输出，顶部R/C串联回路齐全。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F078.svg",
+      "svg_sha256": "1eb507791fcdc3308e38ae115bdf073797198d2249986eeed499c22a911dcb11",
+      "png_sha256": "b607c0f0b4a570553e00bd3fc117007290090bd8c9ca92d0bccf899d1be3b7bd",
+      "replacements": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "old": "![[电路分析/10_题库/assets/ch8_signal_p281_fig_02.png]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch08/F078.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F079",
+      "original": "10_题库/assets/ch8_signal_p282_fig_01.png",
+      "sha256": "c1437b5287aed61759e51651f30c42613fabf2893a71daf93b32d048221891eb",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "line": 234,
+          "question": "章节卷-E8-8",
+          "heading": "### 章节卷-E8-8",
+          "chapter": 8,
+          "raw": "电路分析/10_题库/assets/ch8_signal_p282_fig_01.png",
+          "target": "10_题库/assets/ch8_signal_p282_fig_01.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "E8-8：比较器负端地/正端R1接最终输出、R2接钳位节点，输出经R3限流；钳位节点再经R入A2负端、C反馈、正端R地；外反馈回最终三角波输出。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F079.svg",
+      "svg_sha256": "0bccb953f3d5cbbd15bae82710b0feab69ba1f258d408a53c86679cb14984091",
+      "png_sha256": "a105334c6d959aba3a0debbce2500310325d9eae2e8277493840e9e33c92c379",
+      "replacements": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "old": "![[电路分析/10_题库/assets/ch8_signal_p282_fig_01.png]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch08/F079.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F080",
+      "original": "10_题库/assets/ch8_signal_p283_fig_01.png",
+      "sha256": "7526eb5bc2753a76f5457a28e95dac21e37f8bf87f7a991ffaf714fc82136758",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "line": 269,
+          "question": "章节卷-E8-9",
+          "heading": "### 章节卷-E8-9",
+          "chapter": 8,
+          "raw": "电路分析/10_题库/assets/ch8_signal_p283_fig_01.png",
+          "target": "10_题库/assets/ch8_signal_p283_fig_01.png",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "E8-9第一级负端R输入/C反馈、正端R地；第二级上正下负，uo1经R1、钳位后uo经R2同接正端，负端RB地，R3输出限流；最终uo回第一级R输入，保留原振荡闭环。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F080.svg",
+      "svg_sha256": "b5a629919767a0f5d7f15f220db4240af48d8aba761996f6f2b5f0d454a93561",
+      "png_sha256": "c825bf79b6c85ea67d918c406065104d6b061f8d9e825ad692eec16b62df8da8",
+      "replacements": [
+        {
+          "document": "10_题库/第8章课后习题_题面整理.md",
+          "old": "![[电路分析/10_题库/assets/ch8_signal_p283_fig_01.png]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch08/F080.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F111",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/edbdfd32bc8c05802852f9f288ec67bebb5bbec0a46a33f056fcfad7d5b8b56b.jpg",
+      "sha256": "bde1e5993e2470192f39fb10bae5e8ced3aab99fb6fb8383d068735641afaec3",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2016-2017第二学期期末A_5-9章题面整理.md",
+          "line": 395,
+          "question": "成惠-16-17第二期末A-算6",
+          "heading": "### 成惠-16-17第二期末A-算6",
+          "chapter": 8,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/edbdfd32bc8c05802852f9f288ec67bebb5bbec0a46a33f056fcfad7d5b8b56b.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/edbdfd32bc8c05802852f9f288ec67bebb5bbec0a46a33f056fcfad7d5b8b56b.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "锯齿波题：5k负端地、1k限流、0.5k串联；D1朝右/D2朝左分别接10k电位器两端，滑端送积分器；11k正反馈、10k外反馈、5k正端地、0.1μF均照录。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F111.svg",
+      "svg_sha256": "f840485ec4dcaba323f59ef46a9bb731e937b2b579bb25baba8bf2c04a7f3937",
+      "png_sha256": "66bdde6e626b478a00dbce1c805f5de04cbe412ce5469fbcaa8317f4604076e6",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2016-2017第二学期期末A_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/edbdfd32bc8c05802852f9f288ec67bebb5bbec0a46a33f056fcfad7d5b8b56b.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch08/F111.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F129",
+      "original": "10_题库/成惠团队期末卷_5-9章/assets/7ef9ef883f4536550abb061dcecf8ecc45b0851cfcdee422b38756a4a90592ae.jpg",
+      "sha256": "f589775a0f6bd33ffde39a126aede47f9c093c060fe01d55eab2e11c61efaa82",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md",
+          "line": 162,
+          "question": "成惠-18-19电子基础期末-算6",
+          "heading": "### 成惠-18-19电子基础期末-算6",
+          "chapter": 8,
+          "raw": "电路分析/10_题库/成惠团队期末卷_5-9章/assets/7ef9ef883f4536550abb061dcecf8ecc45b0851cfcdee422b38756a4a90592ae.jpg",
+          "target": "10_题库/成惠团队期末卷_5-9章/assets/7ef9ef883f4536550abb061dcecf8ecc45b0851cfcdee422b38756a4a90592ae.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "另一年份：6k负端地、R4=1k/R3=1k、R2=15k/R1=10k/R5=6k、C=0.1μF；D1/D2接电位器两端且方向相反，滑端接A2负端；不混入上一年份0.5k/11k。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F129.svg",
+      "svg_sha256": "09b29ac1033afbc0b138c819f248d6f90e85075c0a25aab2f12aebc0f0c154b2",
+      "png_sha256": "8fee4123b413dd02afe9d8784877b445e3e5aa927a974c39155da943c4ddb367",
+      "replacements": [
+        {
+          "document": "10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md",
+          "old": "![[电路分析/10_题库/成惠团队期末卷_5-9章/assets/7ef9ef883f4536550abb061dcecf8ecc45b0851cfcdee422b38756a4a90592ae.jpg]]",
+          "new": "![[电路分析/10_题库/assets/chapter-redraw/ch08/F129.svg]]"
+        }
+      ]
+    },
+    {
+      "id": "F193",
+      "original": "20_知识/图示/08_01_RC桥式正弦波源.jpg",
+      "sha256": "99cac5e7455fb059e55a6a692dda9a9eb0e0c47806d79bcfb6a7e85e12dcf293",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "20_知识/第08章_信号产生电路_主干重点.md",
+          "line": 119,
+          "question": "8.3 文氏桥式正弦振荡：为什么局部负反馈不妨碍整体振荡",
+          "heading": "### 8.3 文氏桥式正弦振荡：为什么局部负反馈不妨碍整体振荡",
+          "chapter": 8,
+          "raw": "图示/08_01_RC桥式正弦波源.jpg",
+          "target": "20_知识/图示/08_01_RC桥式正弦波源.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "文氏桥知识图RF负反馈/R1地，输出经串联C/R回正端，正端并联R/C到地；保留相量Up，移除背景截图。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F193.svg",
+      "svg_sha256": "b98135e78e4c3d3f502a385008001d9b1645abab32a74b85e0fb38b078df9497",
+      "png_sha256": "9f23a77494a858c07ddff684d6da7b3541607807744206312d769c84e094433b",
+      "replacements": [
+        {
+          "document": "20_知识/第08章_信号产生电路_主干重点.md",
+          "old": "![RC桥式正弦振荡的两条反馈通路](图示/08_01_RC桥式正弦波源.jpg)",
+          "new": "![RC桥式正弦振荡的两条反馈通路](../10_题库/assets/chapter-redraw/ch08/F193.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F194",
+      "original": "20_知识/图示/08_02_RC矩形波发生器.jpg",
+      "sha256": "e262fafbf3dd83eff01f7587dd3088455f38a9e953d26ac954bd7972d22e012b",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "20_知识/第08章_信号产生电路_主干重点.md",
+          "line": 147,
+          "question": "8.4 矩形波发生器：一次指数充电如何触发一次翻转",
+          "heading": "### 8.4 矩形波发生器：一次指数充电如何触发一次翻转",
+          "chapter": 8,
+          "raw": "图示/08_02_RC矩形波发生器.jpg",
+          "target": "20_知识/图示/08_02_RC矩形波发生器.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "矩形波源R3从限幅输出回负端电容C节点；正端R1地/R2正反馈、输出R4串接双向DZ；所有连接使用黑线/节点，不依赖原红色高亮或鼠标标记。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F194.svg",
+      "svg_sha256": "b013be8be70aca73d90500dd31ad3c687eb61b730ef27d45057727ce08d97ceb",
+      "png_sha256": "dfde85d11be44ccb5ba5bcaa1a927c21856ac21d4bbe0b9c1e12293070b0c18a",
+      "replacements": [
+        {
+          "document": "20_知识/第08章_信号产生电路_主干重点.md",
+          "old": "![反相滞回比较器与RC延时组成的矩形波发生器](图示/08_02_RC矩形波发生器.jpg)",
+          "new": "![反相滞回比较器与RC延时组成的矩形波发生器](../10_题库/assets/chapter-redraw/ch08/F194.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F195",
+      "original": "20_知识/图示/08_03_三角波方波互反馈.jpg",
+      "sha256": "673391c1e586ffce1e48ce6cca242db2538c78db76594d8caa1300874755a715",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "20_知识/第08章_信号产生电路_主干重点.md",
+          "line": 216,
+          "question": "8.5 三角波发生器：恒定电流带来恒定斜率",
+          "heading": "#### 比较器与积分器互相作为输入",
+          "chapter": 8,
+          "raw": "图示/08_03_三角波方波互反馈.jpg",
+          "target": "20_知识/图示/08_03_三角波方波互反馈.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "方波/三角波互反馈：A1负端地、R4到钳位方波uo1，经R3入A2积分，C反馈/正端R5地；R2局部正反馈、R1最终输出反馈，原开口节点语义保留为同网导线。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F195.svg",
+      "svg_sha256": "02f8e7f95a6db70426d490199878587c4eb8ffe8c33f7083245d0f4211871ebd",
+      "png_sha256": "460a6e0d72f937b021a2e826b3baafa8c27cafef23bbe82fee11f45f43457455",
+      "replacements": [
+        {
+          "document": "20_知识/第08章_信号产生电路_主干重点.md",
+          "old": "![共用积分延时环节的三角波—方波发生器](图示/08_03_三角波方波互反馈.jpg)",
+          "new": "![共用积分延时环节的三角波—方波发生器](../10_题库/assets/chapter-redraw/ch08/F195.svg)"
+        }
+      ]
+    },
+    {
+      "id": "F196",
+      "original": "20_知识/图示/08_04_方波转三角波.jpg",
+      "sha256": "ae721c3f56c8fd43a9865594f7326ffe87e7e58d21fe1a4c24489345374533b7",
+      "chapters": [
+        8
+      ],
+      "assigned_chapter": 8,
+      "references": [
+        {
+          "document": "20_知识/第08章_信号产生电路_主干重点.md",
+          "line": 262,
+          "question": "8.6 信号转换：从已有波形得到另一种形状",
+          "heading": "### 8.6 信号转换：从已有波形得到另一种形状",
+          "chapter": 8,
+          "raw": "图示/08_04_方波转三角波.jpg",
+          "target": "20_知识/图示/08_04_方波转三角波.jpg",
+          "evidence": false
+        }
+      ],
+      "evidence": false,
+      "already_vector": false,
+      "status": "verified",
+      "verification": "方波转三角波积分器：R输入、C反馈、正端R′地；iR向右、iC反馈线向右，保留源变量撇号与箭头方向。",
+      "new_target": "电路分析/10_题库/assets/chapter-redraw/ch08/F196.svg",
+      "svg_sha256": "5fd05e05054e19948fe264928c52a0e7c644f1f1c381cf949898ff27fcc63702",
+      "png_sha256": "2f012dd462f2921c716e0ffa3071b198e6b3efb6e190439953e4bfec9f0994c0",
+      "replacements": [
+        {
+          "document": "20_知识/第08章_信号产生电路_主干重点.md",
+          "old": "![将已有方波送入反相积分器](图示/08_04_方波转三角波.jpg)",
+          "new": "![将已有方波送入反相积分器](../10_题库/assets/chapter-redraw/ch08/F196.svg)"
+        }
+      ]
+    }
+  ],
+  "document_invariants": {
+    "10_题库/第8章课后习题_题面整理.md": "54a9cd768e496e1ae00fc71554d4f1f6f9e48bbd211254d933e1eb51d5168f78",
+    "10_题库/成惠团队期末卷_5-9章/2016-2017第二学期期末A_5-9章题面整理.md": "dd9636b2fff0156a5f2e76c28655cee0e6e956a74f798db174a7e1906b4f9623",
+    "10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md": "19d82c00f25e6ca9923270241d5b135493faadabd964f79fb1ffea7cb899e6d7",
+    "20_知识/第08章_信号产生电路_主干重点.md": "e6fc0a1b7d182adf7598d5689bf9d620e7329c5ea5242454e835fb80eb6ddb7d"
+  },
+  "verified": 15,
+  "pending": 0,
+  "evidence_retained": 0,
+  "reused_vectors": 0
+}
