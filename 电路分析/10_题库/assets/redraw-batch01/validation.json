@@ -17,12 +17,17 @@
   "uncertainties": [
     "A4 missing source supply value",
     "A7 input diode polarity",
-    "C3 incomplete scan edge",
-    "C14 R2 wording conflict retained"
+    "C3 A1 upper feedback resistor is unlabelled; uncropped source photo recovers output wiring"
   ],
   "course_s1": "passed: control=0 latex=0 broken_links=0",
   "intake_verify": "passed; existing output hash refreshed for presentation-only update; 39 anchors, source and completion bindings unchanged",
   "share_verify": "passed: tools/verify_share.py after manifest refresh; repeated immediately before commit",
   "portable_share_verify": "passed",
-  "publish_parent": "2ccae4323d35076f06251feadd628a20481a97ef"
+  "publish_parent": "2ccae4323d35076f06251feadd628a20481a97ef",
+  "source_wording_followup": {
+    "date": "2026-11-06",
+    "C14": "original photo confirms R_L; former R2 wording conflict was transcription error and is resolved",
+    "C3": "uncropped original inspected; unspecified feedback resistor value remains pending",
+    "scope": "source text and audit only; original 10 rendered figures unchanged"
+  }
 }

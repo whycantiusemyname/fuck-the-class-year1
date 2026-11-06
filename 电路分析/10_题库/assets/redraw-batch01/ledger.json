@@ -368,7 +368,7 @@
         "assemble.py",
         "geometry.json"
       ],
-      "verification": "输入R、C串联到反相端；RF从输出回反相端；同相端通过R2接地；原题称R2为负载与图不一致，保留冲突，不改接输出。",
+      "verification": "输入R、C串联到反相端；RF从输出回反相端；同相端通过R2接地；原照片题干为负载R_L，原R2转录误判已解除，题图连接不改。",
       "component_values": "与原题及原生扫描逐项核对；无未裁决值写入重绘图",
       "junctions": "分支明确标点；连线绕开运放；无需要猜测的交叉接点",
       "arrows": "BJT/MOS器件内箭头已核对；原图无独立电流箭头，不添加",
@@ -380,9 +380,10 @@
         "grayscale_320px": "已查看：无标注重叠；复杂电路320px建议点开放大核对小下标"
       },
       "status": "verified",
-      "caveat": "题干R2称谓与原图角色冲突，保留说明",
+      "caveat": "原照片b7bf74b5bc47f925dbc46be32e997930.jpg明确题干负载R_L；不是图中R2。",
       "svg_sha256": "527ca3f688de9ea7c6ba5e878d30dc5a25980d82a16243a4064c6203df90e95e",
-      "png_sha256": "62cfbb735780717677756b99b50a4af52d8934294db7167ccf5f6b17888137ee"
+      "png_sha256": "62cfbb735780717677756b99b50a4af52d8934294db7167ccf5f6b17888137ee",
+      "source_wording_followup": "2026-11-06 原始照片复核；仅更正文字符号和来源审计，不修改SVG/PNG"
     },
     {
       "id": "C15",

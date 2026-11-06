@@ -1,0 +1,80 @@
+{
+  "review": "existing original photos follow-up",
+  "newly_verified": [
+    "电子复习-C14"
+  ],
+  "remaining_pending": [
+    "电子复习-A4",
+    "电子复习-A7",
+    "电子复习-C3",
+    "仿真作业-1"
+  ],
+  "ocr_status": {
+    "待复核": 4,
+    "已做结构修复": 81,
+    "已对照 PDF 复核": 161
+  },
+  "uncertain_solutions": 2,
+  "changed_source_paths": [
+    "10_题库/电子线路期末复习_题面整理.md",
+    "10_题库/电子线路期末复习_复习要求与来源.md",
+    "10_题库/电子线路期末复习_电路图重绘说明.md",
+    "10_题库/首批10张重绘图_核验报告.md",
+    "10_题库/README.md",
+    "40_派生视图/既有题库收尾核验_20261106.md"
+  ],
+  "figure_embeds_changed": false,
+  "new_questions": 0,
+  "checks": [
+    {
+      "check": "local-s1",
+      "exit_code": 0
+    },
+    {
+      "check": "local-s9",
+      "exit_code": 0
+    },
+    {
+      "check": "local-s2",
+      "exit_code": 0
+    },
+    {
+      "check": "local-frequency",
+      "exit_code": 0
+    },
+    {
+      "check": "local-views",
+      "exit_code": 0
+    },
+    {
+      "check": "share-s1",
+      "exit_code": 0
+    },
+    {
+      "check": "share-s9",
+      "exit_code": 0
+    },
+    {
+      "check": "share-s2",
+      "exit_code": 0
+    },
+    {
+      "check": "share-frequency",
+      "exit_code": 0
+    },
+    {
+      "check": "share-views",
+      "exit_code": 0
+    },
+    {
+      "check": "review-intake",
+      "exit_code": 0
+    }
+  ],
+  "protected_files_unchanged": 53,
+  "prior_commit": "9a60445c6fc864a1fa3b14133c0eefdc597fb804",
+  "original_photo_sha256": {
+    "16139e9cc73fa00690f9250ca6bcd131.jpg": "2077bc01ecdf56b81641633db5f5d52b5247cdafaf1a6150f2461ac772907e05",
+    "b7bf74b5bc47f925dbc46be32e997930.jpg": "531de7ceccc01c68c02d81d32921d43a2227b971a092218a38f6fb7039234d2e"
+  }
+}

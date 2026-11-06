@@ -1,5 +1,5 @@
 {
-  "files": 3159,
+  "files": 3160,
   "MiB": 1058.34,
   "retained_cache_files": 699,
   "preexisting_unresolved_links": [],
@@ -2690,5 +2690,29 @@
     "prior_commit_preserved": "a6d371ca80f60e557d443ed5624858306ea3b1b6",
     "no_new_intake": true,
     "no_redraw": true
+  },
+  "circuit_original_photo_followup_20261106": {
+    "newly_verified": [
+      "电子复习-C14"
+    ],
+    "correction": "R_L misread as R_2; original photo proves load symbol, topology and embeds unchanged",
+    "C3": "uncropped photo recovered output wiring; unspecified A1 feedback resistor remains unresolved",
+    "pending_count": 4,
+    "uncertain_solutions": 2,
+    "files": [
+      "电路分析/10_题库/电子线路期末复习_题面整理.md",
+      "电路分析/10_题库/电子线路期末复习_复习要求与来源.md",
+      "电路分析/10_题库/电子线路期末复习_电路图重绘说明.md",
+      "电路分析/10_题库/首批10张重绘图_核验报告.md",
+      "电路分析/10_题库/README.md",
+      "电路分析/40_派生视图/既有题库收尾核验_20261106.md",
+      "README.md",
+      "电路分析/90_缓存/closure-20261106-followup/validation-summary.json",
+      "电路分析/10_题库/assets/redraw-batch01/ledger.json",
+      "电路分析/10_题库/assets/redraw-batch01/validation.json"
+    ],
+    "prior_commit_preserved": "9a60445c6fc864a1fa3b14133c0eefdc597fb804",
+    "checks": "local/share S1 S9 S2, analysis and view verify, review intake, 53 protected hashes passed",
+    "figure_audit_metadata": "C14 source error cleared; C3 caveat narrowed; all ten SVG/PNG hashes unchanged"
   }
 }
