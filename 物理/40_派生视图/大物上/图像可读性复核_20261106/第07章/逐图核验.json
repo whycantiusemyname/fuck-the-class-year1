@@ -1,0 +1,120 @@
+{
+  "chapter": "07",
+  "asset_count": 7,
+  "reference_count": 7,
+  "primary_review": "Parent visually checked chapter contact sheets; all repaired assets checked after rendering at full size and reduced size.",
+  "entries": [
+    {
+      "id": 1,
+      "status": "fixed",
+      "note": "从原PDF重裁完整(a)图，补回子图字母并留足速率标注边距。",
+      "new_path": "物理/10_题库/_assets/可读性修复_20261106/07/001.png",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_659.jpg",
+      "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/001.png",
+      "final_sha256": "20f13cc6e0ab34228bda270b31618a39ebe75fd1cad3cbb2009f8a0cedfabbbf",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第07章_统计物理初步_题面整理.md",
+          "anchor": "学习指导-第07章-例题-7-5",
+          "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/001.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "fixed",
+      "note": "从原PDF重裁(b)图，统一完整字母与白边。",
+      "new_path": "物理/10_题库/_assets/可读性修复_20261106/07/002.png",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_614.jpg",
+      "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/002.png",
+      "final_sha256": "05392e39a50ccdca5a10cb692c4dfe6eb0d9706b26409b5cdb668ee908c541d4",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第07章_统计物理初步_题面整理.md",
+          "anchor": "学习指导-第07章-例题-7-5",
+          "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/002.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "fixed",
+      "note": "从原PDF重裁完整(c)图，补回子图字母，保持积分区域。",
+      "new_path": "物理/10_题库/_assets/可读性修复_20261106/07/003.png",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_957.jpg",
+      "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/003.png",
+      "final_sha256": "8e8c5a71fa3b94dfc118d7f5700c7801005e554383e9d9c0324222974fba8e71",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第07章_统计物理初步_题面整理.md",
+          "anchor": "学习指导-第07章-例题-7-5",
+          "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/003.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "fixed",
+      "note": "补回原图(A)选项字母，避免四张曲线连排时选项归属不明。",
+      "new_path": "物理/10_题库/_assets/可读性修复_20261106/07/004.png",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_240.jpg",
+      "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/004.png",
+      "final_sha256": "4cd01dbced1425b508339f91de98817732daf9b2f5a8deaaf70e36fe5c843d0d",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第07章_统计物理初步_题面整理.md",
+          "anchor": "学习指导-第07章-思考题-7-6",
+          "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/004.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "fixed",
+      "note": "补回原图(B)选项字母，保留峰高与垂线关系。",
+      "new_path": "物理/10_题库/_assets/可读性修复_20261106/07/005.png",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_137.jpg",
+      "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/005.png",
+      "final_sha256": "283c1d96c46205714134f53d4cdfa0bc1d39cbae7a1a47a53348e8e8f1358ae6",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第07章_统计物理初步_题面整理.md",
+          "anchor": "学习指导-第07章-思考题-7-6",
+          "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/005.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "status": "fixed",
+      "note": "补回原图(C)选项字母，保留峰高与峰位关系。",
+      "new_path": "物理/10_题库/_assets/可读性修复_20261106/07/006.png",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_708.jpg",
+      "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/006.png",
+      "final_sha256": "c6f75d4ea0e3bda6d84a82b25f446270078405ca88aac6ef1c5938d77d477418",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第07章_统计物理初步_题面整理.md",
+          "anchor": "学习指导-第07章-思考题-7-6",
+          "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/006.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "status": "fixed",
+      "note": "补回原图(D)选项字母，保留共用峰位垂线。",
+      "new_path": "物理/10_题库/_assets/可读性修复_20261106/07/007.png",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_747.jpg",
+      "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/007.png",
+      "final_sha256": "196d8422e53286a07f133bfe5566deb71b2378f9c8d1aa17970125515d5584d3",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第07章_统计物理初步_题面整理.md",
+          "anchor": "学习指导-第07章-思考题-7-6",
+          "final_path": "物理/10_题库/_assets/可读性修复_20261106/07/007.png"
+        }
+      ]
+    }
+  ]
+}
