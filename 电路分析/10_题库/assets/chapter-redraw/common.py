@@ -15,6 +15,7 @@ ROOT=COURSE/'10_题库/assets/电子线路期末复习'
 OUT=Path(__file__).resolve().parent
 OUT.mkdir(exist_ok=True)
 plt.rcParams['svg.fonttype']='path'  # Outline glyphs for portable primes/subscripts; edit labels in this source.
+plt.rcParams['svg.hashsalt']='ftc-circuit-layout-v1'
 plt.rcParams.update({'font.family':'STIXGeneral','mathtext.fontset':'stix','axes.unicode_minus':False})
 records=[]
 
@@ -68,6 +69,8 @@ class Circuit:
                     pts=[(a[0]+(b[0]-a[0])*i/100,a[1]+(b[1]-a[1])*i/100) for i in range(1,100)]
                     assert not shape.contains_points(pts,radius=-.03).any(),(self.key,'导线穿过运放内部',a,b)
         self.d.draw(show=False)
+        from layout_tools import prepare,measure
+        prepare(self,OUT)
         for x,y,s,ha,va,size in self.labels:self.ax.text(x,y,s,ha=ha,va=va,fontsize=size,color='black',fontfamily='Microsoft YaHei' if any(ord(ch)>127 for ch in s) else 'STIXGeneral')
         self.ax.set_aspect('equal');self.ax.axis('off')
         # Data limits include explicit labels; prevent edge clipping of annotations.
@@ -75,8 +78,9 @@ class Circuit:
         if xs:
             lo,hi=self.ax.get_xlim();self.ax.set_xlim(min(lo,min(xs)-1.1),max(hi,max(xs)+1.1))
             lo,hi=self.ax.get_ylim();self.ax.set_ylim(min(lo,min(ys)-.6),max(hi,max(ys)+.6))
+        layout=measure(self,OUT)
         for ext in ['svg','png']:
-            self.fig.savefig(OUT/(self.key+'.'+ext),dpi=210,bbox_inches='tight',pad_inches=.18,facecolor='white')
+            self.fig.savefig(OUT/(self.key+'.'+ext),dpi=210,bbox_inches='tight',pad_inches=.18,facecolor='white',**({'metadata':{'Date':None}} if ext=='svg' else {}))
         svg=OUT/(self.key+'.svg');svg.write_bytes(('\n'.join(line.rstrip() for line in svg.read_text(encoding='utf-8').splitlines())+'\n').encode('utf-8'))
         plt.close(self.fig)
-        records.append({'id':self.key,'title':self.title,'page':page,'note':note,'svg':self.key+'.svg','png':self.key+'.png','components':self.components,'wires':self.wires,'运放内部穿线检查':'通过' if self.key!='OP-symbol' else '电源引脚按符号规范接入'})
+        records.append({'id':self.key,'title':self.title,'page':page,'note':note,'svg':self.key+'.svg','png':self.key+'.png','components':self.components,'wires':self.wires,'layout':layout,'运放内部穿线检查':'通过' if self.key!='OP-symbol' else '电源引脚按符号规范接入'})

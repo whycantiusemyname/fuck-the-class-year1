@@ -1,5 +1,5 @@
 {
-  "files": 3486,
+  "files": 3490,
   "MiB": 1084.64,
   "retained_cache_files": 706,
   "preexisting_unresolved_links": [],
@@ -3290,5 +3290,40 @@
       "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/阅读预览.html"
     ],
     "primary_visual_acceptance": true
+  },
+  "circuit_layout_review_ch03_20261106": {
+    "review": {
+      "chapter": 3,
+      "visual_review_complete": true,
+      "figures_reviewed": [
+        "F001"
+      ],
+      "fixed": [
+        "F001"
+      ],
+      "changes": {
+        "F001": "交流源正负极性标记向左移，与圆形符号保持清晰间隔。"
+      },
+      "topology": "组件、端点、导线与原记录完全一致；仅移动两处文字。",
+      "measurement_warnings": [],
+      "manual_checks": [
+        "完整尺寸与缩小尺寸查看",
+        "导线、极性、元件值、上下标、节点与探针标注逐项检查"
+      ],
+      "scope": "正式文档引用图；原题和答案证据保留"
+    },
+    "report": "电路分析/40_派生视图/逐章图像重绘/第03章_排版复核.md",
+    "files": [
+      "电路分析/10_题库/assets/chapter-redraw/ch03/ledger.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/geometry.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/layout-review.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/layout-fixes.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/F001.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch03/F001.svg",
+      "电路分析/10_题库/assets/chapter-redraw/common.py",
+      "电路分析/10_题库/assets/chapter-redraw/layout_tools.py",
+      "电路分析/40_派生视图/逐章图像重绘/第03章_排版复核.md"
+    ],
+    "preserved_head": "42bc6fcd263ffb4f2e6fdd5c15f9c58c697747c6"
   }
 }

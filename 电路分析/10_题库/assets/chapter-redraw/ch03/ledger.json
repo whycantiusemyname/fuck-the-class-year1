@@ -27,8 +27,8 @@
       "status": "verified",
       "verification": "50Ω电阻R1与1.023μF电容C1串联；交流源V1为2Vrms、1000Hz、0°，正上负下；保留节点1/2/0、接地与PR1电压/电流探针标记。黑白重绘不以颜色区分信息。",
       "new_target": "电路分析/10_题库/assets/chapter-redraw/ch03/F001.svg",
-      "svg_sha256": "ab92beb689589d96d6354684e1a4927498b244d76fddae6d8649bbd32327434b",
-      "png_sha256": "bae9ed69f5cdde5fd18a1246cd13ad13d0ab249dda7a98690d7080607afe5d12",
+      "svg_sha256": "21edffe0c66ee49d969d5ab358d05b0ed53dc01ffa5a20814a85d385738e5fec",
+      "png_sha256": "f3daf943654f5599d704b2e45dad9b884efef28da21c9f3be2c76bc0a06a9289",
       "replacements": [
         {
           "document": "10_题库/仿真作业1_题面整理.md",
