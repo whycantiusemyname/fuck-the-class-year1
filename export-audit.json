@@ -1,5 +1,5 @@
 {
-  "files": 3509,
+  "files": 3541,
   "MiB": 1084.64,
   "retained_cache_files": 706,
   "preexisting_unresolved_links": [],
@@ -3478,5 +3478,347 @@
       "电路分析/40_派生视图/逐章图像重绘/第05章_排版复核.md"
     ],
     "preserved_head": "af6779c131c0bc15325031a39b46af474057c4ee"
+  },
+  "circuit_layout_review_ch06_20261106": {
+    "review": {
+      "chapter": 6,
+      "visual_review_complete": true,
+      "figures_reviewed": [
+        "F003",
+        "F012",
+        "F013",
+        "F014",
+        "F017",
+        "F021",
+        "F033",
+        "F034",
+        "F035",
+        "F036",
+        "F037",
+        "F038",
+        "F039",
+        "F040",
+        "F041",
+        "F042",
+        "F043",
+        "F044",
+        "F045",
+        "F046",
+        "F047",
+        "F048",
+        "F049",
+        "F050",
+        "F051",
+        "F094",
+        "F095",
+        "F098",
+        "F107",
+        "F108",
+        "F109",
+        "F112",
+        "F123",
+        "F125",
+        "F126",
+        "F132",
+        "F136",
+        "F137",
+        "F142",
+        "F145",
+        "F149",
+        "F150",
+        "F151",
+        "F152",
+        "F160",
+        "F165",
+        "F168",
+        "F172",
+        "F178",
+        "F183",
+        "F184",
+        "F185",
+        "F186",
+        "F187"
+      ],
+      "fixed": [
+        "F003",
+        "F047",
+        "F137",
+        "F142",
+        "F183",
+        "F184"
+      ],
+      "changes": {
+        "F003": "IRF1310型号上移；输出电容移到电压表回线右侧，保留原节点连接。",
+        "F047": "负电源标注移至端口下方，避开竖线。",
+        "F137": "发射极e及电容极性移离器件箭头和支路。",
+        "F142": "1kΩ负载数值移至电阻左侧空白处。",
+        "F183": "输出电容负极性移离C2文字。",
+        "F184": "受控源公式移到各模型下方；输入电压移离虚线边框。"
+      },
+      "measurement_candidates_remaining": [
+        {
+          "id": "F109",
+          "warnings": [
+            {
+              "type": "text/stroke",
+              "text": "$A_1$",
+              "at": [
+                5.082531754730548,
+                6.0
+              ]
+            },
+            {
+              "type": "text/stroke",
+              "text": "$A_2$",
+              "at": [
+                11.082531754730548,
+                6.0
+              ]
+            }
+          ],
+          "label_count": 10
+        },
+        {
+          "id": "F126",
+          "warnings": [
+            {
+              "type": "text/stroke",
+              "text": "$A_1$",
+              "at": [
+                5.082531754730548,
+                6.0
+              ]
+            },
+            {
+              "type": "text/stroke",
+              "text": "$A_2$",
+              "at": [
+                11.082531754730548,
+                6.0
+              ]
+            }
+          ],
+          "label_count": 11
+        },
+        {
+          "id": "F142",
+          "warnings": [
+            {
+              "type": "text/stroke",
+              "text": "$A_1$",
+              "at": [
+                5.082531754730548,
+                6.0
+              ]
+            },
+            {
+              "type": "text/stroke",
+              "text": "$A_2$",
+              "at": [
+                11.082531754730548,
+                6.0
+              ]
+            }
+          ],
+          "label_count": 11
+        },
+        {
+          "id": "F098",
+          "warnings": [
+            {
+              "type": "text/stroke",
+              "text": "$A_1$",
+              "at": [
+                6.082531754730548,
+                6.0
+              ]
+            },
+            {
+              "type": "text/stroke",
+              "text": "$A_2$",
+              "at": [
+                9.082531754730548,
+                1.8
+              ]
+            }
+          ],
+          "label_count": 9
+        },
+        {
+          "id": "F152",
+          "warnings": [
+            {
+              "type": "text/stroke",
+              "text": "$A$",
+              "at": [
+                5.082531754730548,
+                5.0
+              ]
+            }
+          ],
+          "label_count": 10
+        },
+        {
+          "id": "F187",
+          "warnings": [
+            {
+              "type": "text/stroke",
+              "text": "$A$",
+              "at": [
+                5.082531754730548,
+                5.0
+              ]
+            }
+          ],
+          "label_count": 12
+        },
+        {
+          "id": "F003",
+          "warnings": [
+            {
+              "type": "text/stroke",
+              "text": "$V$",
+              "at": [
+                11,
+                7
+              ]
+            }
+          ],
+          "label_count": 17
+        },
+        {
+          "id": "F017",
+          "warnings": [
+            {
+              "type": "text/stroke",
+              "text": "$A_1$",
+              "at": [
+                5.082531754730548,
+                7.0
+              ]
+            },
+            {
+              "type": "text/stroke",
+              "text": "$A_2$",
+              "at": [
+                8.482531754730548,
+                1.5
+              ]
+            }
+          ],
+          "label_count": 14
+        }
+      ],
+      "candidate_handling": "逐一查看；仪表圆内文字、方框内器件名、图形边框与坐标轴相邻标签的包围盒属于人工判读项，不将包围盒警报等同于实际遮挡。",
+      "manual_checks": [
+        "所有正式采用图及多子图逐张查看",
+        "修改图完整尺寸查看并复测",
+        "缩小阅读检查",
+        "标签、数值、极性及导线与原记录比较"
+      ],
+      "scope": "正式文档引用图；原题和答案证据保留"
+    },
+    "report": "电路分析/40_派生视图/逐章图像重绘/第06章_排版复核.md",
+    "files": [
+      "电路分析/10_题库/assets/chapter-redraw/ch06/ledger.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/geometry.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/layout-review.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/layout-semantics.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/finish_knowledge.py",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/layout-fixes.json",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F003.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F003.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F017.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F033-a.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F033-a.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F033-b.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F033-b.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F033-c.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F033-c.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F033.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F034-a.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F034-a.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F034-b.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F034-b.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F034-c.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F034-c.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F034-d.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F034-d.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F034.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F035.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F036.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F037.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F038.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F039.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F040.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F041.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F042.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F043.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F044.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F045.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F046-a.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F046-a.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F046-b.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F046-b.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F046.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F047.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F047.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F048.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F049.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F050.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F051.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F094.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F095.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F098.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F107.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F108.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F109.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F112.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F123.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F125.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F126.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F132.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F136-0.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F136-0.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F136-1.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F136-1.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F136-2.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F136-2.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F136.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F137.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F137.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F142.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F142.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F145.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F149.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F150.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F151.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F152.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F160.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F165.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F168.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F172.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F178.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F183.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F183.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F184.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F184.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F185.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F186-OCL.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F186-OCL.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F186-OTL.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F186-OTL.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F186.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/F187.svg",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-01.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-05.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-09.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/comparison-12.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/reading-320px-1.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/reading-320px-2.png",
+      "电路分析/10_题库/assets/chapter-redraw/ch06/reading-320px.png",
+      "电路分析/40_派生视图/逐章图像重绘/第06章_排版复核.md"
+    ],
+    "preserved_head": "31958d8e1bf22a94d3f9192ef5a53ff4e4f62558"
   }
 }

@@ -11,7 +11,9 @@ c.part('R',(4,10),(1.5,10),r'$51\,\mathrm{k}\Omega$');c.wire((1.5,10),(1.5,8),(3
 c.part('R',(3,8),(3,5),r'$3\,\mathrm{M}\Omega$',offset=.5)
 # Cross the input at x=1.5 with a bridge, preserving the non-junction.
 c.wire((1.5,8),(1.5,5.18));c.ax.add_patch(__import__('matplotlib').patches.Arc((1.5,5),.36,.36,theta1=-90,theta2=90,lw=1.65));c.wire((1.5,4.82),(1.5,2.6));c.part('R',(1.5,2.6),(1.5,0),r'$180\,\mathrm{k}\Omega$',offset=-.5)
-c.part('R',t.source,(t.source.x,0),r'$680\,\Omega$',offset=-.5);cap(c,t.source,(14,t.source.y),r'30\,\mu\mathrm{F}');c.part('R',(14,t.source.y),(14,0),r'$6.8\,\mathrm{k}\Omega$')
+c.part('R',t.source,(t.source.x,0),r'$680\,\Omega$',offset=-.5)
+# Keep the coupling capacitor beyond the meter return, with the same two nets.
+c.wire(t.source,(11.3,t.source.y));cap(c,(11.3,t.source.y),(14,t.source.y),r'30\,\mu\mathrm{F}');c.part('R',(14,t.source.y),(14,0),r'$6.8\,\mathrm{k}\Omega$')
 c.wire((t.drain.x,10),(11,10),(11,8));c.part('S',(11,8),(11,6));c.text(11,7,'$V$');c.text(12,7,r'$1.992\,\mathrm{V}$',ha='left');c.text(10.7,8.1,'$+$');c.text(10.7,5.9,'$-$');c.wire((11,6),(11,4.8),(10,4.8),(10,t.source.y),t.source);c.dot((10,t.source.y))
 c.port((-4,5),'A','left');c.port((14,t.source.y),'B','right');c.text(7,-1,'A、B：原示波器通道；电压表读数照录原截图',size=15)
 for q in [(3,5),(1.5,8),(t.drain.x,10),tuple(t.source),(14,0)]:c.dot(q)
@@ -21,7 +23,7 @@ c=C('F184','cascade port model',size=(19,8));c.part('V',(0,0),(0,2),'$u_s$',offs
 for i,x in enumerate([3,10,18],1):
  suffix=str(i) if i<3 else 'n';prev='i' if i==1 else 'o1' if i==2 else 'o(n-1)'
  c.part('R',(x,5),(x,0),'$R_{i'+suffix+'}$',offset=.4)
- c.d.add(E.SourceControlledV().at((x+3,0)).to((x+3,2.4)).theta(90));c.text(x+3.6,1.2,'$A_{uo'+suffix+'}u_{'+prev+'}$',ha='left')
+ c.d.add(E.SourceControlledV().at((x+3,0)).to((x+3,2.4)).theta(90));c.text(x+3,-1.5,'$A_{uo'+suffix+'}u_{'+prev+'}$')
  c.part('R',(x+3,2.4),(x+3,5),'$R_{o'+suffix+'}$');c.ax.add_patch(Rectangle((x-1,-.7),5.2,6.7,fill=False,linestyle='--',lw=1.2,color='black'))
  c.wire((x,0),(x+3,0));c.ground((x+1.5,0));c.dot((x,0));c.dot((x+3,0))
 c.wire((0,5),(3,5));c.wire((0,0),(3,0));c.wire((6,5),(10,5));c.wire((6,0),(10,0))
@@ -29,7 +31,7 @@ c.d.add(E.Line().at((13,5)).to((18,5)).linestyle(':'));c.d.add(E.Line().at((13,0
 c.wire((21,5),(25,5));c.part('R',(25,5),(25,0),'$R_L$');c.wire((21,0),(25,0));c.d.add(E.Arrow().at((22,5.3)).to((24,5.3)));c.text(23,5.9,'$i_o$');c.d.add(E.Arrow().at((.6,5.3)).to((2,5.3)));c.text(1.3,5.9,'$i_i$')
 for x,l in [(1.8,'u_i'),(8,'u_{o1}'),(24,'u_o')]:
  c.text(x,4.4,'$+$');c.text(x,2.5,'$'+l+'$');c.text(x,.6,'$-$')
-c.text(12,-2.3,'后级放大器的输入电阻是前级放大器的负载，前级放大器的输出电路是后级放大器的信号源。',size=15);c.save()
+c.text(12,-3.2,'后级放大器的输入电阻是前级放大器的负载，前级放大器的输出电路是后级放大器的信号源。',size=15);c.save()
 
 c=C('F185','differential half circuit',size=(13,8));q1=bjt(c,4,5,'');q2=c.d.add(E.BjtNpn().reverse().at((12,5)).anchor('base'));mid=8;top=9;em=2
 for q,idx,x,sgn in [(q1,'1',0,''),(q2,'2',16,'-')]:

@@ -1,0 +1,11 @@
+{
+ "F003":[{"text":"$\\mathrm{IRF1310}$","from":[8.333333333333334,5],"to":[8.4,5.7],"reason":"Move the device model clear of the source output line."}],
+ "F047":[{"text":"$-U_{CC}$","from":[6.751666666666667,-0.65],"to":[6.751666666666667,-1.5],"reason":"Place negative supply below its terminal rather than over its wire."}],
+ "F137":[
+  {"text":"$+$","from":[9.075833333333332,5.346666666666667],"to":[8.55,5.15],"reason":"Move capacitor polarity clear of the collector resistor branch."},
+  {"text":"$e$","from":[6.551666666666667,4.6033333333333335],"to":[7.12,4.25],"reason":"Separate emitter pin name from transistor arrow."}
+ ],
+ "F142":[{"text":"$1\\,\\mathrm{k}\\Omega$","from":[17.36,3],"to":[16.5,3],"ha":"right","reason":"Keep the load value inside the blank space left of its resistor, clear of the return wire."}],
+ "F183":[{"text":"$-$","from":[10.2,6.1],"to":[10.1,5.3],"reason":"Separate capacitor polarity from the C2 label while retaining its right-hand side."}],
+ "F184":[{"text":"$u_i$","from":[1.8,2.5],"to":[1.35,2.5],"reason":"Keep input voltage label clear of the dashed block boundary."}]
+}
