@@ -1,0 +1,12 @@
+{
+  "C1": {
+    "source": "电路分析\\00_原材料\\16139e9cc73fa00690f9250ca6bcd131.jpg",
+    "sha256": "2077bc01ecdf56b81641633db5f5d52b5247cdafaf1a6150f2461ac772907e05",
+    "handling": "uncropped original used to verify insulated gate/channel direction"
+  },
+  "F139": {
+    "source": "扫描件_成惠团队电路分析考试真题(1).pdf",
+    "physical_page": 63,
+    "handling": "left source voltage value in subfigure (4) absent in original scan; retain original reference"
+  }
+}
