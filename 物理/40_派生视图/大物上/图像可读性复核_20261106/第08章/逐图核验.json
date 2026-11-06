@@ -1,0 +1,255 @@
+{
+  "chapter": "08",
+  "asset_count": 16,
+  "reference_count": 17,
+  "primary_review": "Parent visually checked chapter contact sheets; all repaired assets checked after rendering at full size and reduced size.",
+  "entries": [
+    {
+      "id": 1,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch08-ex8-1.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-ex8-1.png",
+      "final_sha256": "96c0d98ab1c25cdbf5a6142034a72c9f1487fac049b565a33cbbeb0614e15695",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-例题-8-1",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-ex8-1.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_495.jpg",
+      "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_495.jpg",
+      "final_sha256": "2ca7555689350f5388851dcca795a72d4092908a1be23ec136a9e8534a8d1f0d",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-例题-8-2",
+          "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_495.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch08-ex8-3.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-ex8-3.png",
+      "final_sha256": "11495437e0a09184214d677ea8e18f7b26bd8363ba9af18d3aed0b0396838bc7",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-例题-8-3",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-ex8-3.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_869.jpg",
+      "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_869.jpg",
+      "final_sha256": "e91f5c6e2837b1ce55ec022b852ad6d0d9f54ffdf80fa2329909be762c5fd704",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-例题-8-5",
+          "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_869.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "fixed",
+      "note": "重裁原PDF，恢复右侧完整“等温”标注及原图题号，四条曲线不变。",
+      "new_path": "物理/10_题库/_assets/可读性修复_20261106/08/005.png",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_178.jpg",
+      "final_path": "物理/10_题库/_assets/可读性修复_20261106/08/005.png",
+      "final_sha256": "ce0e05f3712563a7f3666abfac6aa02aa8e7a5edcdf81927b2e78dcc8b4eb050",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-思考题-8-4",
+          "final_path": "物理/10_题库/_assets/可读性修复_20261106/08/005.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_215.jpg",
+      "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_215.jpg",
+      "final_sha256": "ea58e9c9093140f5b01c2fafb67b0fdf829efc32c40dfd163db8f70286c49965",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-思考题-8-9",
+          "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_215.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch08-think8-10.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-think8-10.png",
+      "final_sha256": "bb687a67f421b7508ed19e79937606250d1b4c20b8992aa95adee52d796a42cf",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-思考题-8-10",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-think8-10.png"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch08-think8-11.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-think8-11.png",
+      "final_sha256": "c6db9c728286a78ea3329610e7f8c5b8a7e1b8bd5294996d7de70544fe7ac9d7",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-思考题-8-11",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-think8-11.png"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_095.jpg",
+      "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_095.jpg",
+      "final_sha256": "928168ced1c62504bff6e30bc809d6623a804a1a06506d91032b52ea462ca8b2",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-思考题-8-12",
+          "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_095.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "status": "fixed",
+      "note": "收紧图上边界，去掉邻近正文残片，保留p轴箭头与完整题图。",
+      "new_path": "物理/10_题库/_assets/可读性修复_20261106/08/010.png",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch08-think8-14.png",
+      "final_path": "物理/10_题库/_assets/可读性修复_20261106/08/010.png",
+      "final_sha256": "a29a2444b5d365781502a99e63dd7f0d5da6278535a9c6750ef83b1e29148c79",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-思考题-8-14",
+          "final_path": "物理/10_题库/_assets/可读性修复_20261106/08/010.png"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_1083.jpg",
+      "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_1083.jpg",
+      "final_sha256": "96b6c52028c1eb409b9ac938b7176114d84a39d5f1bac7f927fa072e6eabf156",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-习题-8-1",
+          "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_1083.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch08-prob8-2.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-prob8-2.png",
+      "final_sha256": "c0ef6e9e2491c06fa0f0c8cbc81642db6980a33ed18ad75c5ca138c6dd4945b7",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-习题-8-2",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-prob8-2.png"
+        },
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-习题-8-3",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-prob8-2.png"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_671.jpg",
+      "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_671.jpg",
+      "final_sha256": "a2a7059d39be83af9cb6c10821de1bf44a3d44a7cad937742b9a3fdf928fa9ce",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-习题-8-5",
+          "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_671.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_932.jpg",
+      "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_932.jpg",
+      "final_sha256": "d0b4dbb8fe307fba8a3b8a93c8a3f53ef2aa0479b2c140d6260baa2f426d23c2",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-习题-8-12",
+          "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_932.jpg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/upper-review-guide/ch08-prob8-13.png",
+      "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-prob8-13.png",
+      "final_sha256": "46999ddcb7872e59c6a79d3f5b88deebae88f3309eb69f85a856cd4179b05659",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-习题-8-13",
+          "final_path": "物理/10_题库/_assets/upper-review-guide/ch08-prob8-13.png"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "status": "pass",
+      "note": "主代理查看原尺寸与缩小图；图线、标注及题目归属可确认。",
+      "original_path": "物理/10_题库/_assets/学习指导/p0001-0180_808.jpg",
+      "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_808.jpg",
+      "final_sha256": "3982af4c940da67536f4c5709c51d4d764ba342901ac26c45dee66f6935e729c",
+      "refs": [
+        {
+          "document": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
+          "anchor": "学习指导-第08章-习题-8-14",
+          "final_path": "物理/10_题库/_assets/学习指导/p0001-0180_808.jpg"
+        }
+      ]
+    }
+  ]
+}

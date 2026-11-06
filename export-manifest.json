@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 261244,
-    "sha256": "c4de269efe23cf3642a101fc5a6f008f8efd45f5630ccaf83d66dde2d681bd22"
+    "bytes": 262284,
+    "sha256": "543f8c1e78b0169ec5d3c4b3a426bdd1facea75529071c1c23514a23cc40383e"
   },
   {
     "path": "tools/verify_share.py",
@@ -4280,6 +4280,21 @@
     "sha256": "62cdfe2d2146e40fdcbdba30037de4056ff880b00e7f5f676f005e6c2b3a3436"
   },
   {
+    "path": "物理/10_题库/_assets/可读性修复_20261106/08/005.png",
+    "bytes": 106218,
+    "sha256": "ce0e05f3712563a7f3666abfac6aa02aa8e7a5edcdf81927b2e78dcc8b4eb050"
+  },
+  {
+    "path": "物理/10_题库/_assets/可读性修复_20261106/08/010.png",
+    "bytes": 78009,
+    "sha256": "a29a2444b5d365781502a99e63dd7f0d5da6278535a9c6750ef83b1e29148c79"
+  },
+  {
+    "path": "物理/10_题库/_assets/可读性修复_20261106/08/extract.py",
+    "bytes": 627,
+    "sha256": "026cdf8dfd1abd4295f92d4648de5f4b405592330605e8f901b36ea1cdc3edf4"
+  },
+  {
     "path": "物理/10_题库/_assets/学习指导/p0001-0180_004.jpg",
     "bytes": 9202,
     "sha256": "20a0024f9ef0a7418658cdbade48f9a07a7d3d377e230381e3213ac68c287661"
@@ -5901,8 +5916,8 @@
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第08章_热力学_题面整理.md",
-    "bytes": 23825,
-    "sha256": "cbf8f77a497e5f39c7e1f87d686abcf08f304f957e3782abe8436965b55d6255"
+    "bytes": 23827,
+    "sha256": "b3defa6fb8feda75b25bb31bb7669e4c9523f3232df252427f1ceeeb971a102b"
   },
   {
     "path": "物理/10_题库/学习指导/学习指导_第09章_气体和凝聚态_题面整理.md",
@@ -8471,8 +8486,8 @@
   },
   {
     "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/README.md",
-    "bytes": 387,
-    "sha256": "b40c3e868cd1ac6b192d64e79c2895b071201ceb34be74e75b48ac126fb56fff"
+    "bytes": 442,
+    "sha256": "76faafd5082ac0674eb6857e87044874cb46c56ba6a4270e83ffbc1fb8bfe7a8"
   },
   {
     "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第01章/README.md",
@@ -8548,6 +8563,26 @@
     "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第07章/阅读预览.html",
     "bytes": 2112,
     "sha256": "eb07eeac03eb1b8c92aa502b74b93554f8f16e3ae7f512362738f6df32869e4e"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第08章/README.md",
+    "bytes": 2159,
+    "sha256": "842b0b1a8e81a876eef83c52902f60c9ae474cead81e71b614b728bc94baa679"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第08章/对照-01.png",
+    "bytes": 99973,
+    "sha256": "fd8cec2cbbb58fcb101f8970cd26d29c2cbad5a89cf5892bc47e8e62b529bb71"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第08章/逐图核验.json",
+    "bytes": 11848,
+    "sha256": "37acaf68407668760032eb56fa935e32d2e9ff2f4e36bd1b1f7486b43781a07d"
+  },
+  {
+    "path": "物理/40_派生视图/大物上/图像可读性复核_20261106/第08章/阅读预览.html",
+    "bytes": 4451,
+    "sha256": "de62062cf0b0108e78afe251f6696ff127c28640b104e94eb4f6065161b45b24"
   },
   {
     "path": "物理/40_派生视图/大物上/图像重绘批01/README.md",
