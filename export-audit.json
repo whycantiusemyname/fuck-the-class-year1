@@ -1,5 +1,5 @@
 {
-  "files": 3510,
+  "files": 3509,
   "MiB": 1084.64,
   "retained_cache_files": 706,
   "preexisting_unresolved_links": [],
@@ -3429,7 +3429,6 @@
       "电路分析/10_题库/assets/chapter-redraw/ch05/geometry.json",
       "电路分析/10_题库/assets/chapter-redraw/ch05/layout-review.json",
       "电路分析/10_题库/assets/chapter-redraw/ch05/generate.py",
-      "电路分析/10_题库/assets/chapter-redraw/ch05/recover_A4.py",
       "电路分析/10_题库/assets/chapter-redraw/ch05/layout-fixes.json",
       "电路分析/10_题库/assets/chapter-redraw/ch05/F002.png",
       "电路分析/10_题库/assets/chapter-redraw/ch05/F002.svg",

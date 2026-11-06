@@ -16,8 +16,8 @@
   },
   {
     "path": "export-audit.json",
-    "bytes": 246701,
-    "sha256": "45e436034e1c24d9fdd8f9318bc51a91d15a3a625996126030405b1516f22a11"
+    "bytes": 250119,
+    "sha256": "6c2f2f342c6063c800d99b04aac47cfaed26b01c1d494bdd350c4a3fb9a85045"
   },
   {
     "path": "tools/verify_share.py",
@@ -13483,11 +13483,6 @@
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/reading-320px.png",
     "bytes": 96228,
     "sha256": "162810a0b4db880101d99d046b14101b5b2beb3e666056a3c3baf5e7bca20708"
-  },
-  {
-    "path": "电路分析/10_题库/assets/chapter-redraw/ch05/recover_A4.py",
-    "bytes": 1033,
-    "sha256": "5d1ae76f7a37e8df1b4244f088c426a5f45f05ac90e17e1b56f1d33a7b590da0"
   },
   {
     "path": "电路分析/10_题库/assets/chapter-redraw/ch05/validation.json",
