@@ -11,8 +11,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 5321,
-    "sha256": "082655b7f6c4ceda9a12e8c8031cdc21cd9cf2fbba26c9a347674ff581c4bd24"
+    "bytes": 5539,
+    "sha256": "bdfd9bcbbc4f6fd95be7329b8aaaba1ad4a24aa62efb4699cf87ffec9f0fd687"
   },
   {
     "path": "tools/export_year1.py",
@@ -41,18 +41,23 @@
   },
   {
     "path": "信号与系统/10_题库/README.md",
-    "bytes": 918,
-    "sha256": "02bc9f797cf0b50cffd7388ea51e60feb27e9c888e87b3d3d080153bc5dccc68"
+    "bytes": 1369,
+    "sha256": "db7201c1c76e7777d4097e9e1f7650c131dede8730d8f93bde18dada7886def0"
   },
   {
     "path": "信号与系统/10_题库/_标签库.md",
-    "bytes": 1576,
-    "sha256": "04b4aae0b8fdeab70971be5a18f44993eae289f1318f06b4909163f11177f9e2"
+    "bytes": 2101,
+    "sha256": "20193b2ac3210e3cf364cea2531ca2cd8775b529a3c2da8a0b900598f106f6c9"
   },
   {
     "path": "信号与系统/10_题库/教材第1章基本题_1.1-1.11题面整理.md",
-    "bytes": 14751,
-    "sha256": "51e7fc4c47007cd32ca97d72039105b69f6cba814ca555d331179e21ae0bcda8"
+    "bytes": 14846,
+    "sha256": "cd177e1cbde731f0167bab2eb6e07d5279e1ebf6c7b8ecaa2e203ff439404c6e"
+  },
+  {
+    "path": "信号与系统/10_题库/教材第1章基本题_1.12-1.20题面整理.md",
+    "bytes": 13377,
+    "sha256": "9e35458697171bb81dc397f685d33338bd3415472a67a0dcedd6f1639202b689"
   },
   {
     "path": "信号与系统/20_知识/README.md",
@@ -226,8 +231,8 @@
   },
   {
     "path": "信号与系统/README.md",
-    "bytes": 878,
-    "sha256": "957d43d8defe44303de86c3b80f8aaf6308ed919ec6dd5decc35e9971ac6d788"
+    "bytes": 936,
+    "sha256": "eb17a1c473440a65bb7b4a71589fbc73b7bd3e322c3563042c4fdfaf8acc8336"
   },
   {
     "path": "信号与系统/课程口径.md",
@@ -860,6 +865,11 @@
     "sha256": "0bcdfba78b888d4c095704c707381c2382db07df638b720870cd0f38ee7fae41"
   },
   {
+    "path": "微积分/40_派生视图/收录范围与缺件说明.md",
+    "bytes": 3828,
+    "sha256": "7dcb2f780f849fcab4966fac76480d11fe1835a2e9f14fbc73c95b98b5a10252"
+  },
+  {
     "path": "微积分/40_派生视图/期末刷题清单覆盖报告.md",
     "bytes": 46115,
     "sha256": "ab8e1afcc8c2bf336016437c4f3de2db94d4ee9a45cdb95a1b1322b064fefec1"
@@ -886,8 +896,8 @@
   },
   {
     "path": "微积分/40_派生视图/解答完成索引.md",
-    "bytes": 5504,
-    "sha256": "54a45f2e9e91ea1e24d3f2ecac75d070df3b53706cd17071548caeecf9b57492"
+    "bytes": 5788,
+    "sha256": "96077e0b6f0a83bb0b54a7e4e6f358c26e3ce3e5f91d977cd19390923c7ea140"
   },
   {
     "path": "微积分/40_派生视图/递进刷题跳转清单.md",
@@ -1511,13 +1521,18 @@
   },
   {
     "path": "数字逻辑设计及应用/10_题库/_标签库.md",
-    "bytes": 1285,
-    "sha256": "45917472cd10045c1fd17661af820253a0695f02b57a9bb42276fb87ab73be91"
+    "bytes": 2128,
+    "sha256": "9d88bef204256323e9d38d88c4697c0f51764a17cce1ff1eb6a94c51d2aeac2a"
   },
   {
     "path": "数字逻辑设计及应用/10_题库/教材第2章_2.1至2.6题面整理.md",
-    "bytes": 8772,
-    "sha256": "e498427f6b602397ad0e6752944d8bd2ccc7962d0431732fbeaf72df82e7a30d"
+    "bytes": 8826,
+    "sha256": "055a341021317a3834aaa763bac82bef2e33f22b055bd89c3b2ef9d87f7be3d5"
+  },
+  {
+    "path": "数字逻辑设计及应用/10_题库/教材第2章_2.7至2.12题面整理.md",
+    "bytes": 11186,
+    "sha256": "e092064791fe1cac3984db9648dda254512718ec8977bd087e7b7b7f5864e5a5"
   },
   {
     "path": "数字逻辑设计及应用/20_知识/README.md",
@@ -1676,18 +1691,18 @@
   },
   {
     "path": "数字逻辑设计及应用/40_派生视图/主题题表.md",
-    "bytes": 1143,
-    "sha256": "e637629e7e18b7eeb2b8fb07fc2e1ed66b80af2bc7eee1dd27abaaf883bc0e52"
+    "bytes": 2340,
+    "sha256": "b4975bc3686668d31015be26e2fe44bb8ac505253b7b4b2d96761d2efbf1413f"
   },
   {
     "path": "数字逻辑设计及应用/40_派生视图/考频矩阵.md",
-    "bytes": 3622,
-    "sha256": "77d9399a6e414c710bfd9f614173c09e908668b74e1d66725d9c17e5cc28d227"
+    "bytes": 5271,
+    "sha256": "79070ccfbaf0a0c215d34bc044d3e586b3138e995263725c70250cf0951f06ec"
   },
   {
     "path": "数字逻辑设计及应用/90_缓存/s2-frequency-analysis.json",
-    "bytes": 11200,
-    "sha256": "47bdf3860c7fc553e4e280e52f308aae3cb03f3b6dffad2428aec002029af520"
+    "bytes": 25955,
+    "sha256": "b3e4cc1a3275ead43ff68f2ddb3b3946c491bb6b628a3112242959659b7d4339"
   },
   {
     "path": "数字逻辑设计及应用/90_缓存/s8-章节计划.md",
@@ -1696,8 +1711,8 @@
   },
   {
     "path": "数字逻辑设计及应用/README.md",
-    "bytes": 1741,
-    "sha256": "9eaa392a183e636bcc432d2306df802614585190908a105c1eabd950765df889"
+    "bytes": 2104,
+    "sha256": "2539e432b211f6f86c3222e71e7c8936be3c9b50c761a62b0de426fa13b5317b"
   },
   {
     "path": "数字逻辑设计及应用/课程口径.md",
@@ -14236,8 +14251,8 @@
   },
   {
     "path": "电路分析/10_题库/README.md",
-    "bytes": 1712,
-    "sha256": "6f5f488dc5c1f038044e710eb622e5caf3eabe52d602e936900663f064d2d94c"
+    "bytes": 2008,
+    "sha256": "df01b3ac6b527dbcbc5f09d89615adc1fad9a32cf79cd1f56180980e81b2a464"
   },
   {
     "path": "电路分析/10_题库/_标签库.md",
@@ -15640,6 +15655,16 @@
     "sha256": "6e6c27ef338b76e9a89d058e7dcc49254d70db320dd4275d875604983b9ae455"
   },
   {
+    "path": "电路分析/10_题库/assets/conditional-models/loaded-highpass-check.svg",
+    "bytes": 55660,
+    "sha256": "f13650773b67690b85d5022c83b304f5d950fb3a18eb88e90498c5b298a630aa"
+  },
+  {
+    "path": "电路分析/10_题库/assets/conditional-models/sim2-pwl.svg",
+    "bytes": 106122,
+    "sha256": "9ad3ffc84056fc5f9f194845f8cd93fc779893069b9bc88a65b46ded2cbaf4a6"
+  },
+  {
     "path": "电路分析/10_题库/assets/redraw-batch01/B19-source-native.png",
     "bytes": 516355,
     "sha256": "accd09ee785fce10fc357f66dcdd9941c82a6b5dc001bb5c09452bf1a9e37f49"
@@ -16066,18 +16091,18 @@
   },
   {
     "path": "电路分析/10_题库/仿真作业2_题面整理.md",
-    "bytes": 1229,
-    "sha256": "d0320f9211d2c0d25985a800ddfea60f7fa62e4508a9c1326ab0cf33f0c126ed"
+    "bytes": 3170,
+    "sha256": "5945cffff481686a0300e0f3dafa2c072bad2205ad352b81c8086568604c2ff9"
   },
   {
     "path": "电路分析/10_题库/仿真作业4_题面整理.md",
-    "bytes": 1167,
-    "sha256": "8f8ac8f5afdb72675e8282d63a8ef0f126324fc9a02c3be28950a9225a68d5ec"
+    "bytes": 2940,
+    "sha256": "5bfc766617c53bd8f79d90ceb6e916c905b78611dc56fb048a94f5283c156f95"
   },
   {
     "path": "电路分析/10_题库/仿真作业5_题面整理.md",
-    "bytes": 1621,
-    "sha256": "6393f3d77f23c05980dccec370647bb3adff6654bac35d4118e9f102d7468075"
+    "bytes": 3585,
+    "sha256": "e7578d1025dd858d9ecd66112533808c6b46e7dfb3c41a537e029ccebf905a46"
   },
   {
     "path": "电路分析/10_题库/仿真作业6_题面整理.md",
@@ -16086,8 +16111,8 @@
   },
   {
     "path": "电路分析/10_题库/仿真作业入库说明.md",
-    "bytes": 4304,
-    "sha256": "c69e0d2f6cbcff82657976d343489303008eb31f336113e4e5b1cedb1d9a0a1e"
+    "bytes": 4636,
+    "sha256": "3082618d7d95e67e81cbab53bdf99d0bdd666d70fef150d7e06531b667495f98"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2015-2016模拟电路期末A_5-9章题面整理.md",
@@ -16111,8 +16136,8 @@
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电子电路基础期末_5-9章题面整理.md",
-    "bytes": 14199,
-    "sha256": "674b833516923a3df4988dae8dae1b52737ff1c384e940451b0059d040b9bead"
+    "bytes": 15093,
+    "sha256": "45beb78c46df053a68f7ffd907931c899e5d6cc53049626c1acc8662a07cb3a3"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019电路分析与模拟电路期末A_5-9章题面整理.md",
@@ -16126,8 +16151,8 @@
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2018-2019第二学期期末_5-9章题面整理.md",
-    "bytes": 17781,
-    "sha256": "620dad25b2d52d27eb0982faba13328f796c2d67cf21857b39644cc062e2714f"
+    "bytes": 18282,
+    "sha256": "b0faff7b5d8e6d114a7bfbfb8b5812bc78c763854b6c09f1efa2e3f9781b20dd"
   },
   {
     "path": "电路分析/10_题库/成惠团队期末卷_5-9章/2019-2020期末_5-9章题面整理.md",
@@ -17260,9 +17285,14 @@
     "sha256": "81d95ba21f9edbaee5770df9889f3682610c88e67703f0f66023a4b23df78249"
   },
   {
+    "path": "电路分析/10_题库/未决题目的条件分析.md",
+    "bytes": 3360,
+    "sha256": "d230ffd3e4988f1490d45e049f7a157e1740a53c49f276cc9db3f3bcdbd9731f"
+  },
+  {
     "path": "电路分析/10_题库/电子线路期末复习_复习要求与来源.md",
-    "bytes": 12562,
-    "sha256": "969f4ef65737069e0b54ab2f96207323f5248e078dbca13d6ed2866e4922d299"
+    "bytes": 12859,
+    "sha256": "15ba63de989507875ff7b68f014246e581f2a5b564f7d4af151ef27a456abfac"
   },
   {
     "path": "电路分析/10_题库/电子线路期末复习_电路图重绘说明.md",
@@ -17271,8 +17301,8 @@
   },
   {
     "path": "电路分析/10_题库/电子线路期末复习_题面整理.md",
-    "bytes": 43558,
-    "sha256": "7658a0263504d3bf1b72067d8631019a0ae058f52e9f30ba1abf42da9285fc04"
+    "bytes": 44838,
+    "sha256": "26bb6f2a2bc2f70f469791064293f78a96af063c480b1a7a2b932a4e1af6af12"
   },
   {
     "path": "电路分析/10_题库/第5章课后习题_覆盖核查.md",
@@ -17497,12 +17527,12 @@
   {
     "path": "电路分析/40_派生视图/考频矩阵.md",
     "bytes": 33968,
-    "sha256": "191fd9a02612549427041d0f6f9136b89a8cf485894eed1cfe9d943650027e38"
+    "sha256": "44ef0b6f67ed98b606443c605dd58300a0afd51fff58df5ce8363822c82ea0d0"
   },
   {
     "path": "电路分析/40_派生视图/解答完成索引.md",
-    "bytes": 7641,
-    "sha256": "a7b08a3d045059dc61b2cafe92170ceb4ac9b7368642aa81776dd2de67cd64e1"
+    "bytes": 6166,
+    "sha256": "51a5e76ed072ed66f89c8fa894ed8616822f84d873690233dbeae30dccab177b"
   },
   {
     "path": "电路分析/40_派生视图/逐章图像重绘/全科重绘进度与待确认.md",
@@ -17627,7 +17657,7 @@
   {
     "path": "电路分析/90_缓存/s2-frequency-analysis.json",
     "bytes": 268873,
-    "sha256": "086470cf0dd77a4d569e1d9b335584d3526b9cc39e193712accbb24a8e0f19de"
+    "sha256": "e9f82a075f4eb6526fcb82f0e86db5d2a20499a2e812ff8ab96d4e866dc3569f"
   },
   {
     "path": "电路分析/90_缓存/s8-solo-20260909/chapter06-visual-sources.json",
@@ -17651,8 +17681,8 @@
   },
   {
     "path": "电路分析/README.md",
-    "bytes": 1682,
-    "sha256": "2d8149a887c9296f98ae67b8e04e6f8f6b07bc95f156f54bbbdd2540fae21ce8"
+    "bytes": 1975,
+    "sha256": "a1626de3a5a94344cb09e8cc2d58647fd1e8b7f745675aba98c97ffb017bceee"
   },
   {
     "path": "结构化大学物理实验/00_原材料/结构化大学物理实验.pdf",
@@ -17661,8 +17691,8 @@
   },
   {
     "path": "结构化大学物理实验/10_题库/README.md",
-    "bytes": 2772,
-    "sha256": "bd2fc7fb7f4cffbf533263d44891c3e8d4927c66dfa74aac0cb9cb49e49aff60"
+    "bytes": 3008,
+    "sha256": "f9d1453f9d69191b16d6afb05ffd92b704e1075f1ecf66bb3a7b5e597fbb064f"
   },
   {
     "path": "结构化大学物理实验/10_题库/_标签库.md",
@@ -17691,8 +17721,8 @@
   },
   {
     "path": "结构化大学物理实验/10_题库/第02章_时间的测量_思考题_题面整理.md",
-    "bytes": 6933,
-    "sha256": "8e5537403bec76e7571fecacff482b3cdffd289fe650848dae34a1821de4e866"
+    "bytes": 24875,
+    "sha256": "3eaf71f28df078941db75443139f53f7f13c3fdce50894a587b9fe8891c1b8d8"
   },
   {
     "path": "结构化大学物理实验/10_题库/第03章_长度与角度的测量_思考题_题面整理.md",
@@ -17741,8 +17771,8 @@
   },
   {
     "path": "结构化大学物理实验/README.md",
-    "bytes": 1730,
-    "sha256": "65fdf4c836c85ca1ccb4df80d225c1c7f105c5aa2d47a4e1124d4776b7653047"
+    "bytes": 1957,
+    "sha256": "d5b15309ddad5a25ba89d2be1250173373b323fd35ff053486383f4c6f42d977"
   },
   {
     "path": "结构化大学物理实验/课程口径.md",
